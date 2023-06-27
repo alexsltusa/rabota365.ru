@@ -1,0 +1,100 @@
+# Translation of Plugins - Contact Form 7 Image Captcha - Development (trunk) in Dutch
+# This file is distributed under the same license as the Plugins - Contact Form 7 Image Captcha - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-28 16:09:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Contact Form 7 Image Captcha - Development (trunk)\n"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/ktc_88"
+msgstr "https://profiles.wordpress.org/ktc_88"
+
+#. Author of the plugin
+msgid "KC Computing"
+msgstr "KC Computing"
+
+#. Description of the plugin
+msgid "Add a simple image captcha and Honeypot to contact form 7"
+msgstr "Voeg eenvoudig een afbeelding captcha en \"honeypot\" toe in het contact 7 formulier"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/contact-form-7-image-captcha/"
+msgstr "https://wordpress.org/plugins/contact-form-7-image-captcha/"
+
+#. Plugin Name of the plugin
+msgid "Contact Form 7 Image Captcha"
+msgstr "Contact Form 7 Afbeelding captcha"
+
+#: cf7-image-captcha.php:180
+msgid "Insert Tag"
+msgstr "Voeg label toe"
+
+#: cf7-image-captcha.php:166
+msgid "Image Captcha"
+msgstr "Afbeelding captcha"
+
+#: cf7-image-captcha.php:147
+msgid "Please select an icon."
+msgstr "Selecteer een pictogram."
+
+#: cf7-image-captcha.php:142
+msgid "Please select the correct icon."
+msgstr "Selecteer het juiste pictogram."
+
+#: cf7-image-captcha.php:108
+msgid "."
+msgstr "."
+
+#: cf7-image-captcha.php:106
+msgid "Please prove you are human by selecting the "
+msgstr "Laat zien dat je geen robot bent door de volgende afbeelding te kiezen"
+
+#: cf7-image-captcha.php:83
+msgid "Plane"
+msgstr "Vliegtuig"
+
+#: cf7-image-captcha.php:82
+msgid "Tree"
+msgstr "Boom"
+
+#: cf7-image-captcha.php:81
+msgid "Truck"
+msgstr "Vrachtwagen"
+
+#: cf7-image-captcha.php:80
+msgid "Key"
+msgstr "Sleutel"
+
+#: cf7-image-captcha.php:79
+msgid "Flag"
+msgstr "Vlag"
+
+#: cf7-image-captcha.php:78
+msgid "Cup"
+msgstr "Kopje"
+
+#: cf7-image-captcha.php:77
+msgid "Car"
+msgstr "Auto"
+
+#: cf7-image-captcha.php:76
+msgid "Star"
+msgstr "Ster"
+
+#: cf7-image-captcha.php:75
+msgid "House"
+msgstr "Huis"
+
+#: cf7-image-captcha.php:74
+msgid "Heart"
+msgstr "Hart"
+
+#: cf7-image-captcha.php:25
+msgid "Go Pro"
+msgstr "Ga Pro"

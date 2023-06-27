@@ -1,0 +1,5899 @@
+# Translation of Plugins - Brizy &#8211; Page Builder - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - Brizy &#8211; Page Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-14 10:32:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Brizy &#8211; Page Builder - Stable (latest release)\n"
+
+#: public/editor-build/259-wp/texts.php:1304
+msgid "URL of sermon detail page. If used will add a link to the heading to take the user to the sermon detail page. Requires the \"Sermon Detail\" widget to be placed on a page and that page url/slug placed in this field."
+msgstr "URL сторінки з деталями проповіді. Якщо використовується, додасть посилання на заголовок, щоб перевести користувача на сторінку з деталями проповіді. Вимагає, щоб віджет \"Детальна інформація про проповідь\" був розміщений на сторінці, а url/частина посилання цієї сторінки були розміщені в цьому полі."
+
+#: public/editor-build/259-wp/texts.php:1302
+msgid "URL of group detail page. If used will add a link to the heading to take the user to the group detail page. Requires the \"Group Detail\" widget to be placed on a page and that page url/slug placed in this field."
+msgstr "URL сторінки з детальною інформацією про групу. Якщо використовується, додасть посилання на заголовок, щоб перевести користувача на сторінку з детальною інформацією про групу. Вимагає, щоб віджет \"Детальна інформація про групу\" був розміщений на сторінці, а url/частина посилання цієї сторінки були розміщені в цьому полі."
+
+#: public/editor-build/259-wp/texts.php:1301
+msgid "URL of event detail page. If used will add a link to the calendar titles to take the user to the event detail page. Requires the 'Event Detail' widget to be placed on a page and that page url/slug placed in this field."
+msgstr "URL сторінки з детальною інформацією про подію. Якщо використовується, додає посилання на заголовки календаря для переходу користувача на сторінку з детальною інформацією про події. Вимагає, щоб віджет \"Детальна інформація про подію\" був  розміщений на сторінці, а url/частина посилання цієї сторінки були розмішені в цьому полі."
+
+#: public/editor-build/259-wp/texts.php:1250
+msgid "This should be a comma separate list of category slugs without spaces eg. if you wanted to use the categories \"Category Example 1\" and \"Category Example 2\" the list would be \"category-example-1,category-example-2\". This option removes the parent filter options."
+msgstr "Це має бути розділений комами список частин посилань розділів без пробілів. Наприклад, якщо ви хочете використовувати розділи \"Приклад розділу 1\" та \"Приклад розділу 2\", то список буде виглядати так: \"розділ-приклад-1,розділ-приклад-2\". Ця опція видаляє параметри батьківського фільтра."
+
+#: public/editor-build/259-wp/texts.php:1233
+msgid "The list view default is the second position. If you change the order make sure the other view positions are updated to be unique."
+msgstr "За замовчуванням для перегляду списку використовується друга позиція. Якщо ви змінюєте порядок, переконайтеся, що інші позиції перегляду оновлені, щоб бути унікальними."
+
+#: public/editor-build/259-wp/texts.php:1231
+msgid "The featured view default is the first position. If you change the order make sure the other view positions are updated to be unique."
+msgstr "За замовчуванням для перегляду функцій використовується перша позиція. Якщо ви змінюєте порядок, переконайтеся, що інші позиції перегляду оновлені, щоб бути унікальними."
+
+#: public/editor-build/259-wp/texts.php:1228
+msgid "The calendar view default is the third position. If you change the order make sure the other view positions are updated to be unique."
+msgstr "За замовчуванням для перегляду календаря використовується третя позиція. Якщо ви змінюєте порядок, переконайтеся, що інші позиції перегляду оновлені, щоб бути унікальними."
+
+#: public/editor-build/259-wp/texts.php:1156
+msgid "Speaker Filter"
+msgstr "Фільтр лектора"
+
+#: public/editor-build/259-wp/texts.php:1076
+msgid "Sermon Layout"
+msgstr "Розмітка проповіді"
+
+#: public/editor-build/259-wp/texts.php:1072
+msgid "Series Filter"
+msgstr "Фільтр серій"
+
+#: public/editor-build/259-wp/texts.php:1071
+msgid "Series"
+msgstr "Серії"
+
+#: public/editor-build/259-wp/texts.php:1050
+msgid "Search Filter"
+msgstr "Фільтр пошуку"
+
+#: public/editor-build/259-wp/texts.php:984
+msgid "Resource link"
+msgstr "Посилання на джерело"
+
+#: public/editor-build/259-wp/texts.php:983
+msgid "Resource Link"
+msgstr "Посилання на джерело"
+
+#: public/editor-build/259-wp/texts.php:890
+msgid "Preacher"
+msgstr "Проповідник"
+
+#: public/editor-build/259-wp/texts.php:844
+msgid "Passage"
+msgstr "Уривок"
+
+#: public/editor-build/259-wp/texts.php:843
+msgid "Parent Category"
+msgstr "Батьківський розділ"
+
+#: public/editor-build/259-wp/texts.php:805
+msgid "Odd Bg"
+msgstr "Непарний фон"
+
+#: public/editor-build/259-wp/texts.php:803
+msgid "Number of months"
+msgstr "Кількість місяців"
+
+#: public/editor-build/259-wp/texts.php:754
+msgid "Months"
+msgstr "Місяці"
+
+#: public/editor-build/259-wp/texts.php:746
+msgid "Missing Auth Token in config"
+msgstr "Відсутній токен автентифікації в налаштуваннях"
+
+#: public/editor-build/259-wp/texts.php:722
+msgid "Meeting times"
+msgstr "Час зустрічей"
+
+#: public/editor-build/259-wp/texts.php:721
+msgid "Meeting day"
+msgstr "День зустрічі"
+
+#: public/editor-build/259-wp/texts.php:720
+msgid "Meeting Time"
+msgstr "Час зустрічі"
+
+#: public/editor-build/259-wp/texts.php:719
+msgid "Meeting Day"
+msgstr "День зустрічі"
+
+#: public/editor-build/259-wp/texts.php:717
+msgid "Media Links"
+msgstr "Посилання на медіа"
+
+#: public/editor-build/259-wp/texts.php:716
+msgid "Media Corner"
+msgstr "Куточок медіа"
+
+#: public/editor-build/259-wp/texts.php:682
+msgid "List View"
+msgstr "Перегляд списку"
+
+#: public/editor-build/259-wp/texts.php:598
+msgid "Images"
+msgstr "Зображення"
+
+#: public/editor-build/259-wp/texts.php:590
+msgid "If this is selected the Features option does not apply."
+msgstr "Якщо вибраний це параметр, опція \"Функції\" не застосовується."
+
+#: public/editor-build/259-wp/texts.php:586
+msgid "If this is selected and you would like the image to be a fallback when no video is available make sure to select \"Images\"."
+msgstr "Якщо ви вибрали цю опцію і хочете, щоб зображення було запасним варіантом, коли відео недоступне, переконайтеся, що ви вибрали \"Зображення\"."
+
+#: public/editor-build/259-wp/texts.php:554
+msgid "Heading"
+msgstr "Заголовок"
+
+#: public/editor-build/259-wp/texts.php:539
+msgid "Group Slider"
+msgstr "Слайдер групи"
+
+#: public/editor-build/259-wp/texts.php:537
+msgid "Group Layout"
+msgstr "Розмітка групи"
+
+#: public/editor-build/259-wp/texts.php:536
+msgid "Group Filter"
+msgstr "Фільтр групи"
+
+#: public/editor-build/259-wp/texts.php:462
+msgid "Featured View"
+msgstr "Вибраний перегляд"
+
+#: public/editor-build/259-wp/texts.php:430
+msgid "Event Layout"
+msgstr "Розмітка події"
+
+#: public/editor-build/259-wp/texts.php:427
+msgid "Event Calendar"
+msgstr "Календар події"
+
+#: public/editor-build/259-wp/texts.php:426
+msgid "Even Bg"
+msgstr "Непарний фон"
+
+#: public/editor-build/259-wp/texts.php:360
+msgid "Detail Button"
+msgstr "Кнопка \"Детальніше\""
+
+#: public/editor-build/259-wp/texts.php:352
+msgid "Defines which level 2 category for this specific filter. If selected will show the next level of categories as select options. If a Parent Category is selected above make sure to select a child category of that parent."
+msgstr "Визначає категорію 2-го рівня для цього конкретного фільтра. Якщо вибрано, буде показано наступний рівень категорій як опції вибору. Якщо вище вибрана батьківська категорія, переконайтеся, що ви вибрали дочірню категорію цього батька."
+
+#: public/editor-build/259-wp/texts.php:262
+msgid "Childcare"
+msgstr "Догляд за дітьми"
+
+#: public/editor-build/259-wp/texts.php:253
+msgid "Category Filter"
+msgstr "Фільтр категорії"
+
+#: public/editor-build/259-wp/texts.php:236
+msgid "Calendar View"
+msgstr "Перегляд календаря"
+
+#: public/editor-build/259-wp/texts.php:225
+msgid "Button will display if text is entered and a detail page selected."
+msgstr "Кнопка відображатиме, чи введений текст та чи обрана сторінка з детальною інформацією."
+
+#: public/editor-build/259-wp/texts.php:224
+msgid "Button text..."
+msgstr "Текст кнопки..."
+
+#: public/editor-build/259-wp/texts.php:222
+msgid "Button name..."
+msgstr "Назва кнопки..."
+
+#: public/editor-build/259-wp/texts.php:220
+msgid "Button Text..."
+msgstr "Текст кнопки..."
+
+#: public/editor-build/259-wp/texts.php:219
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: public/editor-build/259-wp/texts.php:129
+msgid "Arrow"
+msgstr "Стрілка"
+
+#: public/editor-build/259-wp/texts.php:94
+msgid "Additional category filters require this selection. Defines which level 2 category for this specific filter. If selected will show the next level of categories as select options. If a Parent Category is selected above make sure to select a child category of that parent."
+msgstr "Додаткові фільтри категорій вимагають цього вибору. Визначає категорію 2-го рівня для цього конкретного фільтра. Якщо вибрано, буде показано наступний рівень категорій як опції вибору. Якщо вище вибрана батьківська категорія, переконайтеся, що ви вибрали дочірню категорію цього батька."
+
+#: public/editor-build/259-wp/texts.php:73
+msgid "Add Category Filter"
+msgstr "Додати фільтр категорій"
+
+#: brizy.php:71
+msgid "%1$s requires PHP version 5.6+, your currently running PHP %2$s. <b>%3$s IS NOT RUNNING.</b>"
+msgstr "%1$s вимагає версії PHP 5.6 і вище, наразі ви запустили версію PHP %2$s. <b>%3$s НЕ ВИКОНУЄТЬСЯ.</b>"
+
+#: admin/views/settings/general.php:13
+msgid "Activate %s for:"
+msgstr "Активуйте %s для:"
+
+#: admin/membership/membership.php:68
+msgid "Not Logged In"
+msgstr "Не в системі"
+
+#: public/editor-build/259-wp/texts.php:351
+msgid "Defines which level 1 category to use as a base for the layout."
+msgstr "Визначає, яку категорію 1-го рівня використовувати як базову для розмітки. "
+
+#: public/editor-build/259-wp/texts.php:116
+msgid "Amount"
+msgstr "Сума"
+
+#: public/editor-build/259-wp/texts.php:197
+msgid "Bottom Center"
+msgstr "Знизу по центру"
+
+#: public/editor-build/259-wp/texts.php:198
+msgid "Bottom Left"
+msgstr "Внизу ліворуч"
+
+#: public/editor-build/259-wp/texts.php:199
+msgid "Bottom Right"
+msgstr "Внизу праворуч"
+
+#: public/editor-build/259-wp/texts.php:256
+msgid "Center Center"
+msgstr "По центру в центрі"
+
+#: public/editor-build/259-wp/texts.php:257
+msgid "Center Left"
+msgstr "Центр ліворуч"
+
+#: public/editor-build/259-wp/texts.php:258
+msgid "Center Right"
+msgstr "Посередині справа"
+
+#: public/editor-build/259-wp/texts.php:485
+msgid "Fit"
+msgstr "Поміститися"
+
+#: public/editor-build/259-wp/texts.php:663
+msgid "Lazy Load"
+msgstr "Ліниве завантаження"
+
+#: public/editor-build/259-wp/texts.php:901
+msgid "Privacy Mode"
+msgstr "Приватний режим"
+
+#: public/editor-build/259-wp/texts.php:975
+msgid "Repeat-X"
+msgstr "Повторювати-X"
+
+#: public/editor-build/259-wp/texts.php:976
+msgid "Repeat-Y"
+msgstr "Повторювати-Y"
+
+#: public/editor-build/259-wp/texts.php:1152
+msgid "Space"
+msgstr "Пропуск"
+
+#: public/editor-build/259-wp/texts.php:1198
+msgid "Suggested Videos"
+msgstr "Пропоновані відео"
+
+#: public/editor-build/259-wp/texts.php:1269
+msgid "Top Center"
+msgstr "Зверху по центру"
+
+#: public/editor-build/259-wp/texts.php:1270
+msgid "Top Left"
+msgstr "Вгорі ліворуч"
+
+#: public/editor-build/259-wp/texts.php:1271
+msgid "Top Right"
+msgstr "Вгорі праворуч"
+
+#: public/editor-build/259-wp/texts.php:1329
+msgid "Upload only [ .png or .svg ]"
+msgstr "Завантажити лише [ .png or .svg ]"
+
+#: public/editor-build/259-wp/texts.php:102
+msgid "Alert"
+msgstr "Увага"
+
+#: public/editor-build/259-wp/texts.php:237
+msgid "Calendly"
+msgstr "Calendly"
+
+#: public/editor-build/259-wp/texts.php:371
+msgid "Display Description"
+msgstr "Відобразити опис"
+
+#: public/editor-build/259-wp/texts.php:710
+msgid "Masonry Arrangement"
+msgstr "Розташування плиткою"
+
+#: admin/rules/api.php:503
+msgid "All Authors"
+msgstr "Усі Автори"
+
+#: public/editor-build/259-wp/texts.php:78
+msgid "Add More"
+msgstr "Додати Більше"
+
+#: public/editor-build/259-wp/texts.php:84
+msgid "Add To Bag"
+msgstr "Покласти до сумки"
+
+#: public/editor-build/259-wp/texts.php:91
+msgid "Add only one item of this type on the page"
+msgstr "Додати лише один елемент цього типу на сторінку"
+
+#: public/editor-build/259-wp/texts.php:95
+msgid "Additional image on hover"
+msgstr "Додаткове зображення при наведенні"
+
+#: public/editor-build/259-wp/texts.php:98
+msgid "Address line"
+msgstr "Рядок Адреси"
+
+#: public/editor-build/259-wp/texts.php:100
+msgid "Advanced Contact Form by POWR"
+msgstr "Розширена контактна форма від POWR"
+
+#: public/editor-build/259-wp/texts.php:101
+msgid "Agree Terms & Conditions"
+msgstr "Погодитися з термінами та умовами"
+
+#: public/editor-build/259-wp/texts.php:104
+msgid "Align Text"
+msgstr "Вирівняти текст"
+
+#: public/editor-build/259-wp/texts.php:115
+msgid "Alternate Mobile"
+msgstr "Альтернативний мобільний"
+
+#: public/editor-build/259-wp/texts.php:123
+msgid "Appointment Booking"
+msgstr "Запис на прийом"
+
+#: public/editor-build/259-wp/texts.php:124
+msgid "Appointment Booking by Tipo"
+msgstr "Запис на прийом через Tipo"
+
+#: public/editor-build/259-wp/texts.php:130
+msgid "Arrow Position"
+msgstr "Позиція стрілочки"
+
+#: public/editor-build/259-wp/texts.php:138
+msgid "Assets List"
+msgstr "Список активів"
+
+#: public/editor-build/259-wp/texts.php:145
+msgid "Auto Slide"
+msgstr "Автоматичне ковзання"
+
+#: public/editor-build/259-wp/texts.php:152
+msgid "Back In Stock"
+msgstr "Знову в наявності"
+
+#: public/editor-build/259-wp/texts.php:153
+msgid "Back in Stock"
+msgstr "Знову в наявності"
+
+#: public/editor-build/259-wp/texts.php:158
+msgid "Badge"
+msgstr "Бейдж"
+
+#: public/editor-build/259-wp/texts.php:159
+msgid "Badge - Trusted"
+msgstr "Бейдж - Довіряють"
+
+#: public/editor-build/259-wp/texts.php:160
+msgid "Badge Inner"
+msgstr "Внутрішній відступ бейджа"
+
+#: public/editor-build/259-wp/texts.php:161
+msgid "Badge Outter"
+msgstr "Зовнішній відступ бейджа"
+
+#: public/editor-build/259-wp/texts.php:162
+msgid "Badge Position"
+msgstr "Позиція бейджа"
+
+#: public/editor-build/259-wp/texts.php:163
+msgid "Badge Size"
+msgstr "Розмір бейджа"
+
+#: public/editor-build/259-wp/texts.php:164
+msgid "Badge Type"
+msgstr "Тип бейджа"
+
+#: public/editor-build/259-wp/texts.php:165
+msgid "Badge will work only if inserted in Product Details component"
+msgstr "Бейдж працюватиме, лише якщо він буде вставлений у компонент \"Деталі товару\""
+
+#: public/editor-build/259-wp/texts.php:166
+msgid "Badges"
+msgstr "Бейджи"
+
+#: public/editor-build/259-wp/texts.php:167
+msgid "Badges by Hextom"
+msgstr "Бейджі від Hextom"
+
+#: public/editor-build/259-wp/texts.php:168
+msgid "Badges by Stamped"
+msgstr "Бейджі від Stamped"
+
+#: public/editor-build/259-wp/texts.php:169
+msgid "Badges by Trusted"
+msgstr "Бейджі від Trusted"
+
+#: public/editor-build/259-wp/texts.php:171
+msgid "Based on Reviews"
+msgstr "На основі відгуків"
+
+#: public/editor-build/259-wp/texts.php:211
+msgid "Bundles - by Bold"
+msgstr "Bundles - від Bold"
+
+#: public/editor-build/259-wp/texts.php:212
+msgid "Bundles App"
+msgstr "Bundles App"
+
+#: public/editor-build/259-wp/texts.php:213
+msgid "Bundles by Bold"
+msgstr "Bundles від Bold"
+
+#: public/editor-build/259-wp/texts.php:217
+msgid "Button Name"
+msgstr "Назва кнопки"
+
+#: public/editor-build/259-wp/texts.php:221
+msgid "Button Type"
+msgstr "Тип кнопки"
+
+#: public/editor-build/259-wp/texts.php:223
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: public/editor-build/259-wp/texts.php:228
+msgid "Buy now"
+msgstr "Придбати зараз"
+
+#: public/editor-build/259-wp/texts.php:240
+msgid "Card frame"
+msgstr "Рамка картки"
+
+#: public/editor-build/259-wp/texts.php:242
+msgid "Carousel Image"
+msgstr "Зображення каруселі"
+
+#: public/editor-build/259-wp/texts.php:244
+msgid "Cart & Checkout"
+msgstr "Кошик та оплата"
+
+#: public/editor-build/259-wp/texts.php:246
+msgid "Cart Quantity"
+msgstr "Кількість у кошику"
+
+#: public/editor-build/259-wp/texts.php:272
+msgid "Code"
+msgstr "Код"
+
+#: public/editor-build/259-wp/texts.php:274
+msgid "Collapse"
+msgstr "Згорнути"
+
+#: public/editor-build/259-wp/texts.php:277
+msgid "Collection Rating will work only if inserted in Product Details component"
+msgstr "Оцінка колекції працюватиме, лише якщо її вставити в компонент \"Відомості про товар\""
+
+#: public/editor-build/259-wp/texts.php:336
+msgid "Custom Product"
+msgstr "Користувацький товар"
+
+#: public/editor-build/259-wp/texts.php:339
+msgid "Cut description"
+msgstr "Скоротити опис"
+
+#: public/editor-build/259-wp/texts.php:343
+msgid "Darken image background"
+msgstr "Зробити фонове зображення темнішим"
+
+#: public/editor-build/259-wp/texts.php:359
+msgid "Desktop Grid Style"
+msgstr "Стиль сітки комп'ютера"
+
+#: public/editor-build/259-wp/texts.php:372
+msgid "Display Mode"
+msgstr "Режим відображення"
+
+#: public/editor-build/259-wp/texts.php:402
+msgid "Email Marketing"
+msgstr "Email-маркетинг"
+
+#: public/editor-build/259-wp/texts.php:403
+msgid "Email Marketing by Klaviyo"
+msgstr "Email-маркетинг через Klaviyo"
+
+#: public/editor-build/259-wp/texts.php:404
+msgid "Email Marketing by Klavyio"
+msgstr "Email-маркетинг через Klavyio"
+
+#: public/editor-build/259-wp/texts.php:409
+msgid "Embed Code"
+msgstr "Вбудувати код"
+
+#: public/editor-build/259-wp/texts.php:411
+msgid "Embeded Code"
+msgstr "Вбудований код"
+
+#: public/editor-build/259-wp/texts.php:412
+msgid "Enable Background Color"
+msgstr "Увімкнути колір фону"
+
+#: public/editor-build/259-wp/texts.php:421
+msgid "Enter text here..."
+msgstr "Введіть текст тут..."
+
+#: public/editor-build/259-wp/texts.php:442
+msgid "Extra Large"
+msgstr "Дуже великий"
+
+#: public/editor-build/259-wp/texts.php:444
+msgid "Extra Small"
+msgstr "Дуже малий"
+
+#: public/editor-build/259-wp/texts.php:459
+msgid "Favorites Buttons"
+msgstr "Кнопки улюблених"
+
+#: public/editor-build/259-wp/texts.php:464
+msgid "Feed Tags"
+msgstr "Позначки стрічки"
+
+#: public/editor-build/259-wp/texts.php:465
+msgid "Feed Type"
+msgstr "Тип стрічки"
+
+#: public/editor-build/259-wp/texts.php:471
+msgid "Files"
+msgstr "Файли"
+
+#: public/editor-build/259-wp/texts.php:473
+msgid "Fill Empty"
+msgstr "Заповнити порожні"
+
+#: public/editor-build/259-wp/texts.php:477
+msgid "Filter by multiple product IDs"
+msgstr "Фільтрувати за кількома ID товару"
+
+#: public/editor-build/259-wp/texts.php:478
+msgid "Filter by multiple review IDs"
+msgstr "Фальтрувати за кількома ID відгуку"
+
+#: public/editor-build/259-wp/texts.php:479
+msgid "Filter by product category"
+msgstr "Фільтрувати за категорією товару"
+
+#: public/editor-build/259-wp/texts.php:480
+msgid "Filter by product vendor"
+msgstr "Фільтрувати за виробником товару"
+
+#: public/editor-build/259-wp/texts.php:481
+msgid "Filter by reviews tags"
+msgstr "Фільтрувати за позначками відгуків"
+
+#: public/editor-build/259-wp/texts.php:483
+msgid "Find your AppKey in www.yotpo.com -> Settings -> General Settings"
+msgstr "Свій AppKey знайдете на www.yotpo.com -> Налаштування -> Загальні налаштування"
+
+#: public/editor-build/259-wp/texts.php:495
+msgid "Font Size"
+msgstr "Розмір шрифта"
+
+#: public/editor-build/259-wp/texts.php:508
+msgid "Frequently Bought"
+msgstr "Часто купують"
+
+#: public/editor-build/259-wp/texts.php:523
+msgid "Gap Size"
+msgstr "Розмір відступу"
+
+#: public/editor-build/259-wp/texts.php:531
+msgid "Go to Checkout"
+msgstr "Перейти до оплати"
+
+#: public/editor-build/259-wp/texts.php:553
+msgid "Header Customisation"
+msgstr "Налаштування заголовка"
+
+#: public/editor-build/259-wp/texts.php:555
+msgid "Heading Text"
+msgstr "Текст заголовка"
+
+#: public/editor-build/259-wp/texts.php:562
+msgid "Hide Aftership Icon"
+msgstr "Приховати іконку Aftership"
+
+#: public/editor-build/259-wp/texts.php:565
+msgid "Hide Load More Arrow"
+msgstr "Приховати стрілочку \"Завантажити більше\""
+
+#: public/editor-build/259-wp/texts.php:577
+msgid "Hover Zoom"
+msgstr "Збільшення при наведенні"
+
+#: public/editor-build/259-wp/texts.php:579
+msgid "I agree with Terms & Conditions"
+msgstr "Я погоджуюся зі строками та умовами"
+
+#: public/editor-build/259-wp/texts.php:585
+msgid "If filtered results is empty, fill widget with other reviews"
+msgstr "Якщо відфільтровані результати порожні, вставити у віджет інші відгуки"
+
+#: public/editor-build/259-wp/texts.php:596
+msgid "Image Link Text"
+msgstr "Текст посилання на зображення"
+
+#: public/editor-build/259-wp/texts.php:610
+msgid "Include Q & A"
+msgstr "Включити запитання та відповіді"
+
+#: public/editor-build/259-wp/texts.php:615
+msgid "Infinite Animation"
+msgstr "Нескінченна анімація"
+
+#: public/editor-build/259-wp/texts.php:616
+msgid "Infinite Options"
+msgstr "Нескінченні параметри"
+
+#: public/editor-build/259-wp/texts.php:617
+msgid "Infinite Options by ShopPad"
+msgstr "Нескінченні параметри від ShopPad"
+
+#: public/editor-build/259-wp/texts.php:619
+msgid "Information"
+msgstr "Інформація"
+
+#: public/editor-build/259-wp/texts.php:624
+msgid "Insert AppKey"
+msgstr "Вставити AppKey"
+
+#: public/editor-build/259-wp/texts.php:625
+msgid "Insert IDs..."
+msgstr "Вставити ID..."
+
+#: public/editor-build/259-wp/texts.php:626
+msgid "Insert Text..."
+msgstr "Вставити текст..."
+
+#: public/editor-build/259-wp/texts.php:627
+msgid "Insert Title..."
+msgstr "Вставити заголовок..."
+
+#: public/editor-build/259-wp/texts.php:628
+msgid "Insert Type..."
+msgstr "Вставити тип..."
+
+#: public/editor-build/259-wp/texts.php:629
+msgid "Insert Types..."
+msgstr "Вставити типи..."
+
+#: public/editor-build/259-wp/texts.php:630
+msgid "Insert Vendor..."
+msgstr "Вставити виробника..."
+
+#: public/editor-build/259-wp/texts.php:631
+msgid "Insert only one of each type of upsell on your page!"
+msgstr "Вставте на свою сторінку лише один із кожного типу додаткових продажів!"
+
+#: public/editor-build/259-wp/texts.php:634
+msgid "Interval"
+msgstr "Інтервал"
+
+#: public/editor-build/259-wp/texts.php:647
+msgid "Kiwi Size Chart"
+msgstr "Розмірна сітка Kiwi"
+
+#: public/editor-build/259-wp/texts.php:648
+msgid "Kiwi Size Chart & Recommender"
+msgstr "Розмірна сітка та рекомендації Kiwi"
+
+#: public/editor-build/259-wp/texts.php:651
+msgid "Label Subtitle"
+msgstr "Підзаголовок мітки"
+
+#: public/editor-build/259-wp/texts.php:652
+msgid "Landing Page Link"
+msgstr "Посилання на цільову сторінку"
+
+#: public/editor-build/259-wp/texts.php:655
+msgid "Large"
+msgstr "Великий"
+
+#: public/editor-build/259-wp/texts.php:656
+msgid "Large Centered"
+msgstr "Великий по центру"
+
+#: public/editor-build/259-wp/texts.php:671
+msgid "Limit Words"
+msgstr "Обмежити кількість слів"
+
+#: public/editor-build/259-wp/texts.php:672
+msgid "Limit the max number of words for review body"
+msgstr "Обмежити максимальну кількість слів для тіла відгуку"
+
+#: public/editor-build/259-wp/texts.php:677
+msgid "Link Text"
+msgstr "Текст посилання"
+
+#: public/editor-build/259-wp/texts.php:678
+msgid "Link To Page"
+msgstr "Посилання на сторінку"
+
+#: public/editor-build/259-wp/texts.php:684
+msgid "Load More On Scroll"
+msgstr "Завантажити більше під час прокрутки"
+
+#: public/editor-build/259-wp/texts.php:689
+msgid "Lookup Options"
+msgstr "Параметри пошуку"
+
+#: public/editor-build/259-wp/texts.php:697
+msgid "Main product image"
+msgstr "Головне зображення товару"
+
+#: public/editor-build/259-wp/texts.php:705
+msgid "Marketing"
+msgstr "Маркетинг"
+
+#: public/editor-build/259-wp/texts.php:706
+msgid "Marketing by Marsello"
+msgstr "Маркетинг через Marsello"
+
+#: public/editor-build/259-wp/texts.php:707
+msgid "Marketing by Omnisend"
+msgstr "Маркетинг через Omnisend"
+
+#: public/editor-build/259-wp/texts.php:708
+msgid "Marketing by Social SnowBall"
+msgstr "Маркетинг через Social SnowBall"
+
+#: public/editor-build/259-wp/texts.php:744
+msgid "Minimum Rating"
+msgstr "Мінімальна оцінка"
+
+#: public/editor-build/259-wp/texts.php:751
+msgid "Mobile Grid Style"
+msgstr "Стиль сітки мобільного"
+
+#: public/editor-build/259-wp/texts.php:770
+msgid "Name - First on Mobile"
+msgstr "Ім'я - перше на мобільних"
+
+#: public/editor-build/259-wp/texts.php:780
+msgid "No product selected"
+msgstr "Немає вибраних товарів"
+
+#: public/editor-build/259-wp/texts.php:794
+msgid "Notification"
+msgstr "Сповіщення"
+
+#: public/editor-build/259-wp/texts.php:795
+msgid "Notifications"
+msgstr "Сповіщення"
+
+#: public/editor-build/259-wp/texts.php:796
+msgid "Notifications by OnVoard"
+msgstr "Сповіщення від OnVoard"
+
+#: public/editor-build/259-wp/texts.php:797
+msgid "Notifications by PushOwl"
+msgstr "Сповіщення від PushOwl"
+
+#: public/editor-build/259-wp/texts.php:798
+msgid "Notifications by ReferralCandy"
+msgstr "Сповіщення від ReferralCandy"
+
+#: public/editor-build/259-wp/texts.php:801
+msgid "Number of Reviews"
+msgstr "Кількість відгуків"
+
+#: public/editor-build/259-wp/texts.php:802
+msgid "Number of items in stock"
+msgstr "Кількість в наявності"
+
+#: public/editor-build/259-wp/texts.php:814
+msgid "Options"
+msgstr "Параметри"
+
+#: public/editor-build/259-wp/texts.php:815
+msgid "Options by Hulk"
+msgstr "Параметри від Hulk"
+
+#: public/editor-build/259-wp/texts.php:819
+msgid "Order Tracking by Automizely"
+msgstr "Відстеження замовлення від Automizely"
+
+#: public/editor-build/259-wp/texts.php:830
+msgid "POWR Form Embed code"
+msgstr "Код вставки POWR Form"
+
+#: public/editor-build/259-wp/texts.php:841
+msgid "Parcel Panel Order Tracking"
+msgstr "Панель відстеження замовлень посилок"
+
+#: public/editor-build/259-wp/texts.php:855
+msgid "Personalizer by Zepto"
+msgstr "Персоналізатор від Zepto"
+
+#: public/editor-build/259-wp/texts.php:857
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: public/editor-build/259-wp/texts.php:880
+msgid "Post Subscription Text"
+msgstr "Розмістити текст підписки"
+
+#: public/editor-build/259-wp/texts.php:884
+msgid "Post-display Button"
+msgstr "Кнопка \"Після відображення\""
+
+#: public/editor-build/259-wp/texts.php:889
+msgid "PreProduct"
+msgstr "PreProduct"
+
+#: public/editor-build/259-wp/texts.php:897
+msgid "Preview additional Images"
+msgstr "Попередньо переглянути додаткові зображення"
+
+#: public/editor-build/259-wp/texts.php:912
+msgid "Product IDs"
+msgstr "ID товару"
+
+#: public/editor-build/259-wp/texts.php:915
+msgid "Product Options"
+msgstr "Параметри товару"
+
+#: public/editor-build/259-wp/texts.php:916
+msgid "Product Options by Bold"
+msgstr "Параметри товару від Bold"
+
+#: public/editor-build/259-wp/texts.php:917
+msgid "Product Options by Hulk"
+msgstr "Параметри товару від Hulk"
+
+#: public/editor-build/259-wp/texts.php:922
+msgid "Product Source"
+msgstr "Джерело товару"
+
+#: public/editor-build/259-wp/texts.php:926
+msgid "Product Type"
+msgstr "Тип товару"
+
+#: public/editor-build/259-wp/texts.php:927
+msgid "Product Vendor"
+msgstr "Постачальник товару"
+
+#: public/editor-build/259-wp/texts.php:947
+msgid "Randomize the reviews results"
+msgstr "Розташувати результати відгуків у довільному порядку"
+
+#: public/editor-build/259-wp/texts.php:961
+msgid "Referral"
+msgstr "Направлення"
+
+#: public/editor-build/259-wp/texts.php:989
+msgid "Review IDs"
+msgstr "ID відгуку"
+
+#: public/editor-build/259-wp/texts.php:990
+msgid "Review Logic"
+msgstr "Логіка  відгуку"
+
+#: public/editor-build/259-wp/texts.php:991
+msgid "Review Type"
+msgstr "Тип відгуку"
+
+#: public/editor-build/259-wp/texts.php:992
+msgid "Review by AliExpress"
+msgstr "Відгук від AliExpress"
+
+#: public/editor-build/259-wp/texts.php:993
+msgid "Review by Growave"
+msgstr "Відгук від Growave"
+
+#: public/editor-build/259-wp/texts.php:994
+msgid "Review by Judge"
+msgstr "Відгук від Judge"
+
+#: public/editor-build/259-wp/texts.php:995
+msgid "Review by Loox"
+msgstr "Відгук від Loox"
+
+#: public/editor-build/259-wp/texts.php:996
+msgid "Review by Okendo"
+msgstr "Відгук від Okendo"
+
+#: public/editor-build/259-wp/texts.php:997
+msgid "Review by Opinew"
+msgstr "Відгук від Opinew"
+
+#: public/editor-build/259-wp/texts.php:998
+msgid "Review by Rivyo"
+msgstr "Відгук від Rivyo"
+
+#: public/editor-build/259-wp/texts.php:999
+msgid "Review by Vitals"
+msgstr "Відгук від Vitals"
+
+#: public/editor-build/259-wp/texts.php:1001
+msgid "Reviews Limit"
+msgstr "Обмеження відгуків"
+
+#: public/editor-build/259-wp/texts.php:1002
+msgid "Reviews Type"
+msgstr "Тип відгуків"
+
+#: public/editor-build/259-wp/texts.php:1003
+msgid "Reviews by Ali"
+msgstr "Відгуки від Ali"
+
+#: public/editor-build/259-wp/texts.php:1004
+msgid "Reviews by Areview"
+msgstr "Відгуки від Areview"
+
+#: public/editor-build/259-wp/texts.php:1005
+msgid "Reviews by Fera"
+msgstr "Відгуки від Fera"
+
+#: public/editor-build/259-wp/texts.php:1006
+msgid "Reviews by Growave"
+msgstr "Відгуки від Growave"
+
+#: public/editor-build/259-wp/texts.php:1007
+msgid "Reviews by Lai"
+msgstr "Відгуки від Lai"
+
+#: public/editor-build/259-wp/texts.php:1008
+msgid "Reviews by Stamped"
+msgstr "Відгуки від Stamped"
+
+#: public/editor-build/259-wp/texts.php:1009
+msgid "Reviews by Vitals"
+msgstr "Відгуки від Vitals"
+
+#: public/editor-build/259-wp/texts.php:1010
+msgid "Reviews with Photo"
+msgstr "Відгуки з фотографіями"
+
+#: public/editor-build/259-wp/texts.php:1011
+msgid "Ribbon"
+msgstr "Стрічка"
+
+#: public/editor-build/259-wp/texts.php:1027
+msgid "SMS Marketing"
+msgstr "СМС-маркетинг"
+
+#: public/editor-build/259-wp/texts.php:1028
+msgid "SMS Marketing by Yotpo"
+msgstr "СМС-маркетинг від Yotpo"
+
+#: public/editor-build/259-wp/texts.php:1029
+msgid "SMSBump's embed code"
+msgstr "Код вставки SMSBump"
+
+#: public/editor-build/259-wp/texts.php:1047
+msgid "Seal Type"
+msgstr "Тип печатки"
+
+#: public/editor-build/259-wp/texts.php:1048
+msgid "Seals"
+msgstr "Печатки"
+
+#: public/editor-build/259-wp/texts.php:1057
+msgid "Select Product"
+msgstr "Вибрати товар"
+
+#: public/editor-build/259-wp/texts.php:1058
+msgid "Select Seal"
+msgstr "Вибрати печатку"
+
+#: public/editor-build/259-wp/texts.php:1068
+msgid "Select..."
+msgstr "Вибрати..."
+
+#: public/editor-build/259-wp/texts.php:1084
+msgid "Share Buttons"
+msgstr "Кнопки Поділитися"
+
+#: public/editor-build/259-wp/texts.php:1090
+msgid "Short Code"
+msgstr "Короткий код"
+
+#: public/editor-build/259-wp/texts.php:1094
+msgid "Show"
+msgstr "Показати"
+
+#: public/editor-build/259-wp/texts.php:1099
+msgid "Show Heading"
+msgstr "Показати заголовок"
+
+#: public/editor-build/259-wp/texts.php:1104
+msgid "Show Navigation"
+msgstr "Показати навігацію"
+
+#: public/editor-build/259-wp/texts.php:1106
+msgid "Show Product Image"
+msgstr "Показати зображення товару"
+
+#: public/editor-build/259-wp/texts.php:1107
+msgid "Show QTY"
+msgstr "Показати кількість"
+
+#: public/editor-build/259-wp/texts.php:1110
+msgid "Show Total Reviews"
+msgstr "Показати загальну кількість відгуків"
+
+#: public/editor-build/259-wp/texts.php:1111
+msgid "Show Total Reviews Count And Average Ratings"
+msgstr "Показати загальну кількість відгуків та середню оцінку"
+
+#: public/editor-build/259-wp/texts.php:1114
+msgid "Show only reviews above the selected minimum rating"
+msgstr "Показувати лише відгуки з оцінками вище зазначеного мінімуму"
+
+#: public/editor-build/259-wp/texts.php:1116
+msgid "Showcase"
+msgstr "Демонстрація"
+
+#: public/editor-build/259-wp/texts.php:1133
+msgid "Slide Size"
+msgstr "Розмір слайда"
+
+#: public/editor-build/259-wp/texts.php:1141
+msgid "Small"
+msgstr "Маленький"
+
+#: public/editor-build/259-wp/texts.php:1142
+msgid "Snowball"
+msgstr "Snowball"
+
+#: public/editor-build/259-wp/texts.php:1146
+msgid "Sorting Options"
+msgstr "Параметри сортування"
+
+#: public/editor-build/259-wp/texts.php:1157
+msgid "Special Offers"
+msgstr "Спеціальні пропозиції"
+
+#: public/editor-build/259-wp/texts.php:1158
+msgid "Specific Category"
+msgstr "Конкретна категорія"
+
+#: public/editor-build/259-wp/texts.php:1166
+msgid "Stamped Reviews"
+msgstr "Відгуки зі штампом"
+
+#: public/editor-build/259-wp/texts.php:1167
+msgid "Star"
+msgstr "Зірка"
+
+#: public/editor-build/259-wp/texts.php:1177
+msgid "Stock Availability labels"
+msgstr "Мітки доступності на складі"
+
+#: public/editor-build/259-wp/texts.php:1188
+msgid "Subscribtion by Paywhirl"
+msgstr "Підписка через Paywhirl"
+
+#: public/editor-build/259-wp/texts.php:1189
+msgid "Subscription by Appstle"
+msgstr "Підписка через Appstle"
+
+#: public/editor-build/259-wp/texts.php:1190
+msgid "Subscription by Bold"
+msgstr "Підписка від Bold"
+
+#: public/editor-build/259-wp/texts.php:1191
+msgid "Subscription by Paywhirl"
+msgstr "Підписка через Paywhirl"
+
+#: public/editor-build/259-wp/texts.php:1192
+msgid "Subscription by Seal"
+msgstr "Підписка від Seal"
+
+#: public/editor-build/259-wp/texts.php:1193
+msgid "Subscriptions by Recharge"
+msgstr "Підписка від Recharge"
+
+#: public/editor-build/259-wp/texts.php:1194
+msgid "Subtitle"
+msgstr "Підзаголовок"
+
+#: public/editor-build/259-wp/texts.php:1199
+msgid "Surcharge"
+msgstr "Доплата"
+
+#: public/editor-build/259-wp/texts.php:1224
+msgid "Text Field"
+msgstr "Текстове поле"
+
+#: public/editor-build/259-wp/texts.php:1226
+msgid "The button's state after visitors have subscribed"
+msgstr "Стан кнопки після того, як відвідувачі підписалися"
+
+#: public/editor-build/259-wp/texts.php:1227
+msgid "The button's state before visitors have subscribed"
+msgstr "Стан кнопки до того, як відвідувачі підписалися"
+
+#: public/editor-build/259-wp/texts.php:1237
+msgid "This element should stay inside a Product Details Component"
+msgstr "Цей елемент має залишатися всередині компонента \"Відомості про товар\""
+
+#: public/editor-build/259-wp/texts.php:1252
+msgid "Thumbnail"
+msgstr "Мініатюра"
+
+#: public/editor-build/259-wp/texts.php:1273
+msgid "Tracking Page URL"
+msgstr "URL-адреса сторінки відстеження"
+
+#: public/editor-build/259-wp/texts.php:1274
+msgid "Tracking by Omega"
+msgstr "Відстеження через Omega"
+
+#: public/editor-build/259-wp/texts.php:1281
+msgid "Trust Me Badges"
+msgstr "Бейджі Trust Me"
+
+#: public/editor-build/259-wp/texts.php:1282
+msgid "Trust Product Rating"
+msgstr "Рейтинг довіри до товарів"
+
+#: public/editor-build/259-wp/texts.php:1283
+msgid "Trust Product Review"
+msgstr "Довіряти огляду товару"
+
+#: public/editor-build/259-wp/texts.php:1284
+msgid "Trust Product Seals"
+msgstr "Печатки товарів Trust"
+
+#: public/editor-build/259-wp/texts.php:1285
+msgid "Trust Seals"
+msgstr "Печатки Trust"
+
+#: public/editor-build/259-wp/texts.php:1286
+msgid "Trusted's embed code"
+msgstr "Код вставки Trusted"
+
+#: public/editor-build/259-wp/texts.php:1290
+msgid "Two Heroes"
+msgstr "Two Heroes"
+
+#: public/editor-build/259-wp/texts.php:1312
+msgid "Unlimited Bundles"
+msgstr "Необмежені набори"
+
+#: public/editor-build/259-wp/texts.php:1327
+msgid "Upload Fields"
+msgstr "Поля Завантажити"
+
+#: public/editor-build/259-wp/texts.php:1328
+msgid "Upload Fields by UploadKit"
+msgstr "Поля Завантажити через UploadKit"
+
+#: public/editor-build/259-wp/texts.php:1334
+msgid "Upsell Type"
+msgstr "Тип додаткового продажу"
+
+#: public/editor-build/259-wp/texts.php:1335
+msgid "Upsell by FastSimon"
+msgstr "Додатковий продаж від FastSimon"
+
+#: public/editor-build/259-wp/texts.php:1336
+msgid "Upsell by LimeSpot"
+msgstr "Додатковий продаж від LimeSpot"
+
+#: public/editor-build/259-wp/texts.php:1337
+msgid "Upsell by Wiser"
+msgstr "Додатковий продаж від Wiser"
+
+#: public/editor-build/259-wp/texts.php:1338
+msgid "Upsell by Zoorix"
+msgstr "Додатковий продаж від Zoorix"
+
+#: public/editor-build/259-wp/texts.php:1339
+msgid "Upsells"
+msgstr "Додаткові продажі"
+
+#: public/editor-build/259-wp/texts.php:1340
+msgid "Upsells by LimeSpot"
+msgstr "Додаткові продажі від LimeSpot"
+
+#: public/editor-build/259-wp/texts.php:1343
+msgid "User"
+msgstr "Користувача"
+
+#: public/editor-build/259-wp/texts.php:1346
+msgid "VK"
+msgstr "VK"
+
+#: public/editor-build/259-wp/texts.php:1353
+msgid "Verified"
+msgstr "Перевірено"
+
+#: public/editor-build/259-wp/texts.php:1358
+msgid "Video Embed Code"
+msgstr "Код втсавки відео"
+
+#: public/editor-build/259-wp/texts.php:1359
+msgid "Video Shopping"
+msgstr "Відеошопінг"
+
+#: public/editor-build/259-wp/texts.php:1360
+msgid "View Favorites"
+msgstr "Переглянути улюблене"
+
+#: public/editor-build/259-wp/texts.php:1371
+msgid "Wholesale Price"
+msgstr "Оптова ціна"
+
+#: public/editor-build/259-wp/texts.php:1372
+msgid "Wholesale Prices"
+msgstr "Оптові ціни"
+
+#: public/editor-build/259-wp/texts.php:1374
+msgid "Widget"
+msgstr "Віджет"
+
+#: public/editor-build/259-wp/texts.php:1375
+msgid "Widget List"
+msgstr "Список віджетів"
+
+#: public/editor-build/259-wp/texts.php:1376
+msgid "Widget Type"
+msgstr "Тип віджету"
+
+#: public/editor-build/259-wp/texts.php:1377
+msgid "Widgets"
+msgstr "Віджети"
+
+#: public/editor-build/259-wp/texts.php:1378
+msgid "Widgets by AliExpress"
+msgstr "Віджети від AliExpress"
+
+#: public/editor-build/259-wp/texts.php:1379
+msgid "Widgets by PickyStory"
+msgstr "Віджети від PickyStory"
+
+#: public/editor-build/259-wp/texts.php:1382
+msgid "Wish List by Hero"
+msgstr "Список бажань від  Hero"
+
+#: public/editor-build/259-wp/texts.php:1383
+msgid "WishList by Swym"
+msgstr "Список бажань від Swym"
+
+#: public/editor-build/259-wp/texts.php:1384
+msgid "Wishlist by Growave"
+msgstr "Список бажань від Growave"
+
+#: public/editor-build/259-wp/texts.php:1394
+msgid "YotPo Product Review"
+msgstr "Відгук на товар YotPo"
+
+#: public/editor-build/259-wp/texts.php:1396
+msgid "You can add only 1 element on page"
+msgstr "Ви можете додати лише 1 елемент на сторінку"
+
+#: public/editor-build/259-wp/texts.php:1026
+msgid "SKU"
+msgstr "SKU"
+
+#: public/editor-build/259-wp/texts.php:1000
+msgid "Reviews"
+msgstr "Відгуки"
+
+#: public/editor-build/259-wp/texts.php:826
+msgid "Outside"
+msgstr "Зовні"
+
+#: public/editor-build/259-wp/texts.php:633
+msgid "Inside"
+msgstr "Всередині"
+
+#: public/editor-build/259-wp/texts.php:133
+msgid "Art"
+msgstr "Мистецтво"
+
+#: public/editor-build/259-wp/texts.php:330
+msgid "Crypto"
+msgstr "Крипто"
+
+#: admin/main.php:535
+msgid "Heads up, Please backup before upgrade!"
+msgstr "Увага, будь ласка, зробіть резервну копію перед оновленням!"
+
+#. translators: %1$s Link open tag, %2$s: Link close tag.
+#: admin/main.php:541
+msgid "The latest update includes some substantial changes across different areas of the plugin. We highly recommend you %1$sbackup your site before upgrading%2$s, and make sure you first update in a staging environment"
+msgstr "Останнє оновлення включає деякі суттєві зміни в різних областях плагіна. Ми наполегливо рекомендуємо вам %1$sзробити резервну копію вашого сайту перед оновленням%2$s, і переконайтеся, що ви спочатку оновили його в тестовому середовищі"
+
+#: compatibilities/brizy-pro-compatibility.php:28
+msgid "%s PRO IS NOT RUNNING."
+msgstr "%s PRO НЕ ЗАПУЩЕНО."
+
+#: compatibilities/brizy-pro-compatibility.php:29
+msgid "Please update %s PRO to the latest version."
+msgstr "Будь ласка, оновіть %s PRO до останньої версії."
+
+#: admin/settings.php:119 admin/settings.php:120
+#: admin/views/settings/tools.php:7
+msgid "Tools"
+msgstr "Інструменти"
+
+#: admin/settings.php:543
+msgid "You must be an administrator running a replace URL session"
+msgstr "Ви повинні бути адміністратором, який запускає сеанс заміни URL-адреси"
+
+#: admin/settings.php:552
+msgid "The old and new URLs must be different"
+msgstr "Нова та стара URL мають бути різними "
+
+#: admin/settings.php:556
+msgid "The old and new URLs must be valid URLs"
+msgstr "Нова та стара URL мають бути дійсними URL"
+
+#: admin/settings.php:599
+msgid "The replacement was successful"
+msgstr "Заміна успішна"
+
+#: admin/views/settings/tools.php:11 admin/views/settings/tools.php:16
+#: admin/views/settings/tools.php:30
+msgid "Replace URL"
+msgstr "Замінити URL"
+
+#: admin/views/settings/tools.php:18
+msgid "<strong>Important:</strong> It is strongly recommended that you <a target=\"_blank\" href=\"%s\">backup your database</a> before using Replace URL."
+msgstr "<strong>Важливо:</strong> Наполегливо рекомендуємо зробити <a target=\"_blank\" href=\"%s\">резервну копію вашої бази даних</a> перш ніж використати Замінити URL."
+
+#: admin/views/settings/tools.php:23
+msgid "Update Site Address (URL)"
+msgstr "Оновити адресу сайту (URL)"
+
+#: admin/views/settings/tools.php:34
+msgid "Enter your old and new URLs for your WordPress installation, to update all %s data (Relevant for domain transfers or move to 'HTTPS')."
+msgstr "Введіть стару та нову URL-адреси для встановлення WordPress, щоб оновити всі дані %s (актуально для перенесення домену або переходу на \"HTTPS\")."
+
+#: public/editor-build/259-wp/texts.php:1159
+msgid "Specific Product"
+msgstr "Конкретний товар"
+
+#: public/editor-build/259-wp/texts.php:255
+msgid "Center"
+msgstr "Центр"
+
+#: public/editor-build/259-wp/texts.php:762
+msgid "Move up"
+msgstr "Перемістити вгору"
+
+#: public/editor-build/259-wp/texts.php:759
+msgid "Move down"
+msgstr "Перемістити вниз"
+
+#: public/editor-build/259-wp/texts.php:568
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+#: public/editor-build/259-wp/texts.php:1219
+msgid "Taxonomy"
+msgstr "Таксономія"
+
+#: public/editor-build/259-wp/texts.php:368
+msgid "Display"
+msgstr "Відображення"
+
+#: public/editor-build/259-wp/texts.php:1045
+msgid "Scroll"
+msgstr "Прокрутка"
+
+#: public/editor-build/259-wp/texts.php:1043
+msgid "Scale"
+msgstr "Масштаб"
+
+#: public/editor-build/259-wp/texts.php:1225
+msgid "Text Shadow"
+msgstr "Тінь від тексту"
+
+#: public/editor-build/259-wp/texts.php:172
+msgid "Basic"
+msgstr "Базовий"
+
+#: public/editor-build/259-wp/texts.php:453
+msgid "Fade"
+msgstr "Зникання"
+
+#: public/editor-build/259-wp/texts.php:974
+msgid "Repeat"
+msgstr "Повторити"
+
+#: public/editor-build/259-wp/texts.php:192
+msgid "Blur"
+msgstr "Розмиття"
+
+#: public/editor-build/259-wp/texts.php:54
+msgid "0 Selected"
+msgstr "Вибрано 0"
+
+#: public/editor-build/259-wp/texts.php:55
+msgid "0-10"
+msgstr "0-10"
+
+#: public/editor-build/259-wp/texts.php:56
+msgid "0-5"
+msgstr "0-5"
+
+#: public/editor-build/259-wp/texts.php:58
+msgid "3D Tilt"
+msgstr "3D-нахил"
+
+#: public/editor-build/259-wp/texts.php:121
+msgid "Apply on"
+msgstr "Застосувати до"
+
+#: public/editor-build/259-wp/texts.php:122
+msgid "Apply type"
+msgstr "Застосувати тип"
+
+#: public/editor-build/259-wp/texts.php:135
+msgid "Artwork"
+msgstr "Твір мистецтва"
+
+#: public/editor-build/259-wp/texts.php:139
+msgid "Attention"
+msgstr "Увага"
+
+#: public/editor-build/259-wp/texts.php:178
+msgid "Big"
+msgstr "Великий"
+
+#: public/editor-build/259-wp/texts.php:181
+msgid "Blending Mode"
+msgstr "Режим змішування"
+
+#: public/editor-build/259-wp/texts.php:280
+msgid "Color Burn"
+msgstr "Затемнення основи"
+
+#: public/editor-build/259-wp/texts.php:281
+msgid "Color Dodge"
+msgstr "Освітлення основи"
+
+#: public/editor-build/259-wp/texts.php:293
+msgid "Contain"
+msgstr "Містить"
+
+#: public/editor-build/259-wp/texts.php:296
+msgid "Content Padding"
+msgstr "Внутрішній відступ вмісту"
+
+#: public/editor-build/259-wp/texts.php:321
+msgid "Country Code"
+msgstr "Код країни"
+
+#: public/editor-build/259-wp/texts.php:342
+msgid "Darken"
+msgstr "Затемнення"
+
+#: public/editor-build/259-wp/texts.php:344
+msgid "Data Source"
+msgstr "Джерело даних"
+
+#: public/editor-build/259-wp/texts.php:350
+msgid "Default font (can’t be deleted)"
+msgstr "Шрифт за замовчуванням (не можна видалити)"
+
+#: public/editor-build/259-wp/texts.php:362
+msgid "Difference"
+msgstr "Різниця"
+
+#: public/editor-build/259-wp/texts.php:363
+msgid "Direct"
+msgstr "Прямий"
+
+#: public/editor-build/259-wp/texts.php:364
+msgid "Direction"
+msgstr "Напрямок"
+
+#: public/editor-build/259-wp/texts.php:381
+msgid "Down"
+msgstr "Вниз"
+
+#: public/editor-build/259-wp/texts.php:399
+msgid "Effects"
+msgstr "Ефекти"
+
+#: public/editor-build/259-wp/texts.php:423
+msgid "Entrance"
+msgstr "Вхід"
+
+#: public/editor-build/259-wp/texts.php:433
+msgid "Example [gallery id='123' size='medium']"
+msgstr "Приклад [gallery id='123' size='medium']"
+
+#: public/editor-build/259-wp/texts.php:437
+msgid "Exclusion"
+msgstr "Виключення"
+
+#: public/editor-build/259-wp/texts.php:476
+msgid "Filter Item"
+msgstr "Елемент фільтрування"
+
+#: public/editor-build/259-wp/texts.php:487
+msgid "Flag"
+msgstr "Прапор"
+
+#: public/editor-build/259-wp/texts.php:488
+msgid "Flags"
+msgstr "Прапори"
+
+#: public/editor-build/259-wp/texts.php:513
+msgid "Full Name"
+msgstr "Повне ім'я"
+
+#: public/editor-build/259-wp/texts.php:520
+msgid "Gap"
+msgstr "Відступ"
+
+#: public/editor-build/259-wp/texts.php:566
+msgid "Hierarchical"
+msgstr "Ієрархічний"
+
+#: public/editor-build/259-wp/texts.php:583
+msgid "Icon Styles"
+msgstr "Стилі іконки"
+
+#: public/editor-build/259-wp/texts.php:593
+msgid "If you need to have multiple emails you can separate them by commas"
+msgstr "Якщо вам потрібно мати кілька листів, ви можете відокремити їх комами"
+
+#: public/editor-build/259-wp/texts.php:604
+msgid "In"
+msgstr "У"
+
+#: public/editor-build/259-wp/texts.php:614
+msgid "Inequality operator"
+msgstr "Оператор нерівності"
+
+#: public/editor-build/259-wp/texts.php:650
+msgid "Label Bg"
+msgstr "Мітка фону"
+
+#: public/editor-build/259-wp/texts.php:654
+msgid "Languages"
+msgstr "Мови"
+
+#: public/editor-build/259-wp/texts.php:666
+msgid "Level"
+msgstr "Рівень"
+
+#: public/editor-build/259-wp/texts.php:669
+msgid "Lighten"
+msgstr "Висвітлення"
+
+#: public/editor-build/259-wp/texts.php:695
+msgid "Luminosity"
+msgstr "Яскравість"
+
+#: public/editor-build/259-wp/texts.php:757
+msgid "MouseTrack"
+msgstr "ВідстеженняКурсору"
+
+#: public/editor-build/259-wp/texts.php:763
+msgid "Multi-Language"
+msgstr "Багатомовність"
+
+#: public/editor-build/259-wp/texts.php:765
+msgid "Multiply"
+msgstr "Розмножити"
+
+#: public/editor-build/259-wp/texts.php:813
+msgid "Opposite"
+msgstr "Протилежний"
+
+#: public/editor-build/259-wp/texts.php:822
+msgid "Out"
+msgstr "Вихід"
+
+#: public/editor-build/259-wp/texts.php:861
+msgid "Play Counts"
+msgstr "Кількість програвань"
+
+#: public/editor-build/259-wp/texts.php:866
+msgid "Points"
+msgstr "Бали"
+
+#: public/editor-build/259-wp/texts.php:949
+msgid "Rating scale"
+msgstr "Шкала оцінювання"
+
+#: public/editor-build/259-wp/texts.php:978
+msgid "Replay Animation"
+msgstr "Анімація відтворення"
+
+#: public/editor-build/259-wp/texts.php:1044
+msgid "Screen"
+msgstr "Екран"
+
+#: public/editor-build/259-wp/texts.php:1055
+msgid "Select Item"
+msgstr "Вибрати елемент"
+
+#: public/editor-build/259-wp/texts.php:1089
+msgid "Shopping Bag"
+msgstr "Сумка для покупок"
+
+#: public/editor-build/259-wp/texts.php:1095
+msgid "Show Apply"
+msgstr "Показати \"Застосувати\""
+
+#: public/editor-build/259-wp/texts.php:1097
+msgid "Show Counter"
+msgstr "Показати лічильник"
+
+#: public/editor-build/259-wp/texts.php:1101
+msgid "Show If Language"
+msgstr "Показати, якщо мова"
+
+#: public/editor-build/259-wp/texts.php:1102
+msgid "Show Label"
+msgstr "Показати мітку"
+
+#: public/editor-build/259-wp/texts.php:1105
+msgid "Show Original image"
+msgstr "Показати оригінальне зображення"
+
+#: public/editor-build/259-wp/texts.php:1109
+msgid "Show Text"
+msgstr "Показати текст"
+
+#: public/editor-build/259-wp/texts.php:1120
+msgid "Sign in link"
+msgstr "Посилання для входу"
+
+#: public/editor-build/259-wp/texts.php:1122
+msgid "Size 2"
+msgstr "Розмір 2"
+
+#: public/editor-build/259-wp/texts.php:1170
+msgid "Stars count"
+msgstr "Кількість зірок"
+
+#: public/editor-build/259-wp/texts.php:1174
+msgid "Step"
+msgstr "Крок"
+
+#: public/editor-build/259-wp/texts.php:1181
+msgid "Stroke"
+msgstr "Мазок"
+
+#: public/editor-build/259-wp/texts.php:1264
+msgid "Title Padding"
+msgstr "Відступ заголовка"
+
+#: public/editor-build/259-wp/texts.php:1275
+msgid "Translation"
+msgstr "Переклад"
+
+#: public/editor-build/259-wp/texts.php:1276
+msgid "Transparency"
+msgstr "Прозорість"
+
+#: public/editor-build/259-wp/texts.php:1315
+msgid "Up"
+msgstr "Вгору"
+
+#: public/editor-build/259-wp/texts.php:1320
+msgid "Upgrade to PRO to use this"
+msgstr "Обновіть до PRO, щоб використовувати це"
+
+#: public/editor-build/259-wp/texts.php:1348
+msgid "Value Bg"
+msgstr "Значення фону"
+
+#: public/editor-build/259-wp/texts.php:1381
+msgid "Width Option"
+msgstr "Опція ширини"
+
+#: public/editor-build/259-wp/texts.php:1391
+msgid "X"
+msgstr "X"
+
+#: public/editor-build/259-wp/texts.php:1392
+msgid "Y"
+msgstr "Y"
+
+#: public/editor-build/259-wp/texts.php:1412
+msgid "element"
+msgstr "елемент"
+
+#: public/editor-build/259-wp/texts.php:1035
+msgid "Saturation"
+msgstr "Насиченість"
+
+#: public/editor-build/259-wp/texts.php:1216
+msgid "Take over"
+msgstr "Перехопити"
+
+#: public/editor-build/259-wp/texts.php:304
+msgid "Copy"
+msgstr "Копіювати"
+
+#: public/editor-build/259-wp/texts.php:1037
+msgid "Save Draft"
+msgstr "Зберегти"
+
+#: public/editor-build/259-wp/texts.php:1345
+msgid "Users"
+msgstr "Користувачі"
+
+#: public/editor-build/259-wp/texts.php:552
+msgid "Header"
+msgstr "Заголовок"
+
+#: public/editor-build/259-wp/texts.php:718
+msgid "Medium"
+msgstr "Середній"
+
+#: public/editor-build/259-wp/texts.php:396
+msgid "Edit"
+msgstr "Редагувати"
+
+#: public/editor-build/259-wp/texts.php:1149
+msgid "Source"
+msgstr "Джерело"
+
+#: public/editor-build/259-wp/texts.php:287
+msgid "Comments"
+msgstr "Коментарі"
+
+#: public/editor-build/259-wp/texts.php:846
+msgid "Password"
+msgstr "Пароль"
+
+#: public/editor-build/259-wp/texts.php:963
+msgid "Register"
+msgstr "Зареєструватись"
+
+#: public/editor-build/259-wp/texts.php:1254
+msgid "Time"
+msgstr "Час"
+
+#: public/editor-build/259-wp/texts.php:1020
+msgid "Rows"
+msgstr "Рядки"
+
+#: public/editor-build/259-wp/texts.php:341
+msgid "Dark"
+msgstr "Темний"
+
+#: public/editor-build/259-wp/texts.php:667
+msgid "Light"
+msgstr "Світлий"
+
+#: public/editor-build/259-wp/texts.php:378
+msgid "Done"
+msgstr "Готово"
+
+#: public/editor-build/259-wp/texts.php:664
+msgid "Left"
+msgstr "Ліворуч"
+
+#: public/editor-build/259-wp/texts.php:1012
+msgid "Right"
+msgstr "Праворуч"
+
+#: public/editor-build/259-wp/texts.php:1268
+msgid "Top"
+msgstr "Верх"
+
+#: public/editor-build/259-wp/texts.php:646
+msgid "Keyboard Shortcuts"
+msgstr "Клавіатурні скорочення"
+
+#: public/editor-build/259-wp/texts.php:1310
+msgid "Underline"
+msgstr "Підкреслений"
+
+#: public/editor-build/259-wp/texts.php:848
+msgid "Paste"
+msgstr "Вставити"
+
+#: public/editor-build/259-wp/texts.php:979
+msgid "Reply"
+msgstr "Відповіcти"
+
+#: public/editor-build/259-wp/texts.php:1311
+msgid "Undo"
+msgstr "Скасувати"
+
+#: public/editor-build/259-wp/texts.php:960
+msgid "Redo"
+msgstr "Повторити"
+
+#: public/editor-build/259-wp/texts.php:334
+msgid "Custom CSS"
+msgstr "Користувацькі CSS"
+
+#: public/editor-build/259-wp/texts.php:1234
+msgid "Theme"
+msgstr "Тема"
+
+#: public/editor-build/259-wp/texts.php:680
+msgid "Links"
+msgstr "Посилання"
+
+#: public/editor-build/259-wp/texts.php:434
+msgid "Excerpt"
+msgstr "Уривок"
+
+#: public/editor-build/259-wp/texts.php:517
+msgid "Gallery"
+msgstr "Галерея"
+
+#: public/editor-build/259-wp/texts.php:734
+msgid "Meta"
+msgstr "Мета"
+
+#: public/editor-build/259-wp/texts.php:836
+msgid "Page title"
+msgstr "Назва сторінки"
+
+#: public/editor-build/259-wp/texts.php:1214
+msgid "Tags"
+msgstr "Позначки"
+
+#: public/editor-build/259-wp/texts.php:1211
+msgid "Tablet"
+msgstr "Планшет"
+
+#: public/editor-build/259-wp/texts.php:876
+msgid "Post Content"
+msgstr "Вміст запису"
+
+#: public/editor-build/259-wp/texts.php:691
+msgid "Lost Password"
+msgstr "Втрачено пароль"
+
+#: public/editor-build/259-wp/texts.php:982
+msgid "Reset Password"
+msgstr "Скинути пароль"
+
+#: public/editor-build/259-wp/texts.php:1143
+msgid "Solid"
+msgstr "Суцільний"
+
+#: public/editor-build/259-wp/texts.php:1344
+msgid "Username"
+msgstr "Ім'я користувача"
+
+#: public/editor-build/259-wp/texts.php:1070
+msgid "Separator"
+msgstr "Роздільник"
+
+#: public/editor-build/259-wp/texts.php:761
+msgid "Move right"
+msgstr "Перемістити вправо"
+
+#: public/editor-build/259-wp/texts.php:760
+msgid "Move left"
+msgstr "Перемістити вліво"
+
+#: public/editor-build/259-wp/texts.php:806
+msgid "Offset"
+msgstr "Зміщення"
+
+#: public/editor-build/259-wp/texts.php:497
+msgid "Font weight"
+msgstr "Товщина шрифту"
+
+#: public/editor-build/259-wp/texts.php:470
+msgid "File"
+msgstr "Файл"
+
+#: public/editor-build/259-wp/texts.php:482
+msgid "Filters"
+msgstr "Фільтри"
+
+#: public/editor-build/259-wp/texts.php:532
+msgid "Gradient"
+msgstr "Градієнт"
+
+#: public/editor-build/259-wp/texts.php:1183
+msgid "Styles"
+msgstr "Стилі"
+
+#: public/editor-build/259-wp/texts.php:1208
+msgid "Table"
+msgstr "Таблиця"
+
+#: public/editor-build/259-wp/texts.php:1131
+msgid "Skip"
+msgstr "Пропустити"
+
+#: public/editor-build/259-wp/texts.php:1016
+msgid "Rotate"
+msgstr "Повернути"
+
+#: public/editor-build/259-wp/texts.php:1354
+msgid "Vertical"
+msgstr "Вертикально"
+
+#: public/editor-build/259-wp/texts.php:675
+msgid "Linear"
+msgstr "Лінійний"
+
+#: public/editor-build/259-wp/texts.php:944
+msgid "Radial"
+msgstr "Радіальний"
+
+#: public/editor-build/259-wp/texts.php:1291
+msgid "Type"
+msgstr "Тип"
+
+#: public/editor-build/259-wp/texts.php:573
+msgid "Hours"
+msgstr "Годин"
+
+#: public/editor-build/259-wp/texts.php:400
+msgid "Elements"
+msgstr "Елементи"
+
+#: public/editor-build/259-wp/texts.php:324
+msgid "Create"
+msgstr "Створити"
+
+#: public/editor-build/259-wp/texts.php:766
+msgid "Muted"
+msgstr "Приглушений"
+
+#: public/editor-build/259-wp/texts.php:1042
+msgid "Saving"
+msgstr "Збереження"
+
+#: public/editor-build/259-wp/texts.php:448
+msgid "Facebook"
+msgstr "Facebook"
+
+#: public/editor-build/259-wp/texts.php:1289
+msgid "Twitter"
+msgstr "Twitter"
+
+#: public/editor-build/259-wp/texts.php:463
+msgid "Features"
+msgstr "Можливості"
+
+#: public/editor-build/259-wp/texts.php:781
+msgid "No results"
+msgstr "Немає результатів"
+
+#: public/editor-build/259-wp/texts.php:1363
+msgid "Volume"
+msgstr "Обсяг"
+
+#: public/editor-build/259-wp/texts.php:899
+msgid "Price"
+msgstr "Ціна"
+
+#: public/editor-build/259-wp/texts.php:299
+msgid "Continue"
+msgstr "Продовжити"
+
+#: public/editor-build/259-wp/texts.php:561
+msgid "Hide"
+msgstr "Сховати"
+
+#: public/editor-build/259-wp/texts.php:988
+msgid "Review"
+msgstr "Огляд"
+
+#: public/editor-build/259-wp/texts.php:1288
+msgid "Tweet"
+msgstr "Твіт"
+
+#: public/editor-build/259-wp/texts.php:618
+msgid "Info"
+msgstr "Інформація"
+
+#: public/editor-build/259-wp/texts.php:881
+msgid "Post Title"
+msgstr "Заголовок запису"
+
+#: public/editor-build/259-wp/texts.php:877
+msgid "Post Excerpt"
+msgstr "Уривок запису"
+
+#: public/editor-build/259-wp/texts.php:918
+msgid "Product Price"
+msgstr "Ціна товару"
+
+#: public/editor-build/259-wp/texts.php:856
+msgid "Phone Number"
+msgstr "Номер телефону"
+
+#: public/editor-build/259-wp/texts.php:1265
+msgid "Titles"
+msgstr "Заголовки"
+
+#: public/editor-build/259-wp/texts.php:1413
+msgid "here"
+msgstr "тут"
+
+#: public/editor-build/259-wp/texts.php:367
+msgid "Disconnect"
+msgstr "Від’єднати"
+
+#: public/editor-build/259-wp/texts.php:347
+msgid "Days"
+msgstr "Днів"
+
+#: public/editor-build/259-wp/texts.php:702
+msgid "Manual"
+msgstr "Вручну"
+
+#: public/editor-build/259-wp/texts.php:768
+msgid "N/A"
+msgstr "Невідомо"
+
+#: public/editor-build/259-wp/texts.php:1164
+msgid "Sport"
+msgstr "Спорт"
+
+#: public/editor-build/259-wp/texts.php:499
+msgid "Food"
+msgstr "Їжа"
+
+#: public/editor-build/259-wp/texts.php:461
+msgid "Featured Image"
+msgstr "Головне зображення"
+
+#: public/editor-build/259-wp/texts.php:290
+msgid "Connect"
+msgstr "Підключити"
+
+#: public/editor-build/259-wp/texts.php:873
+msgid "Portfolio"
+msgstr "Портфоліо"
+
+#: public/editor-build/259-wp/texts.php:1389
+msgid "WordPress"
+msgstr "WordPress"
+
+#: public/editor-build/259-wp/texts.php:560
+msgid "Hidden"
+msgstr "Прихований"
+
+#: public/editor-build/259-wp/texts.php:1287
+msgid "Try Again"
+msgstr "Спробуйте ще раз"
+
+#: public/editor-build/259-wp/texts.php:838
+msgid "Pagination"
+msgstr "Поділ на сторінки"
+
+#: public/editor-build/259-wp/texts.php:533
+msgid "Group"
+msgstr "Група"
+
+#: public/editor-build/259-wp/texts.php:820
+msgid "Orientation"
+msgstr "Орієнтація"
+
+#: public/editor-build/259-wp/texts.php:292
+msgid "Contact"
+msgstr "Контакти"
+
+#: public/editor-build/259-wp/texts.php:808
+msgid "On Hover"
+msgstr "При наведенні"
+
+#: public/editor-build/259-wp/texts.php:1259
+msgid "Timer"
+msgstr " Таймер"
+
+#: public/editor-build/259-wp/texts.php:571
+msgid "Host"
+msgstr "Хост"
+
+#: public/editor-build/259-wp/texts.php:584
+msgid "Icons"
+msgstr "Іконки"
+
+#: public/editor-build/259-wp/texts.php:686
+msgid "Locked"
+msgstr "Заблоковано"
+
+#: public/editor-build/259-wp/texts.php:1082
+msgid "Shape"
+msgstr "Форма"
+
+#: public/editor-build/259-wp/texts.php:297
+msgid "Context"
+msgstr "Контекст"
+
+#: public/editor-build/259-wp/texts.php:298
+msgid "Context Type"
+msgstr "Тип контексту"
+
+#: public/editor-build/259-wp/texts.php:920
+msgid "Product Review"
+msgstr "Відгук на товар"
+
+#: public/editor-build/259-wp/texts.php:943
+msgid "Query Source"
+msgstr "Джерело запиту"
+
+#: public/editor-build/259-wp/texts.php:1132
+msgid "Slide"
+msgstr "Слайд"
+
+#: public/editor-build/259-wp/texts.php:1135
+msgid "Slides"
+msgstr "Слайди"
+
+#: public/editor-build/259-wp/texts.php:1160
+msgid "Specific User"
+msgstr "Конкретний користувач"
+
+#: public/editor-build/259-wp/texts.php:1324
+msgid "Upgrade to PRO to use this layout"
+msgstr "Обновіть до PRO, щоб використовувати розмітку"
+
+#: public/editor-build/259-wp/texts.php:1322
+msgid "Upgrade to PRO to use this element"
+msgstr "Обновіть до PRO, щоб використовувати цей елемент"
+
+#: public/editor-build/259-wp/texts.php:1321
+msgid "Upgrade to PRO to use this block"
+msgstr "Обновіть до PRO, щоб використовувати цей блок"
+
+#: public/editor-build/259-wp/texts.php:791
+msgid "Nothing here yet, save a layout first."
+msgstr "Тут ще нічого немає, спочатку збережіть розмітку."
+
+#: public/editor-build/259-wp/texts.php:788
+msgid "Nothing here yet, make a global block first."
+msgstr "Тут ще нічого немає, спочатку створіть загальний блок."
+
+#: public/editor-build/259-wp/texts.php:790
+msgid "Nothing here yet, save a block first."
+msgstr "Тут ще нічого немає, спочатку збережіть блок."
+
+#: public/editor-build/259-wp/texts.php:869
+msgid "Popup"
+msgstr "Елемент, що спливає"
+
+#: public/editor-build/259-wp/texts.php:662
+msgid "Layouts"
+msgstr "Розмітки"
+
+#: public/main.php:202
+msgid "Edit %s with %s"
+msgstr "Редагувати  %s за допомогою %s"
+
+#: public/editor-build/259-wp/texts.php:1425
+msgid "story"
+msgstr "історія"
+
+#: public/editor-build/259-wp/texts.php:1422
+msgid "remove this element"
+msgstr "видалити цей елемент"
+
+#: public/editor-build/259-wp/texts.php:1417
+msgid "is currently working on this page. Do you want to take over"
+msgstr "зараз працює над цією сторінкою. Хочете взяти на себе"
+
+#: public/editor-build/259-wp/texts.php:1416
+msgid "is already editing project"
+msgstr "вже редагує проєкт"
+
+#: public/editor-build/259-wp/texts.php:1408
+msgid "Your link is not correct"
+msgstr "Ваше посилання некоректне"
+
+#: public/editor-build/259-wp/texts.php:1407
+msgid "Your block was saved without screenshot, browser is not compatible"
+msgstr "Ваш блок було збережено без скриншоту, браузер не сумісний"
+
+#: public/editor-build/259-wp/texts.php:1406
+msgid "Your Plugin version is incompatible with Account version, please update plugin"
+msgstr "Версія вашого Плагіну несумісна з версією Облікового запису, будь ласка, оновіть плагін"
+
+#: public/editor-build/259-wp/texts.php:1403
+msgid "You must specify a title"
+msgstr "Вам треба вказати заголовок"
+
+#: public/editor-build/259-wp/texts.php:1399
+msgid "You can’t make changes"
+msgstr "Ви не можете вносити зміни"
+
+#: public/editor-build/259-wp/texts.php:1398
+msgid "You can't add it again"
+msgstr "Ви не можете додати це знову"
+
+#: public/editor-build/259-wp/texts.php:1393
+msgid "YOUR PAGE IS READY TO PUBLISH!"
+msgstr "ВАША СТОРІНКА ГОЛОВА ДО ПУБЛІКАЦІЇ!"
+
+#: public/editor-build/259-wp/texts.php:1370
+msgid "When Finished"
+msgstr "По закінченні"
+
+#: public/editor-build/259-wp/texts.php:1365
+msgid "WHERE DO YOU WANT TO DISPLAY IT?"
+msgstr "КОЛИ ВИ ХОЧЕТЕ ЦЕ ВІДОБРАЗИТИ?"
+
+#: public/editor-build/259-wp/texts.php:1364
+msgid "WHAT WILL TRIGGER THE POPUP TO OPEN"
+msgstr "ЩО СПРИЧИНИТЬ ВІДКРИТТЯ ВІКНА, ЩО СПЛИВАЄ"
+
+#: public/editor-build/259-wp/texts.php:1362
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: public/editor-build/259-wp/texts.php:1361
+msgid "View as"
+msgstr "Переглянути як"
+
+#: public/editor-build/259-wp/texts.php:1356
+msgid "Vertical Offset"
+msgstr "Вертикальний Зсув"
+
+#: public/editor-build/259-wp/texts.php:1350
+msgid "Variations"
+msgstr "Варіації"
+
+#: public/editor-build/259-wp/texts.php:1349
+msgid "Values"
+msgstr "Значення"
+
+#: public/editor-build/259-wp/texts.php:1347
+msgid "Value"
+msgstr "Значення"
+
+#: public/editor-build/259-wp/texts.php:1333
+msgid "Upsell Tags"
+msgstr "Позначки додаткових продажів"
+
+#: public/editor-build/259-wp/texts.php:1332
+msgid "Upsell Pagination"
+msgstr "Пагінація додаткових продажів"
+
+#: public/editor-build/259-wp/texts.php:1331
+msgid "Upsell"
+msgstr "Додаткові продажі"
+
+#: public/editor-build/259-wp/texts.php:1323
+msgid "Upgrade to PRO to use this integration"
+msgstr "Для цієї інтеграції оновіть до версії PRO"
+
+#: public/editor-build/259-wp/texts.php:1314
+msgid "Unsuccessful sync"
+msgstr "Неуспішна синхронізація"
+
+#: public/editor-build/259-wp/texts.php:1313
+msgid "Unlocked"
+msgstr "Розблоковано"
+
+#: public/editor-build/259-wp/texts.php:1309
+msgid "Unable to insert popup. Please try again or contact support"
+msgstr "Неможливо вставити вікно, що спливає. Будь ласка, спробуйте пізніше або зверніться до команди підтримки"
+
+#: public/editor-build/259-wp/texts.php:1308
+msgid "Unable to insert layout. Please try again or contact support"
+msgstr "Неможливо вставити розмітку. Будь ласка, спробуйте пізніше або зверніться до команди підтримки"
+
+#: public/editor-build/259-wp/texts.php:1307
+msgid "Unable to insert block. Please try again or contact support"
+msgstr "Неможливо вставити блок. Будь ласка, спробуйте пізніше або зверніться до команди підтримки"
+
+#: public/editor-build/259-wp/texts.php:1306
+msgid "USE CUSTOM TEMPLATE"
+msgstr "ВИКОРИСТАЙТЕ КОРИСТУВАЦЬКИЙ ШАБЛОН"
+
+#: public/editor-build/259-wp/texts.php:1293
+msgid "Type to Search ..."
+msgstr "Введіть для пошуку..."
+
+#: public/editor-build/259-wp/texts.php:1280
+msgid "Triggers"
+msgstr "Тригери"
+
+#: public/editor-build/259-wp/texts.php:1279
+msgid "Trigger Popup Only Once"
+msgstr "Запустити вікно, що спливає, лише один раз"
+
+#: public/editor-build/259-wp/texts.php:1278
+msgid "Travel"
+msgstr "Подорож"
+
+#: public/editor-build/259-wp/texts.php:1272
+msgid "Total"
+msgstr "Разом"
+
+#: public/editor-build/259-wp/texts.php:1266
+msgid "To Dashboard"
+msgstr "До Майстерні"
+
+#: public/editor-build/259-wp/texts.php:1261
+msgid "Tip: Use these shortcodes to populate your template"
+msgstr "Порада: Використовуйте ці скорочені коди для заповнення шаблону"
+
+#: public/editor-build/259-wp/texts.php:1258
+msgid "Timeline Labels"
+msgstr "Мітки на шкалі часу"
+
+#: public/editor-build/259-wp/texts.php:1257
+msgid "Timeline Items"
+msgstr "Елементи на шкалі часу"
+
+#: public/editor-build/259-wp/texts.php:1253
+msgid "Thumbs"
+msgstr "Мініатюри"
+
+#: public/editor-build/259-wp/texts.php:1249
+msgid "This page needs a refresh. You’ve probably updated this page (or another page) in a different tab or browser."
+msgstr "Ця сторінка потребує оновлення. Ймовірно, ви оновили цю (або іншу) сторінку в іншій вкладці або браузері."
+
+#: public/editor-build/259-wp/texts.php:1239
+msgid "This is Lottie .json URL. Get more from LottieFiles.com."
+msgstr "Це URL Lottie .json. Отримайте більше від LottieFiles.com."
+
+#: public/editor-build/259-wp/texts.php:1235
+msgid "There are no choices"
+msgstr "Немає вибору"
+
+#: public/editor-build/259-wp/texts.php:1232
+msgid "The integration is not responding, please try again or verify the account credentials"
+msgstr "Інтеграція не відповідає, будь ласка, спробуйте пізніше або перевірте облікові дані"
+
+#: public/editor-build/259-wp/texts.php:1230
+msgid "The email address format is not valid"
+msgstr "Невірний формат адреси електронної пошти"
+
+#: public/editor-build/259-wp/texts.php:1229
+msgid "The element you have selected doesn't have more settings"
+msgstr "Елемент, який ви вибрали, не має більше налаштувань"
+
+#: public/editor-build/259-wp/texts.php:1222
+msgid "Testimonials"
+msgstr "Відгуки та рекомендації"
+
+#: public/editor-build/259-wp/texts.php:1221
+msgid "Tel"
+msgstr "Тел"
+
+#: public/editor-build/259-wp/texts.php:1220
+msgid "Team"
+msgstr "Команда"
+
+#: public/editor-build/259-wp/texts.php:1217
+msgid "Take over failed please refresh the page"
+msgstr "Не вдалося перейняти, будь ласка, оновіть сторінку"
+
+#: public/editor-build/259-wp/texts.php:1210
+msgid "Table Sidebar"
+msgstr "Бічна панель таблиці"
+
+#: public/editor-build/259-wp/texts.php:1209
+msgid "Table Head"
+msgstr "Заголовок таблиці"
+
+#: public/editor-build/259-wp/texts.php:1207
+msgid "Tab"
+msgstr "Вкладка"
+
+#: public/editor-build/259-wp/texts.php:1205
+msgid "Sync Now"
+msgstr "Синхронізувати зараз"
+
+#: public/editor-build/259-wp/texts.php:1204
+msgid "Switcher"
+msgstr "Перемикач"
+
+#: public/editor-build/259-wp/texts.php:1203
+msgid "Switch to desktop to add popup"
+msgstr "Перейдіть на робочий стіл, щоб додати вікно, що спливає"
+
+#: public/editor-build/259-wp/texts.php:1201
+msgid "Switch to Draft"
+msgstr "Перейти до чернетки"
+
+#: public/editor-build/259-wp/texts.php:1197
+msgid "Suffix"
+msgstr "Суфікс"
+
+#: public/editor-build/259-wp/texts.php:1195
+msgid "Subtotal"
+msgstr "Проміжний підсумок"
+
+#: public/editor-build/259-wp/texts.php:1185
+msgid "Sub Title"
+msgstr "Проміжний заголовок"
+
+#: public/editor-build/259-wp/texts.php:1180
+msgid "Strike"
+msgstr "Страйк"
+
+#: public/editor-build/259-wp/texts.php:1179
+msgid "Story"
+msgstr "Історія"
+
+#: public/editor-build/259-wp/texts.php:1176
+msgid "Stock"
+msgstr "Склад"
+
+#: public/editor-build/259-wp/texts.php:1169
+msgid "Stars Bg"
+msgstr "Зірковий фон"
+
+#: public/editor-build/259-wp/texts.php:1168
+msgid "Stars"
+msgstr "Зірки"
+
+#: public/editor-build/259-wp/texts.php:1162
+msgid "Specify an end time (in seconds)"
+msgstr "Вкажіть час закінчення (в секундах)"
+
+#: public/editor-build/259-wp/texts.php:1161
+msgid "Specify a start time (in seconds)"
+msgstr "Вкажіть час початку (в секундах)"
+
+#: public/editor-build/259-wp/texts.php:1151
+msgid "Source Type"
+msgstr "Тип джерела"
+
+#: public/editor-build/259-wp/texts.php:1150
+msgid "Source ID"
+msgstr "ID джерела"
+
+#: public/editor-build/259-wp/texts.php:1130
+msgid "Skin 4"
+msgstr "Обкладинка 4"
+
+#: public/editor-build/259-wp/texts.php:1129
+msgid "Skin 3"
+msgstr "Обкладинка 3"
+
+#: public/editor-build/259-wp/texts.php:1128
+msgid "Skin 2"
+msgstr "Обкладинка 2"
+
+#: public/editor-build/259-wp/texts.php:1127
+msgid "Skin 1"
+msgstr "Обкладинка 1"
+
+#: public/editor-build/259-wp/texts.php:1115
+msgid "Show to"
+msgstr "Показати"
+
+#: public/editor-build/259-wp/texts.php:1112
+msgid "Show message"
+msgstr "Показати повідомлення"
+
+#: public/editor-build/259-wp/texts.php:1100
+msgid "Show Hidden Elements"
+msgstr "Показати приховані елементи"
+
+#: public/editor-build/259-wp/texts.php:1093
+msgid "Shortname"
+msgstr "Коротка назва"
+
+#: public/editor-build/259-wp/texts.php:1088
+msgid "Shop Products"
+msgstr "Купити товари"
+
+#: public/editor-build/259-wp/texts.php:1087
+msgid "Shop Pages"
+msgstr "Сторінки магазину"
+
+#: public/editor-build/259-wp/texts.php:1086
+msgid "Shop Categories"
+msgstr "Категорії магазину"
+
+#: public/editor-build/259-wp/texts.php:1085
+msgid "Shop Cart"
+msgstr "Кошик магазину"
+
+#: public/editor-build/259-wp/texts.php:1069
+msgid "Semi Bold"
+msgstr "Напівжирний"
+
+#: public/editor-build/259-wp/texts.php:1067
+msgid "Select tags"
+msgstr "Вибрати позначки"
+
+#: public/editor-build/259-wp/texts.php:1066
+msgid "Select an element on the page to display more settings"
+msgstr "Вибрати елемент на сторінці для відображення інших налаштувань"
+
+#: public/editor-build/259-wp/texts.php:1060
+msgid "Select a menu from the element options"
+msgstr "Вибрати меню з опцій елемента"
+
+#: public/editor-build/259-wp/texts.php:1056
+msgid "Select Parent Element"
+msgstr "Вибратиь батьківський елемент"
+
+#: public/editor-build/259-wp/texts.php:1053
+msgid "Section"
+msgstr "Розділ"
+
+#: public/editor-build/259-wp/texts.php:1052
+msgid "Seconds"
+msgstr "Секунди"
+
+#: public/editor-build/259-wp/texts.php:1046
+msgid "Scroll Page Behind"
+msgstr "Прокрутка сторінки позаду"
+
+#: public/editor-build/259-wp/texts.php:1041
+msgid "Saved Popups"
+msgstr "Збережені елементи, що спливають"
+
+#: public/editor-build/259-wp/texts.php:1040
+msgid "Saved Library is syncing to your Account"
+msgstr "Збережена Бібліотека синхронізується з вашим Обліковим записом"
+
+#: public/editor-build/259-wp/texts.php:1038
+msgid "Save Layout"
+msgstr "Зберегти розмітку"
+
+#: public/editor-build/259-wp/texts.php:1034
+msgid "Same Page"
+msgstr "Та сама Сторінка"
+
+#: public/editor-build/259-wp/texts.php:1033
+msgid "Sale"
+msgstr "Розпродаж"
+
+#: public/editor-build/259-wp/texts.php:1031
+msgid "START BUILDING YOUR POPUP"
+msgstr "ПОЧАТИ БУДУВАТИ ЕЛЕМЕНТ, ЩО СПЛИВАЄ"
+
+#: public/editor-build/259-wp/texts.php:986
+msgid "Reverse"
+msgstr "Зворотній"
+
+#: public/editor-build/259-wp/texts.php:980
+msgid "Reply-To"
+msgstr "Відповісти"
+
+#: public/editor-build/259-wp/texts.php:973
+msgid "Repair"
+msgstr "Відновити"
+
+#: public/editor-build/259-wp/texts.php:971
+msgid "Renderer"
+msgstr "Рендерер"
+
+#: public/editor-build/259-wp/texts.php:970
+msgid "Remember me"
+msgstr "Запам'ятати мене"
+
+#: public/editor-build/259-wp/texts.php:969
+msgid "Religion"
+msgstr "Релігія"
+
+#: public/editor-build/259-wp/texts.php:968
+msgid "Related Products Tags"
+msgstr "Позначки пов'язаних товарів"
+
+#: public/editor-build/259-wp/texts.php:967
+msgid "Related Products Pagination"
+msgstr "Пагінація пов'язаних товарів"
+
+#: public/editor-build/259-wp/texts.php:966
+msgid "Related Products"
+msgstr "Пов'язані товари"
+
+#: public/editor-build/259-wp/texts.php:964
+msgid "Register Info"
+msgstr "Інформація про реєстрацію"
+
+#: public/editor-build/259-wp/texts.php:962
+msgid "Refresh"
+msgstr "Оновити"
+
+#: public/editor-build/259-wp/texts.php:959
+msgid "Redirect After Logout"
+msgstr "Переадресація після виходу із системи"
+
+#: public/editor-build/259-wp/texts.php:958
+msgid "Redirect After Login"
+msgstr "Переадресація після входу в систему"
+
+#: public/editor-build/259-wp/texts.php:951
+msgid "ReCAPTCHA"
+msgstr "ReCAPTCHA"
+
+#: public/editor-build/259-wp/texts.php:945
+msgid "Radio"
+msgstr "Радіо"
+
+#: public/editor-build/259-wp/texts.php:941
+msgid "Quantity"
+msgstr "Кількість"
+
+#: public/editor-build/259-wp/texts.php:936
+msgid "Publish Page"
+msgstr "Опублікувати сторінку"
+
+#: public/editor-build/259-wp/texts.php:934
+msgid "Protected Page"
+msgstr "Захищена сторінка"
+
+#: public/editor-build/259-wp/texts.php:933
+msgid "Protected Form"
+msgstr "Захищена форма"
+
+#: public/editor-build/259-wp/texts.php:931
+msgid "Products Tags"
+msgstr "Позначки товарів"
+
+#: public/editor-build/259-wp/texts.php:930
+msgid "Products Pagination"
+msgstr "Пагінація товарів"
+
+#: public/editor-build/259-wp/texts.php:925
+msgid "Product Title"
+msgstr "Заголовок товару"
+
+#: public/editor-build/259-wp/texts.php:924
+msgid "Product Thumbnail"
+msgstr "Мініатюра товару"
+
+#: public/editor-build/259-wp/texts.php:923
+msgid "Product Stock"
+msgstr "Запаси товару"
+
+#: public/editor-build/259-wp/texts.php:919
+msgid "Product Rating"
+msgstr "Оцінки товару"
+
+#: public/editor-build/259-wp/texts.php:913
+msgid "Product Meta"
+msgstr "Метадані товару"
+
+#: public/editor-build/259-wp/texts.php:909
+msgid "Product Gallery"
+msgstr "Галерея товару"
+
+#: public/editor-build/259-wp/texts.php:908
+msgid "Product Excerpt"
+msgstr "Уривок товару"
+
+#: public/editor-build/259-wp/texts.php:906
+msgid "Product Content"
+msgstr "Вміст товару"
+
+#: public/editor-build/259-wp/texts.php:905
+msgid "Product Breadcrumbs"
+msgstr "Хлібні крихти товару"
+
+#: public/editor-build/259-wp/texts.php:904
+msgid "Product Attributes"
+msgstr "Атрибути товару"
+
+#: public/editor-build/259-wp/texts.php:900
+msgid "Pricing"
+msgstr "Ціни"
+
+#: public/editor-build/259-wp/texts.php:893
+msgid "Press the button above to add popup"
+msgstr "Натисніть внопку вгорі, щоб додади елемент, що спливає"
+
+#: public/editor-build/259-wp/texts.php:891
+msgid "Prefix"
+msgstr "Префікс"
+
+#: public/editor-build/259-wp/texts.php:887
+msgid "Posts Tags"
+msgstr "Позначки записів"
+
+#: public/editor-build/259-wp/texts.php:886
+msgid "Posts Pagination"
+msgstr "Пагінація записів"
+
+#: public/editor-build/259-wp/texts.php:883
+msgid "Post info"
+msgstr "Інформація про запис"
+
+#: public/editor-build/259-wp/texts.php:879
+msgid "Post Navigation"
+msgstr "Навігація по запису"
+
+#: public/editor-build/259-wp/texts.php:878
+msgid "Post Info"
+msgstr "Інформація про запис"
+
+#: public/editor-build/259-wp/texts.php:870
+msgid "Popup Close Icon"
+msgstr "Іконка \"Закрити елемент, що спливає\""
+
+#: public/editor-build/259-wp/texts.php:865
+msgid "Playlist Items"
+msgstr "Елементи списку відтворення"
+
+#: public/editor-build/259-wp/texts.php:864
+msgid "Playlist"
+msgstr "Список відтворення"
+
+#: public/editor-build/259-wp/texts.php:859
+msgid "Plain"
+msgstr "Прості"
+
+#: public/editor-build/259-wp/texts.php:858
+msgid "Placeholder"
+msgstr "Заповнювач"
+
+#: public/editor-build/259-wp/texts.php:853
+msgid "Percent"
+msgstr "Проценти"
+
+#: public/editor-build/259-wp/texts.php:847
+msgid "Password and confirm password is not the same"
+msgstr "Пароль та пароль для підтвердження не збігаються"
+
+#: public/editor-build/259-wp/texts.php:835
+msgid "Page Title"
+msgstr "Заголовок сторінки"
+
+#: public/editor-build/259-wp/texts.php:833
+msgid "Page Layout"
+msgstr "Розмітка сторінки"
+
+#: public/editor-build/259-wp/texts.php:809
+msgid "One Page"
+msgstr "Одна сторінка"
+
+#: public/editor-build/259-wp/texts.php:807
+msgid "On Click"
+msgstr "При натисканні"
+
+#: public/editor-build/259-wp/texts.php:782
+msgid "Non Profit"
+msgstr "Неприбутковий"
+
+#: public/editor-build/259-wp/texts.php:774
+msgid "Need help"
+msgstr "Потрібна допомога"
+
+#: public/editor-build/259-wp/texts.php:772
+msgid "Nav"
+msgstr "Нав"
+
+#: public/editor-build/259-wp/texts.php:771
+msgid "Native HTML5"
+msgstr "Справжній HTML5"
+
+#: public/editor-build/259-wp/texts.php:764
+msgid "Multiple Selection"
+msgstr "Множинний вибір"
+
+#: public/editor-build/259-wp/texts.php:743
+msgid "Minimal"
+msgstr "Мінімальний"
+
+#: public/editor-build/259-wp/texts.php:742
+msgid "Min Time"
+msgstr "Мін Час"
+
+#: public/editor-build/259-wp/texts.php:741
+msgid "Min Date"
+msgstr "Мін Дата"
+
+#: public/editor-build/259-wp/texts.php:740
+msgid "Min"
+msgstr "Мін"
+
+#: public/editor-build/259-wp/texts.php:735
+msgid "Meta Data"
+msgstr "Метадані"
+
+#: public/editor-build/259-wp/texts.php:727
+msgid "Menu Items"
+msgstr "Елементи меню"
+
+#: public/editor-build/259-wp/texts.php:725
+msgid "Mention"
+msgstr "Згадка"
+
+#: public/editor-build/259-wp/texts.php:724
+msgid "Membership"
+msgstr "Членство"
+
+#: public/editor-build/259-wp/texts.php:723
+msgid "Mega Menu"
+msgstr "Мегаменю"
+
+#: public/editor-build/259-wp/texts.php:714
+msgid "Max. File Size"
+msgstr "Макс розмір файла"
+
+#: public/editor-build/259-wp/texts.php:713
+msgid "Max Time"
+msgstr "Макс. Час"
+
+#: public/editor-build/259-wp/texts.php:712
+msgid "Max Date"
+msgstr "Макс. Дата"
+
+#: public/editor-build/259-wp/texts.php:711
+msgid "Max"
+msgstr "Макс."
+
+#: public/editor-build/259-wp/texts.php:696
+msgid "Main"
+msgstr "Основний"
+
+#: public/editor-build/259-wp/texts.php:694
+msgid "Lottie Link"
+msgstr "Посилання Lottie"
+
+#: public/editor-build/259-wp/texts.php:693
+msgid "Lottie File"
+msgstr "Файл Lottie"
+
+#: public/editor-build/259-wp/texts.php:692
+msgid "Lottie"
+msgstr "Lottie"
+
+#: public/editor-build/259-wp/texts.php:688
+msgid "Logout"
+msgstr "Вихід"
+
+#: public/editor-build/259-wp/texts.php:687
+msgid "Login"
+msgstr "Вхід"
+
+#: public/editor-build/259-wp/texts.php:658
+msgid "Lateral"
+msgstr "Бічний"
+
+#: public/editor-build/259-wp/texts.php:657
+msgid "Last Name"
+msgstr "Прізвище"
+
+#: public/editor-build/259-wp/texts.php:642
+msgid "Item"
+msgstr "Елемент"
+
+#: public/editor-build/259-wp/texts.php:637
+msgid "Invalid api data"
+msgstr "Недійсні дані api"
+
+#: public/editor-build/259-wp/texts.php:635
+msgid "Intro"
+msgstr "Вступ"
+
+#: public/editor-build/259-wp/texts.php:622
+msgid "Input"
+msgstr "Ввід"
+
+#: public/editor-build/259-wp/texts.php:621
+msgid "Inline"
+msgstr "Рядки"
+
+#: public/editor-build/259-wp/texts.php:613
+msgid "Incorrect username or password"
+msgstr "Неправильне ім'я користувача чи пароль"
+
+#: public/editor-build/259-wp/texts.php:608
+msgid "Include By"
+msgstr "Включно з"
+
+#: public/editor-build/259-wp/texts.php:603
+msgid "Import This Story"
+msgstr "Імпортувати цю історію"
+
+#: public/editor-build/259-wp/texts.php:601
+msgid "Import New Popup"
+msgstr "Імпортувати новий елемент, що спливає"
+
+#: public/editor-build/259-wp/texts.php:600
+msgid "Import New Layout"
+msgstr "Імпортувати нову розмітку"
+
+#: public/editor-build/259-wp/texts.php:599
+msgid "Import New Block"
+msgstr "Імпортувати новий блок"
+
+#: public/editor-build/259-wp/texts.php:597
+msgid "Image Test"
+msgstr "Тест зображення"
+
+#: public/editor-build/259-wp/texts.php:594
+msgid "If you need to increase max upload size please contact your hosting."
+msgstr "Якщо вам необхідно збільшити максимальний розмір завантаження, будь ласка, зверніться до вашого хостингу."
+
+#: public/editor-build/259-wp/texts.php:570
+msgid "Horizontal Offset"
+msgstr "Горизонтальне зміщення"
+
+#: public/editor-build/259-wp/texts.php:564
+msgid "Hide Hidden Elements"
+msgstr "Приховати приховані елементи"
+
+#: public/editor-build/259-wp/texts.php:559
+msgid "Hero"
+msgstr "Герой"
+
+#: public/editor-build/259-wp/texts.php:556
+msgid "Health / Beauty"
+msgstr "Здоров'я / Краса"
+
+#: public/editor-build/259-wp/texts.php:551
+msgid "Head"
+msgstr "Заголовок"
+
+#: public/editor-build/259-wp/texts.php:549
+msgid "Handle"
+msgstr "Хендл"
+
+#: public/editor-build/259-wp/texts.php:528
+msgid "Global Popups"
+msgstr "Загальні елементи, що спливають"
+
+#: public/editor-build/259-wp/texts.php:525
+msgid "Get a PRO plan"
+msgstr "Отримати план PRO"
+
+#: public/editor-build/259-wp/texts.php:519
+msgid "Gaming"
+msgstr "Азартні ігри"
+
+#: public/editor-build/259-wp/texts.php:518
+msgid "Gallery Tags"
+msgstr "Позначки галереї"
+
+#: public/editor-build/259-wp/texts.php:515
+msgid "Full name"
+msgstr "Повне ім'я"
+
+#: public/editor-build/259-wp/texts.php:510
+msgid "From Name"
+msgstr "Від імені"
+
+#: public/editor-build/259-wp/texts.php:509
+msgid "From Email"
+msgstr "З імейлу"
+
+#: public/editor-build/259-wp/texts.php:505
+msgid "Forms"
+msgstr "Форми"
+
+#: public/editor-build/259-wp/texts.php:503
+msgid "Form Fields"
+msgstr "Поля форми"
+
+#: public/editor-build/259-wp/texts.php:501
+msgid "Footers"
+msgstr "Підвали"
+
+#: public/editor-build/259-wp/texts.php:492
+msgid "Followers"
+msgstr "Стежать"
+
+#: public/editor-build/259-wp/texts.php:491
+msgid "Follow"
+msgstr "Стежити"
+
+#: public/editor-build/259-wp/texts.php:484
+msgid "First Name"
+msgstr "Ім’я"
+
+#: public/editor-build/259-wp/texts.php:458
+msgid "Failed to upload file. Please upload a valid JPG, PNG, SVG or GIF image."
+msgstr "Не вдалося завантажити файл. Будь ласка, завантажте дійсне зображення JPG, PNG, SVG чи GIF."
+
+#: public/editor-build/259-wp/texts.php:457
+msgid "Failed to update page"
+msgstr "Не вдалося оновити сторінку"
+
+#: public/editor-build/259-wp/texts.php:456
+msgid "Failed to reset password"
+msgstr "Не вдалося скинути пароль"
+
+#: public/editor-build/259-wp/texts.php:455
+msgid "Failed to fetch api data"
+msgstr "Не вдалося отримати дані api"
+
+#: public/editor-build/259-wp/texts.php:443
+msgid "Extra Light"
+msgstr "Дуже світлий"
+
+#: public/editor-build/259-wp/texts.php:441
+msgid "Extra Bold"
+msgstr "Дуже жирний"
+
+#: public/editor-build/259-wp/texts.php:440
+msgid "Export All Popups"
+msgstr "Експортувати всі елементи, що спливають"
+
+#: public/editor-build/259-wp/texts.php:439
+msgid "Export All Layouts"
+msgstr "Експортувати всі розмітки"
+
+#: public/editor-build/259-wp/texts.php:438
+msgid "Export All Blocks"
+msgstr "Експортувати всі блоки"
+
+#: public/editor-build/259-wp/texts.php:436
+msgid "Exclude By"
+msgstr "Виключити за"
+
+#: public/editor-build/259-wp/texts.php:422
+msgid "Enter the allowed file types, separated by a comma (jpg, gif, pdf, etc)."
+msgstr "Вкажіть дозволені типи файлів через кому (jpg, gif, pdf тощо)."
+
+#: public/editor-build/259-wp/texts.php:416
+msgid "Enable tags"
+msgstr "Увімкнути позначки"
+
+#: public/editor-build/259-wp/texts.php:413
+msgid "Enable Tags"
+msgstr "Увімкнути позначки"
+
+#: public/editor-build/259-wp/texts.php:407
+msgid "Email to recover password cannot be empty"
+msgstr "Електронний лист для відновлення паролю не може бути порожнім"
+
+#: public/editor-build/259-wp/texts.php:398
+msgid "Education"
+msgstr "Освіта"
+
+#: public/editor-build/259-wp/texts.php:386
+msgid "Download this block"
+msgstr "Завантажити цей блок"
+
+#: public/editor-build/259-wp/texts.php:377
+msgid "Don't have tags"
+msgstr "Не має позначок"
+
+#: public/editor-build/259-wp/texts.php:376
+msgid "Don't have items"
+msgstr "Не має елементів"
+
+#: public/editor-build/259-wp/texts.php:374
+msgid "Disqus"
+msgstr "Disqus"
+
+#: public/editor-build/259-wp/texts.php:369
+msgid "Display Close Button"
+msgstr "Відображати кнопку \"Закрити\""
+
+#: public/editor-build/259-wp/texts.php:349
+msgid "Default Roles"
+msgstr "Ролі за замовчуванням"
+
+#: public/editor-build/259-wp/texts.php:338
+msgid "Custom Video"
+msgstr "Користувацьке відео"
+
+#: public/editor-build/259-wp/texts.php:337
+msgid "Custom Text"
+msgstr "Користувацький текст"
+
+#: public/editor-build/259-wp/texts.php:333
+msgid "Custom Attributes"
+msgstr "Користувацькі атрибути"
+
+#: public/editor-build/259-wp/texts.php:328
+msgid "Create your own"
+msgstr "Створіть свій власний"
+
+#: public/editor-build/259-wp/texts.php:326
+msgid "Create a menu"
+msgstr "Створіть меню"
+
+#: public/editor-build/259-wp/texts.php:325
+msgid "Create Account & Connect"
+msgstr "Створити обліковий запис та підключитися"
+
+#: public/editor-build/259-wp/texts.php:317
+msgid "Could not switch to draft"
+msgstr "Неможливо перейти до чернетки"
+
+#: public/editor-build/259-wp/texts.php:315
+msgid "Could not publish or save page"
+msgstr "Неможливо опублікувати чи зберегти сторінку"
+
+#: public/editor-build/259-wp/texts.php:313
+msgid "Could not download Saved block"
+msgstr "Неможливо завантажити збережений блок"
+
+#: public/editor-build/259-wp/texts.php:312
+msgid "Could not download Saved Popup"
+msgstr "Неможливо завантажити збережений елемент, що спливає"
+
+#: public/editor-build/259-wp/texts.php:311
+msgid "Could not download Saved Layout"
+msgstr "Неможливо завантажити збережену розмітку"
+
+#: public/editor-build/259-wp/texts.php:310
+msgid "Could not Create Saved Popup"
+msgstr "Неможливо створити збережений елемент, що спливає"
+
+#: public/editor-build/259-wp/texts.php:309
+msgid "Could not Create Saved Block"
+msgstr "Неможливо створити збережений блок"
+
+#: public/editor-build/259-wp/texts.php:308
+msgid "Could not Create Global Popup"
+msgstr "Неможливо створити загальний елемент, що спливає"
+
+#: public/editor-build/259-wp/texts.php:307
+msgid "Could not Create Global Block"
+msgstr "Неможливо створити загальний блок"
+
+#: public/editor-build/259-wp/texts.php:295
+msgid "Content Gap"
+msgstr "Проміжок у вмісті"
+
+#: public/editor-build/259-wp/texts.php:288
+msgid "Conditions"
+msgstr "Умови"
+
+#: public/editor-build/259-wp/texts.php:1423
+msgid "required"
+msgstr "необхідне"
+
+#: public/editor-build/259-wp/texts.php:1401
+msgid "You must be have one font added"
+msgstr "У вас повинен бути доданий один шрифт"
+
+#: public/editor-build/259-wp/texts.php:1400
+msgid "You have successfully connect the form with"
+msgstr "Ви успішно підключили форму до"
+
+#: public/editor-build/259-wp/texts.php:1367
+msgid "WOFF2 File"
+msgstr "Файл WOFF2"
+
+#: public/editor-build/259-wp/texts.php:1366
+msgid "WOFF File"
+msgstr "Файл WOFF"
+
+#: public/editor-build/259-wp/texts.php:1355
+msgid "Vertical Align"
+msgstr "Вертикальне вирівнювання"
+
+#: public/editor-build/259-wp/texts.php:1352
+msgid "Verification process failed, please make sure you have done the following three things and try again in a few minutes."
+msgstr "Помилка процесу перевірки. Будь ласка, переконайтеся, що ви виконали наступні три речі, і повторіть спробу за кілька хвилин."
+
+#: public/editor-build/259-wp/texts.php:1325
+msgid "Upgrade to PRO to use this story"
+msgstr "Щоб використати цю історію, оновіть до PRO"
+
+#: public/editor-build/259-wp/texts.php:1297
+msgid "UPLOAD FONT"
+msgstr "ЗАВАНТАЖИТИ ШРИФТ"
+
+#: public/editor-build/259-wp/texts.php:1296
+msgid "UPLOAD"
+msgstr "ЗАВАНТАЖИТИ"
+
+#: public/editor-build/259-wp/texts.php:1262
+msgid "Tip: You can browse the Google font library"
+msgstr "Порада: Ви можете переглянути бібліотеку шрифтів Google"
+
+#: public/editor-build/259-wp/texts.php:1206
+msgid "TTF File"
+msgstr "Файл TTF"
+
+#: public/editor-build/259-wp/texts.php:1186
+msgid "Subject"
+msgstr "Тема"
+
+#: public/editor-build/259-wp/texts.php:1144
+msgid "Some integrations are available only in PRO"
+msgstr "Деякі інтеграції доступні тільки в PRO"
+
+#: public/editor-build/259-wp/texts.php:1126
+msgid "Skin"
+msgstr "Обкладинка"
+
+#: public/editor-build/259-wp/texts.php:1108
+msgid "Show Social Context"
+msgstr "Показати контекст соцмереж"
+
+#: public/editor-build/259-wp/texts.php:1103
+msgid "Show Meta Data"
+msgstr "Показати метадані"
+
+#: public/editor-build/259-wp/texts.php:1092
+msgid "Shortcuts"
+msgstr "Ярлики"
+
+#: public/editor-build/259-wp/texts.php:1051
+msgid "Search element"
+msgstr "Шукати елемент"
+
+#: public/editor-build/259-wp/texts.php:1025
+msgid "SELECT LIST"
+msgstr "ВИБРАТИ СПИСОК"
+
+#: public/editor-build/259-wp/texts.php:1023
+msgid "SELECT ACCOUNT"
+msgstr "ВИБРАТИ ОБЛІКОВИЙ ЗАПИС"
+
+#: public/editor-build/259-wp/texts.php:977
+msgid "Replace global styling"
+msgstr "Замінити загальний стиль"
+
+#: public/editor-build/259-wp/texts.php:872
+msgid "Port"
+msgstr "Порт"
+
+#: public/editor-build/259-wp/texts.php:849
+msgid "Paste Style"
+msgstr "Вставити стиль"
+
+#: public/editor-build/259-wp/texts.php:825
+msgid "Outset"
+msgstr "Назовні"
+
+#: public/editor-build/259-wp/texts.php:804
+msgid "Number of posts"
+msgstr "Кількість записів"
+
+#: public/editor-build/259-wp/texts.php:793
+msgid "Nothing here, please refine your search."
+msgstr "Нічого не знайдено, будь ласка, уточніть пошук."
+
+#: public/editor-build/259-wp/texts.php:787
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: public/editor-build/259-wp/texts.php:785
+msgid "Not Required"
+msgstr "Не обов'язково"
+
+#: public/editor-build/259-wp/texts.php:729
+msgid "Menu order"
+msgstr "Порядок меню"
+
+#: public/editor-build/259-wp/texts.php:709
+msgid "Mask"
+msgstr "Маска"
+
+#: public/editor-build/259-wp/texts.php:683
+msgid "Lists are empty. Please add a new list and try again."
+msgstr "Списки порожні. Будь ласка, додайте новий список та спробуйте знову."
+
+#: public/editor-build/259-wp/texts.php:632
+msgid "Inset"
+msgstr "Всередину"
+
+#: public/editor-build/259-wp/texts.php:623
+msgid "Inputted a valid site key"
+msgstr "Введено дійсний ключ сайту"
+
+#: public/editor-build/259-wp/texts.php:612
+msgid "Incorrect"
+msgstr "Неправильний"
+
+#: public/editor-build/259-wp/texts.php:569
+msgid "Horizontal Align"
+msgstr "Горизонтальне вирівнювання"
+
+#: public/editor-build/259-wp/texts.php:498
+msgid "Fonts"
+msgstr "Шрифти"
+
+#: public/editor-build/259-wp/texts.php:496
+msgid "Font name"
+msgstr "Назва шрифту"
+
+#: public/editor-build/259-wp/texts.php:494
+msgid "Font Name is Required"
+msgstr "Назва шрифту обов'язкова"
+
+#: public/editor-build/259-wp/texts.php:469
+msgid "Fields are empty. Please add fields and try again."
+msgstr "Поля порожні. Будь ласка, додайте поля та спробуйте знову."
+
+#: public/editor-build/259-wp/texts.php:468
+msgid "Fields are empty"
+msgstr "Поля порожні"
+
+#: public/editor-build/259-wp/texts.php:451
+msgid "Facebook Group"
+msgstr "Фейсбук-група"
+
+#: public/editor-build/259-wp/texts.php:447
+msgid "FORM FIELDS"
+msgstr "ПОЛЯ ФОРМИ"
+
+#: public/editor-build/259-wp/texts.php:446
+msgid "FONT VARIATION"
+msgstr "ВАРІАЦІЯ ШРИФТУ"
+
+#: public/editor-build/259-wp/texts.php:445
+msgid "FIELDS"
+msgstr "ПОЛЯ"
+
+#: public/editor-build/259-wp/texts.php:425
+msgid "Established a stable internet connection"
+msgstr "Встановлено стабільний інтернет-зв'язок"
+
+#: public/editor-build/259-wp/texts.php:417
+msgid "Encryption"
+msgstr "Шифрування"
+
+#: public/editor-build/259-wp/texts.php:406
+msgid "Email confirmation to join the list"
+msgstr "Підтвердження на електронну пошту для приєднання до списку"
+
+#: public/editor-build/259-wp/texts.php:405
+msgid "Email To"
+msgstr "Надіслати"
+
+#: public/editor-build/259-wp/texts.php:395
+msgid "EOT File"
+msgstr "Файл EOT"
+
+#: public/editor-build/259-wp/texts.php:391
+msgid "Duplicate Account"
+msgstr "Дублювати обліковий запис"
+
+#: public/editor-build/259-wp/texts.php:357
+msgid "Deselected the “Verify the origin of reCAPTCHA solutions” checkbox within your Google account."
+msgstr "Знято прапорець \"Перевіряти походження рішень reCAPTCHA\" у вашому обліковому записі Google."
+
+#: public/editor-build/259-wp/texts.php:340
+msgid "DELETE"
+msgstr "ВИДАЛИТИ"
+
+#: public/editor-build/259-wp/texts.php:327
+msgid "Create a new list"
+msgstr "Створити новий список"
+
+#: public/editor-build/259-wp/texts.php:291
+msgid "Connect a new account"
+msgstr "Підключити новий обліковий запис"
+
+#: public/editor-build/259-wp/texts.php:639
+msgid "It's a sample"
+msgstr "Це зразок"
+
+#: public/editor-build/259-wp/texts.php:389
+msgid "Drawer Position"
+msgstr "Позиція панелі"
+
+#: public/editor-build/259-wp/texts.php:1415
+msgid "in your WordPress admin"
+msgstr "у вашій адміністративній панелі WordPress"
+
+#: public/editor-build/259-wp/texts.php:1059
+msgid "Select a Menu"
+msgstr "Оберіть меню"
+
+#: public/editor-build/259-wp/texts.php:699
+msgid "Make it Hamburger"
+msgstr "Зробити гамбургером"
+
+#: public/editor-build/259-wp/texts.php:375
+msgid "Dividers"
+msgstr "Розділювачі"
+
+#: public/editor-build/259-wp/texts.php:700
+msgid "Make it Nofollow"
+msgstr "Зробити так, щоб не стежили"
+
+#: public/editor-build/259-wp/texts.php:1267
+msgid "Toggle Menu"
+msgstr "Переключити меню"
+
+#: public/editor-build/259-wp/texts.php:834
+msgid "Page Template"
+msgstr "Шаблон сторінки"
+
+#: public/editor-build/259-wp/texts.php:1294
+msgid "Type to search"
+msgstr "Введіть для пошуку"
+
+#: public/editor-build/259-wp/texts.php:527
+msgid "Global Blocks"
+msgstr "Загальні блоки"
+
+#: public/editor-build/259-wp/texts.php:789
+msgid "Nothing here yet, make a global popup first."
+msgstr "Тут ще нічого немає, спочатку створіть загальний елемент, що спливає."
+
+#: public/editor-build/259-wp/texts.php:792
+msgid "Nothing here yet, save a popup first."
+msgstr "Тут ще нічого немає, спочатку збережіть елемент, що спливає."
+
+#: public/editor-build/259-wp/texts.php:602
+msgid "Import This Layout"
+msgstr "Імпортувати цю розмітку"
+
+#: public/editor-build/259-wp/texts.php:452
+msgid "Facebook Page"
+msgstr "Фейсбук-сторінка"
+
+#: public/editor-build/259-wp/texts.php:450
+msgid "Facebook Embed"
+msgstr "Facebook вставка"
+
+#: public/editor-build/259-wp/texts.php:449
+msgid "Facebook Button"
+msgstr "Кнопка \"Фейсбук\""
+
+#: public/editor-build/259-wp/texts.php:1098
+msgid "Show Friend's Faces"
+msgstr "Показати обличчя друзів"
+
+#: public/editor-build/259-wp/texts.php:563
+msgid "Hide Cover Photo"
+msgstr "Приховати фото обкладинки"
+
+#: public/editor-build/259-wp/texts.php:1341
+msgid "Use Small Header"
+msgstr "Використовувати малий заголовок"
+
+#: public/editor-build/259-wp/texts.php:733
+msgid "Messages"
+msgstr "Повідомлення"
+
+#: public/editor-build/259-wp/texts.php:432
+msgid "Events"
+msgstr "Події"
+
+#: public/editor-build/259-wp/texts.php:1256
+msgid "Timeline"
+msgstr "Хронологія"
+
+#: public/editor-build/259-wp/texts.php:514
+msgid "Full Screen"
+msgstr "Повний екран"
+
+#: public/editor-build/259-wp/texts.php:609
+msgid "Include Full Post"
+msgstr "Включити повний запис"
+
+#: public/editor-build/259-wp/texts.php:335
+msgid "Custom Page"
+msgstr "Користувацька сторінка"
+
+#: public/editor-build/259-wp/texts.php:331
+msgid "Current Page"
+msgstr "Поточна сторінка"
+
+#: public/editor-build/259-wp/texts.php:1218
+msgid "Target URL"
+msgstr "Цільова URL-адреса"
+
+#: public/editor-build/259-wp/texts.php:1096
+msgid "Show Button Counter"
+msgstr "Показати лічильник кнопки"
+
+#: public/editor-build/259-wp/texts.php:611
+msgid "Include Share Button"
+msgstr "Включити кнопку \"Поділитися\""
+
+#: public/editor-build/259-wp/texts.php:956
+msgid "Recommend"
+msgstr "Рекомендувати"
+
+#: public/editor-build/259-wp/texts.php:670
+msgid "Like"
+msgstr "Вподобання"
+
+#: public/editor-build/259-wp/texts.php:779
+msgid "No matches found"
+msgstr "Нічого не знайдено"
+
+#: public/editor-build/259-wp/texts.php:1172
+msgid "Static"
+msgstr "Статичний"
+
+#: public/editor-build/259-wp/texts.php:812
+msgid "Open in Lightbox"
+msgstr "Відкрити в Lightbox"
+
+#: public/editor-build/259-wp/texts.php:987
+msgid "Reverse Columns"
+msgstr "Зворотні стовпці"
+
+#: public/editor-build/259-wp/texts.php:1080
+msgid "Shadow"
+msgstr "Тінь"
+
+#: public/editor-build/259-wp/texts.php:394
+msgid "Dynamic Content"
+msgstr "Динамічний вміст"
+
+#: public/editor-build/259-wp/texts.php:1175
+msgid "Sticky"
+msgstr "Приліплена"
+
+#: public/editor-build/259-wp/texts.php:576
+msgid "Hover Transition"
+msgstr "Перехід при наведенні"
+
+#: public/editor-build/259-wp/texts.php:415
+msgid "Enable on Tablet"
+msgstr "Увімкнути на планшеті"
+
+#: public/editor-build/259-wp/texts.php:366
+msgid "Disable on Tablet"
+msgstr "Вимкнути на планшеті"
+
+#: public/editor-build/259-wp/texts.php:850
+msgid "Paste Styles"
+msgstr "Вставити стилі"
+
+#: public/editor-build/259-wp/texts.php:1418
+msgid "layout"
+msgstr "розмітка"
+
+#: public/editor-build/259-wp/texts.php:1419
+msgid "layouts"
+msgstr "розмітки"
+
+#: public/editor-build/259-wp/texts.php:952
+msgid "Real-Estate"
+msgstr "Нерухомість"
+
+#: public/editor-build/259-wp/texts.php:828
+msgid "Overlay "
+msgstr "Накладання"
+
+#: public/editor-build/259-wp/texts.php:316
+msgid "Could not save layout"
+msgstr "Неможливо зберегти розмітку "
+
+#: import/main.php:52 public/editor-build/259-wp/texts.php:1049
+msgid "Search"
+msgstr "Пошук"
+
+#: public/editor-build/259-wp/texts.php:269
+msgid "Close"
+msgstr "Закрити"
+
+#: admin/settings.php:171
+msgid "General"
+msgstr "Загальне"
+
+#: public/editor-build/259-wp/texts.php:126
+msgid "Archives"
+msgstr "Архіви"
+
+#: public/editor-build/259-wp/texts.php:279
+msgid "Color"
+msgstr "Колір"
+
+#: public/editor-build/259-wp/texts.php:179
+msgid "Black"
+msgstr "Чорний"
+
+#: public/editor-build/259-wp/texts.php:196
+msgid "Bottom"
+msgstr "Низ"
+
+#: import/main.php:48
+msgid "Live Preview"
+msgstr "Попередній перегляд"
+
+#: public/editor-build/259-wp/texts.php:151
+msgid "Back"
+msgstr "Назад"
+
+#: public/editor-build/259-wp/texts.php:69
+msgid "Action"
+msgstr "Дія"
+
+#: admin/views/dashboard.php:17
+msgid "Help"
+msgstr "Допомога"
+
+#: public/editor-build/259-wp/texts.php:238
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: admin/templates.php:200
+msgctxt "post type general name"
+msgid "Templates"
+msgstr "Шаблони"
+
+#: admin/templates.php:201
+msgctxt "post type singular name"
+msgid "Template"
+msgstr "Шаблон"
+
+#: admin/templates.php:205
+msgid "Add New Template"
+msgstr "Додати новий шаблон"
+
+#: admin/templates.php:206
+msgid "New Template"
+msgstr "Новий шаблон"
+
+#: admin/templates.php:207
+msgid "Edit Template"
+msgstr "Редагувати шаблон"
+
+#: admin/templates.php:179 admin/templates.php:208
+msgid "View Template"
+msgstr "Переглянути шаблон"
+
+#: admin/templates.php:209
+msgid "Templates"
+msgstr "Шаблони"
+
+#: admin/templates.php:210
+msgid "Search Templates"
+msgstr "Шукати шаблони"
+
+#: editor/auto-save-aware.php:42
+msgid "There is nothing to save. The autosave and the post content are the same."
+msgstr "Нічого зберегти. Вміст запису не відрізняється від автоматично збереженої версії."
+
+#: maintenance-mode.php:117
+msgid "Edit Page"
+msgstr "Редагувати сторінку"
+
+#: admin/views/settings/maintenance.php:16
+msgid "Maintenance"
+msgstr "Обслуговування"
+
+#: public/editor-build/259-wp/texts.php:266
+msgid "Clear"
+msgstr "Очистити"
+
+#: public/editor-build/259-wp/texts.php:149
+msgid "Autoplay"
+msgstr "Автозапуск"
+
+#: public/editor-build/259-wp/texts.php:141
+msgid "Audio"
+msgstr "Аудіо"
+
+#: public/editor-build/259-wp/texts.php:187
+msgid "Blocks"
+msgstr "Блоки"
+
+#: editor.php:597
+msgid "Original"
+msgstr "Оригінальний"
+
+#: public/editor-build/259-wp/texts.php:265
+msgid "Classic"
+msgstr "Класичний"
+
+#: admin/templates.php:222
+msgid "templates"
+msgstr "шаблони"
+
+#: admin/views/notice.php:14
+msgid "Dismiss this notice"
+msgstr "Закрити це повідомлення"
+
+#: public/editor-build/259-wp/texts.php:285
+msgid "Comment"
+msgstr "Коментар"
+
+#: public/editor-build/259-wp/texts.php:137
+msgid "Aside"
+msgstr "Замітка"
+
+#: public/editor-build/259-wp/texts.php:150
+msgid "Avatar"
+msgstr "Аватар"
+
+#: public/editor-build/259-wp/texts.php:239
+msgid "Captions"
+msgstr "Підзаголовки"
+
+#: public/editor-build/259-wp/texts.php:205
+msgid "Breadcrumbs"
+msgstr "Навігаційні стежки"
+
+#: admin/views/dashboard.php:12 public/editor-build/259-wp/texts.php:188
+msgid "Blog"
+msgstr "Блог"
+
+#: admin/views/settings/maintenance.php:14
+msgid "Disabled"
+msgstr "Вимкнено"
+
+#: admin/form-entries.php:143
+msgid "Disable"
+msgstr "Відключити"
+
+#: public/editor-build/259-wp/texts.php:134
+msgid "Article"
+msgstr "Стаття"
+
+#: admin/views/dashboard-news.php:10
+msgid "New"
+msgstr "Нове"
+
+#: admin/rules/api.php:463
+msgid "From"
+msgstr "З"
+
+#: public/editor-build/259-wp/texts.php:71
+msgid "Active"
+msgstr "Діючий"
+
+#: admin/settings.php:177
+msgid "Role Manager"
+msgstr "Менеджер ролей"
+
+#: admin/templates.php:166
+msgid "Template saved."
+msgstr "Шаблон збережено."
+
+#: admin/main.php:252 admin/settings.php:159 import/main.php:54
+msgid "Go Pro"
+msgstr "Перейти на Pro"
+
+#: import/main.php:50 public/editor-build/259-wp/texts.php:506
+msgid "Free"
+msgstr "Безкоштовно"
+
+#: admin/feedback.php:44
+msgid "I already did"
+msgstr "Це вже зроблено"
+
+#: import/main.php:51
+msgid "Pro"
+msgstr "Про"
+
+#: admin/templates.php:120 public/editor-build/259-wp/texts.php:125
+msgid "Archive"
+msgstr "Архів"
+
+#: admin/feedback.php:36
+msgid "Ok, you deserve it"
+msgstr "Добре, ви на це заслуговуєте"
+
+#: admin/feedback.php:40
+msgid "Nope, maybe later"
+msgstr "Ні, можливо пізніше"
+
+#: import/main.php:47 public/editor-build/259-wp/texts.php:107
+msgid "All"
+msgstr "Всі"
+
+#: public/editor-build/259-wp/texts.php:180
+msgid "Blank"
+msgstr "Порожній"
+
+#: import/parsers/simplexml.php:26 import/parsers/simplexml.php:34
+msgid "There was an error when reading this WXR file"
+msgstr "Під час читання цього файлу WXR сталася помилка"
+
+#: import/parser.php:51
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "Деталі показано вище. Зараз імпортер спробує знову з іншим парсером..."
+
+#: import/parsers/regex.php:95 import/parsers/simplexml.php:38
+#: import/parsers/simplexml.php:43 import/parsers/xml.php:69
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Скоріш за все, це не файл WXR; номер версії WXR відсутній або неправильний"
+
+#: admin/feedback.php:132
+msgid "Other"
+msgstr "Інше"
+
+#: admin/membership/membership.php:72 admin/views/settings/maintenance.php:26
+msgid "Logged In"
+msgstr "Авторизовані"
+
+#: admin/settings.php:142
+msgid "Get Help"
+msgstr "Отримати допомогу"
+
+#: admin/dashboard-widget.php:94
+msgid "%1$s failed to extract the latest news. Please contact our %2$ssupport%3$s."
+msgstr "%1$s невдалося отримати останні новини. Будь ласка, зверніться до нашої %2$sпідтримки%3$s."
+
+#: import/importer.php:141
+msgid "Failed to import category %s"
+msgstr "Не вдалося імпортувати категорію %s"
+
+#: import/importer.php:183
+msgid "Failed to import post tag %s"
+msgstr "Не вдалося імпортувати позначку запису %s"
+
+#: import/importer.php:235
+msgid "Failed to import %s %s"
+msgstr "Не вдалося імпортувати %s %s"
+
+#: import/importer.php:325
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Не вдалося імпортувати &#8220;%s&#8221;: Недійсний тип запису %s"
+
+#: import/importer.php:422
+msgid "Failed to import %s \"%s\". Error: %s"
+msgstr "Не вдалося імпортувати %s \"%s\". Помилка: %s"
+
+#: import/importer.php:458
+msgid "Failed to import %s %s. Error: %s"
+msgstr "Не вдалося імпортувати %s %s. Помилка: %s"
+
+#: import/importer.php:600
+msgid "Menu item skipped due to missing menu slug."
+msgstr "Елемент меню пропущено через відсутність частини посилання меню."
+
+#: import/importer.php:606
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Елемент меню пропущено через недійсну частину посилання меню: %s"
+
+#: import/importer.php:677
+msgid "Invalid file type"
+msgstr "Недійсний тип файла"
+
+#: import/importer.php:718
+msgid "The uploaded file could not be moved"
+msgstr "Завантажений файл неможливо перемістити"
+
+#: import/main.php:34 import/main.php:35
+msgid "Starter Templates"
+msgstr "Стартові шаблони"
+
+#: import/main.php:49
+msgid "Install"
+msgstr "Встановити"
+
+#: import/main.php:56
+msgid "Bad news, your starter template was not installed. Something went wrong and we couldn’t do it. Please contact us."
+msgstr "Погані новини: ваш стартовий шаблон не встановлений. Щось пішло не так, і ми не змогли його встановити. Будь ласка, зв'яжіться з нами."
+
+#: import/main.php:57
+msgid "Ok"
+msgstr "Ok"
+
+#: import/main.php:58
+msgid "Template Successfully Installed"
+msgstr "Шаблон успішно встановлено"
+
+#: import/main.php:60
+msgid "Thank You!"
+msgstr "Дякуємо!"
+
+#: import/main.php:61
+msgid "Installing Starter Template"
+msgstr "Встановлення стартового шаблону"
+
+#: import/main.php:62
+msgid "Please don’t close this window until the installation is finished. This might take up to a couple of minutes (five min, usually less)."
+msgstr "Будь ласка, не закривайте це вікно до завершення встановлення. Це може тривати кілька хвилин (п'ять хвилин, зазвичай менше)."
+
+#: import/main.php:63
+msgid "Keep existing content"
+msgstr "Зберегти наявний вміст"
+
+#: import/main.php:64
+msgid "Choose this option if you want to keep your current content. If you are using %s, some of the global options might overlap."
+msgstr "Виберіть цей параметр, якщо хочете зберегти поточний вміст. Якщо ви використовуєте %s, деякі загальні параметри можуть накладатися."
+
+#: import/main.php:65
+msgid "Install Template"
+msgstr "Встановити шаблон"
+
+#: import/main.php:66
+msgid "Delete existing content"
+msgstr "Видалити наявний вміст"
+
+#: import/main.php:67
+msgid "Choose this option if you want to start fresh and delete your current content. A backup is advisable, there is no turning back from this."
+msgstr "Виберіть цей параметр, якщо хочете почати спочатку та видалити поточний вміст. Рекомендуємо зробити резервну копію, дороги назад немає."
+
+#: import/main.php:68
+msgid "Deletes your current content"
+msgstr "Видаляє ваш поточний вміст"
+
+#: import/main.php:90
+msgid "Invalid demo id. Please contact our support."
+msgstr "Недійсний ідентифікатор демо. Будь ласка, зверніться до команди підтримки."
+
+#: import/main.php:101
+msgid "Template imported successfully."
+msgstr "Шаблон успішно імпортовано."
+
+#: public/editor-build/259-wp/texts.php:190
+msgid "Blog Title"
+msgstr "Назва блогу"
+
+#: public/editor-build/259-wp/texts.php:273
+msgid "Collaborate"
+msgstr "Співпрацювати"
+
+#: public/editor-build/259-wp/texts.php:278
+msgid "Collection Title"
+msgstr "Назва колекції"
+
+#: public/editor-build/259-wp/texts.php:111
+msgid "All fields marked with an asterisk ( * ) must be mapped."
+msgstr "Усі поля, позначні зірочкою ( * ), мають бути зіставлені."
+
+#: admin/views/settings/general.php:43
+msgid "Enable JSON uploads"
+msgstr "Увімкнути завантаження JSON"
+
+#: admin/views/settings/general.php:27
+msgid "Enable SVG uploads"
+msgstr "Увімкнути завантаження SVG"
+
+#: public/editor-build/259-wp/texts.php:275
+msgid "Collapsible"
+msgstr "Розбірний"
+
+#: public/editor-build/259-wp/texts.php:271
+msgid "Cloud"
+msgstr "Хмара"
+
+#: public/editor-build/259-wp/texts.php:270
+msgid "Close Popup"
+msgstr "Закрити елемент, що спливає"
+
+#: public/editor-build/259-wp/texts.php:268
+msgid "Click Outside to Close"
+msgstr "Натисніть зовні, щоб закрити"
+
+#: public/editor-build/259-wp/texts.php:267
+msgid "Clear Layout"
+msgstr "Очистити розмітку"
+
+#: public/editor-build/259-wp/texts.php:263
+msgid "Children"
+msgstr "Діти"
+
+#: public/editor-build/259-wp/texts.php:260
+msgid "Checkbox"
+msgstr "Прапорець"
+
+#: public/editor-build/259-wp/texts.php:259
+msgid "Check your email address"
+msgstr "Перевірте адресу своєї електронної пошти"
+
+#: public/editor-build/259-wp/texts.php:254
+msgid "Cc"
+msgstr "Копія"
+
+#: public/editor-build/259-wp/texts.php:251
+msgid "Categories Tags"
+msgstr "Позначки категорій"
+
+#: public/editor-build/259-wp/texts.php:250
+msgid "Categories Pagination"
+msgstr "Пагінація категорій"
+
+#: public/editor-build/259-wp/texts.php:247
+msgid "Cart Settings"
+msgstr "Налаштування кошика"
+
+#: public/editor-build/259-wp/texts.php:245
+msgid "Cart Items"
+msgstr "Елементи кошика"
+
+#: public/editor-build/259-wp/texts.php:235
+msgid "CTA"
+msgstr "CTA"
+
+#: public/editor-build/259-wp/texts.php:234
+msgid "CSS ID"
+msgstr "Ідентифікатор CSS"
+
+#: public/editor-build/259-wp/texts.php:231
+msgid "CMS"
+msgstr "CMS"
+
+#: public/editor-build/259-wp/texts.php:226
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: public/editor-build/259-wp/texts.php:218
+msgid "Button Size"
+msgstr "Розмір кнопки"
+
+#: public/editor-build/259-wp/texts.php:215
+msgid "Business Hour"
+msgstr "Робочі години"
+
+#: public/editor-build/259-wp/texts.php:214
+msgid "Business"
+msgstr "Бізнес"
+
+#: public/editor-build/259-wp/texts.php:210
+msgid "Bubble"
+msgstr "Бульбашка"
+
+#: public/editor-build/259-wp/texts.php:209
+msgid "Bub. Bg"
+msgstr "Бульбашковий фон"
+
+#: public/editor-build/259-wp/texts.php:208
+msgid "Bub."
+msgstr "Бульб."
+
+#: public/editor-build/259-wp/texts.php:207
+msgid "Btn Color"
+msgstr "Колір кнопки"
+
+#: public/editor-build/259-wp/texts.php:206
+msgid "Btn Bg"
+msgstr "Фон кнопки"
+
+#: public/editor-build/259-wp/texts.php:204
+msgid "Branding"
+msgstr "Брендинг"
+
+#: public/editor-build/259-wp/texts.php:186
+msgid "Block will be synchronized"
+msgstr "Блок буде синхронізований"
+
+#: public/editor-build/259-wp/texts.php:185
+msgid "Block is synchronized"
+msgstr "Блок синхронізований"
+
+#: public/editor-build/259-wp/texts.php:184
+msgid "Block conditions are available only in PRO"
+msgstr "Умови блокування доступні тільки в PRO"
+
+#: public/editor-build/259-wp/texts.php:183
+msgid "Block Name"
+msgstr "Назва блоку"
+
+#: public/editor-build/259-wp/texts.php:177
+msgid "Bg Star"
+msgstr "Фонова зірка"
+
+#: public/editor-build/259-wp/texts.php:174
+msgid "Between"
+msgstr "Між"
+
+#: public/editor-build/259-wp/texts.php:173
+msgid "Bcc"
+msgstr "Bcc"
+
+#: public/editor-build/259-wp/texts.php:156
+msgid "Back to Stories"
+msgstr "Повернутися до історій"
+
+#: public/editor-build/259-wp/texts.php:155
+msgid "Back to Login"
+msgstr "Повернутися до входу"
+
+#: public/editor-build/259-wp/texts.php:148
+msgid "Automotive"
+msgstr "Автомобільний"
+
+#: public/editor-build/259-wp/texts.php:140
+msgid "Attributes"
+msgstr "Атрибути"
+
+#: public/editor-build/259-wp/texts.php:114
+msgid "Alt Title"
+msgstr "Альтернативний заголовок"
+
+#: public/editor-build/259-wp/texts.php:113
+msgid "Allowed File Types"
+msgstr "Дозволені типи файлів"
+
+#: public/editor-build/259-wp/texts.php:106
+msgid "Aligned Right"
+msgstr "Вирівняно по правому краю"
+
+#: public/editor-build/259-wp/texts.php:105
+msgid "Aligned Left"
+msgstr "Вирівняно по лівому краю"
+
+#: public/editor-build/259-wp/texts.php:96
+msgid "Additionals"
+msgstr "Додатки"
+
+#: public/editor-build/259-wp/texts.php:90
+msgid "Add new trigger condition"
+msgstr "Додати нову умову тригера"
+
+#: public/editor-build/259-wp/texts.php:87
+msgid "Add new display condition"
+msgstr "Додати нову умову відображення"
+
+#: public/editor-build/259-wp/texts.php:85
+msgid "Add To Cart"
+msgstr "Додати в кошик"
+
+#: public/editor-build/259-wp/texts.php:83
+msgid "Add Shopify Elements"
+msgstr "Додати елементи Shopify"
+
+#: public/editor-build/259-wp/texts.php:70
+msgid "Activate Tab"
+msgstr "Активувати вкладку"
+
+#: public/editor-build/259-wp/texts.php:67
+msgid "Accordion Tags"
+msgstr "Позначки Accordion"
+
+#: public/editor-build/259-wp/texts.php:66
+msgid "Accordion Items"
+msgstr "Елементи Accordion"
+
+#: public/editor-build/259-wp/texts.php:64
+msgid "Access your Library in any WP install by connecting your Account"
+msgstr "Отримайте доступ до вашої бібліотеки в будь-якому встановленні WP, підключивши свій обліковий запис"
+
+#: public/editor-build/259-wp/texts.php:59
+msgid "? (%s)"
+msgstr "? (%s)"
+
+#: public/editor-build/259-wp/texts.php:6
+msgid "%s Selected"
+msgstr "%s Вибрано"
+
+#: maintenance-mode.php:110
+msgid "Maintenance Mode ON"
+msgstr "Режим технічного обслуговування ввімкнено"
+
+#: editor/block-screenshot-api.php:71
+msgid "Invalid uid string"
+msgstr "Неправильний рядок uid"
+
+#: content/providers/free-provider.php:151
+msgid "Please set a valid product"
+msgstr "Будь ласка, встановіть дійсний товар"
+
+#: content/providers/free-provider.php:115
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s коментар"
+msgstr[1] "%s коментарі"
+msgstr[2] "%s коментарів"
+
+#: brizy.php:92
+msgid "%1$s failed to start. Please contact the support <a href=\"%s\">here</a>."
+msgstr "%1$s не вдалося запустити. Будь ласка, зверніться до команди підтримки <a href=\"%s\">here</a>."
+
+#: system-checks.php:37
+msgid "%1$s requires PHP version 5.6+, you currently running PHP %2$s. <b>%3$s IS NOT RUNNING.</b>"
+msgstr "%1$s вимагає версії PHP 5.6+, у вас зараз запущена PHP %2$s. <b>%3$s НЕ ВИКОНУЄТЬСЯ.</b>"
+
+#: admin/views/settings/maintenance.php:66
+msgid "Whitelisted IP Addresses"
+msgstr "Білі списки IP-адрес"
+
+#: admin/views/settings/maintenance.php:60
+msgid "You have no pages. Please %s create %s one."
+msgstr "У вас немає сторінок. Будь ласка, %s створіть %s одну."
+
+#: admin/views/settings/maintenance.php:54
+msgid "Select a page"
+msgstr "Виберіть сторінку"
+
+#: admin/views/settings/maintenance.php:49
+msgid "Choose a Page"
+msgstr "Виберіть сторінку"
+
+#: admin/views/membership/checklist.php:12
+#: admin/views/settings/maintenance.php:33
+#: public/editor-build/259-wp/texts.php:1013
+msgid "Roles"
+msgstr "Ролі"
+
+#: admin/views/settings/maintenance.php:22
+msgid "Who Can Access"
+msgstr "Хто має доступ"
+
+#: admin/views/settings/maintenance.php:15
+msgid "Coming Soon"
+msgstr "Незабаром"
+
+#: admin/views/settings/maintenance.php:10
+msgid "Choose Mode"
+msgstr "Виберіть режим"
+
+#: admin/views/dashboard-posts.php:4
+msgid "Recently Edited"
+msgstr "Нещодавно редаговано"
+
+#: admin/views/dashboard-news.php:4
+msgid "News & Updates"
+msgstr "Новини та оновлення"
+
+#: admin/templates.php:843 admin/templates.php:863
+msgid "Invalid data version."
+msgstr "Недійсна версія даних."
+
+#: admin/templates.php:836
+msgid "Unable to get the rule validator for this post type."
+msgstr "Не вдалося отримати валідатор правил для цього типу запису."
+
+#: admin/templates.php:250 public/editor-build/259-wp/texts.php:370
+msgid "Display Conditions"
+msgstr "Відобразити умови"
+
+#: admin/templates.php:213
+msgid "No Templates found in Trash."
+msgstr "У смітті не знайдено шаблонів."
+
+#: admin/templates.php:212
+msgid "No Templates found."
+msgstr "Не знайдено шаблонів."
+
+#: admin/templates.php:211
+msgid "Parent Templates:"
+msgstr "Батьківські шаблони:"
+
+#: admin/templates.php:203
+msgctxt "add new on admin bar"
+msgid "Template"
+msgstr "Шаблон"
+
+#: admin/templates.php:202
+msgctxt "admin menu"
+msgid "Templates"
+msgstr "Шаблони"
+
+#: admin/templates.php:126
+msgid "Product Archive"
+msgstr "Архів товарів"
+
+#: admin/templates.php:119
+msgid "Single"
+msgstr "Окремий"
+
+#: admin/stories/main.php:60 public/editor-build/259-wp/texts.php:1424
+msgid "stories"
+msgstr "історії"
+
+#: admin/stories/main.php:52
+msgid "No Stories found in Trash."
+msgstr "У смітті не знайдено історій."
+
+#: admin/stories/main.php:51
+msgid "No Stories found."
+msgstr "Не знайдено історій."
+
+#: admin/stories/main.php:50
+msgid "Parent Stories:"
+msgstr "Батьківські історії:"
+
+#: admin/stories/main.php:49
+msgid "Search Stories"
+msgstr "Шукати історії"
+
+#: admin/stories/main.php:48 public/editor-build/259-wp/texts.php:1178
+msgid "Stories"
+msgstr "Історії"
+
+#: admin/stories/main.php:47 admin/stories/main.php:117
+msgid "View Story"
+msgstr "Переглянути історію"
+
+#: admin/stories/main.php:46
+msgid "Edit Story"
+msgstr "Редагувати історію"
+
+#: admin/stories/main.php:45
+msgid "New Story"
+msgstr "Нова історія"
+
+#: admin/stories/main.php:43 admin/stories/main.php:44
+msgid "Add New Story"
+msgstr "Додати нову історію"
+
+#: admin/stories/main.php:42
+msgctxt "add new on admin bar"
+msgid "Story"
+msgstr "Історія"
+
+#: admin/stories/main.php:41
+msgctxt "admin menu"
+msgid "Stories"
+msgstr "Історії"
+
+#: admin/stories/main.php:40
+msgctxt "post type singular name"
+msgid "Story"
+msgstr "Історія"
+
+#: admin/stories/main.php:39
+msgctxt "post type general name"
+msgid "Stories"
+msgstr "Історії"
+
+#: admin/settings.php:183
+msgid "Maintenance Mode"
+msgstr "Режим технічного обслуговування"
+
+#: admin/rules/api.php:560
+msgid "Any child of"
+msgstr "Будь-який нащадок"
+
+#: admin/rules/api.php:544
+msgid "Specific"
+msgstr "Конкретний"
+
+#: admin/rules/api.php:481
+msgid "From any child of"
+msgstr "Від будь-якого нащадка"
+
+#: admin/popups/main.php:116
+msgid "Popup attributes:"
+msgstr "Атрибути елемента, що спливає:"
+
+#: admin/popups/main.php:115
+msgid "No Popups found in Trash."
+msgstr "У смітті не знайдено елементів, що спливають."
+
+#: admin/popups/main.php:114
+msgid "No Popups found."
+msgstr "Не знайдено елементів, що спливають."
+
+#: admin/popups/main.php:113
+msgid "Parent Popups:"
+msgstr "Батьківські елементи, що спливають:"
+
+#: admin/popups/main.php:112
+msgid "Search Popups"
+msgstr "Шукати елементи, що спливають"
+
+#: admin/popups/main.php:110
+msgid "View Popup"
+msgstr "Переглянути елемент, що спливає"
+
+#: admin/popups/main.php:109
+msgid "Edit Popup"
+msgstr "Редагувати елемент, що спливає"
+
+#: admin/popups/main.php:108
+msgid "New Popup"
+msgstr "Новий елемент, що спливає"
+
+#: admin/popups/main.php:107
+msgid "Add New Popup"
+msgstr "Додати новий елемент, що спливає"
+
+#: admin/popups/main.php:105
+msgctxt "add new on admin bar"
+msgid "Popup"
+msgstr "Елемент, що спливає"
+
+#: admin/popups/main.php:104
+msgctxt "admin menu"
+msgid "Popups"
+msgstr "Елементи, що спливають"
+
+#: admin/popups/main.php:103
+msgctxt "post type singular name"
+msgid "Popup"
+msgstr "Елемент, що спливає"
+
+#: admin/popups/main.php:102
+msgctxt "post type general name"
+msgid "Popups"
+msgstr "Елементи, що спливають"
+
+#: admin/settings.php:315
+msgid "Full Access"
+msgstr "Повний доступ"
+
+#: admin/membership/membership.php:89
+msgid "View Page As %s"
+msgstr "Переглянути сторінку як %s"
+
+#: admin/membership/membership.php:79
+msgid "View Page By Roles"
+msgstr "Переглянути сторінку за ролями"
+
+#: admin/main.php:312
+msgid "Skip & Deactivate"
+msgstr "Пропустити та деактивувати"
+
+#: admin/main.php:311
+msgid "Submit & Deactivate"
+msgstr "Надіслати та вимкнути"
+
+#: admin/form-entries.php:345
+msgid "No Leads found in Trash."
+msgstr "У смітті не знайдено лідів."
+
+#: admin/form-entries.php:344
+msgid "No Leads found."
+msgstr "Не знайдено лідів."
+
+#: admin/form-entries.php:343
+msgid "Parent Leads:"
+msgstr "Батьківські ліди:"
+
+#: admin/form-entries.php:342
+msgid "Search Leads"
+msgstr "Шукати ліди"
+
+#: admin/form-entries.php:340
+msgid "View Lead"
+msgstr "Перегляд ліда"
+
+#: admin/form-entries.php:339
+msgid "Edit Lead"
+msgstr "Редагувати лід"
+
+#: admin/form-entries.php:338
+msgid "New Lead"
+msgstr "Новий лід"
+
+#: admin/form-entries.php:337
+msgid "Add New Lead"
+msgstr "Додати новий лід"
+
+#: admin/form-entries.php:335
+msgctxt "add new on admin bar"
+msgid "Lead"
+msgstr "Лід"
+
+#: admin/form-entries.php:334
+msgctxt "admin menu"
+msgid "Leads"
+msgstr "Ліди"
+
+#: admin/form-entries.php:333
+msgctxt "post type singular name"
+msgid "Lead"
+msgstr "Лід"
+
+#: admin/form-entries.php:332
+msgctxt "post type general name"
+msgid "Leads"
+msgstr "Ліди"
+
+#: admin/form-entries.php:200
+msgid "Export to .csv"
+msgstr "Експортувати в .csv"
+
+#: admin/form-entries.php:61
+msgid "Leads details"
+msgstr "Деталі лідів"
+
+#: admin/feedback.php:146
+msgid "If you have a moment, please share why you are deactivating Brizy:"
+msgstr "Якщо у вас є хвилинка, будь ласка, розкажіть, чому ви деактивуєте Brizy:"
+
+#: admin/feedback.php:142
+msgid "Quick Feedback"
+msgstr "Швидкий відгук"
+
+#: admin/feedback.php:133
+msgid "Please share the reason"
+msgstr "Будь ласка, вкажіть причину"
+
+#: admin/feedback.php:129
+msgid "Wait! Don't deactivate Brizy. You have to activate both Brizy and Brizy Pro in order for the plugin to work."
+msgstr "Зачекайте! Не деактивуйте Brizy. Що б плагін працював, вам треба активувати і Brizy, і Brizy Pro."
+
+#: admin/feedback.php:127
+msgid "I have Brizy Pro"
+msgstr "У мене є Brizy Pro"
+
+#: admin/feedback.php:123
+msgid "It's a temporary deactivation"
+msgstr "Це тимчасова деактивація"
+
+#: admin/feedback.php:119
+msgid "I couldn't get the plugin to work"
+msgstr "Мені не вдалося змусити плагін працювати"
+
+#: admin/feedback.php:116
+msgid "Please share which plugin"
+msgstr "Будь ласка, поділіться, який плагін"
+
+#: admin/feedback.php:115
+msgid "I found a better plugin"
+msgstr "Я знайшов кращий плагін"
+
+#: admin/feedback.php:111
+msgid "I no longer need the plugin"
+msgstr "Плагін мені більше не потрібний"
+
+#: admin/feedback.php:32
+msgid "Could you please do us a BIG favor and give it a 5-star rating on WordPress? This would boost our motivation and help other users make a comfortable decision while choosing the Brizy plugin."
+msgstr "Чи не могли б ви зробити нам ВЕЛИКУ послугу і поставити йому 5-зірковий рейтинг на WordPress? Це підвищить нашу мотивацію та допоможе іншим користувачам прийняти комфортне рішення при виборі плагіна Brizy."
+
+#: admin/feedback.php:30
+msgid "Hello! Seems like you are using Brizy to build your website - Thanks a lot!"
+msgstr "Привіт! Здається, ви використовуєте Brizy для створення вашого сайту - Велике спасибі!"
+
+#: admin/dashboard-widget.php:38
+msgid "%s Overview"
+msgstr "Огляд %s"
+
+#: editor/block-screenshot-api.php:81
+msgid "Invalid image content"
+msgstr "Недійсний вміст зображення"
+
+#: editor/block-screenshot-api.php:61
+msgid "Bad request"
+msgstr "Поганий запит"
+
+#: admin/blocks/main.php:108 admin/blocks/main.php:130
+msgid "global block."
+msgstr "загальний блок."
+
+#: admin/templates.php:282
+msgid "Unable to show the rule box."
+msgstr "Неможливо показати вікно правил."
+
+#: admin/views/dashboard.php:23
+msgid "Go PRO"
+msgstr "Перейти на PRO"
+
+#: admin/views/dashboard-news.php:20
+msgid "No News"
+msgstr "Новин немає"
+
+#: admin/main.php:423 admin/views/button.php:25 admin/views/button.php:44
+#: compatibilities/gutenberg.php:92 compatibilities/gutenberg.php:106
+msgid "Edit with %s"
+msgstr "Редагувати за допомогою %s"
+
+#: admin/form-entries.php:120 admin/form-entries.php:341
+#: admin/form-entries.php:353
+msgid "Leads"
+msgstr "Ліди"
+
+#: admin/fonts/main.php:105
+msgid "font"
+msgstr "шрифт"
+
+#: admin/dashboard-widget.php:76
+msgid "There is no body in the remote server response."
+msgstr "У відповіді віддаленого сервера немає тіла."
+
+#: admin/views/button.php:19 compatibilities/gutenberg.php:84
+msgid "Back to WordPress Editor"
+msgstr "Повернутися до Редактора WordPress"
+
+#: import/main.php:55 public/editor-build/259-wp/texts.php:1145
+msgid "Something went wrong"
+msgstr "Щось пішло не так"
+
+#: public/editor-build/259-wp/texts.php:232
+msgid "CREATE LIST"
+msgstr "СТВОРИТИ СПИСОК"
+
+#: public/editor-build/259-wp/texts.php:175
+msgid "Bg"
+msgstr "Фон"
+
+#: public/editor-build/259-wp/texts.php:142
+msgid "Authentication"
+msgstr "Автентифікація"
+
+#: public/editor-build/259-wp/texts.php:110
+msgid "All fields marked with an asterisk ( * ) must be completed."
+msgstr "Усі поля із зірочкою ( * ) мають бути заповнені."
+
+#: public/editor-build/259-wp/texts.php:109
+msgid "All fields cannot be empty"
+msgstr "Усі поля не можуть бути порожніми"
+
+#: public/editor-build/259-wp/texts.php:88
+msgid "Add new font variation"
+msgstr "Додати нову варіацію шрифту"
+
+#: public/editor-build/259-wp/texts.php:82
+msgid "Add New Font"
+msgstr "Додати новий шрифт"
+
+#: public/editor-build/259-wp/texts.php:80
+msgid "Add New Block / Layout"
+msgstr "Додати новий блок / розмітку"
+
+#: public/editor-build/259-wp/texts.php:77
+msgid "Add Font"
+msgstr "Додати шрифт"
+
+#: public/editor-build/259-wp/texts.php:68
+msgid "Accounts are empty. Please connect a new account and try again."
+msgstr "Облікові записи порожні. Будь ласка, підключіть новий обліковий запис і повторіть спробу."
+
+#: public/editor-build/259-wp/texts.php:61
+msgid "ADD GOOGLE FONT"
+msgstr "ДОДАТИ GOOGLE-ШРИФТ"
+
+#: public/editor-build/259-wp/texts.php:60
+msgid "ADD FONT VARIATION"
+msgstr "ДОДАТИ ВАРІАЦІЮ ШРИФТУ"
+
+#: public/editor-build/259-wp/texts.php:24
+msgid "+ 6:00 (Nur-Sultan)"
+msgstr "+ 6:00 (Нур-Султан)"
+
+#: public/editor-build/259-wp/texts.php:63
+msgid "APPS"
+msgstr "ЗАСТОСУНКИ"
+
+#: public/editor-build/259-wp/texts.php:128
+msgid "Arrangement"
+msgstr "Розташування"
+
+#: public/editor-build/259-wp/texts.php:154
+msgid "Back to Layouts"
+msgstr "Повернутися до розміток"
+
+#: admin/popups/main.php:111 admin/popups/main.php:125
+#: public/editor-build/259-wp/texts.php:871
+msgid "Popups"
+msgstr "Елементи, що спливають"
+
+#: public/editor-build/259-wp/texts.php:241
+msgid "Carousel"
+msgstr "Карусель"
+
+#: public/editor-build/259-wp/texts.php:132
+msgid "Arrows Spacing"
+msgstr "Відстань між стрілками"
+
+#: admin/layouts/main.php:43
+msgid "Layout."
+msgstr "Розмітка."
+
+#: editor.php:299
+msgid " Template"
+msgstr "Шаблон"
+
+#: admin/blocks/main.php:100
+msgctxt "post type general name"
+msgid "Global blocks"
+msgstr "Загальні блоки"
+
+#: admin/blocks/main.php:122
+msgctxt "brizy"
+msgid "Saved blocks"
+msgstr "Збережені блоки"
+
+#: admin/fonts/main.php:97
+msgctxt "post type general name"
+msgid "Fonts"
+msgstr "Шрифти"
+
+#: admin/layouts/main.php:35
+msgctxt "post type general name"
+msgid "Layouts"
+msgstr "Розмітки"
+
+#: public/editor-build/259-wp/texts.php:147
+msgid "AutoPlay"
+msgstr "АвтоЗапуск"
+
+#: editor/zip/archiver.php:183
+msgid "Unsupported zip file version"
+msgstr "Непідтримувана версія zip-файла"
+
+#: editor/zip/archiver.php:178
+msgid "Unsupported object found in zip file"
+msgstr "У zip-файлі знайдений непідтримуваний об'єкт"
+
+#: editor/zip/archiver.php:122
+msgid "Unable to find the archive."
+msgstr "Неможливо знайти архів."
+
+#: editor/zip/archiver.php:73
+msgid "Failed to create archive."
+msgstr "Не вдалося створити архів."
+
+#: editor/zip/archiver.php:36
+msgid "Please install/enable php zip extension. Contact your hosting company for more info and help."
+msgstr "Будь ласка, встановіть/увімкніть розширення php zip. Зверніться до вашої хостингової компанії за додатковою інформацією та допомогою."
+
+#: editor/rest-extend.php:27
+msgid "Brizy attached media"
+msgstr "Прикріплені носії Brizy"
+
+#: editor/project.php:88
+msgid "Brizy Project."
+msgstr "Проєкт Brizy."
+
+#: admin/templates.php:188
+msgid "Preview Template"
+msgstr "Попередній перегляд шаблону"
+
+#: admin/templates.php:173
+msgid "Template draft updated."
+msgstr "Чернетка шаблону оновлена."
+
+#: admin/templates.php:169
+msgid "Template scheduled for: <strong>%1$s</strong>."
+msgstr "Шаблон запланований на: <strong>%1$s</strong>."
+
+#: admin/templates.php:167
+msgid "Template submitted."
+msgstr "Шаблон подано."
+
+#: admin/templates.php:165
+msgid "Template published."
+msgstr "Шаблон опубліковано."
+
+#: admin/templates.php:162
+msgid "Template restored to revision from %s"
+msgstr "Шаблон відновлено до версії з %s"
+
+#: admin/templates.php:156 admin/templates.php:159
+msgid "Template updated."
+msgstr "Шаблон оновлено."
+
+#: admin/stories/main.php:126
+msgid "Preview Story"
+msgstr "Перегляд історії"
+
+#: admin/stories/main.php:111
+msgid "Story draft updated."
+msgstr "Чернетка історії оновлена."
+
+#. translators: Publish box date format, see http://php.net/date
+#: admin/stories/main.php:109 admin/templates.php:171
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: admin/stories/main.php:107
+msgid "Story scheduled for: <strong>%1$s</strong>."
+msgstr "Історія запланована на: <strong>%1$s</strong>."
+
+#: admin/stories/main.php:105
+msgid "Story submitted."
+msgstr "Історію подано."
+
+#: admin/stories/main.php:104
+msgid "Story saved."
+msgstr "Історія збережена."
+
+#: admin/stories/main.php:103
+msgid "Story published."
+msgstr "Історія опублікована."
+
+#: admin/stories/main.php:100
+msgid "Story restored to revision from %s"
+msgstr "Історію відновлено до версії від %s"
+
+#: admin/stories/main.php:94 admin/stories/main.php:97
+msgid "Story updated."
+msgstr "Історія оновлена."
+
+#: admin/settings.php:312
+msgid "No Access"
+msgstr "Немає доступу"
+
+#: admin/main.php:88
+msgid "Edit or Update Image"
+msgstr "Редагувати чи оновити зображення"
+
+#: admin/layouts/api.php:82
+msgid "There are no layouts to be archived"
+msgstr "Немає розміток для архівування"
+
+#: admin/cloud/cron.php:56
+msgid "Once in 5 minutes"
+msgstr "Раз на 5 хвилин"
+
+#: admin/blocks/api.php:185
+msgid "Invalid zip file provided"
+msgstr "Надано невірний zip-файл"
+
+#: admin/blocks/api.php:152
+msgid "Invalid block file"
+msgstr "Невірний файл блоку"
+
+#: admin/stories/main.php:96 admin/templates.php:158
+msgid "Custom field deleted."
+msgstr "Користувацьке поле видалено."
+
+#: admin/stories/main.php:95 admin/templates.php:157
+msgid "Custom field updated."
+msgstr "Користувацьке поле оновлено."
+
+#: public/editor-build/259-wp/texts.php:1421
+msgid "or"
+msgstr "або"
+
+#: public/editor-build/259-wp/texts.php:1420
+msgid "open an issue"
+msgstr "відкрити запит"
+
+#: public/editor-build/259-wp/texts.php:1395
+msgid "You can"
+msgstr "Ви можете"
+
+#: public/editor-build/259-wp/texts.php:117
+msgid "An error happened while trying to display this element"
+msgstr "При відображенні цього елемента сталися помилка"
+
+#: import/main.php:53 public/editor-build/259-wp/texts.php:108
+msgid "All Categories"
+msgstr "Всі категорії"
+
+#: public/editor-build/259-wp/texts.php:1039
+msgid "Saved"
+msgstr "Збережено"
+
+#: public/editor-build/259-wp/texts.php:1036
+msgid "Save"
+msgstr "Зберегти"
+
+#: public/editor-build/259-wp/texts.php:698
+msgid "Make it Global"
+msgstr "Зробити глобальним"
+
+#: public/editor-build/259-wp/texts.php:182
+msgid "Block"
+msgstr "Блок"
+
+#: public/editor-build/259-wp/texts.php:475
+msgid "Filter By"
+msgstr "Фильтрувати за"
+
+#: public/editor-build/259-wp/texts.php:732
+msgid "Message sent"
+msgstr "Повідомлення надіслане"
+
+#: public/editor-build/259-wp/texts.php:424
+msgid "Error"
+msgstr "Помилка"
+
+#: public/editor-build/259-wp/texts.php:842
+msgid "Parent"
+msgstr "Батько"
+
+#: public/editor-build/259-wp/texts.php:738
+msgid "Meta Value"
+msgstr "Значення мета"
+
+#: public/editor-build/259-wp/texts.php:620
+msgid "Inherit"
+msgstr "Успадкувати"
+
+#: public/editor-build/259-wp/texts.php:146
+msgid "Auto-Draft"
+msgstr "Авто-чернетка"
+
+#: public/editor-build/259-wp/texts.php:852
+msgid "Pending"
+msgstr "Очікує"
+
+#: public/editor-build/259-wp/texts.php:387
+msgid "Draft"
+msgstr "Чернетка"
+
+#: public/editor-build/259-wp/texts.php:516
+msgid "Future"
+msgstr "Майбутнє"
+
+#: public/editor-build/259-wp/texts.php:1173
+msgid "Status"
+msgstr "Статус"
+
+#: public/editor-build/259-wp/texts.php:607
+msgid "Include"
+msgstr "Включити"
+
+#: public/editor-build/259-wp/texts.php:143
+msgid "Author"
+msgstr "Автор"
+
+#: public/editor-build/259-wp/texts.php:252
+msgid "Category"
+msgstr "Категорія"
+
+#: public/editor-build/259-wp/texts.php:875
+msgid "Post"
+msgstr "Запис"
+
+#: public/editor-build/259-wp/texts.php:882
+msgid "Post Type"
+msgstr "Тип запису"
+
+#: public/editor-build/259-wp/texts.php:1369
+msgid "Weight"
+msgstr "Вага"
+
+#: public/editor-build/259-wp/texts.php:580
+msgid "ID"
+msgstr "ID"
+
+#: public/editor-build/259-wp/texts.php:946
+msgid "Random"
+msgstr "Випадково"
+
+#: public/editor-build/259-wp/texts.php:728
+msgid "Menu Order"
+msgstr "Порядок меню"
+
+#: public/editor-build/259-wp/texts.php:868
+msgid "Popularity"
+msgstr "Популярність"
+
+#: public/editor-build/259-wp/texts.php:948
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: public/editor-build/259-wp/texts.php:1263
+msgid "Title"
+msgstr "Заголовок"
+
+#: public/editor-build/259-wp/texts.php:474
+msgid "Filter"
+msgstr "Фільтр"
+
+#: public/editor-build/259-wp/texts.php:818
+msgid "Order Tracking"
+msgstr "Відстеження порядку"
+
+#: public/editor-build/259-wp/texts.php:767
+msgid "My Account"
+msgstr "Мій обліковий запис"
+
+#: public/editor-build/259-wp/texts.php:261
+msgid "Checkout"
+msgstr "Оформлення"
+
+#: public/editor-build/259-wp/texts.php:243
+msgid "Cart"
+msgstr "Корзина"
+
+#: public/editor-build/259-wp/texts.php:832
+msgid "Page"
+msgstr "Сторінка"
+
+#: public/editor-build/259-wp/texts.php:318
+msgid "Count"
+msgstr "Кількість"
+
+#: public/editor-build/259-wp/texts.php:356
+msgid "Description"
+msgstr "Опис"
+
+#: public/editor-build/259-wp/texts.php:769
+msgid "Name"
+msgstr "Ім'я"
+
+#: public/editor-build/259-wp/texts.php:355
+msgid "Desc"
+msgstr "Від А до Я"
+
+#: public/editor-build/259-wp/texts.php:136
+msgid "Asc"
+msgstr "Від Я до А"
+
+#: public/editor-build/259-wp/texts.php:816
+msgid "Order"
+msgstr "Порядок"
+
+#: public/editor-build/259-wp/texts.php:249
+msgid "Categories Count"
+msgstr "Кількість категорій"
+
+#: public/editor-build/259-wp/texts.php:284
+msgid "Columns"
+msgstr "Колонки"
+
+#: public/editor-build/259-wp/texts.php:929
+msgid "Products Count"
+msgstr "Кількість товарів"
+
+#: public/editor-build/259-wp/texts.php:911
+msgid "Product ID or SKU"
+msgstr "ID товару або SKU"
+
+#: public/editor-build/259-wp/texts.php:910
+msgid "Product ID"
+msgstr "ID товару"
+
+#: public/editor-build/259-wp/texts.php:942
+msgid "Query"
+msgstr "Запит"
+
+#: public/editor-build/259-wp/texts.php:500
+msgid "Footer"
+msgstr "Підвал"
+
+#: public/editor-build/259-wp/texts.php:860
+msgid "Play"
+msgstr "Відтворити"
+
+#: public/editor-build/259-wp/texts.php:300
+msgid "Controls"
+msgstr "Управління"
+
+#: public/editor-build/259-wp/texts.php:950
+msgid "Ratio"
+msgstr "Співвідношення"
+
+#: public/editor-build/259-wp/texts.php:1148
+msgid "SoundCloud Link"
+msgstr "Посилання SoundCloud"
+
+#: public/editor-build/259-wp/texts.php:1147
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: public/editor-build/259-wp/texts.php:854
+msgid "Percentage"
+msgstr "Відсотки"
+
+#: public/editor-build/259-wp/texts.php:578
+msgid "Hue"
+msgstr "Тон"
+
+#: public/editor-build/259-wp/texts.php:1182
+msgid "Style"
+msgstr "Стиль"
+
+#: public/editor-build/259-wp/texts.php:800
+msgid "Number"
+msgstr "Число"
+
+#: public/editor-build/259-wp/texts.php:981
+msgid "Required"
+msgstr "Необхіде"
+
+#: public/editor-build/259-wp/texts.php:530
+msgid "Go to"
+msgstr "Перейти"
+
+#: public/editor-build/259-wp/texts.php:731
+msgid "Message not sent"
+msgstr "Повідомлення не надіслане"
+
+#: public/editor-build/259-wp/texts.php:1196
+msgid "Success"
+msgstr "Успіх"
+
+#: public/editor-build/259-wp/texts.php:730
+msgid "Message"
+msgstr "Повідомлення"
+
+#: public/editor-build/259-wp/texts.php:649
+msgid "Label"
+msgstr "Мітка"
+
+#: public/editor-build/259-wp/texts.php:467
+msgid "Field Type"
+msgstr "Тип поля"
+
+#: public/editor-build/259-wp/texts.php:466
+msgid "Field"
+msgstr "Поле"
+
+#: public/editor-build/259-wp/texts.php:418
+msgid "End"
+msgstr "Кінець"
+
+#: public/editor-build/259-wp/texts.php:1171
+msgid "Start"
+msgstr "Початок"
+
+#: public/editor-build/259-wp/texts.php:653
+msgid "Language"
+msgstr "Мова"
+
+#: public/editor-build/259-wp/texts.php:11
+msgid "+ 12:00 (Auckland)"
+msgstr "+ 12:00 (Окленд)"
+
+#: public/editor-build/259-wp/texts.php:10
+msgid "+ 11:00 (Ponape)"
+msgstr "+ 11:00 (Понапе)"
+
+#: public/editor-build/259-wp/texts.php:7
+msgid "+ 10:00 (Sydney, Melbourne)"
+msgstr "+ 10:00 (Сідней, Мельбурн)"
+
+#: public/editor-build/259-wp/texts.php:32
+msgid "+ 9:00 (Tokyo, Seoul)"
+msgstr "+ 9:00 (Токіо, Сеул)"
+
+#: public/editor-build/259-wp/texts.php:29
+msgid "+ 8:00 (Singapore, Beijing)"
+msgstr "+ 8:00 (Сингапур, Пекін)"
+
+#: public/editor-build/259-wp/texts.php:27
+msgid "+ 7:00 (Bangkok, Jakarta)"
+msgstr "+ 7:00 (Бангкок, Джакарта)"
+
+#: public/editor-build/259-wp/texts.php:21
+msgid "+ 5:00 (Yekaterinburg)"
+msgstr "+ 5:00 (Єкатеринбург)"
+
+#: public/editor-build/259-wp/texts.php:19
+msgid "+ 4:00 (Dubai, Baku)"
+msgstr "+ 4:00 (Дубай, Баку)"
+
+#: public/editor-build/259-wp/texts.php:17
+msgid "+ 3:00 (Moscow, Baghdad)"
+msgstr "+ 3:00 (Москва, Багдад)"
+
+#: public/editor-build/259-wp/texts.php:15
+msgid "+ 2:00 (Athens, Istanbul)"
+msgstr "+ 2:00 (Атени, Стамбул)"
+
+#: public/editor-build/259-wp/texts.php:13
+msgid "+ 1:00 (Berlin, Paris)"
+msgstr "+ 1:00 (Берлін, Париж)"
+
+#: public/editor-build/259-wp/texts.php:57
+msgid "00:00 (London, Dublin)"
+msgstr "00:00 (Лондон, Дублін)"
+
+#: public/editor-build/259-wp/texts.php:38
+msgid "- 1:00 (Cape Verde)"
+msgstr "- 1:00 (Кабо-Верде)"
+
+#: public/editor-build/259-wp/texts.php:39
+msgid "- 2:00 (Noronha)"
+msgstr "- 2:00 (Норонья)"
+
+#: public/editor-build/259-wp/texts.php:41
+msgid "- 3:00 (Brasilia, Santiago)"
+msgstr "- 3:00 (Бразилія, Сантьяго)"
+
+#: public/editor-build/259-wp/texts.php:44
+msgid "- 4:00 (Halifax, Manaus)"
+msgstr "- 4:00 (Галіфакс, Манаус)"
+
+#: public/editor-build/259-wp/texts.php:47
+msgid "- 5:00 (New York, Miami)"
+msgstr "- 5:00 (Нью-Йорк, Майамі)"
+
+#: public/editor-build/259-wp/texts.php:48
+msgid "- 6:00 (Chicago, Dallas)"
+msgstr "- 6:00 (Чикаго, Далас)"
+
+#: public/editor-build/259-wp/texts.php:49
+msgid "- 7:00 (Denver, Phoenix)"
+msgstr "- 7:00 (Денвер, Фенікс)"
+
+#: public/editor-build/259-wp/texts.php:50
+msgid "- 8:00 (Los Angeles)"
+msgstr "- 8:00 (Лос-Анджелес)"
+
+#: public/editor-build/259-wp/texts.php:51
+msgid "- 9:00 (Anchorage)"
+msgstr "- 9:00 (Анкорідж)"
+
+#: public/editor-build/259-wp/texts.php:34
+msgid "- 10:00 (Honolulu, Papeete)"
+msgstr "- 10:00 (Гонолулу, Папіте)"
+
+#: public/editor-build/259-wp/texts.php:36
+msgid "- 11:00 (Niue)"
+msgstr "- 11:00 (Ніуе)"
+
+#: public/editor-build/259-wp/texts.php:1255
+msgid "Time Zone"
+msgstr "Часовий пояс"
+
+#: public/editor-build/259-wp/texts.php:745
+msgid "Minutes"
+msgstr "Хвилини"
+
+#: public/editor-build/259-wp/texts.php:572
+msgid "Hour"
+msgstr "Година"
+
+#: admin/form-entries.php:62 public/editor-build/259-wp/texts.php:345
+msgid "Date"
+msgstr "Дата"
+
+#: public/editor-build/259-wp/texts.php:574
+msgid "Hover"
+msgstr "Наведення"
+
+#: public/editor-build/259-wp/texts.php:305
+msgid "Corner"
+msgstr "Кут"
+
+#: public/editor-build/259-wp/texts.php:811
+msgid "Open In New Tab"
+msgstr "Відкрити у новій вкладці"
+
+#: public/editor-build/259-wp/texts.php:679
+msgid "Link to"
+msgstr "Посилання на"
+
+#: public/editor-build/259-wp/texts.php:676
+msgid "Link"
+msgstr "Посилання"
+
+#: public/editor-build/259-wp/texts.php:397
+msgid "Editable Text"
+msgstr "Текст для редагування"
+
+#: public/editor-build/259-wp/texts.php:547
+msgid "H6"
+msgstr "H6"
+
+#: public/editor-build/259-wp/texts.php:546
+msgid "H5"
+msgstr "H5"
+
+#: public/editor-build/259-wp/texts.php:545
+msgid "H4"
+msgstr "H4"
+
+#: public/editor-build/259-wp/texts.php:544
+msgid "H3"
+msgstr "H3"
+
+#: public/editor-build/259-wp/texts.php:543
+msgid "H2"
+msgstr "H2"
+
+#: public/editor-build/259-wp/texts.php:542
+msgid "H1"
+msgstr "H1"
+
+#: public/editor-build/259-wp/texts.php:829
+msgid "P"
+msgstr "P"
+
+#: public/editor-build/259-wp/texts.php:522
+msgid "Gap Below"
+msgstr "Відступ внизу"
+
+#: public/editor-build/259-wp/texts.php:521
+msgid "Gap Above"
+msgstr "Відступ згори"
+
+#: public/editor-build/259-wp/texts.php:641
+msgid "Italic"
+msgstr "Курсив"
+
+#: public/editor-build/259-wp/texts.php:194
+msgid "Bold"
+msgstr "Жирний"
+
+#: public/editor-build/259-wp/texts.php:681
+msgid "List"
+msgstr "Список"
+
+#: public/editor-build/259-wp/texts.php:674
+msgid "Line Hgt."
+msgstr "Висота рядку"
+
+#: public/editor-build/259-wp/texts.php:1121
+msgid "Size"
+msgstr "Розмір"
+
+#: public/editor-build/259-wp/texts.php:1295
+msgid "Typography"
+msgstr "Типографія"
+
+#: public/editor-build/259-wp/texts.php:874
+msgid "Position"
+msgstr "Розташування"
+
+#: public/editor-build/259-wp/texts.php:294
+msgid "Content"
+msgstr "Вміст"
+
+#: public/editor-build/259-wp/texts.php:644
+msgid "JackInTheBox"
+msgstr "JackInTheBox"
+
+#: public/editor-build/259-wp/texts.php:490
+msgid "Flip"
+msgstr "Flip"
+
+#: public/editor-build/259-wp/texts.php:645
+msgid "Jello"
+msgstr "Jello"
+
+#: public/editor-build/259-wp/texts.php:1386
+msgid "Wobble"
+msgstr "Wobble"
+
+#: public/editor-build/259-wp/texts.php:1213
+msgid "Tada"
+msgstr "Tada"
+
+#: public/editor-build/259-wp/texts.php:1200
+msgid "Swing"
+msgstr "Swing"
+
+#: public/editor-build/259-wp/texts.php:1081
+msgid "Shake"
+msgstr "Shake"
+
+#: public/editor-build/259-wp/texts.php:937
+msgid "Pulse"
+msgstr "Pulse"
+
+#: public/editor-build/259-wp/texts.php:489
+msgid "Flash"
+msgstr "Спалах"
+
+#: public/editor-build/259-wp/texts.php:200
+msgid "Bounce"
+msgstr "Bounce"
+
+#: public/editor-build/259-wp/texts.php:353
+msgid "Delay"
+msgstr "Затримка"
+
+#: public/editor-build/259-wp/texts.php:392
+msgid "Duration"
+msgstr "Тривалість"
+
+#: public/editor-build/259-wp/texts.php:354
+msgid "Delete"
+msgstr "Видалити"
+
+#: public/editor-build/259-wp/texts.php:390
+msgid "Duplicate"
+msgstr "Дублювати"
+
+#: public/editor-build/259-wp/texts.php:282
+msgid "Colors"
+msgstr "Кольори"
+
+#: public/editor-build/259-wp/texts.php:1410
+msgid "Zoom"
+msgstr "Збільшити"
+
+#: public/editor-build/259-wp/texts.php:97
+msgid "Address"
+msgstr "Адреса"
+
+#: public/editor-build/259-wp/texts.php:690
+msgid "Loop"
+msgstr "Цикл"
+
+#: public/editor-build/259-wp/texts.php:1405
+msgid "YouTube or Vimeo"
+msgstr "YouTube або Vimeo"
+
+#: public/editor-build/259-wp/texts.php:118
+msgid "Animated"
+msgstr "Анімовано"
+
+#: public/editor-build/259-wp/texts.php:486
+msgid "Fixed"
+msgstr "Фіксовано"
+
+#: public/editor-build/259-wp/texts.php:840
+msgid "Parallax"
+msgstr "Parallax"
+
+#: public/editor-build/259-wp/texts.php:176
+msgid "Bg Size"
+msgstr "Розмір фону"
+
+#: public/editor-build/259-wp/texts.php:157
+msgid "Background"
+msgstr "Фон"
+
+#: public/editor-build/259-wp/texts.php:1411
+msgid "component"
+msgstr "компонент"
+
+#: public/editor-build/259-wp/texts.php:314
+msgid "Could not find"
+msgstr "Неможливо знайти"
+
+#: public/editor-build/259-wp/texts.php:747
+msgid "Missing Element"
+msgstr "Відсутній елемент"
+
+#: public/editor-build/259-wp/texts.php:511
+msgid "Full"
+msgstr "Повний"
+
+#: public/editor-build/259-wp/texts.php:144
+msgid "Auto"
+msgstr "Авто"
+
+#: public/editor-build/259-wp/texts.php:203
+msgid "Boxed"
+msgstr "Фіксовано"
+
+#: public/editor-build/259-wp/texts.php:558
+msgid "Height"
+msgstr "Висота"
+
+#: public/editor-build/259-wp/texts.php:1380
+msgid "Width"
+msgstr "Ширина"
+
+#: public/editor-build/259-wp/texts.php:824
+msgid "Outline"
+msgstr "Контур"
+
+#: public/editor-build/259-wp/texts.php:1018
+msgid "Round"
+msgstr "Круглий"
+
+#: public/editor-build/259-wp/texts.php:1215
+msgid "Tail"
+msgstr "Хвіст"
+
+#: public/editor-build/259-wp/texts.php:557
+msgid "Heavy"
+msgstr "Важкий"
+
+#: public/editor-build/259-wp/texts.php:131
+msgid "Arrows"
+msgstr "Стрілки"
+
+#: public/editor-build/259-wp/texts.php:1165
+msgid "Square"
+msgstr "Квадрат"
+
+#: public/editor-build/259-wp/texts.php:361
+msgid "Diamond"
+msgstr "Діамант"
+
+#: public/editor-build/259-wp/texts.php:380
+msgid "Dots"
+msgstr "Крапки"
+
+#: public/editor-build/259-wp/texts.php:773
+msgid "Navigation"
+msgstr "Навігація"
+
+#: public/editor-build/259-wp/texts.php:1163
+msgid "Speed"
+msgstr "Швидкість"
+
+#: public/editor-build/259-wp/texts.php:701
+msgid "Make it a Slider"
+msgstr "Зробити слайдером"
+
+#: public/editor-build/259-wp/texts.php:1134
+msgid "Slider"
+msgstr "Слайдер"
+
+#: public/editor-build/259-wp/texts.php:233
+msgid "CSS Class"
+msgstr "Клас CSS"
+
+#: public/editor-build/259-wp/texts.php:1409
+msgid "Z-index"
+msgstr "Z-індекс"
+
+#: public/editor-build/259-wp/texts.php:414
+msgid "Enable on Mobile"
+msgstr "Увімкнути на мобільних"
+
+#: public/editor-build/259-wp/texts.php:365
+msgid "Disable on Mobile"
+msgstr "Вимкнути на мобільних"
+
+#: public/editor-build/259-wp/texts.php:1113
+msgid "Show on Desktop"
+msgstr "Відобразити на десктопі"
+
+#: public/editor-build/259-wp/texts.php:99
+msgid "Advanced"
+msgstr "Додатково"
+
+#: public/editor-build/259-wp/texts.php:756
+msgid "More Settings"
+msgstr "Більше налаштувань"
+
+#: public/editor-build/259-wp/texts.php:935
+msgid "Publish"
+msgstr "Опублікувати"
+
+#: public/editor-build/259-wp/texts.php:1319
+msgid "Update"
+msgstr "Оновити"
+
+#: public/editor-build/259-wp/texts.php:755
+msgid "More"
+msgstr "Більше"
+
+#: public/editor-build/259-wp/texts.php:750
+msgid "Mobile"
+msgstr "Мобільний"
+
+#: public/editor-build/259-wp/texts.php:358
+msgid "Desktop"
+msgstr "Десктоп"
+
+#: public/editor-build/259-wp/texts.php:752
+msgid "Mobile view"
+msgstr "Мобільний вигляд"
+
+#: public/editor-build/259-wp/texts.php:775
+msgid "New Style #%s"
+msgstr "Новий стиль №%s"
+
+#: admin/form-entries.php:336 admin/popups/main.php:106 admin/templates.php:204
+#: public/editor-build/259-wp/texts.php:79
+msgid "Add New"
+msgstr "Додати новий"
+
+#: public/editor-build/259-wp/texts.php:89
+msgid "Add new option"
+msgstr "Додати новий варіант"
+
+#: public/editor-build/259-wp/texts.php:1184
+msgid "Styling"
+msgstr "Стилізація"
+
+#: public/editor-build/259-wp/texts.php:388
+msgid "Drag to reorder"
+msgstr "Тягнути для пересортування"
+
+#: public/editor-build/259-wp/texts.php:972
+msgid "Reorder Blocks"
+msgstr "Пересортувати блоки"
+
+#: public/editor-build/259-wp/texts.php:885
+msgid "Posts"
+msgstr "Записи"
+
+#: public/editor-build/259-wp/texts.php:726
+msgid "Menu"
+msgstr "Меню"
+
+#: public/editor-build/259-wp/texts.php:1091
+msgid "Shortcode"
+msgstr "Короткий код"
+
+#: public/editor-build/259-wp/texts.php:928
+msgid "Products"
+msgstr "Товари"
+
+#: admin/templates.php:125 public/editor-build/259-wp/texts.php:903
+msgid "Product"
+msgstr "Товар"
+
+#: public/editor-build/259-wp/texts.php:837
+msgid "Pages"
+msgstr "Сторінки"
+
+#: public/editor-build/259-wp/texts.php:248
+msgid "Categories"
+msgstr "Категорії"
+
+#: public/editor-build/259-wp/texts.php:92
+msgid "Add to cart"
+msgstr "Додати в корзину"
+
+#: public/editor-build/259-wp/texts.php:283
+msgid "Column"
+msgstr "Колонка"
+
+#: public/editor-build/259-wp/texts.php:1019
+msgid "Row"
+msgstr "Рядок"
+
+#: public/editor-build/259-wp/texts.php:65
+msgid "Accordion"
+msgstr "Акордеон"
+
+#: public/editor-build/259-wp/texts.php:932
+msgid "Progress"
+msgstr "Прогрес"
+
+#: public/editor-build/259-wp/texts.php:1212
+msgid "Tabs"
+msgstr "Вкладки"
+
+#: public/editor-build/259-wp/texts.php:319
+msgid "Countdown"
+msgstr "Відлік"
+
+#: public/editor-build/259-wp/texts.php:582
+msgid "Icon Box"
+msgstr "Рамка іконки"
+
+#: public/editor-build/259-wp/texts.php:502
+msgid "Form"
+msgstr "Форма"
+
+#: public/editor-build/259-wp/texts.php:703
+msgid "Map"
+msgstr "Карта"
+
+#: public/editor-build/259-wp/texts.php:673
+msgid "Line"
+msgstr "Лінія"
+
+#: public/editor-build/259-wp/texts.php:1153
+msgid "Spacer"
+msgstr "Заповнювач"
+
+#: public/editor-build/259-wp/texts.php:1357
+msgid "Video"
+msgstr "Відео"
+
+#: public/editor-build/259-wp/texts.php:595
+msgid "Image"
+msgstr "Зображення"
+
+#: public/editor-build/259-wp/texts.php:581
+msgid "Icon"
+msgstr "Іконка"
+
+#: public/editor-build/259-wp/texts.php:216
+msgid "Button"
+msgstr "Кнопка"
+
+#: public/editor-build/259-wp/texts.php:1223
+msgid "Text"
+msgstr "Текст"
+
+#: public/editor-build/259-wp/texts.php:76
+msgid "Add Elements"
+msgstr "Додати елементи"
+
+#: public/editor-build/259-wp/texts.php:894
+msgid "Press the button to add blocks"
+msgstr "Натисніть кнопку для додавання блоків"
+
+#: public/editor-build/259-wp/texts.php:86
+msgid "Add a new block"
+msgstr "Додати новий блок"
+
+#: public/editor-build/259-wp/texts.php:1202
+msgid "Switch to desktop to add blocks"
+msgstr "Перейдіть в режим десктопу для додавання блоків"
+
+#: public/editor-build/259-wp/texts.php:1032
+msgid "SWITCH TO DESKTOP"
+msgstr "ПЕРЕЙТИ В ДЕСКТОП"
+
+#: public/editor-build/259-wp/texts.php:892
+msgid "Press the button above to add blocks"
+msgstr "Натиснути кнопку вгорі для додавання блоків"
+
+#: public/editor-build/259-wp/texts.php:1030
+msgid "START BUILDING YOUR PAGE"
+msgstr "ПОЧАТИ БУДУВАТИ СТОРІНКУ"
+
+#: public/editor-build/259-wp/texts.php:1118
+msgid "Sidebar"
+msgstr "Бічна колонка"
+
+#: public/editor-build/259-wp/texts.php:1136
+msgid "Slug"
+msgstr "Частина посилання"
+
+#: public/editor-build/259-wp/texts.php:851
+msgid "Paste your HTML code here..."
+msgstr "Вставте тут свій HTML-код..."
+
+#: public/editor-build/259-wp/texts.php:286
+msgid "Comment Count"
+msgstr "Кількість коментарів"
+
+#: public/editor-build/259-wp/texts.php:81
+msgid "Add New Column"
+msgstr "Додати новий стовпець"
+
+#: public/editor-build/259-wp/texts.php:195
+msgid "Border"
+msgstr "Межа"
+
+#: public/editor-build/259-wp/texts.php:408
+msgid "Embed"
+msgstr "Об'єкт"
+
+#: public/editor-build/259-wp/texts.php:783
+msgid "None"
+msgstr "Немає"
+
+#: public/editor-build/259-wp/texts.php:839
+msgid "Paragraph"
+msgstr "Параграф"
+
+#: public/editor-build/259-wp/texts.php:493
+msgid "Font Family"
+msgstr "Сімейство шрифтів"
+
+#: public/editor-build/259-wp/texts.php:902
+msgid "Private"
+msgstr "Особисте"
+
+#: public/editor-build/259-wp/texts.php:103
+msgid "Align"
+msgstr "Вирівняти"
+
+#: public/editor-build/259-wp/texts.php:1054
+msgid "Select"
+msgstr "Обрати"
+
+#: public/editor-build/259-wp/texts.php:1022
+msgid "Russian"
+msgstr "Російський"
+
+#: public/editor-build/259-wp/texts.php:1155
+msgid "Spanish"
+msgstr "Іспанський"
+
+#: public/editor-build/259-wp/texts.php:393
+msgid "Dutch"
+msgstr "Нідерландський (голландський)"
+
+#: public/editor-build/259-wp/texts.php:419
+msgid "English"
+msgstr "Англійський"
+
+#: public/editor-build/259-wp/texts.php:507
+msgid "French"
+msgstr "Французький"
+
+#: public/editor-build/259-wp/texts.php:524
+msgid "German"
+msgstr "Німецький"
+
+#: public/editor-build/259-wp/texts.php:640
+msgid "Italian"
+msgstr "Італійський"
+
+#: public/editor-build/259-wp/texts.php:827
+msgid "Overlay"
+msgstr "Накладення"
+
+#: public/editor-build/259-wp/texts.php:435
+msgid "Exclude"
+msgstr "Вилучити"
+
+#: public/editor-build/259-wp/texts.php:420
+msgid "Enter address"
+msgstr "Введіть адресу"
+
+#: public/editor-build/259-wp/texts.php:784
+msgid "Normal"
+msgstr "Звичайний"
+
+#: public/editor-build/259-wp/texts.php:704
+msgid "Margin"
+msgstr "Відступ"
+
+#: public/editor-build/259-wp/texts.php:831
+msgid "Padding"
+msgstr "Внутрішній відступ"
+
+#: public/editor-build/259-wp/texts.php:661
+msgid "Layout"
+msgstr "Компонування"
+
+#: public/editor-build/259-wp/texts.php:322
+msgid "Cover"
+msgstr "Обкладинка"
+
+#: public/editor-build/259-wp/texts.php:753
+msgid "Modified"
+msgstr "Змінений"
+
+#: public/editor-build/259-wp/texts.php:1277
+msgid "Trash"
+msgstr "Кошик"
+
+#: public/editor-build/259-wp/texts.php:957
+msgid "Redirect"
+msgstr "Перенаправлення"
+
+#: public/editor-build/259-wp/texts.php:320
+msgid "Counter"
+msgstr "Лічильник"
+
+#: public/editor-build/259-wp/texts.php:264
+msgid "Circle"
+msgstr "Коло"
+
+#: public/editor-build/259-wp/texts.php:170
+msgid "Bar"
+msgstr "Бар"
+
+#: public/editor-build/259-wp/texts.php:665
+msgid "Letter Sp."
+msgstr "Міжсимвольний інтервал"
+
+#: public/editor-build/259-wp/texts.php:472
+msgid "Fill"
+msgstr "Заповнити"
+
+#: public/editor-build/259-wp/texts.php:1154
+msgid "Spacing"
+msgstr "Відступи"
+
+#: admin/views/settings/maintenance.php:27
+#: public/editor-build/259-wp/texts.php:332
+msgid "Custom"
+msgstr "Користувацький"
+
+#: public/editor-build/259-wp/texts.php:548
+msgid "HTML Tag"
+msgstr "HTML-позначка"
+
+#: public/editor-build/259-wp/texts.php:512
+msgid "Full Height"
+msgstr "Повна висота"
+
+#: public/editor-build/259-wp/texts.php:1298
+msgid "URL"
+msgstr "URL-адреса"
+
+#: public/editor-build/259-wp/texts.php:401
+msgid "Email"
+msgstr "Електронна пошта"
+
+#: public/editor-build/259-wp/texts.php:817
+msgid "Order By"
+msgstr "Сортувати за"
+
+#: public/editor-build/259-wp/texts.php:737
+msgid "Meta Key"
+msgstr "Метадані"
+
+#: public/editor-build/259-wp/texts.php:1236
+msgid "Thin"
+msgstr "Тоненький"
+
+#. Author of the plugin
+msgid "Brizy.io"
+msgstr "Brizy.io"
+
+#. Description of the plugin
+msgid "A free drag & drop front-end page builder to help you create WordPress pages lightning fast. It's easy with Brizy."
+msgstr "Безкоштовний drag & drop конструктор сторінок, що допоможе вам блискавично створити сторінки WordPress. З Brizy — це легко."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://brizy.io/"
+msgstr "https://brizy.io/"
+
+#. Plugin Name of the plugin
+msgid "Brizy"
+msgstr "Brizy"
+
+#: admin/main.php:479
+msgid "Auto Draft"
+msgstr "Авто-чернетка"
+
+#: admin/main.php:244 admin/settings.php:109 admin/settings.php:110
+#: public/editor-build/259-wp/texts.php:1079
+msgid "Settings"
+msgstr "Налаштування"
+
+#: admin/membership/membership.php:64 editor/post.php:596
+#: public/editor-build/259-wp/texts.php:348
+msgid "Default"
+msgstr "За замовчуванням"
+
+#: admin/views/settings/general.php:62 admin/views/settings/maintenance.php:76
+#: admin/views/settings/roles.php:26
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+#: public/editor-build/259-wp/texts.php:529
+msgid "Go Back"
+msgstr "Повернутися"
+
+#: public/editor-build/259-wp/texts.php:895
+msgid "Preview"
+msgstr "Переглянути"

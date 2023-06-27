@@ -1,0 +1,4934 @@
+# Translation of Plugins - Brizy &#8211; Page Builder - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Brizy &#8211; Page Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-20 13:49:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Brizy &#8211; Page Builder - Stable (latest release)\n"
+
+#: public/editor-build/261-wp/texts.php:1301
+msgid "Top Right"
+msgstr "Toppen höger"
+
+#: public/editor-build/261-wp/texts.php:1300
+msgid "Top Left"
+msgstr "Toppen vänster"
+
+#: public/editor-build/261-wp/texts.php:1299
+msgid "Top Center"
+msgstr "Toppen centrerat"
+
+#: public/editor-build/261-wp/texts.php:1184
+msgid "Space"
+msgstr "Utrymme"
+
+#: public/editor-build/261-wp/texts.php:1005
+msgid "Repeat-Y"
+msgstr "Repetera-Y"
+
+#: public/editor-build/261-wp/texts.php:1004
+msgid "Repeat-X"
+msgstr "Repetera-X"
+
+#: public/editor-build/261-wp/texts.php:931
+msgid "Privacy Mode"
+msgstr "Integritetsläge"
+
+#: public/editor-build/261-wp/texts.php:805
+msgid "No Repeat"
+msgstr "Ingen repetering"
+
+#: public/editor-build/261-wp/texts.php:691
+msgid "Lazy Load"
+msgstr "Uppskjuten inläsning"
+
+#: public/editor-build/261-wp/texts.php:510
+msgid "Fit"
+msgstr "Passa"
+
+#: public/editor-build/261-wp/texts.php:283
+msgid "Center Right"
+msgstr "Centrerat höger"
+
+#: public/editor-build/261-wp/texts.php:282
+msgid "Center Left"
+msgstr "Centrerat vänster"
+
+#: public/editor-build/261-wp/texts.php:281
+msgid "Center Center"
+msgstr "Centrerat mitten"
+
+#: public/editor-build/261-wp/texts.php:224
+msgid "Bottom Right"
+msgstr "Botten höger"
+
+#: public/editor-build/261-wp/texts.php:223
+msgid "Bottom Left"
+msgstr "Botten vänster"
+
+#: public/editor-build/261-wp/texts.php:222
+msgid "Bottom Center"
+msgstr "Botten centrerat"
+
+#: public/editor-build/261-wp/texts.php:143
+msgid "Amount"
+msgstr "Belopp"
+
+#: public/editor-build/261-wp/texts.php:1230
+msgid "Suggested Videos"
+msgstr "Föreslagna videoklipp"
+
+#: public/editor-build/261-wp/texts.php:394
+msgid "Display Description"
+msgstr "Visa beskrivning"
+
+#: public/editor-build/261-wp/texts.php:262
+msgid "Calendly"
+msgstr "Calendly"
+
+#: public/editor-build/261-wp/texts.php:129
+msgid "Alert"
+msgstr "Varning"
+
+#: public/editor-build/261-wp/texts.php:1411
+msgid "Widgets"
+msgstr "Widgetar"
+
+#: public/editor-build/261-wp/texts.php:1410
+msgid "Widget Type"
+msgstr "Widgettyp"
+
+#: public/editor-build/261-wp/texts.php:1408
+msgid "Widget"
+msgstr "Widget"
+
+#: public/editor-build/261-wp/texts.php:1394
+msgid "View Favorites"
+msgstr "Visa favoriter"
+
+#: public/editor-build/261-wp/texts.php:1387
+msgid "Verified"
+msgstr "Verifierad"
+
+#: public/editor-build/261-wp/texts.php:1380
+msgid "VK"
+msgstr "VK"
+
+#: public/editor-build/261-wp/texts.php:1377
+msgid "User"
+msgstr "Användare"
+
+#: public/editor-build/261-wp/texts.php:1372
+msgid "Upsells"
+msgstr "Merförsäljning"
+
+#: public/editor-build/261-wp/texts.php:1282
+msgid "Thumbnail"
+msgstr "Miniatyr"
+
+#: public/editor-build/261-wp/texts.php:1256
+msgid "Text Field"
+msgstr "Textfält"
+
+#: public/editor-build/261-wp/texts.php:1226
+msgid "Subtitle"
+msgstr "Underrubrik"
+
+#: public/editor-build/261-wp/texts.php:1199
+msgid "Star"
+msgstr "Stjärna"
+
+#: public/editor-build/261-wp/texts.php:1171
+msgid "Snowball"
+msgstr "Snöboll"
+
+#: public/editor-build/261-wp/texts.php:1170
+msgid "Small"
+msgstr "Liten"
+
+#: public/editor-build/261-wp/texts.php:1190
+msgid "Specific Category"
+msgstr "Specifik kategori"
+
+#: public/editor-build/261-wp/texts.php:1189
+msgid "Special Offers"
+msgstr "Specialerbjudande"
+
+#: public/editor-build/261-wp/texts.php:1179
+msgid "Sorting Options"
+msgstr "Sorteringsalternativ"
+
+#: public/editor-build/261-wp/texts.php:1135
+msgid "Show Product Image"
+msgstr "Visa produktbild"
+
+#: public/editor-build/261-wp/texts.php:1133
+msgid "Show Navigation"
+msgstr "Visa navigation"
+
+#: public/editor-build/261-wp/texts.php:1127
+msgid "Show Heading"
+msgstr "Visa rubrik"
+
+#: public/editor-build/261-wp/texts.php:1122
+msgid "Show"
+msgstr "Visa"
+
+#: public/editor-build/261-wp/texts.php:1118
+msgid "Short Code"
+msgstr "Kortkod"
+
+#: public/editor-build/261-wp/texts.php:1112
+msgid "Share Buttons"
+msgstr "Delningsknappar"
+
+#: public/editor-build/261-wp/texts.php:1097
+msgid "Select..."
+msgstr "Välj …"
+
+#: public/editor-build/261-wp/texts.php:1086
+msgid "Select Product"
+msgstr "Välj produkt"
+
+#: public/editor-build/261-wp/texts.php:1055
+msgid "SKU"
+msgstr "Artikelnummer"
+
+#: public/editor-build/261-wp/texts.php:1040
+msgid "Ribbon"
+msgstr "Band"
+
+#: public/editor-build/261-wp/texts.php:1029
+msgid "Reviews"
+msgstr "Recensioner"
+
+#: public/editor-build/261-wp/texts.php:954
+msgid "Product Type"
+msgstr "Produkttyp"
+
+#: public/editor-build/261-wp/texts.php:950
+msgid "Product Source"
+msgstr "Produktkälla"
+
+#: public/editor-build/261-wp/texts.php:943
+msgid "Product Options"
+msgstr "Produktalternativ"
+
+#: public/editor-build/261-wp/texts.php:927
+msgid "Preview additional Images"
+msgstr "Förhandsgranska ytterligare bilder"
+
+#: public/editor-build/261-wp/texts.php:887
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: public/editor-build/261-wp/texts.php:856
+msgid "Outside"
+msgstr "Utsida"
+
+#: public/editor-build/261-wp/texts.php:844
+msgid "Options"
+msgstr "Alternativ"
+
+#: public/editor-build/261-wp/texts.php:831
+msgid "Number of Reviews"
+msgstr "Antal recensioner"
+
+#: public/editor-build/261-wp/texts.php:825
+msgid "Notifications"
+msgstr "Aviseringar"
+
+#: public/editor-build/261-wp/texts.php:824
+msgid "Notification"
+msgstr "Avisering"
+
+#: public/editor-build/261-wp/texts.php:809
+msgid "No product selected"
+msgstr "Ingen produkt vald"
+
+#: public/editor-build/261-wp/texts.php:734
+msgid "Marketing"
+msgstr "Marknadsföring"
+
+#: public/editor-build/261-wp/texts.php:705
+msgid "Link Text"
+msgstr "Länktext"
+
+#: public/editor-build/261-wp/texts.php:685
+msgid "Large"
+msgstr "Stor"
+
+#: public/editor-build/261-wp/texts.php:663
+msgid "Interval"
+msgstr "Intervall"
+
+#: public/editor-build/261-wp/texts.php:662
+msgid "Inside"
+msgstr "Insida"
+
+#: public/editor-build/261-wp/texts.php:657
+msgid "Insert Type..."
+msgstr "Infoga typ …"
+
+#: public/editor-build/261-wp/texts.php:656
+msgid "Insert Title..."
+msgstr "Infoga rubrik …"
+
+#: public/editor-build/261-wp/texts.php:655
+msgid "Insert Text..."
+msgstr "Infoga text …"
+
+#: public/editor-build/261-wp/texts.php:654
+msgid "Insert IDs..."
+msgstr "Infoga ID:n …"
+
+#: public/editor-build/261-wp/texts.php:648
+msgid "Information"
+msgstr "Information"
+
+#: public/editor-build/261-wp/texts.php:581
+msgid "Heading Text"
+msgstr "Rubriktext"
+
+#: public/editor-build/261-wp/texts.php:557
+msgid "Go to Checkout"
+msgstr "Gå till kassan"
+
+#: public/editor-build/261-wp/texts.php:520
+msgid "Font Size"
+msgstr "Textstorlek"
+
+#: public/editor-build/261-wp/texts.php:506
+msgid "Filter by reviews tags"
+msgstr "Filtrera efter recensionsetiketter"
+
+#: public/editor-build/261-wp/texts.php:504
+msgid "Filter by product category"
+msgstr "Filtrera efter produktkategori"
+
+#: public/editor-build/261-wp/texts.php:496
+msgid "Files"
+msgstr "Filer"
+
+#: public/editor-build/261-wp/texts.php:490
+msgid "Feed Type"
+msgstr "Typ av webbflöde"
+
+#: public/editor-build/261-wp/texts.php:467
+msgid "Extra Small"
+msgstr "Extra liten"
+
+#: public/editor-build/261-wp/texts.php:465
+msgid "Extra Large"
+msgstr "Extra stor"
+
+#: public/editor-build/261-wp/texts.php:443
+msgid "Enter text here..."
+msgstr "Ange text här …"
+
+#: public/editor-build/261-wp/texts.php:434
+msgid "Enable Background Color"
+msgstr "Aktivera bakgrundsfärg"
+
+#: public/editor-build/261-wp/texts.php:433
+msgid "Embeded Code"
+msgstr "Inbäddad kod"
+
+#: public/editor-build/261-wp/texts.php:431
+msgid "Embed Code"
+msgstr "Bädda in kod"
+
+#: public/editor-build/261-wp/texts.php:424
+msgid "Email Marketing"
+msgstr "E-postmarknadsföring"
+
+#: public/editor-build/261-wp/texts.php:395
+msgid "Display Mode"
+msgstr "Visningsläge"
+
+#: public/editor-build/261-wp/texts.php:359
+msgid "Custom Product"
+msgstr "Anpassad produkt"
+
+#: public/editor-build/261-wp/texts.php:299
+msgid "Collapse"
+msgstr "Minimera"
+
+#: public/editor-build/261-wp/texts.php:297
+msgid "Code"
+msgstr "Kod"
+
+#: public/editor-build/261-wp/texts.php:269
+msgid "Cart & Checkout"
+msgstr "Varukorg och kassa"
+
+#: public/editor-build/261-wp/texts.php:267
+msgid "Carousel Image"
+msgstr "Karusellbild"
+
+#: public/editor-build/261-wp/texts.php:253
+msgid "Buy now"
+msgstr "Köp nu"
+
+#: public/editor-build/261-wp/texts.php:248
+msgid "Button text"
+msgstr "Knapptext"
+
+#: public/editor-build/261-wp/texts.php:246
+msgid "Button Type"
+msgstr "Knapptyp"
+
+#: public/editor-build/261-wp/texts.php:242
+msgid "Button Name"
+msgstr "Knappnamn"
+
+#: public/editor-build/261-wp/texts.php:194
+msgid "Badges"
+msgstr "Märken"
+
+#: public/editor-build/261-wp/texts.php:186
+msgid "Badge"
+msgstr "Märke"
+
+#: public/editor-build/261-wp/texts.php:131
+msgid "Align Text"
+msgstr "Justera text"
+
+#: public/editor-build/261-wp/texts.php:125
+msgid "Address line"
+msgstr "Adressrad"
+
+#: public/editor-build/261-wp/texts.php:122
+msgid "Additional image on hover"
+msgstr "Ytterligare bild vid hovring"
+
+#: public/editor-build/261-wp/texts.php:104
+msgid "Add More"
+msgstr "Lägg till mer"
+
+#: admin/rules/api.php:503
+msgid "All Authors"
+msgstr "Alla författare"
+
+#: public/editor-build/261-wp/texts.php:1145
+msgid "Showcase"
+msgstr "Showcase"
+
+#: public/editor-build/261-wp/texts.php:1139
+msgid "Show Total Reviews"
+msgstr "Visa totalt antal recensioner"
+
+#: public/editor-build/261-wp/texts.php:1136
+msgid "Show QTY"
+msgstr "Visa antal"
+
+#: public/editor-build/261-wp/texts.php:941
+msgid "Product IDs"
+msgstr "Produkt-ID:n"
+
+#: public/editor-build/261-wp/texts.php:832
+msgid "Number of items in stock"
+msgstr "Antal artiklar i lager"
+
+#: public/editor-build/261-wp/texts.php:658
+msgid "Insert Types..."
+msgstr "Infoga typer …"
+
+#: public/editor-build/261-wp/texts.php:594
+msgid "Homepage"
+msgstr "Startsida"
+
+#: public/editor-build/261-wp/texts.php:187
+msgid "Badge - Trusted"
+msgstr "Märke – betrodd"
+
+#: public/editor-build/261-wp/texts.php:181
+msgid "Back in Stock"
+msgstr "Tillbaka i lager"
+
+#: public/editor-build/261-wp/texts.php:180
+msgid "Back In Stock"
+msgstr "Tillbaka i lager"
+
+#: public/editor-build/261-wp/texts.php:157
+msgid "Arrow Position"
+msgstr "Pilposition"
+
+#: public/editor-build/261-wp/texts.php:699
+msgid "Limit Words"
+msgstr "Begränsa ord"
+
+#: public/editor-build/261-wp/texts.php:686
+msgid "Large Centered"
+msgstr "Stor centrerad"
+
+#: public/editor-build/261-wp/texts.php:712
+msgid "Load More On Scroll"
+msgstr "Ladda mer vid rullning"
+
+#: public/editor-build/261-wp/texts.php:706
+msgid "Link To Page"
+msgstr "Länk till sida"
+
+#: public/editor-build/261-wp/texts.php:199
+msgid "Based on Reviews"
+msgstr "Baserat på recensioner"
+
+#: public/editor-build/261-wp/texts.php:1431
+msgid "You can add only 1 element on page"
+msgstr "Du kan endast lägga till 1 element på sida"
+
+#: public/editor-build/261-wp/texts.php:1039
+msgid "Reviews with Photo"
+msgstr "Recensioner med foto"
+
+#: compatibilities/brizy-pro-compatibility.php:29
+msgid "Please update %s PRO to the latest version."
+msgstr "Uppdatera %s PRO till senaste versionen. "
+
+#: compatibilities/brizy-pro-compatibility.php:28
+msgid "%s PRO IS NOT RUNNING."
+msgstr "%s PRO KÖRS INTE."
+
+#: admin/main.php:535
+msgid "Heads up, Please backup before upgrade!"
+msgstr "OBS, säkerhetskopiera innan uppgradering!"
+
+#: public/editor-build/261-wp/texts.php:1191
+msgid "Specific Product"
+msgstr "Specifik produkt"
+
+#: admin/settings.php:556
+msgid "The old and new URLs must be valid URLs"
+msgstr "De gamla och nya webbadresserna måste vara giltiga webbadresser"
+
+#: admin/settings.php:119 admin/settings.php:120
+#: admin/views/settings/tools.php:7
+msgid "Tools"
+msgstr "Verktyg"
+
+#: admin/views/settings/tools.php:11 admin/views/settings/tools.php:16
+#: admin/views/settings/tools.php:30
+msgid "Replace URL"
+msgstr "Ersätt webbadress"
+
+#: admin/views/settings/tools.php:18
+msgid "<strong>Important:</strong> It is strongly recommended that you <a target=\"_blank\" href=\"%s\">backup your database</a> before using Replace URL."
+msgstr "<strong>Viktigt:</strong> Det rekommenderas starkt att du <a target=\"_blank\" href=\"%s\">säkerhetskopierar din databas</a> innan du använder Ersätt webbadress."
+
+#: admin/views/settings/tools.php:34
+msgid "Enter your old and new URLs for your WordPress installation, to update all %s data (Relevant for domain transfers or move to 'HTTPS')."
+msgstr "Skriv dina gamla och nya URL för din WordPress-installation, för att uppdatera alla %s-data (Relevant för domänflytt eller övergång till ”HTTPS”)"
+
+#: admin/views/settings/tools.php:23
+msgid "Update Site Address (URL)"
+msgstr "Uppdatera webbplatsens adress (URL)"
+
+#: admin/settings.php:599
+msgid "The replacement was successful"
+msgstr "Ersättningen genomförd"
+
+#: admin/settings.php:552
+msgid "The old and new URLs must be different"
+msgstr "Den gamla och den nya URL:en får inte vara samma"
+
+#: public/editor-build/261-wp/texts.php:1432
+msgid "You can use these shortcodes in your email:"
+msgstr "Du kan använda dessa kortkoder i din e-post:"
+
+#: public/editor-build/261-wp/texts.php:1448
+msgid "element"
+msgstr "element"
+
+#: public/editor-build/261-wp/texts.php:1427
+msgid "Y"
+msgstr "Y"
+
+#: public/editor-build/261-wp/texts.php:1426
+msgid "X"
+msgstr "X"
+
+#: public/editor-build/261-wp/texts.php:1415
+msgid "Width Option"
+msgstr "Breddval"
+
+#: public/editor-build/261-wp/texts.php:1382
+msgid "Value Bg"
+msgstr "Bg värde"
+
+#: public/editor-build/261-wp/texts.php:1353
+msgid "Upgrade to PRO to use this"
+msgstr "Uppgradera till PRO för att använda denna"
+
+#: public/editor-build/261-wp/texts.php:1348
+msgid "Up"
+msgstr "Upp"
+
+#: public/editor-build/261-wp/texts.php:1305
+msgid "Translation"
+msgstr "Översättning"
+
+#: public/editor-build/261-wp/texts.php:1257
+msgid "Text Shadow"
+msgstr "Textskugga"
+
+#: public/editor-build/261-wp/texts.php:1251
+msgid "Taxonomy"
+msgstr "Taxonomi"
+
+#: public/editor-build/261-wp/texts.php:1206
+msgid "Step"
+msgstr "Steg"
+
+#: public/editor-build/261-wp/texts.php:1151
+msgid "Size 2"
+msgstr "Storlek 2"
+
+#: public/editor-build/261-wp/texts.php:1130
+msgid "Show Label"
+msgstr "Visa etikett"
+
+#: public/editor-build/261-wp/texts.php:1138
+msgid "Show Text"
+msgstr "Visa text"
+
+#: public/editor-build/261-wp/texts.php:1134
+msgid "Show Original image"
+msgstr "Visa orginalbild"
+
+#: public/editor-build/261-wp/texts.php:1125
+msgid "Show Counter"
+msgstr "Visa räknare"
+
+#: public/editor-build/261-wp/texts.php:1306
+msgid "Transparency"
+msgstr "Transparens"
+
+#: public/editor-build/261-wp/texts.php:1084
+msgid "Select Item"
+msgstr "Välj objekt"
+
+#: public/editor-build/261-wp/texts.php:1074
+msgid "Scroll"
+msgstr "Skrolla"
+
+#: public/editor-build/261-wp/texts.php:1073
+msgid "Screen"
+msgstr "Skärm"
+
+#: public/editor-build/261-wp/texts.php:1072
+msgid "Scale"
+msgstr "Skala"
+
+#: public/editor-build/261-wp/texts.php:1064
+msgid "Saturation"
+msgstr "Färgmättnad"
+
+#: public/editor-build/261-wp/texts.php:1007
+msgid "Replay Animation"
+msgstr "Spela om animation"
+
+#: public/editor-build/261-wp/texts.php:1003
+msgid "Repeat"
+msgstr "Upprepa"
+
+#: public/editor-build/261-wp/texts.php:977
+msgid "Rating scale"
+msgstr "Betygsskala"
+
+#: public/editor-build/261-wp/texts.php:896
+msgid "Points"
+msgstr "Poäng"
+
+#: public/editor-build/261-wp/texts.php:852
+msgid "Out"
+msgstr "Ut"
+
+#: public/editor-build/261-wp/texts.php:794
+msgid "Multiply"
+msgstr "Multiplicera"
+
+#: public/editor-build/261-wp/texts.php:792
+msgid "Multi-Language"
+msgstr "Flerspråkig"
+
+#: public/editor-build/261-wp/texts.php:791
+msgid "Move up"
+msgstr "Flytta upp"
+
+#: public/editor-build/261-wp/texts.php:788
+msgid "Move down"
+msgstr "Flytta ner"
+
+#: public/editor-build/261-wp/texts.php:786
+msgid "MouseTrack"
+msgstr "Musspårning"
+
+#: public/editor-build/261-wp/texts.php:724
+msgid "Luminosity"
+msgstr "Ljusstyrka"
+
+#: public/editor-build/261-wp/texts.php:697
+msgid "Lighten"
+msgstr "Ljusare"
+
+#: public/editor-build/261-wp/texts.php:694
+msgid "Level"
+msgstr "Nivå"
+
+#: public/editor-build/261-wp/texts.php:684
+msgid "Languages"
+msgstr "Språk"
+
+#: public/editor-build/261-wp/texts.php:680
+msgid "Label Bg"
+msgstr "Bg etikett"
+
+#: public/editor-build/261-wp/texts.php:632
+msgid "In"
+msgstr "In"
+
+#: public/editor-build/261-wp/texts.php:610
+msgid "Icon Styles"
+msgstr "Ikonstilar"
+
+#: public/editor-build/261-wp/texts.php:595
+msgid "Horizontal"
+msgstr "Horisontell"
+
+#: public/editor-build/261-wp/texts.php:593
+msgid "Hierarchical"
+msgstr "Hierarkisk"
+
+#: public/editor-build/261-wp/texts.php:545
+msgid "Gap"
+msgstr "Mellanrum"
+
+#: public/editor-build/261-wp/texts.php:538
+msgid "Full Name"
+msgstr "Fullständigt namn"
+
+#: public/editor-build/261-wp/texts.php:513
+msgid "Flags"
+msgstr "Flaggor"
+
+#: public/editor-build/261-wp/texts.php:512
+msgid "Flag"
+msgstr "Flagga"
+
+#: public/editor-build/261-wp/texts.php:477
+msgid "Fade"
+msgstr "Tona bort"
+
+#: public/editor-build/261-wp/texts.php:460
+msgid "Exclusion"
+msgstr "Exkludering"
+
+#: public/editor-build/261-wp/texts.php:455
+msgid "Example [gallery id='123' size='medium']"
+msgstr "Exempel [gallery id='123' size='medium']"
+
+#: public/editor-build/261-wp/texts.php:445
+msgid "Entrance"
+msgstr "Ingång"
+
+#: public/editor-build/261-wp/texts.php:421
+msgid "Effects"
+msgstr "Effekter"
+
+#: public/editor-build/261-wp/texts.php:403
+msgid "Down"
+msgstr "Ner"
+
+#: public/editor-build/261-wp/texts.php:391
+msgid "Display"
+msgstr "Visa"
+
+#: public/editor-build/261-wp/texts.php:387
+msgid "Direction"
+msgstr "Riktning"
+
+#: public/editor-build/261-wp/texts.php:386
+msgid "Direct"
+msgstr "Direkt"
+
+#: public/editor-build/261-wp/texts.php:373
+msgid "Default font (can’t be deleted)"
+msgstr "Standardteckensnitt (kan inte raderas)"
+
+#: public/editor-build/261-wp/texts.php:367
+msgid "Data Source"
+msgstr "Datakälla"
+
+#: public/editor-build/261-wp/texts.php:365
+msgid "Darken"
+msgstr "Mörkare"
+
+#: public/editor-build/261-wp/texts.php:344
+msgid "Country Code"
+msgstr "Landskod"
+
+#: public/editor-build/261-wp/texts.php:319
+msgid "Content Padding"
+msgstr "Innehållsutfyllnad"
+
+#: public/editor-build/261-wp/texts.php:316
+msgid "Contain"
+msgstr "Innehåller"
+
+#: public/editor-build/261-wp/texts.php:280
+msgid "Center"
+msgstr "Centrerat"
+
+#: public/editor-build/261-wp/texts.php:217
+msgid "Blur"
+msgstr "Oskärpa"
+
+#: public/editor-build/261-wp/texts.php:209
+msgid "Blending Mode"
+msgstr "Blandningsläge"
+
+#: public/editor-build/261-wp/texts.php:206
+msgid "Big"
+msgstr "Stor"
+
+#: public/editor-build/261-wp/texts.php:200
+msgid "Basic"
+msgstr "Grundläggande"
+
+#: public/editor-build/261-wp/texts.php:167
+msgid "Attention"
+msgstr "Uppmärksamhet"
+
+#: public/editor-build/261-wp/texts.php:162
+msgid "Artwork"
+msgstr "Konstverk"
+
+#: public/editor-build/261-wp/texts.php:149
+msgid "Apply type"
+msgstr "Tillämpa typ"
+
+#: public/editor-build/261-wp/texts.php:148
+msgid "Apply on"
+msgstr "Tillämpa på"
+
+#: public/editor-build/261-wp/texts.php:56
+msgid "0 Selected"
+msgstr "0 valda"
+
+#: public/editor-build/261-wp/texts.php:1202
+msgid "Stars count"
+msgstr "Antal stjärnor"
+
+#: public/editor-build/261-wp/texts.php:1149
+msgid "Sign in link"
+msgstr "Inloggningslänk"
+
+#: public/editor-build/261-wp/texts.php:1117
+msgid "Shopping Bag"
+msgstr "Varukorg"
+
+#: public/editor-build/261-wp/texts.php:1294
+msgid "Title Padding"
+msgstr "Rubrikutfyllnad"
+
+#: public/editor-build/261-wp/texts.php:843
+msgid "Opposite"
+msgstr "Motstående"
+
+#: public/editor-build/261-wp/texts.php:620
+msgid "If you need to have multiple emails you can separate them by commas"
+msgstr "Om du behöver ange flera e-postadresser kan du avgränsa dem med kommatecken"
+
+#: public/editor-build/261-wp/texts.php:385
+msgid "Difference"
+msgstr "Skillnad"
+
+#: public/editor-build/261-wp/texts.php:58
+msgid "0-5"
+msgstr "0–5"
+
+#: public/editor-build/261-wp/texts.php:57
+msgid "0-10"
+msgstr "0–10"
+
+#: public/editor-build/261-wp/texts.php:1123
+msgid "Show Apply"
+msgstr "Visa tillämpa"
+
+#: public/editor-build/261-wp/texts.php:303
+msgid "Color Burn"
+msgstr "Efterbelys färg"
+
+#: public/editor-build/261-wp/texts.php:304
+msgid "Color Dodge"
+msgstr "Färgskugga"
+
+#: public/editor-build/261-wp/texts.php:60
+msgid "3D Tilt"
+msgstr "3D-lutning"
+
+#: public/editor-build/261-wp/texts.php:891
+msgid "Play Counts"
+msgstr "Antal spelningar"
+
+#: public/editor-build/261-wp/texts.php:1129
+msgid "Show If Language"
+msgstr "Visa Om Språk"
+
+#: public/editor-build/261-wp/texts.php:1455
+msgid "layouts"
+msgstr "layouter"
+
+#: public/editor-build/261-wp/texts.php:1454
+msgid "layout"
+msgstr "layout"
+
+#: public/editor-build/261-wp/texts.php:1449
+msgid "here"
+msgstr "här"
+
+#: public/editor-build/261-wp/texts.php:1439
+msgid "YouTube"
+msgstr "YouTube"
+
+#: public/editor-build/261-wp/texts.php:1423
+msgid "WordPress"
+msgstr "WordPress"
+
+#: public/editor-build/261-wp/texts.php:1397
+msgid "Volume"
+msgstr "Volym"
+
+#: public/editor-build/261-wp/texts.php:1396
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: public/editor-build/261-wp/texts.php:1395
+msgid "View as"
+msgstr "Visa som"
+
+#: public/editor-build/261-wp/texts.php:1390
+msgid "Vertical Offset"
+msgstr "Vertikal förskjutning"
+
+#: public/editor-build/261-wp/texts.php:1389
+msgid "Vertical Align"
+msgstr "Vertikal justering"
+
+#: public/editor-build/261-wp/texts.php:1388
+msgid "Vertical"
+msgstr "Vertikal"
+
+#: public/editor-build/261-wp/texts.php:1384
+msgid "Variations"
+msgstr "Varianter"
+
+#: public/editor-build/261-wp/texts.php:1383
+msgid "Values"
+msgstr "Värden"
+
+#: public/editor-build/261-wp/texts.php:1381
+msgid "Value"
+msgstr "Värde"
+
+#: public/editor-build/261-wp/texts.php:1379
+msgid "Users"
+msgstr "Användare"
+
+#: public/editor-build/261-wp/texts.php:1378
+msgid "Username"
+msgstr "Användarnamn"
+
+#: public/editor-build/261-wp/texts.php:1346
+msgid "Unlocked"
+msgstr "Olåst"
+
+#: public/editor-build/261-wp/texts.php:1344
+msgid "Undo"
+msgstr "Ångra"
+
+#: public/editor-build/261-wp/texts.php:1324
+msgid "Type to search"
+msgstr "Skriv för att söka"
+
+#: public/editor-build/261-wp/texts.php:1319
+msgid "Twitter"
+msgstr "Twitter"
+
+#: public/editor-build/261-wp/texts.php:1318
+msgid "Tweet"
+msgstr "Tweet"
+
+#: public/editor-build/261-wp/texts.php:1317
+msgid "Try Again"
+msgstr "Försök igen"
+
+#: public/editor-build/261-wp/texts.php:1310
+msgid "Triggers"
+msgstr "Utlösare"
+
+#: public/editor-build/261-wp/texts.php:1302
+msgid "Total"
+msgstr "Totalt"
+
+#: public/editor-build/261-wp/texts.php:1298
+msgid "Top"
+msgstr "Toppen"
+
+#: public/editor-build/261-wp/texts.php:1297
+msgid "Toggle Menu"
+msgstr "Slå på/av meny"
+
+#: public/editor-build/261-wp/texts.php:1266
+msgid "Theme"
+msgstr "Tema"
+
+#: public/editor-build/261-wp/texts.php:1254
+msgid "Testimonials"
+msgstr "Omdömen"
+
+#: public/editor-build/261-wp/texts.php:1253
+msgid "Tel"
+msgstr "Tel"
+
+#: public/editor-build/261-wp/texts.php:1252
+msgid "Team"
+msgstr "Team"
+
+#: public/editor-build/261-wp/texts.php:1250
+msgid "Target URL"
+msgstr "Mål-URL"
+
+#: public/editor-build/261-wp/texts.php:1243
+msgid "Tablet"
+msgstr "Surfplatta"
+
+#: public/editor-build/261-wp/texts.php:1229
+msgid "Suffix"
+msgstr "Suffix"
+
+#: public/editor-build/261-wp/texts.php:1227
+msgid "Subtotal"
+msgstr "Delsumma"
+
+#: public/editor-build/261-wp/texts.php:1218
+msgid "Subject"
+msgstr "Ämne"
+
+#: public/editor-build/261-wp/texts.php:1217
+msgid "Sub Title"
+msgstr "Underrubrik"
+
+#: public/editor-build/261-wp/texts.php:1215
+msgid "Styles"
+msgstr "Stilar"
+
+#: public/editor-build/261-wp/texts.php:1207
+msgid "Sticky"
+msgstr "Klistrat"
+
+#: public/editor-build/261-wp/texts.php:1204
+msgid "Static"
+msgstr "Statisk"
+
+#: public/editor-build/261-wp/texts.php:1200
+msgid "Stars"
+msgstr "Stjärnor"
+
+#: public/editor-build/261-wp/texts.php:1196
+msgid "Sport"
+msgstr "Sport"
+
+#: public/editor-build/261-wp/texts.php:1192
+msgid "Specific User"
+msgstr "Specifik användare"
+
+#: public/editor-build/261-wp/texts.php:1183
+msgid "Source Type"
+msgstr "Källtyp"
+
+#: public/editor-build/261-wp/texts.php:1182
+msgid "Source"
+msgstr "Källa"
+
+#: public/editor-build/261-wp/texts.php:1172
+msgid "Solid"
+msgstr "Solid"
+
+#: public/editor-build/261-wp/texts.php:1160
+msgid "Skip"
+msgstr "Hoppa över"
+
+#: public/editor-build/261-wp/texts.php:1159
+msgid "Skin 4"
+msgstr "Skal 4"
+
+#: public/editor-build/261-wp/texts.php:1158
+msgid "Skin 3"
+msgstr "Skal 3"
+
+#: public/editor-build/261-wp/texts.php:1157
+msgid "Skin 2"
+msgstr "Skal 2"
+
+#: public/editor-build/261-wp/texts.php:1156
+msgid "Skin 1"
+msgstr "Skal 1"
+
+#: public/editor-build/261-wp/texts.php:1155
+msgid "Skin"
+msgstr "Skal"
+
+#: public/editor-build/261-wp/texts.php:1144
+msgid "Show to"
+msgstr "Visa till"
+
+#: public/editor-build/261-wp/texts.php:1141
+msgid "Show message"
+msgstr "Visa meddelande"
+
+#: public/editor-build/261-wp/texts.php:1121
+msgid "Shortname"
+msgstr "Kortnamn"
+
+#: public/editor-build/261-wp/texts.php:1120
+msgid "Shortcuts"
+msgstr "Genvägar"
+
+#: public/editor-build/261-wp/texts.php:1116
+msgid "Shop Products"
+msgstr "Köp produkter"
+
+#: public/editor-build/261-wp/texts.php:1110
+msgid "Shape"
+msgstr "Form"
+
+#: public/editor-build/261-wp/texts.php:1108
+msgid "Shadow"
+msgstr "Skugga"
+
+#: public/editor-build/261-wp/texts.php:1099
+msgid "Separator"
+msgstr "Avgränsare"
+
+#: public/editor-build/261-wp/texts.php:1098
+msgid "Semi Bold"
+msgstr "Halvfet"
+
+#: public/editor-build/261-wp/texts.php:1096
+msgid "Select tags"
+msgstr "Välj etiketter"
+
+#: public/editor-build/261-wp/texts.php:1088
+msgid "Select a Menu"
+msgstr "Välj en meny"
+
+#: public/editor-build/261-wp/texts.php:1085
+msgid "Select Parent Element"
+msgstr "Välj överordnat element"
+
+#: public/editor-build/261-wp/texts.php:1082
+msgid "Section"
+msgstr "Section"
+
+#: public/editor-build/261-wp/texts.php:1081
+msgid "Seconds"
+msgstr "Sekunder"
+
+#: public/editor-build/261-wp/texts.php:1071
+msgid "Saving"
+msgstr "Sparar"
+
+#: public/editor-build/261-wp/texts.php:1067
+msgid "Save Layout"
+msgstr "Spara layout"
+
+#: public/editor-build/261-wp/texts.php:1066
+msgid "Save Draft"
+msgstr "Spara utkast"
+
+#: public/editor-build/261-wp/texts.php:1063
+msgid "Same Page"
+msgstr "Samma sida"
+
+#: public/editor-build/261-wp/texts.php:1062
+msgid "Sale"
+msgstr "Rea"
+
+#: public/editor-build/261-wp/texts.php:1049
+msgid "Rows"
+msgstr "Rader"
+
+#: public/editor-build/261-wp/texts.php:1045
+msgid "Rotate"
+msgstr "Rotera"
+
+#: public/editor-build/261-wp/texts.php:1041
+msgid "Right"
+msgstr "Höger"
+
+#: public/editor-build/261-wp/texts.php:1052
+msgid "SELECT ACCOUNT"
+msgstr "VÄLJ KONTO"
+
+#: public/editor-build/261-wp/texts.php:1008
+msgid "Reply"
+msgstr "Svara"
+
+#: public/editor-build/261-wp/texts.php:1002
+msgid "Repair"
+msgstr "Reparera"
+
+#: public/editor-build/261-wp/texts.php:998
+msgid "Remember me"
+msgstr "Kom ihåg mig"
+
+#: public/editor-build/261-wp/texts.php:997
+msgid "Religion"
+msgstr "Religion"
+
+#: public/editor-build/261-wp/texts.php:996
+msgid "Related Products Tags"
+msgstr "Relaterade produktetiketter"
+
+#: public/editor-build/261-wp/texts.php:994
+msgid "Related Products"
+msgstr "Relaterade produkter"
+
+#: public/editor-build/261-wp/texts.php:991
+msgid "Register"
+msgstr "Registrera"
+
+#: public/editor-build/261-wp/texts.php:990
+msgid "Refresh"
+msgstr "Uppdatera"
+
+#: public/editor-build/261-wp/texts.php:988
+msgid "Redo"
+msgstr "Gör om"
+
+#: public/editor-build/261-wp/texts.php:987
+msgid "Redirect After Logout"
+msgstr "Omdirigera efter utloggning"
+
+#: public/editor-build/261-wp/texts.php:986
+msgid "Redirect After Login"
+msgstr "Omdirigera efter inloggning"
+
+#: public/editor-build/261-wp/texts.php:984
+msgid "Recommend"
+msgstr "Rekommendera"
+
+#: public/editor-build/261-wp/texts.php:979
+msgid "ReCAPTCHA"
+msgstr "ReCAPTCHA"
+
+#: public/editor-build/261-wp/texts.php:973
+msgid "Radio"
+msgstr "Radioknapp"
+
+#: public/editor-build/261-wp/texts.php:972
+msgid "Radial"
+msgstr "Radiell"
+
+#: public/editor-build/261-wp/texts.php:969
+msgid "Quantity"
+msgstr "Antal"
+
+#: public/editor-build/261-wp/texts.php:964
+msgid "Publish Page"
+msgstr "Publicera sida"
+
+#: public/editor-build/261-wp/texts.php:962
+msgid "Protected Page"
+msgstr "Skyddad sida"
+
+#: public/editor-build/261-wp/texts.php:959
+msgid "Products Tags"
+msgstr "Produktetiketter"
+
+#: public/editor-build/261-wp/texts.php:953
+msgid "Product Title"
+msgstr "Produktrubrik"
+
+#: public/editor-build/261-wp/texts.php:952
+msgid "Product Thumbnail"
+msgstr "Produktminiatyr"
+
+#: public/editor-build/261-wp/texts.php:951
+msgid "Product Stock"
+msgstr "Produktlager"
+
+#: public/editor-build/261-wp/texts.php:949
+msgid "Product SKU"
+msgstr "Produktens artikelnummer"
+
+#: public/editor-build/261-wp/texts.php:948
+msgid "Product Review"
+msgstr "Produktrecension"
+
+#: public/editor-build/261-wp/texts.php:947
+msgid "Product Rating"
+msgstr "Produktbetyg"
+
+#: public/editor-build/261-wp/texts.php:946
+msgid "Product Price"
+msgstr "Produktpris"
+
+#: public/editor-build/261-wp/texts.php:938
+msgid "Product Gallery"
+msgstr "Produktgalleri"
+
+#: public/editor-build/261-wp/texts.php:936
+msgid "Product Content"
+msgstr "Produktinnehåll"
+
+#: public/editor-build/261-wp/texts.php:934
+msgid "Product Attributes"
+msgstr "Produktattribut"
+
+#: public/editor-build/261-wp/texts.php:930
+msgid "Pricing"
+msgstr "Priser"
+
+#: public/editor-build/261-wp/texts.php:929
+msgid "Price"
+msgstr "Pris"
+
+#: public/editor-build/261-wp/texts.php:921
+msgid "Prefix"
+msgstr "Prefix"
+
+#: public/editor-build/261-wp/texts.php:917
+msgid "Posts Tags"
+msgstr "Inläggsetiketter"
+
+#: public/editor-build/261-wp/texts.php:913
+msgid "Post info"
+msgstr "Inläggsinformation"
+
+#: public/editor-build/261-wp/texts.php:911
+msgid "Post Title"
+msgstr "Inläggsrubrik"
+
+#: public/editor-build/261-wp/texts.php:909
+msgid "Post Navigation"
+msgstr "Inläggsnavigering"
+
+#: public/editor-build/261-wp/texts.php:907
+msgid "Post Excerpt"
+msgstr "Inläggsutdrag"
+
+#: public/editor-build/261-wp/texts.php:906
+msgid "Post Content"
+msgstr "Inläggsinnehåll"
+
+#: public/editor-build/261-wp/texts.php:903
+msgid "Portfolio"
+msgstr "Portfölj"
+
+#: public/editor-build/261-wp/texts.php:902
+msgid "Port"
+msgstr "Port"
+
+#: public/editor-build/261-wp/texts.php:899
+msgid "Popup"
+msgstr "Popup"
+
+#: public/editor-build/261-wp/texts.php:894
+msgid "Playlist"
+msgstr "Spellista"
+
+#: public/editor-build/261-wp/texts.php:889
+msgid "Plain"
+msgstr "Enkel"
+
+#: public/editor-build/261-wp/texts.php:888
+msgid "Placeholder"
+msgstr "Platshållare"
+
+#: public/editor-build/261-wp/texts.php:886
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+#: public/editor-build/261-wp/texts.php:883
+msgid "Percent"
+msgstr "Procent"
+
+#: public/editor-build/261-wp/texts.php:880
+msgid "Paste Styles"
+msgstr "Klistra in stilar"
+
+#: public/editor-build/261-wp/texts.php:879
+msgid "Paste Style"
+msgstr "Klistra in stil"
+
+#: public/editor-build/261-wp/texts.php:878
+msgid "Paste"
+msgstr "Klistra in"
+
+#: public/editor-build/261-wp/texts.php:876
+msgid "Password"
+msgstr "Lösenord"
+
+#: public/editor-build/261-wp/texts.php:868
+msgid "Pagination"
+msgstr "Sidonumrering"
+
+#: public/editor-build/261-wp/texts.php:866
+msgid "Page title"
+msgstr "Sidrubrik"
+
+#: public/editor-build/261-wp/texts.php:865
+msgid "Page Title"
+msgstr "Sidrubrik"
+
+#: public/editor-build/261-wp/texts.php:864
+msgid "Page Template"
+msgstr "Sidmall"
+
+#: public/editor-build/261-wp/texts.php:863
+msgid "Page Layout"
+msgstr "Sidlayout"
+
+#: public/editor-build/261-wp/texts.php:858
+msgid "Overlay "
+msgstr "Överlägg"
+
+#: public/editor-build/261-wp/texts.php:855
+msgid "Outset"
+msgstr "Utfälld"
+
+#: public/editor-build/261-wp/texts.php:850
+msgid "Orientation"
+msgstr "Orientering"
+
+#: public/editor-build/261-wp/texts.php:842
+msgid "Open in Lightbox"
+msgstr "Öppna i lightbox"
+
+#: public/editor-build/261-wp/texts.php:839
+msgid "One Page"
+msgstr "En sida"
+
+#: public/editor-build/261-wp/texts.php:838
+msgid "On Hover"
+msgstr "Vid hovring"
+
+#: public/editor-build/261-wp/texts.php:837
+msgid "On Click"
+msgstr "Vid klick"
+
+#: public/editor-build/261-wp/texts.php:836
+msgid "Offset"
+msgstr "Förskjutning"
+
+#: public/editor-build/261-wp/texts.php:834
+msgid "Number of posts"
+msgstr "Antal inlägg"
+
+#: public/editor-build/261-wp/texts.php:817
+msgid "Nothing Found"
+msgstr "Inget hittades"
+
+#: public/editor-build/261-wp/texts.php:815
+msgid "Not Required"
+msgstr "Inte obligatoriskt"
+
+#: public/editor-build/261-wp/texts.php:810
+msgid "No results"
+msgstr "Inga resultat"
+
+#: public/editor-build/261-wp/texts.php:808
+msgid "No matches found"
+msgstr "Inga matchningar hittades"
+
+#: public/editor-build/261-wp/texts.php:803
+msgid "Need help"
+msgstr "Behöver hjälp"
+
+#: public/editor-build/261-wp/texts.php:797
+msgid "N/A"
+msgstr "N/A"
+
+#: public/editor-build/261-wp/texts.php:790
+msgid "Move right"
+msgstr "Flytta höger"
+
+#: public/editor-build/261-wp/texts.php:789
+msgid "Move left"
+msgstr "Flytta vänster"
+
+#: public/editor-build/261-wp/texts.php:772
+msgid "Minimal"
+msgstr "Minimalistisk"
+
+#: public/editor-build/261-wp/texts.php:763
+msgid "Meta"
+msgstr "Meta"
+
+#: public/editor-build/261-wp/texts.php:762
+msgid "Messages"
+msgstr "Meddelanden"
+
+#: public/editor-build/261-wp/texts.php:758
+msgid "Menu order"
+msgstr "Menysortering"
+
+#: public/editor-build/261-wp/texts.php:756
+msgid "Menu Items"
+msgstr "Menyval"
+
+#: public/editor-build/261-wp/texts.php:754
+msgid "Mention"
+msgstr "Omnämnande"
+
+#: public/editor-build/261-wp/texts.php:753
+msgid "Membership"
+msgstr "Medlemskap"
+
+#: public/editor-build/261-wp/texts.php:747
+msgid "Medium"
+msgstr "Medium"
+
+#: public/editor-build/261-wp/texts.php:743
+msgid "Max. File Size"
+msgstr "Maximal filstorlek"
+
+#: public/editor-build/261-wp/texts.php:740
+msgid "Max"
+msgstr "Max"
+
+#: public/editor-build/261-wp/texts.php:738
+msgid "Mask"
+msgstr "Mask"
+
+#: public/editor-build/261-wp/texts.php:731
+msgid "Manual"
+msgstr "Manuellt"
+
+#: public/editor-build/261-wp/texts.php:721
+msgid "Lottie"
+msgstr "Lottie"
+
+#: public/editor-build/261-wp/texts.php:720
+msgid "Lost Password"
+msgstr "Glömt lösenord"
+
+#: public/editor-build/261-wp/texts.php:717
+msgid "Logout"
+msgstr "Logga ut"
+
+#: public/editor-build/261-wp/texts.php:716
+msgid "Login"
+msgstr "Logga in"
+
+#: public/editor-build/261-wp/texts.php:715
+msgid "Locked"
+msgstr "Låst"
+
+#: public/editor-build/261-wp/texts.php:713
+msgid "Loading..."
+msgstr "Laddar in …"
+
+#: public/editor-build/261-wp/texts.php:708
+msgid "Links"
+msgstr "Länkar"
+
+#: public/editor-build/261-wp/texts.php:703
+msgid "Linear"
+msgstr "Linjär"
+
+#: public/editor-build/261-wp/texts.php:698
+msgid "Like"
+msgstr "Gilla"
+
+#: public/editor-build/261-wp/texts.php:692
+msgid "Left"
+msgstr "Vänster"
+
+#: public/editor-build/261-wp/texts.php:690
+msgid "Layouts"
+msgstr "Layouter"
+
+#: public/editor-build/261-wp/texts.php:687
+msgid "Last Name"
+msgstr "Efternamn"
+
+#: public/editor-build/261-wp/texts.php:675
+msgid "Keyboard Shortcuts"
+msgstr "Tangentbordsgenvägar"
+
+#: public/editor-build/261-wp/texts.php:664
+msgid "Intro"
+msgstr "Intro"
+
+#: public/editor-build/261-wp/texts.php:661
+msgid "Inset"
+msgstr "Inset"
+
+#: public/editor-build/261-wp/texts.php:647
+msgid "Info"
+msgstr "Info"
+
+#: public/editor-build/261-wp/texts.php:641
+msgid "Incorrect username or password"
+msgstr "Felaktig användarnamn eller lösenord"
+
+#: public/editor-build/261-wp/texts.php:640
+msgid "Incorrect"
+msgstr "Felaktigt"
+
+#: public/editor-build/261-wp/texts.php:611
+msgid "Icons"
+msgstr "Ikoner"
+
+#: public/editor-build/261-wp/texts.php:600
+msgid "Hours"
+msgstr "Timmar"
+
+#: public/editor-build/261-wp/texts.php:598
+msgid "Host"
+msgstr "Webbhotell"
+
+#: public/editor-build/261-wp/texts.php:597
+msgid "Horizontal Offset"
+msgstr "Horisontell förskjutning"
+
+#: public/editor-build/261-wp/texts.php:596
+msgid "Horizontal Align"
+msgstr "Horisontell justering"
+
+#: public/editor-build/261-wp/texts.php:591
+msgid "Hide Hidden Elements"
+msgstr "Dölj dolda element"
+
+#: public/editor-build/261-wp/texts.php:590
+msgid "Hide Cover Photo"
+msgstr "Dölj omslagsfoto"
+
+#: public/editor-build/261-wp/texts.php:588
+msgid "Hide"
+msgstr "Dölj"
+
+#: public/editor-build/261-wp/texts.php:587
+msgid "Hidden"
+msgstr "Dold"
+
+#: public/editor-build/261-wp/texts.php:586
+msgid "Hero"
+msgstr "Hero"
+
+#: public/editor-build/261-wp/texts.php:559
+msgid "Group"
+msgstr "Grupp"
+
+#: public/editor-build/261-wp/texts.php:558
+msgid "Gradient"
+msgstr "Gradient"
+
+#: public/editor-build/261-wp/texts.php:543
+msgid "Gallery Tags"
+msgstr "Gallerietiketter"
+
+#: public/editor-build/261-wp/texts.php:542
+msgid "Gallery"
+msgstr "Galleri"
+
+#: public/editor-build/261-wp/texts.php:540
+msgid "Full name"
+msgstr "Fullständigt namn"
+
+#: public/editor-build/261-wp/texts.php:539
+msgid "Full Screen"
+msgstr "Helskärm"
+
+#: public/editor-build/261-wp/texts.php:535
+msgid "From Name"
+msgstr "Från namn"
+
+#: public/editor-build/261-wp/texts.php:534
+msgid "From Email"
+msgstr "Från e-post"
+
+#: public/editor-build/261-wp/texts.php:530
+msgid "Forms"
+msgstr "Formulär"
+
+#: public/editor-build/261-wp/texts.php:528
+msgid "Form Fields"
+msgstr "Formulärfält"
+
+#: public/editor-build/261-wp/texts.php:526
+msgid "Footers"
+msgstr "Sidfötter"
+
+#: public/editor-build/261-wp/texts.php:524
+msgid "Food"
+msgstr "Mat"
+
+#: public/editor-build/261-wp/texts.php:523
+msgid "Fonts"
+msgstr "Typsnitt"
+
+#: public/editor-build/261-wp/texts.php:522
+msgid "Font weight"
+msgstr "Typsnittsvikt"
+
+#: public/editor-build/261-wp/texts.php:521
+msgid "Font name"
+msgstr "Typsnittsnamn"
+
+#: public/editor-build/261-wp/texts.php:517
+msgid "Followers"
+msgstr "Följare"
+
+#: public/editor-build/261-wp/texts.php:516
+msgid "Follow"
+msgstr "Följ"
+
+#: public/editor-build/261-wp/texts.php:509
+msgid "First Name"
+msgstr "Förnamn"
+
+#: public/editor-build/261-wp/texts.php:507
+msgid "Filters"
+msgstr "Filter"
+
+#: public/editor-build/261-wp/texts.php:495
+msgid "File"
+msgstr "Fil"
+
+#: public/editor-build/261-wp/texts.php:486
+msgid "Featured Image"
+msgstr "Utvald bild"
+
+#: public/editor-build/261-wp/texts.php:482
+msgid "Failed to update page"
+msgstr "Misslyckades att uppdatera sida"
+
+#: public/editor-build/261-wp/texts.php:476
+msgid "Facebook Page"
+msgstr "Facebook-sida"
+
+#: public/editor-build/261-wp/texts.php:475
+msgid "Facebook Group"
+msgstr "Facebook-grupp"
+
+#: public/editor-build/261-wp/texts.php:474
+msgid "Facebook Embed"
+msgstr "Facebook-inbäddning"
+
+#: public/editor-build/261-wp/texts.php:472
+msgid "Facebook"
+msgstr "Facebook"
+
+#: public/editor-build/261-wp/texts.php:471
+msgid "FORM FIELDS"
+msgstr "FORMULÄRFÄLT"
+
+#: public/editor-build/261-wp/texts.php:468
+msgid "FIELDS"
+msgstr "FÄLT"
+
+#: public/editor-build/261-wp/texts.php:466
+msgid "Extra Light"
+msgstr "Extra lätt"
+
+#: public/editor-build/261-wp/texts.php:464
+msgid "Extra Bold"
+msgstr "Extra fet"
+
+#: public/editor-build/261-wp/texts.php:462
+msgid "Export All Layouts"
+msgstr "Exportera alla layouter"
+
+#: public/editor-build/261-wp/texts.php:461
+msgid "Export All Blocks"
+msgstr "Exportera alla block"
+
+#: public/editor-build/261-wp/texts.php:459
+msgid "Exclude by"
+msgstr "Exkludera efter"
+
+#: public/editor-build/261-wp/texts.php:456
+msgid "Excerpt"
+msgstr "Utdrag"
+
+#: public/editor-build/261-wp/texts.php:437
+msgid "Enable on Tablet"
+msgstr "Aktivera på läsplatta"
+
+#: public/editor-build/261-wp/texts.php:435
+msgid "Enable Tags"
+msgstr "Aktivera etiketter"
+
+#: public/editor-build/261-wp/texts.php:422
+msgid "Elements"
+msgstr "Element"
+
+#: public/editor-build/261-wp/texts.php:420
+msgid "Education"
+msgstr "Utbildning"
+
+#: public/editor-build/261-wp/texts.php:418
+msgid "Edit"
+msgstr "Redigera"
+
+#: public/editor-build/261-wp/texts.php:416
+msgid "Dynamic Content"
+msgstr "Dynamiskt innehåll"
+
+#: public/editor-build/261-wp/texts.php:390
+msgid "Disconnect"
+msgstr "Koppla från"
+
+#: public/editor-build/261-wp/texts.php:372
+msgid "Default Roles"
+msgstr "Standardroller"
+
+#: public/editor-build/261-wp/texts.php:370
+msgid "Days"
+msgstr "Dagar"
+
+#: public/editor-build/261-wp/texts.php:364
+msgid "Dark"
+msgstr "Mörk"
+
+#: public/editor-build/261-wp/texts.php:363
+msgid "DELETE"
+msgstr "TA BORT"
+
+#: public/editor-build/261-wp/texts.php:361
+msgid "Custom Video"
+msgstr "Anpassad video"
+
+#: public/editor-build/261-wp/texts.php:360
+msgid "Custom Text"
+msgstr "Anpassad text"
+
+#: public/editor-build/261-wp/texts.php:358
+msgid "Custom Page"
+msgstr "Anpassad sida"
+
+#: public/editor-build/261-wp/texts.php:357
+msgid "Custom CSS"
+msgstr "Anpassad CSS"
+
+#: public/editor-build/261-wp/texts.php:356
+msgid "Custom Attributes"
+msgstr "Anpassade attribut"
+
+#: public/editor-build/261-wp/texts.php:354
+msgid "Current Page"
+msgstr "Nuvarande sida"
+
+#: public/editor-build/261-wp/texts.php:351
+msgid "Create your own"
+msgstr "Skapa din egen"
+
+#: public/editor-build/261-wp/texts.php:350
+msgid "Create a new list"
+msgstr "Skapa en ny lista"
+
+#: public/editor-build/261-wp/texts.php:349
+msgid "Create a menu"
+msgstr "Skapa en meny"
+
+#: public/editor-build/261-wp/texts.php:347
+msgid "Create"
+msgstr "Skapa"
+
+#: public/editor-build/261-wp/texts.php:327
+msgid "Copy"
+msgstr "Kopiera"
+
+#: public/editor-build/261-wp/texts.php:322
+msgid "Continue"
+msgstr "Fortsätt"
+
+#: public/editor-build/261-wp/texts.php:320
+msgid "Context"
+msgstr "Sammanhang"
+
+#: public/editor-build/261-wp/texts.php:315
+msgid "Contact"
+msgstr "Kontakt"
+
+#: public/editor-build/261-wp/texts.php:314
+msgid "Connect a new account"
+msgstr "Anslut ett nytt konto"
+
+#: public/editor-build/261-wp/texts.php:313
+msgid "Connect"
+msgstr "Anslut"
+
+#: public/editor-build/261-wp/texts.php:311
+msgid "Conditions"
+msgstr "Villkor"
+
+#: public/editor-build/261-wp/texts.php:310
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: public/editor-build/261-wp/texts.php:1462
+msgid "story"
+msgstr "berättelse"
+
+#: public/editor-build/261-wp/texts.php:1460
+msgid "required"
+msgstr "obligatorisk"
+
+#: public/editor-build/261-wp/texts.php:1459
+msgid "remove this element"
+msgstr "ta bort detta element"
+
+#: public/main.php:202
+msgid "Edit %s with %s"
+msgstr "Redigera %s med %s"
+
+#: public/editor-build/261-wp/texts.php:1453
+msgid "is currently working on this page. Do you want to take over"
+msgstr "redigerar redan denna sida. Vill du ta över?"
+
+#: public/editor-build/261-wp/texts.php:1452
+msgid "is already editing project"
+msgstr "redigerar redan detta projekt"
+
+#: public/editor-build/261-wp/texts.php:1443
+msgid "Your link is not correct"
+msgstr "Din länk är inte korrekt"
+
+#: public/editor-build/261-wp/texts.php:1442
+msgid "Your block was saved without screenshot, browser is not compatible"
+msgstr "Ditt block sparades utan skärmdump, webbläsaren är inte kompatibel"
+
+#: public/editor-build/261-wp/texts.php:1441
+msgid "Your Plugin version is incompatible with Account version, please update plugin"
+msgstr "Din tilläggsversion är inte kompatibel med kontoversionen, vänligen uppdatera tillägget"
+
+#: public/editor-build/261-wp/texts.php:1436
+msgid "You must be have one font added"
+msgstr "Du måste ha ett teckensnitt tillagt"
+
+#: public/editor-build/261-wp/texts.php:1435
+msgid "You have successfully connect the form with"
+msgstr "Du har lyckats ansluta formuläret med"
+
+#: public/editor-build/261-wp/texts.php:1434
+msgid "You can’t make changes"
+msgstr "Du kan inte göra ändringar"
+
+#: public/editor-build/261-wp/texts.php:1433
+msgid "You can't add it again"
+msgstr "Du kan inte lägga till igen"
+
+#: public/editor-build/261-wp/texts.php:1428
+msgid "YOUR PAGE IS READY TO PUBLISH!"
+msgstr "DIN SIDA ÄR REDO ATT PUBLICERA"
+
+#: public/editor-build/261-wp/texts.php:1404
+msgid "When Finished"
+msgstr "När det är klart"
+
+#: public/editor-build/261-wp/texts.php:1401
+msgid "WOFF2 File"
+msgstr "WOFF2 fil"
+
+#: public/editor-build/261-wp/texts.php:1400
+msgid "WOFF File"
+msgstr "WOFF fil"
+
+#: public/editor-build/261-wp/texts.php:1399
+msgid "WHERE DO YOU WANT TO DISPLAY IT?"
+msgstr "VAR VILL DU VISA DET?"
+
+#: public/editor-build/261-wp/texts.php:1398
+msgid "WHAT WILL TRIGGER THE POPUP TO OPEN"
+msgstr "VAD KOMMER TRIGGA POPUPEN ATT ÖPPNA"
+
+#: public/editor-build/261-wp/texts.php:1386
+msgid "Verification process failed, please make sure you have done the following three things and try again in a few minutes."
+msgstr "Verifikationsprocessen misslyckades, var vänlig se till att du har gjort följande tre saker och försök igen om några minuter."
+
+#: public/editor-build/261-wp/texts.php:1374
+msgid "Use Small Header"
+msgstr "Använd liten rubrik"
+
+#: public/editor-build/261-wp/texts.php:1358
+msgid "Upgrade to PRO to use this story"
+msgstr "Uppgradera till PRO för att använda denna story"
+
+#: public/editor-build/261-wp/texts.php:1357
+msgid "Upgrade to PRO to use this layout"
+msgstr "Uppgradera till PRO för att använda denna layout"
+
+#: public/editor-build/261-wp/texts.php:1355
+msgid "Upgrade to PRO to use this element"
+msgstr "Uppgradera till PRO för att använda detta element"
+
+#: public/editor-build/261-wp/texts.php:1354
+msgid "Upgrade to PRO to use this block"
+msgstr "Uppgradera till PRO för att använda detta block"
+
+#: public/editor-build/261-wp/texts.php:1347
+msgid "Unsuccessful sync"
+msgstr "Misslyckad synk"
+
+#: public/editor-build/261-wp/texts.php:1341
+msgid "Unable to insert layout. Please try again or contact support"
+msgstr "Kan inte infoga layout. Vänligen försök igen eller kontakta supporten"
+
+#: public/editor-build/261-wp/texts.php:1342
+msgid "Unable to insert popup. Please try again or contact support"
+msgstr "Kan inte infoga popup. Vänligen försök igen eller kontakta supporten"
+
+#: public/editor-build/261-wp/texts.php:1340
+msgid "Unable to insert block. Please try again or contact support"
+msgstr "Kan inte infoga block. Vänligen försök igen eller kontakta supporten"
+
+#: public/editor-build/261-wp/texts.php:1336
+msgid "USE CUSTOM TEMPLATE"
+msgstr "ANVÄND ANPASSAD MALL"
+
+#: public/editor-build/261-wp/texts.php:1327
+msgid "UPLOAD FONT"
+msgstr "LADDA UPP TECKENSNITT"
+
+#: public/editor-build/261-wp/texts.php:1326
+msgid "UPLOAD"
+msgstr "LADDA UPP"
+
+#: public/editor-build/261-wp/texts.php:1321
+msgid "Type"
+msgstr "Skriv"
+
+#: public/editor-build/261-wp/texts.php:1309
+msgid "Trigger Popup Only Once"
+msgstr "Triggar popup bara en gång"
+
+#: public/editor-build/261-wp/texts.php:1296
+msgid "To Dashboard"
+msgstr "Till adminpanelen"
+
+#: public/editor-build/261-wp/texts.php:1295
+msgid "Titles"
+msgstr "Rubriker"
+
+#: public/editor-build/261-wp/texts.php:1292
+msgid "Tip: You can browse the Google font library"
+msgstr "Tips: Du kan söka på Googles teckensnittsbibliotek"
+
+#: public/editor-build/261-wp/texts.php:1291
+msgid "Tip: Use these shortcodes to populate your template"
+msgstr "Tips: Använd dessa kortkoder för att använda i din mall"
+
+#: public/editor-build/261-wp/texts.php:1289
+msgid "Timer"
+msgstr "Timer"
+
+#: public/editor-build/261-wp/texts.php:1288
+msgid "Timeline Labels"
+msgstr "Tidslinjeetiketter"
+
+#: public/editor-build/261-wp/texts.php:1286
+msgid "Timeline"
+msgstr "Tidslinje"
+
+#: public/editor-build/261-wp/texts.php:1284
+msgid "Time"
+msgstr "Tid"
+
+#: public/editor-build/261-wp/texts.php:1283
+msgid "Thumbs"
+msgstr "Tummar"
+
+#: public/editor-build/261-wp/texts.php:1267
+msgid "There are no choices"
+msgstr "Det finns inga val"
+
+#: public/editor-build/261-wp/texts.php:1262
+msgid "The email address format is not valid"
+msgstr "Formatet på e-postadressen är inte rätt"
+
+#: public/editor-build/261-wp/texts.php:1261
+msgid "The element you have selected doesn't have more settings"
+msgstr "Elementet du valt har inte fler inställningar"
+
+#: public/editor-build/261-wp/texts.php:1241
+msgid "Table Head"
+msgstr "Tabellhuvud"
+
+#: public/editor-build/261-wp/texts.php:1240
+msgid "Table"
+msgstr "Tabell"
+
+#: public/editor-build/261-wp/texts.php:1239
+msgid "Tab"
+msgstr "Flik"
+
+#: public/editor-build/261-wp/texts.php:1237
+msgid "Sync Now"
+msgstr "Synkronisera nu"
+
+#: public/editor-build/261-wp/texts.php:1236
+msgid "Switcher"
+msgstr "Växlare"
+
+#: public/editor-build/261-wp/texts.php:1235
+msgid "Switch to desktop to add popup"
+msgstr "Växla till skrivbordet för att lägga till popup"
+
+#: public/editor-build/261-wp/texts.php:1233
+msgid "Switch to Draft"
+msgstr "Byt till utkast"
+
+#: public/editor-build/261-wp/texts.php:1194
+msgid "Specify an end time (in seconds)"
+msgstr "Specificera en sluttid (i sekunder)"
+
+#: public/editor-build/261-wp/texts.php:1193
+msgid "Specify a start time (in seconds)"
+msgstr "Specificera en starttid (i sekunder)"
+
+#: public/editor-build/261-wp/texts.php:1173
+msgid "Some integrations are available only in PRO"
+msgstr "Vissa integrationer är bara tillgängliga i PRO"
+
+#: public/editor-build/261-wp/texts.php:1132
+msgid "Show Meta Data"
+msgstr "Visa metadata"
+
+#: public/editor-build/261-wp/texts.php:1128
+msgid "Show Hidden Elements"
+msgstr "Visa dolda element"
+
+#: public/editor-build/261-wp/texts.php:1124
+msgid "Show Button Counter"
+msgstr "Visa räkneknapp"
+
+#: public/editor-build/261-wp/texts.php:1113
+msgid "Shop Cart"
+msgstr "Kundvagn"
+
+#: public/editor-build/261-wp/texts.php:1095
+msgid "Select an element on the page to display more settings"
+msgstr "Välj ett element på sidan för att visa fler inställningar"
+
+#: public/editor-build/261-wp/texts.php:1080
+msgid "Search element"
+msgstr "Elementet Sök"
+
+#: public/editor-build/261-wp/texts.php:1075
+msgid "Scroll Page Behind"
+msgstr "Skrolla sidan bakom"
+
+#: public/editor-build/261-wp/texts.php:1060
+msgid "START BUILDING YOUR POPUP"
+msgstr "BÖRJA BYGGA DIN POPUP"
+
+#: public/editor-build/261-wp/texts.php:1017
+msgid "Review"
+msgstr "Recension"
+
+#: public/editor-build/261-wp/texts.php:1016
+msgid "Reverse Columns"
+msgstr "Omvänd kolumner"
+
+#: public/editor-build/261-wp/texts.php:1015
+msgid "Reverse"
+msgstr "Omvänd"
+
+#: public/editor-build/261-wp/texts.php:1011
+msgid "Reset Password"
+msgstr "Återställ lösenord"
+
+#: public/editor-build/261-wp/texts.php:1009
+msgid "Reply-To"
+msgstr "Svara till"
+
+#: public/editor-build/261-wp/texts.php:1006
+msgid "Replace global styling"
+msgstr "Ersätt global stil"
+
+#: public/editor-build/261-wp/texts.php:1000
+msgid "Renderer"
+msgstr "Renderare"
+
+#: public/editor-build/261-wp/texts.php:992
+msgid "Register Info"
+msgstr "Registerinfo"
+
+#: public/editor-build/261-wp/texts.php:961
+msgid "Protected Form"
+msgstr "Skyddat formulär"
+
+#: public/editor-build/261-wp/texts.php:923
+msgid "Press the button above to add popup"
+msgstr "Tryck knappen ovan för att lägga till popup"
+
+#: public/editor-build/261-wp/texts.php:908
+msgid "Post Info"
+msgstr "Inläggsinformation"
+
+#: public/editor-build/261-wp/texts.php:877
+msgid "Password and confirm password is not the same"
+msgstr "Lösenord och bekräftat lösenord matchar inte"
+
+#: public/editor-build/261-wp/texts.php:822
+msgid "Nothing here yet, save a popup first."
+msgstr "Inget här ännu, spara en popup först"
+
+#: public/editor-build/261-wp/texts.php:821
+msgid "Nothing here yet, save a layout first."
+msgstr "Inget här ännu, spara en layout först"
+
+#: public/editor-build/261-wp/texts.php:820
+msgid "Nothing here yet, save a block first."
+msgstr "Inget här ännu, spara ett block först"
+
+#: public/editor-build/261-wp/texts.php:819
+msgid "Nothing here yet, make a global popup first."
+msgstr "Inget här ännu, gör en global popup först"
+
+#: public/editor-build/261-wp/texts.php:818
+msgid "Nothing here yet, make a global block first."
+msgstr "Inget här ännu, gör ett globalt block först"
+
+#: public/editor-build/261-wp/texts.php:812
+msgid "Non Profit"
+msgstr "Ideell"
+
+#: public/editor-build/261-wp/texts.php:795
+msgid "Muted"
+msgstr "Dämpad"
+
+#: public/editor-build/261-wp/texts.php:793
+msgid "Multiple Selection"
+msgstr "Flerval"
+
+#: public/editor-build/261-wp/texts.php:771
+msgid "Min Time"
+msgstr "Min tid"
+
+#: public/editor-build/261-wp/texts.php:770
+msgid "Min Date"
+msgstr "Min datum"
+
+#: public/editor-build/261-wp/texts.php:769
+msgid "Min"
+msgstr "Min"
+
+#: public/editor-build/261-wp/texts.php:752
+msgid "Mega Menu"
+msgstr "Megameny"
+
+#: public/editor-build/261-wp/texts.php:742
+msgid "Max Time"
+msgstr "Max tid"
+
+#: public/editor-build/261-wp/texts.php:741
+msgid "Max Date"
+msgstr "Max datum"
+
+#: public/editor-build/261-wp/texts.php:695
+msgid "Light"
+msgstr "Ljust"
+
+#: public/editor-build/261-wp/texts.php:668
+msgid "It's a sample"
+msgstr "Det är ett urval"
+
+#: public/editor-build/261-wp/texts.php:638
+msgid "Include Share Button"
+msgstr "Inkludera delningsknapp"
+
+#: public/editor-build/261-wp/texts.php:1451
+msgid "in your WordPress admin"
+msgstr "I din admin-panel för WordPress"
+
+#: public/editor-build/261-wp/texts.php:1438
+msgid "You must specify a title"
+msgstr "Du måste ange rubrik"
+
+#: public/editor-build/261-wp/texts.php:1323
+msgid "Type to Search ..."
+msgstr "Skriv för att söka …"
+
+#: public/editor-build/261-wp/texts.php:1308
+msgid "Travel"
+msgstr "Resor"
+
+#: public/editor-build/261-wp/texts.php:1246
+msgid "Tags"
+msgstr "Etiketter"
+
+#: public/editor-build/261-wp/texts.php:1238
+msgid "TTF File"
+msgstr "TTF-fil"
+
+#: public/editor-build/261-wp/texts.php:1126
+msgid "Show Friend's Faces"
+msgstr "Visa väns ansikten"
+
+#: public/editor-build/261-wp/texts.php:823
+msgid "Nothing here, please refine your search."
+msgstr "Inget hittades. Ändra sökbegreppen."
+
+#: public/editor-build/261-wp/texts.php:711
+msgid "Lists are empty. Please add a new list and try again."
+msgstr "Listorna är tomma. Lägg till en ny lista och försök igen."
+
+#: public/editor-build/261-wp/texts.php:318
+msgid "Content Gap"
+msgstr "Innehållsmellanrum"
+
+#: public/editor-build/261-wp/texts.php:348
+msgid "Create Account & Connect"
+msgstr "Skapa konto & anslut"
+
+#: public/editor-build/261-wp/texts.php:340
+msgid "Could not switch to draft"
+msgstr "Kunde inte växla till utkast"
+
+#: public/editor-build/261-wp/texts.php:339
+msgid "Could not save layout"
+msgstr "Kunde inte spara layout"
+
+#: public/editor-build/261-wp/texts.php:338
+msgid "Could not publish or save page"
+msgstr "Kunde inte publicera eller spara sida"
+
+#: public/editor-build/261-wp/texts.php:336
+msgid "Could not download Saved block"
+msgstr "Kunde inte ladda ner sparat block"
+
+#: public/editor-build/261-wp/texts.php:335
+msgid "Could not download Saved Popup"
+msgstr "Kunde inte ladda ner sparad popup"
+
+#: public/editor-build/261-wp/texts.php:334
+msgid "Could not download Saved Layout"
+msgstr "Kunde inte ladda ner sparad layout"
+
+#: public/editor-build/261-wp/texts.php:333
+msgid "Could not Create Saved Popup"
+msgstr "Kunde inte skapa sparad popup"
+
+#: public/editor-build/261-wp/texts.php:332
+msgid "Could not Create Saved Block"
+msgstr "Kunde inte skapa sparat block"
+
+#: public/editor-build/261-wp/texts.php:331
+msgid "Could not Create Global Popup"
+msgstr "Kunde inte skapa global popup"
+
+#: public/editor-build/261-wp/texts.php:330
+msgid "Could not Create Global Block"
+msgstr "Kunde inte skapa globalt block"
+
+#: public/editor-build/261-wp/texts.php:321
+msgid "Context Type"
+msgstr "Kontexttyp"
+
+#: public/editor-build/261-wp/texts.php:413
+msgid "Duplicate Account"
+msgstr "Duplicera konto"
+
+#: public/editor-build/261-wp/texts.php:408
+msgid "Download this block"
+msgstr "Ladda ner detta block"
+
+#: public/editor-build/261-wp/texts.php:400
+msgid "Done"
+msgstr "Klart"
+
+#: public/editor-build/261-wp/texts.php:399
+msgid "Don't have tags"
+msgstr "Har inte etiketter"
+
+#: public/editor-build/261-wp/texts.php:398
+msgid "Don't have items"
+msgstr "Har inte objekt"
+
+#: public/editor-build/261-wp/texts.php:397
+msgid "Dividers"
+msgstr "Avdelare"
+
+#: public/editor-build/261-wp/texts.php:396
+msgid "Disqus"
+msgstr "Disqus"
+
+#: public/editor-build/261-wp/texts.php:392
+msgid "Display Close Button"
+msgstr "Visa avstängningsknapp"
+
+#: public/editor-build/261-wp/texts.php:389
+msgid "Disable on Tablet"
+msgstr "Inaktivera på läsplatta"
+
+#: public/editor-build/261-wp/texts.php:454
+msgid "Events"
+msgstr "Händelser"
+
+#: public/editor-build/261-wp/texts.php:447
+msgid "Established a stable internet connection"
+msgstr "Upprättat en stabil internetuppkoppling"
+
+#: public/editor-build/261-wp/texts.php:444
+msgid "Enter the allowed file types, separated by a comma (jpg, gif, pdf, etc)."
+msgstr "Ange tillåtna filtyper, separerade med kommatecken (jpg, gif, pdf, etc)."
+
+#: public/editor-build/261-wp/texts.php:439
+msgid "Encryption"
+msgstr "Kryptering"
+
+#: public/editor-build/261-wp/texts.php:438
+msgid "Enable tags"
+msgstr "Aktivera etiketter"
+
+#: public/editor-build/261-wp/texts.php:429
+msgid "Email to recover password cannot be empty"
+msgstr "E-post för att återställa lösenord kan inte vara tomt"
+
+#: public/editor-build/261-wp/texts.php:428
+msgid "Email confirmation to join the list"
+msgstr "E-postbekräftelse för att gå med i listan"
+
+#: public/editor-build/261-wp/texts.php:427
+msgid "Email To"
+msgstr "E-post till"
+
+#: public/editor-build/261-wp/texts.php:417
+msgid "EOT File"
+msgstr "EOT-fil"
+
+#: public/editor-build/261-wp/texts.php:473
+msgid "Facebook Button"
+msgstr "Facebook-knapp"
+
+#: public/editor-build/261-wp/texts.php:470
+msgid "FONT VARIATION"
+msgstr "TYPSNITTSVARIANT"
+
+#: public/editor-build/261-wp/texts.php:463
+msgid "Export All Popups"
+msgstr "Exportera alla popups"
+
+#: public/editor-build/261-wp/texts.php:493
+msgid "Fields are empty"
+msgstr "Fält är tomma"
+
+#: public/editor-build/261-wp/texts.php:488
+msgid "Features"
+msgstr "Funktioner"
+
+#: public/editor-build/261-wp/texts.php:483
+msgid "Failed to upload file. Please upload a valid JPG, PNG, SVG or GIF image."
+msgstr "Misslyckades ladda upp fil. Ladda upp en giltig JPG, PNG, SVG eller GIF bild."
+
+#: public/editor-build/261-wp/texts.php:481
+msgid "Failed to reset password"
+msgstr "Misslyckades återställa lösenord"
+
+#: public/editor-build/261-wp/texts.php:479
+msgid "Failed to fetch api data"
+msgstr "Misslyckades att hämta api-data"
+
+#: public/editor-build/261-wp/texts.php:519
+msgid "Font Name is Required"
+msgstr "Typsnittsnamn är obligatoriskt"
+
+#: public/editor-build/261-wp/texts.php:554
+msgid "Global Popups"
+msgstr "Globala popups"
+
+#: public/editor-build/261-wp/texts.php:553
+msgid "Global Blocks"
+msgstr "Globala block"
+
+#: public/editor-build/261-wp/texts.php:550
+msgid "Get a PRO plan"
+msgstr "Skaffa PRO-plan"
+
+#: public/editor-build/261-wp/texts.php:544
+msgid "Gaming"
+msgstr "Dataspel"
+
+#: public/editor-build/261-wp/texts.php:630
+msgid "Import This Story"
+msgstr "Importera denna berättelse"
+
+#: public/editor-build/261-wp/texts.php:629
+msgid "Import This Layout"
+msgstr "Importera denna layout"
+
+#: public/editor-build/261-wp/texts.php:628
+msgid "Import New Popup"
+msgstr "Importera ny popup"
+
+#: public/editor-build/261-wp/texts.php:627
+msgid "Import New Layout"
+msgstr "Importera ny layout"
+
+#: public/editor-build/261-wp/texts.php:626
+msgid "Import New Block"
+msgstr "Importera nytt block"
+
+#: public/editor-client/build/texts.php:33
+msgid "Image file is too large."
+msgstr "Bildfilen är för stor"
+
+#: public/editor-build/261-wp/texts.php:666
+msgid "Invalid api data"
+msgstr "Ogiltig api-data"
+
+#: public/editor-build/261-wp/texts.php:652
+msgid "Inputted a valid site key"
+msgstr "Angav en giltig webbplatsnyckel"
+
+#: public/editor-build/261-wp/texts.php:725
+msgid "Main"
+msgstr "Huvud"
+
+#: public/editor-build/261-wp/texts.php:723
+msgid "Lottie Link"
+msgstr "Lottie-länk"
+
+#: public/editor-build/261-wp/texts.php:722
+msgid "Lottie File"
+msgstr "Lottie-fil"
+
+#: public/editor-build/261-wp/texts.php:764
+msgid "Meta Data"
+msgstr "Metadata"
+
+#: public/editor-build/261-wp/texts.php:801
+msgid "Nav"
+msgstr "Nav"
+
+#: public/editor-build/261-wp/texts.php:1366
+msgid "Upsell Tags"
+msgstr "Etiketter för merförsäljning"
+
+#: public/editor-build/261-wp/texts.php:1356
+msgid "Upgrade to PRO to use this integration"
+msgstr "Uppgradera till PRO för att använda denna integration"
+
+#: public/editor-build/261-wp/texts.php:1343
+msgid "Underline"
+msgstr "Understrykning"
+
+#: public/editor-build/261-wp/texts.php:1279
+msgid "This page needs a refresh. You’ve probably updated this page (or another page) in a different tab or browser."
+msgstr "Den här sidan behöver en uppdatering. Du har förmodligen uppdaterat den här sidan (eller en annan sida) i en annan flik eller webbläsare."
+
+#: public/editor-build/261-wp/texts.php:1264
+msgid "The integration is not responding, please try again or verify the account credentials"
+msgstr "Integrationen svarar inte, försök igen eller verifiera kontouppgifterna"
+
+#: public/editor-build/261-wp/texts.php:1242
+msgid "Table Sidebar"
+msgstr "Sidopanel i tabell"
+
+#: public/editor-build/261-wp/texts.php:1211
+msgid "Story"
+msgstr "Berättelse"
+
+#: public/editor-build/261-wp/texts.php:1137
+msgid "Show Social Context"
+msgstr "Visa social kontext"
+
+#: public/editor-build/261-wp/texts.php:1115
+msgid "Shop Pages"
+msgstr "Butikssidor"
+
+#: public/editor-build/261-wp/texts.php:1114
+msgid "Shop Categories"
+msgstr "Butikskategorier"
+
+#: public/editor-build/261-wp/texts.php:1089
+msgid "Select a menu from the element options"
+msgstr "Välj en meny från elementvalen"
+
+#: public/editor-build/261-wp/texts.php:1070
+msgid "Saved Popups"
+msgstr "Sparade popups"
+
+#: public/editor-build/261-wp/texts.php:1069
+msgid "Saved Library is syncing to your Account"
+msgstr "Sparat bibliotek synkroniseras till ditt konto"
+
+#: public/editor-build/261-wp/texts.php:1054
+msgid "SELECT LIST"
+msgstr "VALLISTA"
+
+#: public/editor-build/261-wp/texts.php:728
+msgid "Make it Hamburger"
+msgstr "Gör den till hamburgare"
+
+#: public/editor-build/261-wp/texts.php:1248
+msgid "Take over"
+msgstr "Ta över"
+
+#: public/editor-build/261-wp/texts.php:1364
+msgid "Upsell"
+msgstr "Merförsäljning"
+
+#: public/editor-build/261-wp/texts.php:1365
+msgid "Upsell Pagination"
+msgstr "Sidonumrering för merförsäljning"
+
+#: public/editor-build/261-wp/texts.php:1208
+msgid "Stock"
+msgstr "Lager"
+
+#: public/editor-build/261-wp/texts.php:401
+msgid "Done, your library has synced"
+msgstr "Klart, ditt bibliotek har synkroniserats"
+
+#: public/editor-build/261-wp/texts.php:494
+msgid "Fields are empty. Please add fields and try again."
+msgstr "Det finns tomma fält. Lägg till fält och försök igen."
+
+#: public/editor-build/261-wp/texts.php:582
+msgid "Health / Beauty"
+msgstr "Hälsa/skönhet"
+
+#: public/editor-build/261-wp/texts.php:624
+msgid "Image Test"
+msgstr "Test med bild"
+
+#: public/editor-build/261-wp/texts.php:621
+msgid "If you need to increase max upload size please contact your hosting."
+msgstr "Kontakta ditt webbhotell om du behöver öka maxstorleken för uppladdning."
+
+#: public/editor-build/261-wp/texts.php:1271
+msgid "This is Lottie .json URL. Get more from LottieFiles.com."
+msgstr "Detta är Lottie .json URL. Hämta mer från LottieFiles.com."
+
+#: public/editor-build/261-wp/texts.php:1201
+msgid "Stars Bg"
+msgstr "Stjärnor Bg"
+
+#: public/editor-build/261-wp/texts.php:1249
+msgid "Take over failed please refresh the page"
+msgstr "Ta över misslyckades uppdatera sidan"
+
+#: public/editor-build/261-wp/texts.php:729
+msgid "Make it Nofollow"
+msgstr "Gör det till Följ Inte"
+
+#: public/editor-build/261-wp/texts.php:651
+msgid "Input"
+msgstr "Input"
+
+#: public/editor-build/261-wp/texts.php:636
+msgid "Include Full Post"
+msgstr "Inkludera hela inlägget "
+
+#: public/editor-build/261-wp/texts.php:942
+msgid "Product Meta"
+msgstr "Produkt-meta"
+
+#: public/editor-build/261-wp/texts.php:937
+msgid "Product Excerpt"
+msgstr "Produktutdrag"
+
+#: public/editor-build/261-wp/texts.php:650
+msgid "Inline"
+msgstr "Inline"
+
+#: public/editor-build/261-wp/texts.php:308
+msgid "Comment"
+msgstr "Kommentar"
+
+#: public/editor-build/261-wp/texts.php:302
+msgid "Color"
+msgstr "Färg"
+
+#: public/editor-build/261-wp/texts.php:298
+msgid "Collaborate"
+msgstr "Samarbeta"
+
+#: public/editor-build/261-wp/texts.php:296
+msgid "Cloud"
+msgstr "Moln"
+
+#: public/editor-build/261-wp/texts.php:295
+msgid "Close Popup"
+msgstr "Stäng popup"
+
+#: public/editor-build/261-wp/texts.php:294
+msgid "Close"
+msgstr "Stäng"
+
+#: public/editor-build/261-wp/texts.php:292
+msgid "Clear Layout"
+msgstr "Rensa layout"
+
+#: public/editor-build/261-wp/texts.php:291
+msgid "Clear"
+msgstr "Rensa"
+
+#: public/editor-build/261-wp/texts.php:290
+msgid "Classic"
+msgstr "Klassisk"
+
+#: public/editor-build/261-wp/texts.php:285
+msgid "Checkbox"
+msgstr "Kryssruta"
+
+#: public/editor-build/261-wp/texts.php:266
+msgid "Carousel"
+msgstr "Karusell"
+
+#: public/editor-build/261-wp/texts.php:264
+msgid "Captions"
+msgstr "Bildtexter"
+
+#: public/editor-build/261-wp/texts.php:263
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: public/editor-build/261-wp/texts.php:260
+msgid "CTA"
+msgstr "CTA"
+
+#: public/editor-build/261-wp/texts.php:259
+msgid "CSS ID"
+msgstr "CSS-ID"
+
+#: public/editor-build/261-wp/texts.php:257
+msgid "CREATE LIST"
+msgstr "SKAPA LISTA"
+
+#: public/editor-build/261-wp/texts.php:256
+msgid "CMS"
+msgstr "CMS"
+
+#: public/editor-build/261-wp/texts.php:251
+msgid "Buttons"
+msgstr "Knappar"
+
+#: public/editor-build/261-wp/texts.php:243
+msgid "Button Size"
+msgstr "Knappstorlek"
+
+#: public/editor-build/261-wp/texts.php:240
+msgid "Business Hour"
+msgstr "Öppettider"
+
+#: public/editor-build/261-wp/texts.php:239
+msgid "Business"
+msgstr "Företag"
+
+#: public/editor-build/261-wp/texts.php:235
+msgid "Bubble"
+msgstr "Bubbla"
+
+#: public/editor-build/261-wp/texts.php:230
+msgid "Breadcrumbs"
+msgstr "Synliga sökvägar"
+
+#: public/editor-build/261-wp/texts.php:221
+msgid "Bottom"
+msgstr "Botten"
+
+#: public/editor-build/261-wp/texts.php:215
+msgid "Blocks"
+msgstr "Block"
+
+#: public/editor-build/261-wp/texts.php:211
+msgid "Block Name"
+msgstr "Blocknamn"
+
+#: public/editor-build/261-wp/texts.php:208
+msgid "Blank"
+msgstr "Tom"
+
+#: public/editor-build/261-wp/texts.php:207
+msgid "Black"
+msgstr "Svart"
+
+#: public/editor-build/261-wp/texts.php:202
+msgid "Between"
+msgstr "Mellan"
+
+#: public/editor-build/261-wp/texts.php:183
+msgid "Back to Login"
+msgstr "Tillbaka till inloggning"
+
+#: public/editor-build/261-wp/texts.php:182
+msgid "Back to Layouts"
+msgstr "Tillbaka till layouter"
+
+#: public/editor-build/261-wp/texts.php:179
+msgid "Back"
+msgstr "Tillbaka"
+
+#: public/editor-build/261-wp/texts.php:178
+msgid "Avatar"
+msgstr "Profilbild"
+
+#: public/editor-build/261-wp/texts.php:177
+msgid "Autoplay"
+msgstr "Spela upp automatiskt"
+
+#: public/editor-build/261-wp/texts.php:176
+msgid "Automotive"
+msgstr "Fordon"
+
+#: public/editor-build/261-wp/texts.php:175
+msgid "AutoPlay"
+msgstr "Spela upp automatiskt"
+
+#: public/editor-build/261-wp/texts.php:170
+msgid "Authentication"
+msgstr "Autentisering"
+
+#: public/editor-build/261-wp/texts.php:169
+msgid "Audio"
+msgstr "Ljud"
+
+#: public/editor-build/261-wp/texts.php:168
+msgid "Attributes"
+msgstr "Attribut"
+
+#: public/editor-build/261-wp/texts.php:164
+msgid "Aside"
+msgstr "Notis"
+
+#: public/editor-build/261-wp/texts.php:161
+msgid "Article"
+msgstr "Artikel"
+
+#: public/editor-build/261-wp/texts.php:153
+msgid "Archives"
+msgstr "Arkiv"
+
+#: public/editor-build/261-wp/texts.php:140
+msgid "Allowed File Types"
+msgstr "Tillåtna filtyper"
+
+#: public/editor-build/261-wp/texts.php:111
+msgid "Add To Cart"
+msgstr "Lägg till i varukorg"
+
+#: public/editor-build/261-wp/texts.php:108
+msgid "Add New Font"
+msgstr "Lägg till nytt typsnitt"
+
+#: public/editor-build/261-wp/texts.php:103
+msgid "Add Font"
+msgstr "Lägg till typsnitt"
+
+#: public/editor-build/261-wp/texts.php:97
+msgid "Active"
+msgstr "Aktiv"
+
+#: public/editor-build/261-wp/texts.php:95
+msgid "Action"
+msgstr "Åtgärd"
+
+#: public/editor-build/261-wp/texts.php:89
+msgid "APPS"
+msgstr "APPAR"
+
+#: public/editor-build/261-wp/texts.php:63
+msgid "ADD GOOGLE FONT"
+msgstr "LÄGG TILL GOOGLE FONT"
+
+#: public/editor-build/261-wp/texts.php:61
+msgid "? (%s)"
+msgstr "? (%s)"
+
+#: admin/feedback.php:142
+msgid "Quick Feedback"
+msgstr "Snabb feedback"
+
+#: admin/feedback.php:133
+msgid "Please share the reason"
+msgstr "Dela orsaken"
+
+#: admin/feedback.php:132
+msgid "Other"
+msgstr "Annan"
+
+#: admin/feedback.php:129
+msgid "Wait! Don't deactivate Brizy. You have to activate both Brizy and Brizy Pro in order for the plugin to work."
+msgstr "Vänta! Avaktivera inte Brizy. Du måste aktivera både Brizy och Brizy Pro för att tillägget ska fungera."
+
+#: admin/feedback.php:127
+msgid "I have Brizy Pro"
+msgstr "Jag har Brizy Pro"
+
+#: admin/feedback.php:123
+msgid "It's a temporary deactivation"
+msgstr "Det är en tillfällig inaktivering"
+
+#: admin/feedback.php:119
+msgid "I couldn't get the plugin to work"
+msgstr "Jag kunde inte få tillägget att fungera"
+
+#: admin/feedback.php:116
+msgid "Please share which plugin"
+msgstr "Dela vilket tillägg"
+
+#: admin/feedback.php:115
+msgid "I found a better plugin"
+msgstr "Jag hittade ett bättre tillägg"
+
+#: admin/feedback.php:111
+msgid "I no longer need the plugin"
+msgstr "Jag behöver inte tillägget längre"
+
+#: admin/feedback.php:44
+msgid "I already did"
+msgstr "Jag har redan gjort det"
+
+#: admin/feedback.php:40
+msgid "Nope, maybe later"
+msgstr "Nej, kanske senare"
+
+#: admin/feedback.php:36
+msgid "Ok, you deserve it"
+msgstr "Ok, du förtjänar det"
+
+#: admin/feedback.php:32
+msgid "Could you please do us a BIG favor and give it a 5-star rating on WordPress? This would boost our motivation and help other users make a comfortable decision while choosing the Brizy plugin."
+msgstr "Kan du vara snäll och göra oss en STOR tjänst och ge det ett 5-stjärnigt betyg i WordPress? Det skulle öka vår motivation och hjälpa andra användare att göra ett bekvämt beslut när de väljer Brizy-tillägget."
+
+#: admin/feedback.php:30
+msgid "Hello! Seems like you are using Brizy to build your website - Thanks a lot!"
+msgstr "Hej! Ser ut som att du använder Brizy för att bygga din hemsida - Tack så mycket!"
+
+#: admin/form-entries.php:339
+msgid "Edit Lead"
+msgstr "Redigera Lead"
+
+#: admin/form-entries.php:200
+msgid "Export to .csv"
+msgstr "Exportera till .csv"
+
+#: admin/form-entries.php:143
+msgid "Disable"
+msgstr "Inaktivera"
+
+#: admin/fonts/main.php:105
+msgid "font"
+msgstr "typsnitt"
+
+#: admin/fonts/main.php:97
+msgctxt "post type general name"
+msgid "Fonts"
+msgstr "Typsnitt"
+
+#: admin/feedback.php:146
+msgid "If you have a moment, please share why you are deactivating Brizy:"
+msgstr "Om du har tid, kan du berätta varför du inaktiverar Brizy:"
+
+#: admin/membership/membership.php:72 admin/views/settings/maintenance.php:26
+msgid "Logged In"
+msgstr "Inloggad"
+
+#: admin/main.php:423 admin/views/button.php:25 admin/views/button.php:44
+#: compatibilities/gutenberg.php:92 compatibilities/gutenberg.php:106
+msgid "Edit with %s"
+msgstr "Redigera med %s"
+
+#: admin/main.php:252 admin/settings.php:159 import/main.php:54
+msgid "Go Pro"
+msgstr "Skaffa Pro"
+
+#: admin/main.php:88
+msgid "Edit or Update Image"
+msgstr "Redigera eller uppdatera bilden"
+
+#: admin/layouts/main.php:43
+msgid "Layout."
+msgstr "Layout."
+
+#: admin/layouts/main.php:35
+msgctxt "post type general name"
+msgid "Layouts"
+msgstr "Layouter"
+
+#: admin/layouts/api.php:82
+msgid "There are no layouts to be archived"
+msgstr "Det finns inga layouter att arkivera"
+
+#: admin/form-entries.php:345
+msgid "No Leads found in Trash."
+msgstr "Inga Leads hittades i papperskorg."
+
+#: admin/form-entries.php:344
+msgid "No Leads found."
+msgstr "Inga Leads hittades."
+
+#: admin/form-entries.php:342
+msgid "Search Leads"
+msgstr "Sök Leads"
+
+#: admin/form-entries.php:340
+msgid "View Lead"
+msgstr "Visa Lead"
+
+#: admin/popups/main.php:112
+msgid "Search Popups"
+msgstr "Sök popups"
+
+#: admin/popups/main.php:111 admin/popups/main.php:125
+#: public/editor-build/261-wp/texts.php:901
+msgid "Popups"
+msgstr "Popups"
+
+#: admin/popups/main.php:110
+msgid "View Popup"
+msgstr "Visa popup"
+
+#: admin/popups/main.php:109
+msgid "Edit Popup"
+msgstr "Redigera popup"
+
+#: admin/popups/main.php:108
+msgid "New Popup"
+msgstr "Ny popup"
+
+#: admin/popups/main.php:107
+msgid "Add New Popup"
+msgstr "Lägg till ny popup"
+
+#: admin/popups/main.php:105
+msgctxt "add new on admin bar"
+msgid "Popup"
+msgstr "Popup"
+
+#: admin/popups/main.php:104
+msgctxt "admin menu"
+msgid "Popups"
+msgstr "Popups"
+
+#: admin/popups/main.php:103
+msgctxt "post type singular name"
+msgid "Popup"
+msgstr "Popup"
+
+#: admin/popups/main.php:102
+msgctxt "post type general name"
+msgid "Popups"
+msgstr "Popups"
+
+#: admin/settings.php:315
+msgid "Full Access"
+msgstr "Full åtkomst"
+
+#: admin/settings.php:312
+msgid "No Access"
+msgstr "Ingen åtkomst"
+
+#: admin/membership/membership.php:89
+msgid "View Page As %s"
+msgstr "Visa sida som %s"
+
+#: admin/membership/membership.php:79
+msgid "View Page By Roles"
+msgstr "Visa sida via roller"
+
+#: admin/stories/main.php:42
+msgctxt "add new on admin bar"
+msgid "Story"
+msgstr "Berättelse"
+
+#: admin/stories/main.php:41
+msgctxt "admin menu"
+msgid "Stories"
+msgstr "Berättelser"
+
+#: admin/stories/main.php:40
+msgctxt "post type singular name"
+msgid "Story"
+msgstr "Berättelse"
+
+#: admin/stories/main.php:39
+msgctxt "post type general name"
+msgid "Stories"
+msgstr "Berättelser"
+
+#: admin/settings.php:183
+msgid "Maintenance Mode"
+msgstr "Underhållsläge"
+
+#: admin/settings.php:177
+msgid "Role Manager"
+msgstr "Rollhanterare"
+
+#: admin/settings.php:171
+msgid "General"
+msgstr "Allmänt"
+
+#: admin/settings.php:142
+msgid "Get Help"
+msgstr "Skaffa hjälp"
+
+#: admin/rules/api.php:544
+msgid "Specific"
+msgstr "Specifik"
+
+#: admin/rules/api.php:463
+msgid "From"
+msgstr "Från"
+
+#: admin/popups/main.php:116
+msgid "Popup attributes:"
+msgstr "Popup attribut"
+
+#: admin/popups/main.php:115
+msgid "No Popups found in Trash."
+msgstr "Inga popups hittades i papperskorgen."
+
+#: admin/popups/main.php:114
+msgid "No Popups found."
+msgstr "Inga popuper hittades."
+
+#: admin/stories/main.php:103
+msgid "Story published."
+msgstr "Berättelse publicerad."
+
+#: admin/stories/main.php:100
+msgid "Story restored to revision from %s"
+msgstr "Berättelse återställdes till versionen från %s"
+
+#: admin/stories/main.php:96 admin/templates.php:158
+msgid "Custom field deleted."
+msgstr "Anpassat fält borttaget."
+
+#: admin/stories/main.php:95 admin/templates.php:157
+msgid "Custom field updated."
+msgstr "Anpassat fält uppdaterat."
+
+#: admin/stories/main.php:94 admin/stories/main.php:97
+msgid "Story updated."
+msgstr "Berättelse uppdaterad."
+
+#: admin/stories/main.php:60 public/editor-build/261-wp/texts.php:1461
+msgid "stories"
+msgstr "berättelser"
+
+#: admin/stories/main.php:52
+msgid "No Stories found in Trash."
+msgstr "Inga berättelser hittades i papperskorgen."
+
+#: admin/stories/main.php:51
+msgid "No Stories found."
+msgstr "Inga berättelser hittades."
+
+#: admin/stories/main.php:49
+msgid "Search Stories"
+msgstr "Sök berättelser"
+
+#: admin/stories/main.php:48 public/editor-build/261-wp/texts.php:1210
+msgid "Stories"
+msgstr "Berättelser"
+
+#: admin/stories/main.php:47 admin/stories/main.php:117
+msgid "View Story"
+msgstr "Visa berättelse"
+
+#: admin/stories/main.php:46
+msgid "Edit Story"
+msgstr "Redigera berättelse"
+
+#: admin/stories/main.php:45
+msgid "New Story"
+msgstr "Ny berättelse"
+
+#: admin/stories/main.php:43 admin/stories/main.php:44
+msgid "Add New Story"
+msgstr "Lägg till ny berättelse"
+
+#: admin/templates.php:167
+msgid "Template submitted."
+msgstr "Mallen skickades."
+
+#: admin/templates.php:166
+msgid "Template saved."
+msgstr "Mall sparad."
+
+#: admin/templates.php:165
+msgid "Template published."
+msgstr "Mall publicerad."
+
+#: admin/templates.php:162
+msgid "Template restored to revision from %s"
+msgstr "Mall återställd till version från %s"
+
+#: admin/templates.php:156 admin/templates.php:159
+msgid "Template updated."
+msgstr "Mall uppdaterad."
+
+#: admin/templates.php:126
+msgid "Product Archive"
+msgstr "Produktarkiv"
+
+#: admin/templates.php:120 public/editor-build/261-wp/texts.php:152
+msgid "Archive"
+msgstr "Arkiv"
+
+#: admin/templates.php:119
+msgid "Single"
+msgstr "Singel"
+
+#: admin/stories/main.php:126
+msgid "Preview Story"
+msgstr "Förhandsgranska berättelse"
+
+#: admin/stories/main.php:111
+msgid "Story draft updated."
+msgstr "Berättelseutkast uppdaterad."
+
+#: admin/stories/main.php:105
+msgid "Story submitted."
+msgstr "Berättelse skickad."
+
+#: admin/stories/main.php:104
+msgid "Story saved."
+msgstr "Berättelse sparad."
+
+#: admin/templates.php:213
+msgid "No Templates found in Trash."
+msgstr "Inga mallar hittades i papperskorgen."
+
+#: admin/templates.php:212
+msgid "No Templates found."
+msgstr "Inga mallar hittades."
+
+#: admin/templates.php:211
+msgid "Parent Templates:"
+msgstr "Överordnade mallar:"
+
+#: admin/templates.php:210
+msgid "Search Templates"
+msgstr "Sök mallar"
+
+#: admin/templates.php:209
+msgid "Templates"
+msgstr "Mallar"
+
+#: admin/templates.php:207
+msgid "Edit Template"
+msgstr "Redigera mall"
+
+#: admin/templates.php:206
+msgid "New Template"
+msgstr "Ny mall"
+
+#: admin/templates.php:205
+msgid "Add New Template"
+msgstr "Lägg till ny mall"
+
+#: admin/templates.php:203
+msgctxt "add new on admin bar"
+msgid "Template"
+msgstr "Mall"
+
+#: admin/templates.php:202
+msgctxt "admin menu"
+msgid "Templates"
+msgstr "Mallar"
+
+#: admin/templates.php:201
+msgctxt "post type singular name"
+msgid "Template"
+msgstr "Mall"
+
+#: admin/templates.php:200
+msgctxt "post type general name"
+msgid "Templates"
+msgstr "Mallar"
+
+#: admin/templates.php:188
+msgid "Preview Template"
+msgstr "Förhandsgranska mall"
+
+#: admin/templates.php:179 admin/templates.php:208
+msgid "View Template"
+msgstr "Visa mall"
+
+#: admin/templates.php:173
+msgid "Template draft updated."
+msgstr "Mallutkast uppdaterad"
+
+#: admin/views/notice.php:14
+msgid "Dismiss this notice"
+msgstr "Avfärda denna notis"
+
+#: admin/views/membership/checklist.php:12
+#: admin/views/settings/maintenance.php:33
+#: public/editor-build/261-wp/texts.php:1042
+msgid "Roles"
+msgstr "Roller"
+
+#: admin/views/dashboard.php:23
+msgid "Go PRO"
+msgstr "Skaffa PRO"
+
+#: admin/views/dashboard.php:17 public/editor-build/261-wp/texts.php:585
+msgid "Help"
+msgstr "Hjälp"
+
+#: admin/views/dashboard.php:12 public/editor-build/261-wp/texts.php:216
+msgid "Blog"
+msgstr "Blogg"
+
+#: admin/views/dashboard-posts.php:4
+msgid "Recently Edited"
+msgstr "Nyligen redigerad"
+
+#: admin/views/dashboard-news.php:20
+msgid "No News"
+msgstr "Inga nyheter"
+
+#: admin/views/dashboard-news.php:10
+msgid "New"
+msgstr "Ny"
+
+#: admin/views/dashboard-news.php:4
+msgid "News & Updates"
+msgstr "Nyheter & uppdateringar"
+
+#: admin/views/button.php:19 compatibilities/gutenberg.php:84
+msgid "Back to WordPress Editor"
+msgstr "Tillbaka till WordPress-redigeraren"
+
+#: admin/templates.php:843 admin/templates.php:863
+msgid "Invalid data version."
+msgstr "Ogiltig dataversion."
+
+#: admin/templates.php:250 public/editor-build/261-wp/texts.php:393
+msgid "Display Conditions"
+msgstr "Visa villkor"
+
+#: admin/templates.php:222
+msgid "templates"
+msgstr "mallar"
+
+#: admin/views/settings/maintenance.php:54
+msgid "Select a page"
+msgstr "Välj en sida"
+
+#: admin/views/settings/maintenance.php:49
+msgid "Choose a Page"
+msgstr "Välj en sida"
+
+#: admin/views/settings/maintenance.php:16
+msgid "Maintenance"
+msgstr "Underhåll"
+
+#: admin/views/settings/maintenance.php:15
+msgid "Coming Soon"
+msgstr "Kommer snart"
+
+#: admin/views/settings/maintenance.php:14
+msgid "Disabled"
+msgstr "Inaktiverat"
+
+#: admin/views/settings/maintenance.php:10
+msgid "Choose Mode"
+msgstr "Välj läge"
+
+#: admin/views/settings/general.php:43
+msgid "Enable JSON uploads"
+msgstr "Aktivera JSON-uppladdningar"
+
+#: admin/views/settings/general.php:27
+msgid "Enable SVG uploads"
+msgstr "Aktivera SVG-uppladdningar"
+
+#: editor/zip/archiver.php:183
+msgid "Unsupported object found in zip file"
+msgstr "Objekt som inte stöds hittades i zip-filen"
+
+#: editor/zip/archiver.php:127
+msgid "Unable to find the archive."
+msgstr "Kan inte hitta arkivet"
+
+#: editor/zip/archiver.php:73
+msgid "Failed to create archive."
+msgstr "Misslyckades att skapa arkiv"
+
+#: editor/zip/archiver.php:36
+msgid "Please install/enable php zip extension. Contact your hosting company for more info and help."
+msgstr "Vänligen installera/aktivera php zip-tillägget. Kontakta ditt webbhotell för mer info och hjälp."
+
+#: editor/rest-extend.php:27
+msgid "Brizy attached media"
+msgstr "Bifogat media i Brizy"
+
+#: editor/block-screenshot-api.php:81
+msgid "Invalid image content"
+msgstr "Ogiltigt bildinnehåll"
+
+#: editor/block-screenshot-api.php:71
+msgid "Invalid uid string"
+msgstr "Ogiltig uid-sträng"
+
+#: editor/block-screenshot-api.php:61
+msgid "Bad request"
+msgstr "Felaktig begäran"
+
+#: editor/auto-save-aware.php:42
+msgid "There is nothing to save. The autosave and the post content are the same."
+msgstr "Det finns inget att spara. Autospara och inlägget har samma innehåll."
+
+#: editor.php:597
+msgid "Original"
+msgstr "Original"
+
+#: editor.php:299
+msgid " Template"
+msgstr "Mall"
+
+#: content/providers/free-provider.php:115
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s kommentar"
+msgstr[1] "%s kommentarer"
+
+#: import/main.php:48
+msgid "Live Preview"
+msgstr "Förhandsgranskning live"
+
+#: import/main.php:47 public/editor-build/261-wp/texts.php:134
+msgid "All"
+msgstr "Alla"
+
+#: import/main.php:34 import/main.php:35
+msgid "Starter Templates"
+msgstr "Startmallar"
+
+#: import/importer.php:718
+msgid "The uploaded file could not be moved"
+msgstr "Uppladdad fil kunde inte flyttas"
+
+#: import/importer.php:677
+msgid "Invalid file type"
+msgstr "Ogiltig filtyp"
+
+#: editor/zip/archiver.php:188
+msgid "Unsupported zip file version"
+msgstr "Zip-filsversionen stöds inte"
+
+#: import/main.php:65
+msgid "Install Template"
+msgstr "Installera mall"
+
+#: import/main.php:64
+msgid "Choose this option if you want to keep your current content. If you are using %s, some of the global options might overlap."
+msgstr "Välj detta alternativ om du vill behålla ditt nuvarande innehåll. Om du använder %s, så kan vissa globala alternativ överlappa."
+
+#: import/main.php:63
+msgid "Keep existing content"
+msgstr "Behåll befintligt innehåll"
+
+#: import/main.php:62
+msgid "Please don’t close this window until the installation is finished. This might take up to a couple of minutes (five min, usually less)."
+msgstr "Stäng inte detta fönster innan installationen är klar. Det kan ta några minuter (fem min, vanligvis färre)."
+
+#: import/main.php:61
+msgid "Installing Starter Template"
+msgstr "Installerar startmall"
+
+#: import/main.php:60
+msgid "Thank You!"
+msgstr "Tack!"
+
+#: import/main.php:57
+msgid "Ok"
+msgstr "Ok"
+
+#: import/main.php:56
+msgid "Bad news, your starter template was not installed. Something went wrong and we couldn’t do it. Please contact us."
+msgstr "Dåliga nyheter, din startmall installerades inte. Något gick fel. Vänligen kontakta oss."
+
+#: import/main.php:55 public/editor-build/261-wp/texts.php:1174
+#: public/editor-client/build/texts.php:35
+msgid "Something went wrong"
+msgstr "Något gick fel"
+
+#: import/main.php:52 public/editor-build/261-wp/texts.php:1078
+msgid "Search"
+msgstr "Sök"
+
+#: import/main.php:51
+msgid "Pro"
+msgstr "Pro"
+
+#: import/main.php:50 public/editor-build/261-wp/texts.php:531
+msgid "Free"
+msgstr "Gratis"
+
+#: import/main.php:49
+msgid "Install"
+msgstr "Installera"
+
+#: public/editor-build/261-wp/texts.php:62
+msgid "ADD FONT VARIATION"
+msgstr "LÄGG TILL TYPSNITTSVARIANT"
+
+#: public/editor-build/261-wp/texts.php:26
+msgid "+ 6:00 (Nur-Sultan)"
+msgstr "+ 6:00 (Nur-Sultan)"
+
+#: public/editor-build/261-wp/texts.php:6
+msgid "%s Selected"
+msgstr "%s valda"
+
+#: maintenance-mode.php:117
+msgid "Edit Page"
+msgstr "Redigera sida"
+
+#: maintenance-mode.php:110
+msgid "Maintenance Mode ON"
+msgstr "Underhållsläge PÅ"
+
+#: import/parsers/simplexml.php:26 import/parsers/simplexml.php:34
+msgid "There was an error when reading this WXR file"
+msgstr "Det var ett fel vid läsningen av denna WXR-fil"
+
+#: import/parsers/regex.php:95 import/parsers/simplexml.php:38
+#: import/parsers/simplexml.php:43 import/parsers/xml.php:69
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Detta verkar inte vara en WXR-fil, saknas/ogiltigt WXR-versionsnummer"
+
+#: import/parser.php:51
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "Detaljer visas ovan. Importören kommer nu att försöka igen med en annan analys …"
+
+#: import/main.php:101
+msgid "Template imported successfully."
+msgstr "Mall importerades utan problem"
+
+#: import/main.php:90
+msgid "Invalid demo id. Please contact our support."
+msgstr "Ogiltigt demo-id. Kontakta supporten."
+
+#: import/main.php:68
+msgid "Deletes your current content"
+msgstr "Raderar ditt nuvarande innehåll"
+
+#: import/main.php:67
+msgid "Choose this option if you want to start fresh and delete your current content. A backup is advisable, there is no turning back from this."
+msgstr "Välj det här alternativet om du vill börja om och ta bort ditt nuvarande innehåll. En säkerhetskopia är att rekommendera, det finns ingen återvändo från detta."
+
+#: import/main.php:66
+msgid "Delete existing content"
+msgstr "Radera befintligt innehåll"
+
+#: public/editor-build/261-wp/texts.php:109
+msgid "Add Shopify Elements"
+msgstr "Lägg till Shopify-element"
+
+#: public/editor-build/261-wp/texts.php:96
+msgid "Activate Tab"
+msgstr "Aktivera flik"
+
+#: public/editor-build/261-wp/texts.php:94
+msgid "Accounts are empty. Please connect a new account and try again."
+msgstr "Kontona är tomma. Anslut ett nytt konto och försök igen."
+
+#: public/editor-build/261-wp/texts.php:93
+msgid "Accordion Tags"
+msgstr "Dragspelsetikett"
+
+#: public/editor-build/261-wp/texts.php:92
+msgid "Accordion Items"
+msgstr "Dragspelsobjekt"
+
+#: public/editor-build/261-wp/texts.php:141
+msgid "Alt Title"
+msgstr "Alt-titel"
+
+#: public/editor-build/261-wp/texts.php:138
+msgid "All fields marked with an asterisk ( * ) must be mapped."
+msgstr "Alla fält markerade med en asterisk ( * ) måste mappas."
+
+#: public/editor-build/261-wp/texts.php:137
+msgid "All fields marked with an asterisk ( * ) must be completed."
+msgstr "Alla fält markerade med en asterisk ( * ) måste fyllas i."
+
+#: public/editor-build/261-wp/texts.php:136
+msgid "All fields cannot be empty"
+msgstr "Alla fält kan inte vara tomma"
+
+#: public/editor-build/261-wp/texts.php:133
+msgid "Aligned Right"
+msgstr "Högerjusterad"
+
+#: public/editor-build/261-wp/texts.php:132
+msgid "Aligned Left"
+msgstr "Vänsterjusterad"
+
+#: public/editor-build/261-wp/texts.php:123
+msgid "Additionals"
+msgstr "Tillägg"
+
+#: public/editor-build/261-wp/texts.php:117
+msgid "Add new trigger condition"
+msgstr "Lägg till nytt triggervillkor"
+
+#: public/editor-build/261-wp/texts.php:115
+msgid "Add new font variation"
+msgstr "Lägg till ny typsnittsvariant"
+
+#: public/editor-build/261-wp/texts.php:114
+msgid "Add new display condition"
+msgstr "Lägg till nytt visningsvillkor"
+
+#: public/editor-build/261-wp/texts.php:159
+msgid "Arrows Spacing"
+msgstr "Pilmellanrum"
+
+#: public/editor-build/261-wp/texts.php:214
+msgid "Block will be synchronized"
+msgstr "Blocket kommer att synkroniseras"
+
+#: public/editor-build/261-wp/texts.php:213
+msgid "Block is synchronized"
+msgstr "Blocket är synkroniserat"
+
+#: public/editor-build/261-wp/texts.php:212
+msgid "Block conditions are available only in PRO"
+msgstr "Blockvillkor är endast tillgängliga i PRO"
+
+#: public/editor-build/261-wp/texts.php:201
+msgid "Bcc"
+msgstr "Bcc"
+
+#: public/editor-build/261-wp/texts.php:184
+msgid "Back to Stories"
+msgstr "Tillbaka till berättelserna"
+
+#: public/editor-build/261-wp/texts.php:205
+msgid "Bg Star"
+msgstr "Bg stjärna"
+
+#: public/editor-build/261-wp/texts.php:203
+msgid "Bg"
+msgstr "Bg"
+
+#: public/editor-build/261-wp/texts.php:234
+msgid "Bub. Bg"
+msgstr "Bub. Bg"
+
+#: public/editor-build/261-wp/texts.php:233
+msgid "Bub."
+msgstr "Bub."
+
+#: public/editor-build/261-wp/texts.php:232
+msgid "Btn Color"
+msgstr "Knappfärg"
+
+#: public/editor-build/261-wp/texts.php:231
+msgid "Btn Bg"
+msgstr "Knapp-Bg"
+
+#: public/editor-build/261-wp/texts.php:288
+msgid "Children"
+msgstr "Underordnade"
+
+#: public/editor-build/261-wp/texts.php:284
+msgid "Check your email address"
+msgstr "Kolla din mejladress"
+
+#: public/editor-build/261-wp/texts.php:279
+msgid "Cc"
+msgstr "Kopia"
+
+#: public/editor-build/261-wp/texts.php:276
+msgid "Categories Tags"
+msgstr "Kategori-etiketter"
+
+#: public/editor-build/261-wp/texts.php:275
+msgid "Categories Pagination"
+msgstr "Kategorier-sidnumrering"
+
+#: public/editor-build/261-wp/texts.php:300
+msgid "Collapsible"
+msgstr "Hopfällbar"
+
+#: admin/blocks/main.php:122
+msgctxt "brizy"
+msgid "Saved blocks"
+msgstr "Sparade block"
+
+#: admin/blocks/main.php:100
+msgctxt "post type general name"
+msgid "Global blocks"
+msgstr "Globala block"
+
+#: admin/blocks/api.php:154
+msgid "Invalid block file"
+msgstr "Ogiltig blockfil"
+
+#: admin/dashboard-widget.php:38
+msgid "%s Overview"
+msgstr "Översikt över %s"
+
+#: admin/form-entries.php:120 admin/form-entries.php:341
+#: admin/form-entries.php:353
+msgid "Leads"
+msgstr "Uppslag"
+
+#: admin/form-entries.php:332
+msgctxt "post type general name"
+msgid "Leads"
+msgstr "Uppslag"
+
+#: admin/form-entries.php:333
+msgctxt "post type singular name"
+msgid "Lead"
+msgstr "Uppslag"
+
+#: admin/form-entries.php:334
+msgctxt "admin menu"
+msgid "Leads"
+msgstr "Uppslag"
+
+#: admin/form-entries.php:335
+msgctxt "add new on admin bar"
+msgid "Lead"
+msgstr "Uppslag"
+
+#: admin/form-entries.php:337
+msgid "Add New Lead"
+msgstr "Lägg till nytt uppslag"
+
+#: admin/form-entries.php:338
+msgid "New Lead"
+msgstr "Nytt uppslag"
+
+#: admin/form-entries.php:343
+msgid "Parent Leads:"
+msgstr "Överordnat uppslag:"
+
+#: admin/form-entries.php:61
+msgid "Leads details"
+msgstr "Uppgifter om uppslag"
+
+#: admin/popups/main.php:113
+msgid "Parent Popups:"
+msgstr "Överordnade popups:"
+
+#: admin/views/settings/maintenance.php:22
+msgid "Who Can Access"
+msgstr "Vem har åtkomst"
+
+#: public/editor-build/261-wp/texts.php:272
+msgid "Cart Settings"
+msgstr "Inställningar för varukorg"
+
+#: editor/project.php:96
+msgid "Brizy Project."
+msgstr "Brizy-projekt"
+
+#: content/providers/free-provider.php:151
+msgid "Please set a valid product"
+msgstr "Ange en giltig produkt"
+
+#: import/importer.php:458
+msgid "Failed to import %s %s. Error: %s"
+msgstr "Lyckades inte importera %s %s. Fel: %s"
+
+#: import/importer.php:422
+msgid "Failed to import %s \"%s\". Error: %s"
+msgstr "Lyckades inte importera %s ”%s”. Fel: %s"
+
+#: import/importer.php:325
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Lyckades inte importera &#8221;%s&#8221;: Ogiltig inläggstyp %s"
+
+#: import/importer.php:235
+msgid "Failed to import %s %s"
+msgstr "Lyckades inte importera %s %s"
+
+#: import/importer.php:183
+msgid "Failed to import post tag %s"
+msgstr "Lyckades inte importera inläggsetikett %s"
+
+#: import/importer.php:141
+msgid "Failed to import category %s"
+msgstr "Lyckades inte importera kategorin %s"
+
+#: import/main.php:58
+msgid "Template Successfully Installed"
+msgstr "Mallen har installerats"
+
+#: public/editor-build/261-wp/texts.php:229
+msgid "Branding"
+msgstr "Profilering"
+
+#: public/editor-build/261-wp/texts.php:270
+msgid "Cart Items"
+msgstr "Varukorgens artiklar"
+
+#: public/editor-build/261-wp/texts.php:293
+msgid "Click Outside to Close"
+msgstr "Klicka utanför för att stänga"
+
+#: brizy.php:92
+msgid "%1$s failed to start. Please contact the support <a href=\"%s\">here</a>."
+msgstr "%1$s kunde inte starta. Kontakta supporten <a href=\"%s\">här</a>."
+
+#: admin/views/settings/maintenance.php:66
+msgid "Whitelisted IP Addresses"
+msgstr "Vitlistade IP-adresser"
+
+#: admin/main.php:311
+msgid "Submit & Deactivate"
+msgstr "Skicka och inaktivera"
+
+#: admin/main.php:312
+msgid "Skip & Deactivate"
+msgstr "Hoppa över och inaktivera"
+
+#: public/editor-build/261-wp/texts.php:155
+msgid "Arrangement"
+msgstr "Arrangemang"
+
+#: public/editor-build/261-wp/texts.php:106
+msgid "Add New Block / Layout"
+msgstr "Lägg till nytt block / layout"
+
+#: public/editor-build/261-wp/texts.php:90
+msgid "Access your Library in any WP install by connecting your Account"
+msgstr "Kom åt ditt bibliotek i valfri WP-installation genom att ansluta ditt konto "
+
+#: admin/views/settings/maintenance.php:60
+msgid "You have no pages. Please %s create %s one."
+msgstr "Du har inga sidor. Vänligen %s skapa %s en."
+
+#: admin/templates.php:836
+msgid "Unable to get the rule validator for this post type."
+msgstr "Det gick inte att hämta regelvalideraren för den här inläggstypen."
+
+#: admin/templates.php:282
+msgid "Unable to show the rule box."
+msgstr "Det går inte att visa regelrutan."
+
+#: admin/templates.php:169
+msgid "Template scheduled for: <strong>%1$s</strong>."
+msgstr "Mallen schemalagd för: <strong>%1$s</strong>."
+
+#. translators: Publish box date format, see http://php.net/date
+#: admin/stories/main.php:109 admin/templates.php:171
+msgid "M j, Y @ G:i"
+msgstr "Y-m-d klockan H:i"
+
+#: admin/stories/main.php:107
+msgid "Story scheduled for: <strong>%1$s</strong>."
+msgstr "Historia schemalagd för: <strong>%1$s</strong>."
+
+#: admin/cloud/cron.php:56
+msgid "Once in 5 minutes"
+msgstr "En gång var 5:e minut"
+
+#: admin/blocks/main.php:108 admin/blocks/main.php:130
+msgid "global block."
+msgstr "globalt block."
+
+#: admin/blocks/api.php:189
+msgid "Invalid zip file provided"
+msgstr "Ogiltig zip-fil angavs"
+
+#: public/editor-build/261-wp/texts.php:1430
+msgid "You can"
+msgstr "Du kan"
+
+#: public/editor-build/261-wp/texts.php:1458
+msgid "or"
+msgstr "eller"
+
+#: public/editor-build/261-wp/texts.php:1457
+msgid "open an issue"
+msgstr "öppna ett ärende"
+
+#: import/main.php:53 public/editor-build/261-wp/texts.php:135
+msgid "All Categories"
+msgstr "Alla kategorier"
+
+#: public/editor-build/261-wp/texts.php:446
+msgid "Error"
+msgstr "Fel"
+
+#: public/editor-build/261-wp/texts.php:1065
+msgid "Save"
+msgstr "Spara"
+
+#: public/editor-build/261-wp/texts.php:1068
+msgid "Saved"
+msgstr "Sparad"
+
+#: public/editor-build/261-wp/texts.php:761
+msgid "Message sent"
+msgstr "Meddelande skickat"
+
+#: public/editor-build/261-wp/texts.php:727
+msgid "Make it Global"
+msgstr "Gör det globalt"
+
+#: public/editor-build/261-wp/texts.php:210
+msgid "Block"
+msgstr "Block"
+
+#: public/editor-build/261-wp/texts.php:500
+msgid "Filter By"
+msgstr "Filtrera efter"
+
+#: public/editor-build/261-wp/texts.php:409
+msgid "Draft"
+msgstr "Utkast"
+
+#: public/editor-build/261-wp/texts.php:541
+msgid "Future"
+msgstr "Framtiden"
+
+#: public/editor-build/261-wp/texts.php:1205
+msgid "Status"
+msgstr "Status"
+
+#: public/editor-build/261-wp/texts.php:457
+msgid "Exclude"
+msgstr "Exkludera"
+
+#: public/editor-build/261-wp/texts.php:635
+msgid "Include"
+msgstr "Inkludera"
+
+#: public/editor-build/261-wp/texts.php:171
+msgid "Author"
+msgstr "Författare"
+
+#: public/editor-build/261-wp/texts.php:277
+msgid "Category"
+msgstr "Kategori"
+
+#: public/editor-build/261-wp/texts.php:905
+msgid "Post"
+msgstr "Inlägg"
+
+#: public/editor-build/261-wp/texts.php:912
+msgid "Post Type"
+msgstr "Inläggstyp "
+
+#: public/editor-build/261-wp/texts.php:1403
+msgid "Weight"
+msgstr "Vikt"
+
+#: public/editor-build/261-wp/texts.php:607
+msgid "ID"
+msgstr "ID"
+
+#: public/editor-build/261-wp/texts.php:974
+msgid "Random"
+msgstr "Slumpvis"
+
+#: public/editor-build/261-wp/texts.php:796
+msgid "My Account"
+msgstr "Mitt konto"
+
+#: public/editor-build/261-wp/texts.php:798
+msgid "Name"
+msgstr "Namn"
+
+#: public/editor-build/261-wp/texts.php:862
+msgid "Page"
+msgstr "Sida"
+
+#: public/editor-build/261-wp/texts.php:379
+msgid "Description"
+msgstr "Beskrivning"
+
+#: public/editor-build/261-wp/texts.php:307
+msgid "Columns"
+msgstr "Kolumner"
+
+#: public/editor-build/261-wp/texts.php:689
+msgid "Layout"
+msgstr "Layout"
+
+#: public/editor-build/261-wp/texts.php:1214
+msgid "Style"
+msgstr "Stil"
+
+#: public/editor-build/261-wp/texts.php:1083
+msgid "Select"
+msgstr "Välj"
+
+#: public/editor-build/261-wp/texts.php:556
+msgid "Go to"
+msgstr "Gå till"
+
+#: public/editor-build/261-wp/texts.php:985
+msgid "Redirect"
+msgstr "Omdirigera"
+
+#: public/editor-build/261-wp/texts.php:759
+msgid "Message"
+msgstr "Meddelande"
+
+#: public/editor-build/261-wp/texts.php:679
+msgid "Label"
+msgstr "Etikett"
+
+#: public/editor-build/261-wp/texts.php:492
+msgid "Field Type"
+msgstr "Fälttyp"
+
+#: public/editor-build/261-wp/texts.php:767
+msgid "Meta Value"
+msgstr "Metavärde"
+
+#: public/editor-build/261-wp/texts.php:766
+msgid "Meta Key"
+msgstr "Metanyckel"
+
+#: public/editor-build/261-wp/texts.php:499
+msgid "Filter"
+msgstr "Filter"
+
+#: public/editor-build/261-wp/texts.php:525
+msgid "Footer"
+msgstr "Sidfot"
+
+#: public/editor-build/261-wp/texts.php:890
+msgid "Play"
+msgstr "Spela"
+
+#: public/editor-build/261-wp/texts.php:1180
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: public/editor-build/261-wp/texts.php:423
+msgid "Email"
+msgstr "E-post"
+
+#: public/editor-build/261-wp/texts.php:440
+msgid "End"
+msgstr "Slut"
+
+#: public/editor-build/261-wp/texts.php:1203
+msgid "Start"
+msgstr "Start"
+
+#: public/editor-build/261-wp/texts.php:1051
+msgid "Russian"
+msgstr "Ryska"
+
+#: public/editor-build/261-wp/texts.php:683
+msgid "Language"
+msgstr "Språk"
+
+#: public/editor-build/261-wp/texts.php:669
+msgid "Italian"
+msgstr "Italienska"
+
+#: public/editor-build/261-wp/texts.php:532
+msgid "French"
+msgstr "Franska"
+
+#: public/editor-build/261-wp/texts.php:1187
+msgid "Spanish"
+msgstr "Spanska"
+
+#: public/editor-build/261-wp/texts.php:441
+msgid "English"
+msgstr "Engelska"
+
+#: public/editor-build/261-wp/texts.php:549
+msgid "German"
+msgstr "Tyska"
+
+#: public/editor-build/261-wp/texts.php:491
+msgid "Field"
+msgstr "Fält"
+
+#: public/editor-build/261-wp/texts.php:1285
+msgid "Time Zone"
+msgstr "Tidszon"
+
+#: public/editor-build/261-wp/texts.php:774
+msgid "Minutes"
+msgstr "Minuter"
+
+#: public/editor-build/261-wp/texts.php:599
+msgid "Hour"
+msgstr "Timmar"
+
+#: admin/form-entries.php:62 public/editor-build/261-wp/texts.php:368
+msgid "Date"
+msgstr "Datum"
+
+#: public/editor-build/261-wp/texts.php:814
+msgid "Normal"
+msgstr "Normal"
+
+#: public/editor-build/261-wp/texts.php:328
+msgid "Corner"
+msgstr "Hörn"
+
+#: public/editor-build/261-wp/texts.php:733
+msgid "Margin"
+msgstr "Marginal"
+
+#: public/editor-build/261-wp/texts.php:841
+msgid "Open In New Tab"
+msgstr "Öppna i ny flik"
+
+#: public/editor-build/261-wp/texts.php:704
+msgid "Link"
+msgstr "Länk"
+
+#: public/editor-build/261-wp/texts.php:419
+msgid "Editable Text"
+msgstr "Redigerbar text"
+
+#: public/editor-build/261-wp/texts.php:573
+msgid "H6"
+msgstr "H6"
+
+#: public/editor-build/261-wp/texts.php:572
+msgid "H5"
+msgstr "H5"
+
+#: public/editor-build/261-wp/texts.php:571
+msgid "H4"
+msgstr "H4"
+
+#: public/editor-build/261-wp/texts.php:570
+msgid "H3"
+msgstr "H3"
+
+#: public/editor-build/261-wp/texts.php:569
+msgid "H2"
+msgstr "H2"
+
+#: public/editor-build/261-wp/texts.php:568
+msgid "H1"
+msgstr "H1"
+
+#: public/editor-build/261-wp/texts.php:859
+msgid "P"
+msgstr "P"
+
+#: public/editor-build/261-wp/texts.php:1150
+msgid "Size"
+msgstr "Storlek"
+
+#: public/editor-build/261-wp/texts.php:317
+msgid "Content"
+msgstr "Innehåll"
+
+#: public/editor-build/261-wp/texts.php:932
+msgid "Private"
+msgstr "Privat"
+
+#: public/editor-build/261-wp/texts.php:415
+msgid "Dutch"
+msgstr "Holländska"
+
+#: public/editor-build/261-wp/texts.php:904
+msgid "Position"
+msgstr "Position"
+
+#: public/editor-build/261-wp/texts.php:130
+msgid "Align"
+msgstr "Justera"
+
+#: public/editor-build/261-wp/texts.php:782
+msgid "Modified"
+msgstr "Ändrades"
+
+#: public/editor-build/261-wp/texts.php:898
+msgid "Popularity"
+msgstr "Popularitet"
+
+#: public/editor-build/261-wp/texts.php:976
+msgid "Rating"
+msgstr "Betyg"
+
+#: public/editor-build/261-wp/texts.php:605
+msgid "Hue"
+msgstr "Nyans"
+
+#: public/editor-build/261-wp/texts.php:1010
+msgid "Required"
+msgstr "Obligatorisk"
+
+#: public/editor-build/261-wp/texts.php:760
+msgid "Message not sent"
+msgstr "Meddelandet är inte skickat"
+
+#: public/editor-build/261-wp/texts.php:145
+msgid "Animated"
+msgstr "Animerad"
+
+#: public/editor-build/261-wp/texts.php:124
+msgid "Address"
+msgstr "Adress"
+
+#: public/editor-build/261-wp/texts.php:305
+msgid "Colors"
+msgstr "Färger"
+
+#: public/editor-build/261-wp/texts.php:414
+msgid "Duration"
+msgstr "Varaktighet"
+
+#: admin/views/settings/maintenance.php:27
+#: public/editor-build/261-wp/texts.php:355
+msgid "Custom"
+msgstr "Anpassad"
+
+#: public/editor-build/261-wp/texts.php:172
+msgid "Auto"
+msgstr "Auto"
+
+#: public/editor-build/261-wp/texts.php:584
+msgid "Height"
+msgstr "Höjd"
+
+#: public/editor-build/261-wp/texts.php:1414
+msgid "Width"
+msgstr "Bredd"
+
+#: public/editor-build/261-wp/texts.php:537
+msgid "Full Height"
+msgstr "Full höjd"
+
+#: public/editor-build/261-wp/texts.php:158
+msgid "Arrows"
+msgstr "Pilar"
+
+#: public/editor-build/261-wp/texts.php:1197
+msgid "Square"
+msgstr "Fyrkant"
+
+#: public/editor-build/261-wp/texts.php:384
+msgid "Diamond"
+msgstr "Diamant"
+
+#: public/editor-build/261-wp/texts.php:289
+msgid "Circle"
+msgstr "Cirkel"
+
+#: public/editor-build/261-wp/texts.php:813
+msgid "None"
+msgstr "Ingen"
+
+#: public/editor-build/261-wp/texts.php:402
+msgid "Dots"
+msgstr "Punkter"
+
+#: public/editor-build/261-wp/texts.php:802
+msgid "Navigation"
+msgstr "Navigation "
+
+#: public/editor-build/261-wp/texts.php:1195
+msgid "Speed"
+msgstr "Fart"
+
+#: public/editor-build/261-wp/texts.php:377
+msgid "Delete"
+msgstr "Ta bort"
+
+#: public/editor-build/261-wp/texts.php:412
+msgid "Duplicate"
+msgstr "Duplicera"
+
+#: public/editor-build/261-wp/texts.php:220
+msgid "Border"
+msgstr "Ram"
+
+#: public/editor-build/261-wp/texts.php:1440
+msgid "YouTube or Vimeo"
+msgstr "YouTube eller Vimeo"
+
+#: public/editor-build/261-wp/texts.php:185
+msgid "Background"
+msgstr "Bakgrund "
+
+#: public/editor-build/261-wp/texts.php:107
+msgid "Add New Column"
+msgstr "Lägg till ny kolumn"
+
+#: public/editor-build/261-wp/texts.php:337
+msgid "Could not find"
+msgstr "Kan inte hitta"
+
+#: public/editor-build/261-wp/texts.php:536
+msgid "Full"
+msgstr "Full"
+
+#: public/editor-build/261-wp/texts.php:219
+msgid "Bold"
+msgstr "Fet"
+
+#: public/editor-build/261-wp/texts.php:670
+msgid "Italic"
+msgstr "Kursiv"
+
+#: public/editor-build/261-wp/texts.php:1247
+msgid "Tail"
+msgstr "Svans"
+
+#: public/editor-build/261-wp/texts.php:583
+msgid "Heavy"
+msgstr "Tung"
+
+#: public/editor-build/261-wp/texts.php:1268
+msgid "Thin"
+msgstr "Tunn"
+
+#: public/editor-build/261-wp/texts.php:1047
+msgid "Round"
+msgstr "Rund"
+
+#: public/editor-build/261-wp/texts.php:126
+msgid "Advanced"
+msgstr "Avancerad"
+
+#: public/editor-build/261-wp/texts.php:785
+msgid "More Settings"
+msgstr "Fler inställningar"
+
+#: public/editor-build/261-wp/texts.php:963
+msgid "Publish"
+msgstr "Publicera"
+
+#: public/editor-build/261-wp/texts.php:1352
+msgid "Update"
+msgstr "Uppdatera"
+
+#: public/editor-build/261-wp/texts.php:784
+msgid "More"
+msgstr "Mer"
+
+#: public/editor-build/261-wp/texts.php:779
+msgid "Mobile"
+msgstr "Mobil"
+
+#: public/editor-build/261-wp/texts.php:781
+msgid "Mobile view"
+msgstr "Mobilvy"
+
+#: admin/form-entries.php:336 admin/popups/main.php:106 admin/templates.php:204
+#: public/editor-build/261-wp/texts.php:105
+msgid "Add New"
+msgstr "Lägg till ny"
+
+#: public/editor-build/261-wp/texts.php:116
+msgid "Add new option"
+msgstr "Lägg till nytt alternativ"
+
+#: public/editor-build/261-wp/texts.php:915
+msgid "Posts"
+msgstr "Inlägg"
+
+#: public/editor-build/261-wp/texts.php:755
+msgid "Menu"
+msgstr "Meny"
+
+#: public/editor-build/261-wp/texts.php:956
+msgid "Products"
+msgstr "Produkter"
+
+#: admin/templates.php:125 public/editor-build/261-wp/texts.php:933
+msgid "Product"
+msgstr "Produkt"
+
+#: public/editor-build/261-wp/texts.php:867
+msgid "Pages"
+msgstr "Sidor"
+
+#: public/editor-build/261-wp/texts.php:273
+msgid "Categories"
+msgstr "Kategorier"
+
+#: public/editor-build/261-wp/texts.php:306
+msgid "Column"
+msgstr "Kolumn"
+
+#: public/editor-build/261-wp/texts.php:1048
+msgid "Row"
+msgstr "Rad"
+
+#: public/editor-build/261-wp/texts.php:527
+msgid "Form"
+msgstr "Formulär"
+
+#: public/editor-build/261-wp/texts.php:430
+msgid "Embed"
+msgstr "Bädda in"
+
+#: public/editor-build/261-wp/texts.php:732
+msgid "Map"
+msgstr "Karta"
+
+#: public/editor-build/261-wp/texts.php:1391
+msgid "Video"
+msgstr "Video"
+
+#: public/editor-build/261-wp/texts.php:622
+msgid "Image"
+msgstr "Bild"
+
+#: public/editor-build/261-wp/texts.php:608
+msgid "Icon"
+msgstr "Ikon"
+
+#: public/editor-build/261-wp/texts.php:241
+msgid "Button"
+msgstr "Knapp"
+
+#: public/editor-build/261-wp/texts.php:1255
+msgid "Text"
+msgstr "Text"
+
+#: public/editor-build/261-wp/texts.php:102
+msgid "Add Elements"
+msgstr "Lägg till element"
+
+#: public/editor-build/261-wp/texts.php:924
+msgid "Press the button to add blocks"
+msgstr "Klicka på knappen för att lägga till block"
+
+#: public/editor-build/261-wp/texts.php:847
+msgid "Order By"
+msgstr "Sortera efter"
+
+#: public/editor-build/261-wp/texts.php:436
+msgid "Enable on Mobile"
+msgstr "Aktivera på mobil"
+
+#: public/editor-build/261-wp/texts.php:388
+msgid "Disable on Mobile"
+msgstr "Avaktivera på mobil"
+
+#: public/editor-build/261-wp/texts.php:957
+msgid "Products Count"
+msgstr "Antal produkter"
+
+#: public/editor-build/261-wp/texts.php:709
+msgid "List"
+msgstr "Lista"
+
+#: public/editor-build/261-wp/texts.php:1325
+msgid "Typography"
+msgstr "Typografi"
+
+#: public/editor-build/261-wp/texts.php:1163
+msgid "Slider"
+msgstr "Bildspel "
+
+#: public/editor-build/261-wp/texts.php:258
+msgid "CSS Class"
+msgstr "CSS-klass"
+
+#: public/editor-build/261-wp/texts.php:1444
+msgid "Z-index"
+msgstr "Z-index"
+
+#: public/editor-build/261-wp/texts.php:119
+msgid "Add to cart"
+msgstr "Lägg till i varukorg"
+
+#: public/editor-build/261-wp/texts.php:1147
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: public/editor-build/261-wp/texts.php:609
+msgid "Icon Box"
+msgstr "Ikonbox"
+
+#: public/editor-build/261-wp/texts.php:701
+msgid "Line"
+msgstr "Linje"
+
+#: public/editor-build/261-wp/texts.php:1293
+msgid "Title"
+msgstr "Rubrik"
+
+#: public/editor-build/261-wp/texts.php:268
+msgid "Cart"
+msgstr "Varukorg"
+
+#: public/editor-build/261-wp/texts.php:378
+msgid "Desc"
+msgstr "Fallande"
+
+#: public/editor-build/261-wp/texts.php:163
+msgid "Asc"
+msgstr "Stigande"
+
+#: public/editor-build/261-wp/texts.php:442
+msgid "Enter address"
+msgstr "Ange adress"
+
+#: public/editor-build/261-wp/texts.php:1446
+msgid "component"
+msgstr "komponent"
+
+#: public/editor-build/261-wp/texts.php:1328
+msgid "URL"
+msgstr "URL"
+
+#: public/editor-build/261-wp/texts.php:872
+msgid "Parent"
+msgstr "Överordnad"
+
+#: public/editor-build/261-wp/texts.php:1244
+msgid "Tabs"
+msgstr "Flikar"
+
+#: public/editor-build/261-wp/texts.php:1119
+msgid "Shortcode"
+msgstr "Kortkod"
+
+#: public/editor-build/261-wp/texts.php:922
+msgid "Press the button above to add blocks"
+msgstr "Klicka på knappen ovan för att lägga till block"
+
+#: public/editor-build/261-wp/texts.php:274
+msgid "Categories Count"
+msgstr "Antal kategorier"
+
+#: public/editor-build/261-wp/texts.php:1181
+msgid "SoundCloud Link"
+msgstr "SoundCloud-länk"
+
+#: public/editor-build/261-wp/texts.php:674
+msgid "Jello"
+msgstr "Jello"
+
+#: public/editor-build/261-wp/texts.php:1245
+msgid "Tada"
+msgstr "Tada"
+
+#: public/editor-build/261-wp/texts.php:1232
+msgid "Swing"
+msgstr "Svänga"
+
+#: public/editor-build/261-wp/texts.php:1109
+msgid "Shake"
+msgstr "Skaka"
+
+#: public/editor-build/261-wp/texts.php:112
+msgid "Add a new block"
+msgstr "Lägg till nytt block"
+
+#: public/editor-build/261-wp/texts.php:939
+msgid "Product ID"
+msgstr "Produkt-ID"
+
+#: public/editor-build/261-wp/texts.php:649
+msgid "Inherit"
+msgstr "Ärver"
+
+#: public/editor-build/261-wp/texts.php:225
+msgid "Bounce"
+msgstr "Studsa"
+
+#: public/editor-build/261-wp/texts.php:174
+msgid "Auto-Draft"
+msgstr "Automatisk utkast"
+
+#: public/editor-build/261-wp/texts.php:757
+msgid "Menu Order"
+msgstr "Menyordning"
+
+#: public/editor-build/261-wp/texts.php:286
+msgid "Checkout"
+msgstr "Kassa"
+
+#: public/editor-build/261-wp/texts.php:830
+msgid "Number"
+msgstr "Nummer"
+
+#: public/editor-build/261-wp/texts.php:861
+msgid "Padding"
+msgstr "Padding"
+
+#: public/editor-build/261-wp/texts.php:497
+msgid "Fill"
+msgstr "Fyll"
+
+#: public/editor-build/261-wp/texts.php:1186
+msgid "Spacing"
+msgstr "Mellanrum"
+
+#: public/editor-build/261-wp/texts.php:547
+msgid "Gap Below"
+msgstr "Mellanrum under"
+
+#: public/editor-build/261-wp/texts.php:546
+msgid "Gap Above"
+msgstr "Mellanrum över"
+
+#: public/editor-build/261-wp/texts.php:518
+msgid "Font Family"
+msgstr "Typsnittsfamilj"
+
+#: public/editor-build/261-wp/texts.php:673
+msgid "JackInTheBox"
+msgstr "JackILådan"
+
+#: public/editor-build/261-wp/texts.php:965
+msgid "Pulse"
+msgstr "Puls"
+
+#: public/editor-build/261-wp/texts.php:514
+msgid "Flash"
+msgstr "Blixt"
+
+#: public/editor-build/261-wp/texts.php:1445
+msgid "Zoom"
+msgstr "Zooma"
+
+#: public/editor-build/261-wp/texts.php:719
+msgid "Loop"
+msgstr "Loop"
+
+#: public/editor-build/261-wp/texts.php:870
+msgid "Parallax"
+msgstr "Parallax"
+
+#: public/editor-build/261-wp/texts.php:730
+msgid "Make it a Slider"
+msgstr "Gör det till ett bildspel"
+
+#: public/editor-build/261-wp/texts.php:804
+msgid "New Style #%s"
+msgstr "Ny stil #%s"
+
+#: public/editor-build/261-wp/texts.php:1001
+msgid "Reorder Blocks"
+msgstr "Omsortera block"
+
+#: public/editor-build/261-wp/texts.php:91
+msgid "Accordion"
+msgstr "Dragspel"
+
+#: public/editor-build/261-wp/texts.php:342
+msgid "Countdown"
+msgstr "Nedräkning"
+
+#: public/editor-build/261-wp/texts.php:343
+msgid "Counter"
+msgstr "Räknare"
+
+#: public/editor-build/261-wp/texts.php:1185
+msgid "Spacer"
+msgstr "Mellanrum"
+
+#: public/editor-build/261-wp/texts.php:381
+msgid "Desktop"
+msgstr "Stationär dator"
+
+#: public/editor-build/261-wp/texts.php:1234
+msgid "Switch to desktop to add blocks"
+msgstr "Byt till stationär dator för att lägga till block"
+
+#: public/editor-build/261-wp/texts.php:1061
+msgid "SWITCH TO DESKTOP"
+msgstr "BYT TILL STATIONÄR DATOR"
+
+#: public/editor-build/261-wp/texts.php:1420
+msgid "Wobble"
+msgstr "Vobbla"
+
+#: public/editor-build/261-wp/texts.php:1050
+msgid "Rubber Band"
+msgstr "Gummiband"
+
+#: public/editor-build/261-wp/texts.php:707
+msgid "Link to"
+msgstr "Länk till"
+
+#: public/editor-build/261-wp/texts.php:601
+msgid "Hover"
+msgstr "Hovra"
+
+#: public/editor-build/261-wp/texts.php:869
+msgid "Paragraph"
+msgstr "Stycke"
+
+#: public/editor-build/261-wp/texts.php:323
+msgid "Controls"
+msgstr "Kontroller"
+
+#: public/editor-build/261-wp/texts.php:345
+msgid "Cover"
+msgstr "Täck"
+
+#: public/editor-build/261-wp/texts.php:970
+msgid "Query"
+msgstr "Query"
+
+#: public/editor-build/261-wp/texts.php:940
+msgid "Product ID or SKU"
+msgstr "Produkt-ID eller SKU"
+
+#: public/editor-build/261-wp/texts.php:341
+msgid "Count"
+msgstr "Räkna"
+
+#: public/editor-build/261-wp/texts.php:884
+msgid "Percentage"
+msgstr "Procent"
+
+#: public/editor-build/261-wp/texts.php:198
+msgid "Bar"
+msgstr "Fält"
+
+#: public/editor-build/261-wp/texts.php:11
+msgid "+ 12:00 (Auckland)"
+msgstr "+ 12:00 (Auckland)"
+
+#: public/editor-build/261-wp/texts.php:10
+msgid "+ 11:00 (Ponape)"
+msgstr "+ 11:00 (Ponape)"
+
+#: public/editor-build/261-wp/texts.php:34
+msgid "+ 9:00 (Tokyo, Seoul)"
+msgstr "+ 9:00 (Tokyo, Seoul)"
+
+#: public/editor-build/261-wp/texts.php:31
+msgid "+ 8:00 (Singapore, Beijing)"
+msgstr "+ 8:00 (Singapore, Beijing)"
+
+#: public/editor-build/261-wp/texts.php:29
+msgid "+ 7:00 (Bangkok, Jakarta)"
+msgstr "+ 7:00 (Bangkok, Jakarta)"
+
+#: public/editor-build/261-wp/texts.php:22
+msgid "+ 5:00 (Yekaterinburg)"
+msgstr "+ 5:00 (Yekaterinburg)"
+
+#: public/editor-build/261-wp/texts.php:20
+msgid "+ 4:00 (Dubai, Baku)"
+msgstr "+ 4:00 (Dubai, Baku)"
+
+#: public/editor-build/261-wp/texts.php:18
+msgid "+ 3:00 (Moscow, Baghdad)"
+msgstr "+ 3:00 (Moskva, Bagdad)"
+
+#: public/editor-build/261-wp/texts.php:16
+msgid "+ 2:00 (Athens, Istanbul)"
+msgstr "+ 2:00 (Aten, Istanbul)"
+
+#: public/editor-build/261-wp/texts.php:14
+msgid "+ 1:00 (Berlin, Paris)"
+msgstr "+ 1:00 (Berlin, Paris)"
+
+#: public/editor-build/261-wp/texts.php:59
+msgid "00:00 (London, Dublin)"
+msgstr "00:00 (London, Dublin)"
+
+#: public/editor-build/261-wp/texts.php:40
+msgid "- 1:00 (Cape Verde)"
+msgstr "- 1:00 (Kap Verde)"
+
+#: public/editor-build/261-wp/texts.php:41
+msgid "- 2:00 (Noronha)"
+msgstr "- 2:00 (Noronha)"
+
+#: public/editor-build/261-wp/texts.php:43
+msgid "- 3:00 (Brasilia, Santiago)"
+msgstr "- 3:00 (Brasilia, Santiago)"
+
+#: public/editor-build/261-wp/texts.php:46
+msgid "- 4:00 (Halifax, Manaus)"
+msgstr "- 4:00 (Halifax, Manaus)"
+
+#: public/editor-build/261-wp/texts.php:49
+msgid "- 5:00 (New York, Miami)"
+msgstr "- 5:00 (New York, Miami)"
+
+#: public/editor-build/261-wp/texts.php:50
+msgid "- 6:00 (Chicago, Dallas)"
+msgstr "- 6:00 (Chicago, Dallas)"
+
+#: public/editor-build/261-wp/texts.php:51
+msgid "- 7:00 (Denver, Phoenix)"
+msgstr "- 7:00 (Denver, Phoenix)"
+
+#: public/editor-build/261-wp/texts.php:52
+msgid "- 8:00 (Los Angeles)"
+msgstr "- 8:00 (Los Angeles)"
+
+#: public/editor-build/261-wp/texts.php:53
+msgid "- 9:00 (Anchorage)"
+msgstr "- 9:00 (Anchorage)"
+
+#: public/editor-build/261-wp/texts.php:36
+msgid "- 10:00 (Honolulu, Papeete)"
+msgstr "- 10:00 (Honolulu, Papeete)"
+
+#: public/editor-build/261-wp/texts.php:38
+msgid "- 11:00 (Niue)"
+msgstr "- 11:00 (Niue)"
+
+#: public/editor-build/261-wp/texts.php:846
+msgid "Order"
+msgstr "Ordning"
+
+#: public/editor-build/261-wp/texts.php:1307
+msgid "Trash"
+msgstr "Lägg i papperskorgen"
+
+#: public/editor-build/261-wp/texts.php:978
+msgid "Ratio"
+msgstr "Kvot"
+
+#: public/editor-build/261-wp/texts.php:1059
+msgid "START BUILDING YOUR PAGE"
+msgstr "BÖRJA BYGGA DIN SIDA"
+
+#: public/editor-build/261-wp/texts.php:882
+msgid "Pending"
+msgstr "Väntande"
+
+#: public/editor-build/261-wp/texts.php:848
+msgid "Order Tracking"
+msgstr "Försändelsespårning"
+
+#: public/editor-build/261-wp/texts.php:515
+msgid "Flip"
+msgstr "Vänd"
+
+#: public/editor-build/261-wp/texts.php:376
+msgid "Delay"
+msgstr "Senarelägg"
+
+#: public/editor-build/261-wp/texts.php:204
+msgid "Bg Size"
+msgstr "Bg storlek "
+
+#: public/editor-build/261-wp/texts.php:776
+msgid "Missing Element"
+msgstr "Försvunnet element"
+
+#: public/editor-build/261-wp/texts.php:702
+msgid "Line Hgt."
+msgstr "Radhöjd"
+
+#: public/editor-build/261-wp/texts.php:854
+msgid "Outline"
+msgstr "Markera ytterkanter"
+
+#: public/editor-build/261-wp/texts.php:1165
+msgid "Slug"
+msgstr "Slug"
+
+#: public/editor-build/261-wp/texts.php:1228
+msgid "Success"
+msgstr "Lyckades"
+
+#: public/editor-build/261-wp/texts.php:574
+msgid "HTML Tag"
+msgstr "HTML-tagg"
+
+#: public/editor-build/261-wp/texts.php:857
+msgid "Overlay"
+msgstr "Överlägg"
+
+#: public/editor-build/261-wp/texts.php:511
+msgid "Fixed"
+msgstr "Fixerad"
+
+#: public/editor-build/261-wp/texts.php:228
+msgid "Boxed"
+msgstr "Inramad"
+
+#: public/editor-build/261-wp/texts.php:1142
+msgid "Show on Desktop"
+msgstr "Visa på stationär dator"
+
+#: public/editor-build/261-wp/texts.php:1216
+msgid "Styling"
+msgstr "Stilsättning"
+
+#: public/editor-build/261-wp/texts.php:410
+msgid "Drag to reorder"
+msgstr "Dra för att sortera om"
+
+#: public/editor-build/261-wp/texts.php:960
+msgid "Progress"
+msgstr "Framsteg"
+
+#: public/editor-build/261-wp/texts.php:309
+msgid "Comment Count"
+msgstr "Antal kommentarer"
+
+#: public/editor-build/261-wp/texts.php:7
+msgid "+ 10:00 (Sydney, Melbourne)"
+msgstr "+ 10:00 (Sydney, Melbourne)"
+
+#: public/editor-build/261-wp/texts.php:693
+msgid "Letter Sp."
+msgstr "Bokstavsmellanrum"
+
+#: public/editor-build/261-wp/texts.php:881
+msgid "Paste your HTML code here..."
+msgstr "Klistra in din HTML-kod här …"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://brizy.io/"
+msgstr "https://brizy.io/"
+
+#. Plugin Name of the plugin
+msgid "Brizy"
+msgstr "Brizy"
+
+#: public/editor-build/261-wp/texts.php:555
+msgid "Go Back"
+msgstr "Gå tillbaka"
+
+#: public/editor-build/261-wp/texts.php:925
+msgid "Preview"
+msgstr "Förhandsgranska"
+
+#: admin/membership/membership.php:64 editor/post.php:619
+#: public/editor-build/261-wp/texts.php:371
+msgid "Default"
+msgstr "Standard"
+
+#: admin/views/settings/general.php:62 admin/views/settings/maintenance.php:76
+#: admin/views/settings/roles.php:26
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: admin/main.php:244 admin/settings.php:109 admin/settings.php:110
+#: public/editor-build/261-wp/texts.php:1107
+msgid "Settings"
+msgstr "Inställningar"
+
+#. Author of the plugin
+msgid "Brizy.io"
+msgstr "Brizy.io"
+
+#: admin/main.php:479
+msgid "Auto Draft"
+msgstr "Automatiskt utkast"
+
+#. Description of the plugin
+msgid "A free drag & drop front-end page builder to help you create WordPress pages lightning fast. It's easy with Brizy."
+msgstr "En gratis sidbyggare för front-end som hjälper dig att blixtsnabbt skapa WordPress-sidor. Brizy gör det enkelt."

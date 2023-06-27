@@ -1,0 +1,1073 @@
+# Translation of Plugins - RaraTheme Companion - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - RaraTheme Companion - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-16 09:04:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - RaraTheme Companion - Stable (latest release)\n"
+
+#: includes/widgets/widget-twitter-feeds.php:27
+msgid "Light"
+msgstr "Licht"
+
+#: includes/widgets/widget-twitter-feeds.php:28
+msgid "Dark"
+msgstr "Donker"
+
+#: includes/widgets/widget-custom-categories.php:65
+#: includes/widgets/widget-custom-categories.php:80
+msgid " Post(s)"
+msgstr " Bericht(en)"
+
+#: includes/widgets/widget-author-bio.php:376
+msgid "Button Label"
+msgstr "Knop label"
+
+#: includes/widgets/widget-facebook-page.php:112
+msgid "Facebook Page URL"
+msgstr "Facebook pagina URL"
+
+#: includes/widgets/widget-snapchat.php:76
+msgid "Follow <b>%s</b> on Snapchat!"
+msgstr "Volg <b>%s</b> op Snapchat!"
+
+#: includes/widgets/widget-snapchat.php:130
+msgid "For example:"
+msgstr "Bijvoorbeeld:"
+
+#: includes/widgets/widget-author-bio.php:342
+msgid "Gravatar"
+msgstr "Gravatar"
+
+#: includes/widgets/widget-facebook-page.php:117
+msgid "Height"
+msgstr "Hoogte"
+
+#: includes/widgets/widget-pinterest.php:77
+msgid "Height: (px)"
+msgstr "Hoogte: (px)"
+
+#: admin/class-raratheme-companion-admin.php:366
+#: admin/class-raratheme-companion-admin.php:395
+msgid "Image"
+msgstr "Afbeelding"
+
+#: includes/widgets/widget-popular-post.php:235
+#: includes/widgets/widget-recent-post.php:162
+msgid "Layout:"
+msgstr "Lay-out:"
+
+#: admin/class-raratheme-companion-admin.php:370
+#: admin/class-raratheme-companion-admin.php:406
+msgid "Add Image"
+msgstr "Afbeelding toevoegen"
+
+#: includes/widgets/widget-image-text.php:184
+msgid "Add Image Text"
+msgstr "Afbeeldingstekst toevoegen"
+
+#: includes/widgets/widget-author-bio.php:437
+msgid "Add Social Profile"
+msgstr "Sociaal profiel toevoegen"
+
+#: includes/widgets/widget-author-bio.php:347
+msgid "Upload Author Image"
+msgstr "Upload auteur afbeelding."
+
+#: includes/widgets/widget-author-bio.php:368
+msgid "Upload Signature Image"
+msgstr "Upload handtekening afbeelding"
+
+#: includes/widgets/widget-snapchat.php:123
+msgid "Upload Snapchat Image"
+msgstr "Upload Snapchat afbeelding"
+
+#: includes/widgets/widget-advertisement.php:122
+#: includes/widgets/widget-author-bio.php:344
+#: includes/widgets/widget-author-bio.php:365
+msgid "Uploaded Photo"
+msgstr "Geüploade foto"
+
+#: includes/widgets/widget-facebook-page.php:128
+msgid "Use Small Header"
+msgstr "Kleine header gebruiken"
+
+#: includes/widgets/widget-author-bio.php:335
+msgid "Author Name"
+msgstr "Auteur naam"
+
+#: includes/widgets/widget-author-bio.php:381
+msgid "Button Link"
+msgstr "Knop link"
+
+#: includes/widgets/widget-popular-post.php:187
+#: includes/widgets/widget-recent-post.php:126
+msgid "Style One"
+msgstr "Stijl één"
+
+#: includes/widgets/widget-popular-post.php:189
+#: includes/widgets/widget-recent-post.php:128
+msgid "Style Three"
+msgstr "Stijl drie"
+
+#: includes/widgets/widget-popular-post.php:188
+#: includes/widgets/widget-recent-post.php:127
+msgid "Style Two"
+msgstr "Stijl twee"
+
+#: includes/widgets/widget-author-bio.php:363
+msgid "Text"
+msgstr "Tekst"
+
+#: includes/widgets/widget-snapchat.php:110
+msgid "this link"
+msgstr "deze link"
+
+#: includes/widgets/widget-custom-categories.php:169
+msgid "To set thumbnail for categories, go to %1$sPosts > Categories%2$s and %3$sEdit%4$s the categories."
+msgstr "Om een thumbnail voor categorieën in te stellen, ga je naar %1$sBerichten > Categorieën %2$s en %3$sBewerk%4$s de categorieën."
+
+#: includes/widgets/widget-snapchat.php:110
+msgid "Step 1. Download your Snapcode PNG image from"
+msgstr "Stap 1. Download je Snapcode PNG afbeelding van"
+
+#: includes/widgets/widget-snapchat.php:111
+msgid "Step 2. Upload your Snapcode PNG image using the button below."
+msgstr "Stap 2. Upload je Snapcode PNG afbeelding met behulp van de onderstaande knop."
+
+#: includes/widgets/widget-custom-categories.php:19
+msgid "Widget to display categories with Image and Posts Count"
+msgstr "Widget om categorieën weer te geven met afbeeldingen en aantal berichten"
+
+#: includes/widgets/widget-advertisement.php:120
+#: includes/widgets/widget-advertisement.php:133
+msgid "Ad Code"
+msgstr "Advertentiecode"
+
+#: includes/widgets/widget-advertisement.php:25
+msgid "Rara: Advertisement Widget"
+msgstr "Rara: advertentie widget"
+
+#: includes/widgets/widget-author-bio.php:33
+msgid "Rara: Author Bio"
+msgstr "Rara: auteur bio"
+
+#: includes/widgets/widget-custom-categories.php:16
+msgid "Rara: Custom Categories"
+msgstr "Rara: aangepaste categorieën"
+
+#: includes/widgets/widget-facebook-page.php:25
+msgid "Rara: Facebook Page"
+msgstr "Rara: facebook pagina"
+
+#: includes/widgets/widget-image-text.php:26
+msgid "Rara: Image Text"
+msgstr "Rara: afbeeldingstekst"
+
+#: includes/widgets/widget-pinterest.php:16
+msgid "Rara: Pinterest"
+msgstr "Rara: Pinterest"
+
+#: includes/widgets/widget-facebook-page.php:123
+msgid "Show Friend's Faces"
+msgstr "Toon gezichten van vrienden"
+
+#: includes/widgets/widget-facebook-page.php:138
+msgid "Show Timeline Tab"
+msgstr "Toon tijdlijn tab"
+
+#: includes/widgets/widget-author-bio.php:372
+msgid "Signature Text"
+msgstr "Handtekeningstekst"
+
+#: includes/widgets/widget-custom-categories.php:121
+msgid "Open in new Tab"
+msgstr "Openen in nieuw tabblad"
+
+#: includes/widgets/widget-pinterest.php:73
+msgid "Pinterest URL:"
+msgstr "Pinterest URL:"
+
+#: includes/widgets/widget-facebook-page.php:26
+msgid "A widget that shows Facebook Page Box"
+msgstr "Een widget die Facebook pagina box laat zien"
+
+#: includes/widgets/widget-advertisement.php:26
+msgid "An Advertisement Widget."
+msgstr "Een advertentie widget."
+
+#: includes/widgets/widget-author-bio.php:34
+msgid "An Author Bio Widget"
+msgstr "Een auteur bio widget"
+
+#: includes/widgets/widget-image-text.php:27
+msgid "An Image Text Widget."
+msgstr "Een afbeeldingstekst widget."
+
+#: includes/widgets/widget-pinterest.php:15
+msgid "Add your latest pins form Pinterest."
+msgstr "Voeg je nieuwste pins toe van Pinterest."
+
+#: includes/widgets/widget-facebook-page.php:133
+msgid "Hide Cover Photo"
+msgstr "Verberg cover foto"
+
+#: includes/widgets/widget-snapchat.php:129
+msgid "Snapchat Account Name:"
+msgstr "Snapchat accountnaam:"
+
+#: includes/widgets/widget-author-bio.php:340
+msgid "Display photo from:"
+msgstr "Foto weergeven van:"
+
+#: includes/widgets/widget-advertisement.php:118
+msgid "Display Advertisement from:"
+msgstr "Advertentie weergeven van:"
+
+#: includes/widgets/widget-facebook-page.php:143
+msgid "Show Event Tab"
+msgstr "Tab event weergeven"
+
+#: includes/widgets/widget-facebook-page.php:148
+msgid "Show Message Tab"
+msgstr "Bericht tab weergeven"
+
+#: includes/widgets/widget-author-bio.php:361
+msgid "Display Signature from:"
+msgstr "Toon handtekening van:"
+
+#: includes/widgets/widget-snapchat.php:29
+msgid "Display your Snapchat Snapcode."
+msgstr "Geef je Snapchat Snapcode weer."
+
+#: includes/widgets/widget-snapchat.php:57
+msgid "Please upload your Snapchat image."
+msgstr "Upload je Snapchat afbeelding."
+
+#: includes/widgets/widget-author-bio.php:353
+msgid "You can show your %1$s image instead of manually uploading your photo. Just add your gravatar registered email address here."
+msgstr "Je kan je %1$s afbeelding weergeven in plaats van je foto handmatig te uploaden. Voeg hier je gravatar geregistreerde e-mailadres toe."
+
+#: includes/widgets/widget-author-bio.php:350
+msgid "Author Email"
+msgstr "Auteur e-mailadres"
+
+#: includes/widgets/widget-image-text.php:40
+#: includes/widgets/widget-image-text.php:168
+msgid "Link Text"
+msgstr "Linktekst"
+
+#: includes/widgets/widget-contact.php:104
+#: includes/widgets/widget-contact.php:254
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/widgets/widget-contact.php:105
+#: includes/widgets/widget-contact.php:259
+msgid "Address"
+msgstr "Adres"
+
+#: includes/widgets/widget-contact.php:266
+msgid "Open Social Links in New Tab"
+msgstr "Open sociale links in een nieuw venster"
+
+#: includes/class-raratheme-companion-functions.php:23
+msgid "Search Icon"
+msgstr "Zoek pictogram"
+
+#: includes/class-raratheme-companion-functions.php:602
+msgid "No file chosen"
+msgstr "Geen bestand gekozen"
+
+#: includes/widgets/widget-contact.php:45
+msgid "A Contact Widget"
+msgstr "Een contact widget"
+
+#: includes/widgets/widget-contact.php:44
+msgid "Rara: Contact Widget"
+msgstr "Rara: Contact Widget"
+
+#: includes/widgets/widget-icon-text.php:127
+msgid "or"
+msgstr "of"
+
+#: includes/widgets/widget-popular-post.php:70
+msgid " Views"
+msgstr " Weergaven"
+
+#: includes/widgets/widget-popular-post.php:84
+#: includes/widgets/widget-popular-post.php:204
+#: includes/widgets/widget-popular-post.php:312
+msgid "Popular Posts"
+msgstr "Populaire berichten"
+
+#: includes/widgets/widget-popular-post.php:227
+msgid "Popular based on:"
+msgstr "Populair op basis van:"
+
+#: includes/widgets/widget-popular-post.php:229
+msgid "Post Views"
+msgstr "Berichtweergaven"
+
+#: includes/widgets/widget-popular-post.php:230
+msgid "Comment Count"
+msgstr "Aantal reacties"
+
+#: includes/widgets/widget-popular-post.php:260
+msgid "Show number of comments"
+msgstr "Toon aantal reacties"
+
+#: includes/widgets/widget-popular-post.php:269
+msgid "Show number of views"
+msgstr "Toon aantal weergaven"
+
+#: includes/widgets/widget-icon-text.php:25
+msgid "Rara: Icon Text"
+msgstr "Rara: pictogram tekst"
+
+#: includes/widgets/widget-contact.php:103
+#: includes/widgets/widget-contact.php:249
+msgid "Phone"
+msgstr "Telefoon"
+
+#: includes/widgets/widget-popular-post.php:68
+msgid " View"
+msgstr " Bekijken"
+
+#: includes/widgets/widget-recent-post.php:105
+msgid "%1$s"
+msgstr "%1$s"
+
+#: admin/class-raratheme-companion-admin.php:269
+msgid "%s Archives"
+msgstr "%s archief"
+
+#: admin/class-raratheme-companion-admin.php:270
+msgid "%s Attributes"
+msgstr "%s attributen"
+
+#: admin/class-raratheme-companion-admin.php:333
+#: admin/class-raratheme-companion-admin.php:334
+#: admin/class-raratheme-companion-admin.php:343
+msgid "%s Categories"
+msgstr "%s categorieën"
+
+#: admin/class-raratheme-companion-admin.php:289
+msgid "%s list"
+msgstr "%s lijst"
+
+#: admin/class-raratheme-companion-admin.php:290
+msgid "%s list navigation"
+msgstr "%s lijstnavigatie"
+
+#: admin/class-raratheme-companion-admin.php:271
+msgid "%s Parent"
+msgstr "%s hoofd"
+
+#: admin/class-raratheme-companion-admin.php:295
+msgid "%s Post Type"
+msgstr "%s berichttype"
+
+#: includes/widgets/widget-featured-page.php:138
+#: includes/widgets/widget-featured.php:96
+msgid "--Choose--"
+msgstr "--Kies--"
+
+#: includes/widgets/widget-popular-post.php:66
+msgid "0 View"
+msgstr "0 weergave"
+
+#: includes/widgets/widget-cta.php:212
+msgid "Button 1 Label"
+msgstr "Knop 1 label"
+
+#: includes/widgets/widget-cta.php:216
+msgid "Button 1 Link"
+msgstr "Knop 1 link"
+
+#: includes/widgets/widget-cta.php:223
+msgid "Button 2 Label"
+msgstr "Knop 2 label"
+
+#: includes/widgets/widget-cta.php:227
+msgid "Button 2 Link"
+msgstr "Knop 2 link"
+
+#: includes/widgets/widget-cta.php:186
+msgid "Button Alignment:"
+msgstr "Knop uitlijning:"
+
+#: includes/widgets/widget-image.php:122
+msgid "Button label"
+msgstr "Knop label"
+
+#: includes/widgets/widget-image.php:117
+msgid "Content"
+msgstr "Inhoud"
+
+#: includes/widgets/widget-stat-counter.php:145
+msgid "Counter"
+msgstr "Teller"
+
+#: includes/widgets/widget-author-bio.php:356
+#: includes/widgets/widget-contact.php:244 includes/widgets/widget-cta.php:195
+#: includes/widgets/widget-icon-text.php:121
+#: includes/widgets/widget-team-member.php:213
+msgid "Description"
+msgstr "Beschrijving"
+
+#: includes/widgets/widget-team-member.php:208
+#: includes/widgets/widget-testimonial.php:106
+msgid "Designation"
+msgstr "Bestemming"
+
+#: admin/class-raratheme-companion-admin.php:276
+msgid "Edit %s"
+msgstr "Bewerken %s"
+
+#: admin/class-raratheme-companion-admin.php:339
+msgid "Edit Categories"
+msgstr "Categorieën bewerken"
+
+#: includes/widgets/widget-team-member.php:235
+msgid "Facebook Profile"
+msgstr "Facebook profiel"
+
+#: admin/class-raratheme-companion-admin.php:283
+msgid "Featured Image"
+msgstr "Uitgelichte afbeelding"
+
+#: includes/widgets/widget-advertisement.php:128
+#: includes/widgets/widget-client-logo.php:155
+#: includes/widgets/widget-image-text.php:44
+#: includes/widgets/widget-image-text.php:172
+#: includes/widgets/widget-image.php:127
+msgid "Featured Link"
+msgstr "Uitgelichte link"
+
+#: admin/class-raratheme-companion-admin.php:291
+msgid "Filter %s list"
+msgstr "Filter %s lijst"
+
+#. Author URI of the plugin
+msgid "https://raratheme.com/"
+msgstr "https://raratheme.com/"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/raratheme-companion"
+msgstr "https://wordpress.org/plugins/raratheme-companion"
+
+#: includes/widgets/widget-icon-text.php:130
+#: includes/widgets/widget-stat-counter.php:155
+msgid "Icons"
+msgstr "Pictogrammen"
+
+#: admin/class-raratheme-companion-admin.php:287
+msgid "Insert into %s"
+msgstr "Invoegen in %s"
+
+#: includes/widgets/widget-team-member.php:239
+msgid "Instagram Profile"
+msgstr "Instagram profiel"
+
+#: includes/widgets/widget-featured-page.php:34
+msgid "Left"
+msgstr "Links"
+
+#: includes/widgets/widget-author-bio.php:103
+#: includes/widgets/widget-author-bio.php:423
+#: includes/widgets/widget-contact.php:63
+#: includes/widgets/widget-contact.php:301
+#: includes/widgets/widget-social-links.php:63
+#: includes/widgets/widget-social-links.php:263
+msgid "Link"
+msgstr "Link"
+
+#: includes/widgets/widget-twitter-feeds.php:177
+msgid "Link Color"
+msgstr "Link kleur"
+
+#: includes/widgets/widget-team-member.php:225
+msgid "LinkedIn Profile"
+msgstr "LinkedIn profiel"
+
+#: includes/widgets/widget-team-member.php:203
+#: includes/widgets/widget-testimonial.php:101
+msgid "Name"
+msgstr "Naam"
+
+#: admin/class-raratheme-companion-admin.php:275
+msgid "New %s"
+msgstr "Nieuw %s"
+
+#: admin/class-raratheme-companion-admin.php:342
+msgid "New Categories Name"
+msgstr "Nieuwe categorie naam"
+
+#: includes/widgets/widget-custom-categories.php:104
+#: includes/widgets/widget-posts-category-slider.php:179
+msgid "New title"
+msgstr "Nieuwe titel"
+
+#: admin/class-raratheme-companion-admin.php:281
+msgid "Not found"
+msgstr "Niet gevonden"
+
+#: admin/class-raratheme-companion-admin.php:282
+msgid "Not found in Trash"
+msgstr "Niet gevonden in prullenbak"
+
+#: includes/widgets/widget-client-logo.php:166
+msgid "Add Another Logo"
+msgstr "Nog een logo toevoegen"
+
+#: includes/widgets/widget-faqs.php:127
+msgid "Add FAQs"
+msgstr "FAQs toevoegen"
+
+#: admin/class-raratheme-companion-admin.php:274
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: admin/class-raratheme-companion-admin.php:273
+msgid "Add New %s"
+msgstr "Nieuwe %s toevoegen"
+
+#: admin/class-raratheme-companion-admin.php:341
+msgid "Add New Categories"
+msgstr "Nieuwe categorieën toevoegen"
+
+#: includes/widgets/widget-contact.php:316
+#: includes/widgets/widget-social-links.php:278
+msgid "Add Social Icon"
+msgstr "Sociale pictogram toevoegen"
+
+#: admin/class-raratheme-companion-admin.php:171
+#: admin/class-raratheme-companion-admin.php:183
+#: includes/class-raratheme-companion-functions.php:605
+msgid "Upload"
+msgstr "Uploaden"
+
+#: includes/widgets/widget-advertisement.php:125
+#: includes/widgets/widget-client-logo.php:154
+#: includes/widgets/widget-cta.php:254
+#: includes/widgets/widget-icon-text.php:125
+#: includes/widgets/widget-image-text.php:37
+#: includes/widgets/widget-image-text.php:165
+#: includes/widgets/widget-image.php:149
+#: includes/widgets/widget-stat-counter.php:168
+#: includes/widgets/widget-testimonial.php:116
+msgid "Upload Image"
+msgstr "Upload afbeelding"
+
+#: includes/widgets/widget-team-member.php:217
+msgid "Upload Photo"
+msgstr "Upload foto"
+
+#: admin/class-raratheme-companion-admin.php:288
+msgid "Uploaded to this %s"
+msgstr "Geüpload naar deze %s"
+
+#: admin/class-raratheme-companion-admin.php:286
+msgid "Use as featured image"
+msgstr "Gebruik als uitgelichte afbeelding"
+
+#: includes/widgets/widget-popular-post.php:149
+#: includes/widgets/widget-posts-category-slider.php:97
+#: includes/widgets/widget-recent-post.php:97
+msgid "View all posts in %s"
+msgstr "Alle berichten bekijken in %s"
+
+#: admin/class-raratheme-companion-admin.php:180
+msgid "Are you sure?"
+msgstr "Weet je het zeker?"
+
+#: includes/widgets/widget-team-member.php:251
+msgid "Behance Profile"
+msgstr "Behance profiel"
+
+#: includes/widgets/widget-posts-category-slider.php:219
+msgid "Category:"
+msgstr "Categorie:"
+
+#: includes/widgets/widget-featured-page.php:35
+msgid "Centered"
+msgstr "Gecentreerd"
+
+#: admin/class-raratheme-companion-admin.php:172
+#: admin/class-raratheme-companion-admin.php:184
+#: includes/class-raratheme-companion-functions.php:607
+msgid "Change"
+msgstr "Wijzig"
+
+#: includes/widgets/widget-posts-category-slider.php:245
+msgid "Change Direction"
+msgstr "Wijzig richting"
+
+#: includes/widgets/widget-twitter-feeds.php:154
+#: includes/widgets/widget-twitter-feeds.php:155
+msgid "Choose a theme&hellip;"
+msgstr "Kies een thema&hellip;"
+
+#: includes/widgets/widget-testimonial.php:111
+msgid "Testimonial"
+msgstr "Aanbeveling"
+
+#: includes/widgets/widget-twitter-feeds.php:153
+msgid "Theme"
+msgstr "Thema"
+
+#: includes/widgets/widget-advertisement.php:113
+#: includes/widgets/widget-author-bio.php:330
+#: includes/widgets/widget-client-logo.php:130
+#: includes/widgets/widget-contact.php:239 includes/widgets/widget-cta.php:190
+#: includes/widgets/widget-facebook-page.php:107
+#: includes/widgets/widget-icon-text.php:116
+#: includes/widgets/widget-image-text.php:145
+#: includes/widgets/widget-image.php:112
+#: includes/widgets/widget-popular-post.php:217
+#: includes/widgets/widget-recent-post.php:152
+#: includes/widgets/widget-social-links.php:223
+#: includes/widgets/widget-stat-counter.php:140
+#: includes/widgets/widget-twitter-feeds.php:149
+msgid "Title"
+msgstr "Titel"
+
+#: includes/widgets/widget-custom-categories.php:116
+#: includes/widgets/widget-featured-page.php:160
+#: includes/widgets/widget-pinterest.php:69
+#: includes/widgets/widget-posts-category-slider.php:214
+#: includes/widgets/widget-snapchat.php:106
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/widgets/widget-posts-category-slider.php:230
+msgid "Total number of posts available in the selected category will be the maximum number of slides."
+msgstr "Totaal aantal beschikbare berichten in de geselecteerde categorie zal het maximum aantal slides zijn."
+
+#: includes/widgets/widget-twitter-feeds.php:167
+msgid "Twitter Username"
+msgstr "Twitter gebruikersnaam"
+
+#: includes/widgets/widget-team-member.php:231
+msgid "Twitter Profile"
+msgstr "Twitter profiel"
+
+#: admin/class-raratheme-companion-admin.php:277
+msgid "Update %s"
+msgstr "Update %s"
+
+#: admin/class-raratheme-companion-admin.php:340
+msgid "Update Categories"
+msgstr "Update categorieën"
+
+#: includes/class-raratheme-companion-functions.php:610
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Upgrade je versie van WordPress voor volledige media ondersteuning."
+
+#: includes/widgets/widget-stat-counter.php:26
+msgid "Widget for stat counter."
+msgstr "Widget voor stats teller."
+
+#: includes/widgets/widget-author-bio.php:100
+#: includes/widgets/widget-author-bio.php:420
+#: includes/widgets/widget-contact.php:60
+#: includes/widgets/widget-contact.php:298
+#: includes/widgets/widget-social-links.php:60
+#: includes/widgets/widget-social-links.php:260
+msgid "Social Icon"
+msgstr "Sociaal pictogram"
+
+#: includes/widgets/widget-twitter-feeds.php:182
+msgid "Widget Width"
+msgstr "Widget breedte"
+
+#: admin/class-raratheme-companion-admin.php:278
+#: admin/class-raratheme-companion-admin.php:279
+msgid "View %s"
+msgstr "Bekijk %s"
+
+#: includes/widgets/widget-cta.php:249
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: includes/widgets/widget-twitter-feeds.php:172
+msgid "Border Color"
+msgstr "Randkleur"
+
+#: includes/widgets/widget-social-links.php:206
+msgid "Subscribe and Follow"
+msgstr "Abonneer en volg "
+
+#: includes/widgets/widget-team-member.php:243
+msgid "YouTube Profile"
+msgstr "YouTube profiel"
+
+#: includes/widgets/widget-featured-page.php:26
+msgid "A Featured Page Widget"
+msgstr "Een uitgelichte pagina widget"
+
+#: includes/widgets/widget-featured.php:26
+msgid "A Featured Widget"
+msgstr "Een uitgelichte widget"
+
+#: includes/widgets/widget-cta.php:27
+msgid "A Call To Action Widget."
+msgstr "Een Call To Action widget."
+
+#: includes/widgets/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr "Een recente bericht widget"
+
+#: includes/widgets/widget-popular-post.php:29
+msgid "A Popular Post Widget"
+msgstr "Een populaire bericht widget"
+
+#: includes/widgets/widget-client-logo.php:26
+msgid "A Client Logo Widget."
+msgstr "Een klant logo widget."
+
+#: includes/class-raratheme-companion-templates.php:52
+msgid "Portfolio Template"
+msgstr "Portfolio template"
+
+#: admin/class-raratheme-companion-admin.php:238
+msgid "Portfolios"
+msgstr "Portfolio's"
+
+#: includes/widgets/widget-featured.php:114
+msgid "Posts"
+msgstr "Berichten"
+
+#: admin/class-raratheme-companion-admin.php:219
+#: includes/widgets/widget-faqs.php:100 includes/widgets/widget-faqs.php:115
+msgid "Question"
+msgstr "Vraag"
+
+#. Author of the plugin
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#: includes/widgets/widget-featured-page.php:25
+msgid "Rara: A Featured Page Widget"
+msgstr "Rara: een uitgelichte pagina widget"
+
+#: includes/widgets/widget-faqs.php:25
+msgid "Rara: FAQs"
+msgstr "Rara: FAQs"
+
+#: includes/widgets/widget-featured.php:25
+msgid "Rara: Featured Widget"
+msgstr "Rara: uitgelichte widget"
+
+#: includes/widgets/widget-image.php:25
+msgid "Rara: Image Widget"
+msgstr "Rara: afbeeldingswidget"
+
+#: includes/widgets/widget-popular-post.php:28
+msgid "Rara: Popular Post"
+msgstr "Rara: populair bericht"
+
+#: includes/widgets/widget-featured-page.php:49
+#: includes/widgets/widget-featured-page.php:152
+#: includes/widgets/widget-featured-page.php:247
+msgid "Read More"
+msgstr "Lees meer"
+
+#: includes/widgets/widget-icon-text.php:145
+msgid "Read More Label"
+msgstr "Lees meer label"
+
+#: includes/widgets/widget-icon-text.php:155
+msgid "Read More Link"
+msgstr "Lees meer link"
+
+#: includes/widgets/widget-featured-page.php:196
+#: includes/widgets/widget-featured.php:124
+msgid "Read More Text"
+msgstr "Lees meer tekst"
+
+#: includes/widgets/widget-recent-post.php:40
+#: includes/widgets/widget-recent-post.php:143
+#: includes/widgets/widget-recent-post.php:204
+msgid "Recent Posts"
+msgstr "Recente berichten"
+
+#: includes/templates/single-rara-portfolio.php:39
+msgid "Related Projects"
+msgstr "Gerelateerde projecten"
+
+#: admin/class-raratheme-companion-admin.php:285
+msgid "Remove featured image"
+msgstr "Verwijder uitgelichte afbeelding"
+
+#: admin/class-raratheme-companion-admin.php:371
+#: admin/class-raratheme-companion-admin.php:407
+#: includes/class-raratheme-companion-functions.php:616
+msgid "Remove Image"
+msgstr "Afbeelding verwijderen"
+
+#: includes/widgets/widget-featured-page.php:33
+msgid "Right"
+msgstr "Rechts"
+
+#: admin/class-raratheme-companion-admin.php:280
+msgid "Search %s"
+msgstr "Zoeken %s"
+
+#: admin/class-raratheme-companion-admin.php:335
+msgid "Search Categories"
+msgstr "Categorieën doorzoeken"
+
+#: includes/widgets/widget-author-bio.php:102
+#: includes/widgets/widget-contact.php:62
+#: includes/widgets/widget-social-links.php:62
+msgid "Search Social Icons"
+msgstr "Sociale pictogrammen doorzoeken"
+
+#: admin/class-raratheme-companion-admin.php:284
+msgid "Set featured image"
+msgstr "Uitgelichte afbeelding instellen"
+
+#: includes/widgets/widget-featured-page.php:176
+msgid "Show Featured Image"
+msgstr "Toon uitgelichte afbeelding"
+
+#: includes/widgets/widget-twitter-feeds.php:187
+msgid "Number of tweets"
+msgstr "Aantal tweets"
+
+#: includes/widgets/widget-posts-category-slider.php:250
+msgid "Open Posts in New Tab"
+msgstr "Open berichten in nieuw tabblad"
+
+#: includes/widgets/widget-featured-page.php:209
+#: includes/widgets/widget-icon-text.php:150
+#: includes/widgets/widget-image.php:132
+#: includes/widgets/widget-team-member.php:220
+msgid "Open in Same Tab"
+msgstr "Open in hetzelfde tabblad"
+
+#: includes/widgets/widget-advertisement.php:139
+#: includes/widgets/widget-author-bio.php:388
+#: includes/widgets/widget-client-logo.php:139
+#: includes/widgets/widget-cta.php:233
+#: includes/widgets/widget-image-text.php:150
+#: includes/widgets/widget-popular-post.php:276
+#: includes/widgets/widget-recent-post.php:185
+#: includes/widgets/widget-social-links.php:227
+msgid "Open in New Tab"
+msgstr "Openen in nieuw tabblad"
+
+#: admin/class-raratheme-companion-admin.php:237
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: includes/widgets/widget-featured-page.php:165
+msgid "Page:"
+msgstr "Pagina:"
+
+#: admin/class-raratheme-companion-admin.php:337
+msgid "Parent Categories"
+msgstr "Hoofd categorieën"
+
+#: admin/class-raratheme-companion-admin.php:338
+msgid "Parent Categories:"
+msgstr "Hoofd categorieën:"
+
+#: includes/widgets/widget-social-links.php:45
+msgid "A Social Links Widget"
+msgstr "Een widget voor Social Media links"
+
+#: includes/widgets/widget-team-member.php:26
+msgid "A Team Member Widget."
+msgstr "Een teamlid widget."
+
+#: includes/widgets/widget-testimonial.php:26
+msgid "A Testimonial Widget."
+msgstr "Een aanbevelingswidget."
+
+#: includes/widgets/widget-faqs.php:26
+msgid "A Widget for FAQs."
+msgstr "Een widget voor FAQs."
+
+#: includes/templates/portfolio.php:22
+msgid "All"
+msgstr "Alle"
+
+#: admin/class-raratheme-companion-admin.php:272
+msgid "All %s"
+msgstr "Alle %s"
+
+#: admin/class-raratheme-companion-admin.php:336
+msgid "All Categories"
+msgstr "Alle categorieën"
+
+#: includes/widgets/widget-icon-text.php:26
+msgid "An Icon Text Widget."
+msgstr "Een pictogram tekstwidget."
+
+#: admin/class-raratheme-companion-admin.php:221
+#: includes/widgets/widget-faqs.php:102 includes/widgets/widget-faqs.php:117
+msgid "Answer"
+msgstr "Antwoord"
+
+#: includes/widgets/widget-popular-post.php:222
+#: includes/widgets/widget-recent-post.php:157
+msgid "Number of Posts"
+msgstr "Aantal berichten"
+
+#: includes/widgets/widget-cta.php:26
+msgid "Rara: Call To Action"
+msgstr "Rara: Call To Action"
+
+#: includes/widgets/widget-client-logo.php:25
+msgid "Rara: Client Logo"
+msgstr "Rara: klant logo"
+
+#: includes/widgets/widget-twitter-feeds.php:39
+msgid "RARA: Latest Tweets"
+msgstr "RARA: nieuwste tweets"
+
+#: includes/widgets/widget-image.php:140
+msgid "Select image size"
+msgstr "Selecteer afbeeldingsgrootte"
+
+#: includes/widgets/widget-featured-page.php:183
+msgid "Show Page Title"
+msgstr "Toon paginatitel"
+
+#: includes/widgets/widget-popular-post.php:253
+#: includes/widgets/widget-recent-post.php:181
+msgid "Show Post Date"
+msgstr "Toon berichtdatum"
+
+#: includes/widgets/widget-image.php:26
+msgid "An Image Widget."
+msgstr "Een afbeelding widget."
+
+#: includes/widgets/widget-twitter-feeds.php:40
+msgid "A widget that shows latest tweets"
+msgstr "Een widget die de nieuwste tweets laat zien"
+
+#: includes/widgets/widget-team-member.php:148
+msgid "closepopup"
+msgstr "sluit pop-up"
+
+#: includes/widgets/widget-cta.php:200
+msgid "Number of Call-to-Action Buttons:"
+msgstr "Aantal Call To Action knoppen:"
+
+#: includes/widgets/widget-posts-category-slider.php:228
+msgid "Number of Slides:"
+msgstr "Aantal slides:"
+
+#: includes/widgets/widget-recent-post.php:25
+msgid "Rara: Recent Post"
+msgstr "Rara: recent bericht"
+
+#: includes/widgets/widget-team-member.php:25
+msgid "Rara: Team Member"
+msgstr "Rara: teamlid"
+
+#: includes/widgets/widget-testimonial.php:25
+msgid "Rara: Testimonial"
+msgstr "Rara: aanbeveling"
+
+#. Plugin Name of the plugin
+msgid "RaraTheme Companion"
+msgstr "RaraTheme Companion"
+
+#: includes/widgets/widget-social-links.php:44
+msgid "Rara: Social Media"
+msgstr "Rara: sociale media"
+
+#: includes/widgets/widget-stat-counter.php:25
+msgid "Rara: Stat Counter Widget"
+msgstr "Rara: stat teller widget"
+
+#: includes/widgets/widget-faqs.php:53
+msgid "Expand/Close"
+msgstr "Uitvouwen/Sluiten"
+
+#: includes/widgets/widget-team-member.php:247
+msgid "Dribbble Profile"
+msgstr "Dribble profiel"
+
+#: includes/widgets/widget-stat-counter.php:151
+msgid "Disable Comma(,) Separation"
+msgstr "Schakel komma(,) scheiding uit"
+
+#: includes/widgets/widget-author-bio.php:438
+#: includes/widgets/widget-contact.php:317
+#: includes/widgets/widget-social-links.php:279
+msgid "Click on the above button to add social media icons. You can also change the order of the social icons."
+msgstr "Klik op de bovenstaande knop om socialmedia-pictogrammen toe te voegen. Je kunt ook de volgorde van de sociale pictogrammen wijzigen."
+
+#: admin/class-raratheme-companion-admin.php:191
+msgid "Are you sure you want to delete this Social Media?"
+msgstr "Weet je zeker dat je deze sociale media wil verwijderen?"
+
+#: includes/widgets/widget-featured-page.php:203
+msgid "Show Read More"
+msgstr "Lees meer weergeven"
+
+#: includes/widgets/widget-client-logo.php:135
+msgid "Display logo in black and white"
+msgstr "Logo weergeven in zwart-wit"
+
+#: includes/widgets/widget-faqs.php:93
+msgid "Enable FAQs Toggle"
+msgstr "FAQ inschakelen toggle"
+
+#: includes/widgets/widget-posts-category-slider.php:235
+msgid "Show Slider Arrows"
+msgstr "Toon slider pijlen"
+
+#: includes/widgets/widget-posts-category-slider.php:240
+msgid "Show Slider Pagination"
+msgstr "Toon slider paginering"
+
+#: admin/class-raratheme-companion-admin.php:173
+msgid "Please upload a valid image file."
+msgstr "Upload een geldig afbeeldingsbestand."
+
+#: admin/class-raratheme-companion-admin.php:185
+#: includes/class-raratheme-companion-functions.php:624
+msgid "Please upload valid image file."
+msgstr "Upload geldig afbeeldingsbestand."
+
+#: includes/widgets/widget-posts-category-slider.php:18
+msgid "Rara: Posts Category Slider"
+msgstr "Rara: Berichten categorie slider"
+
+#: includes/widgets/widget-featured-page.php:190
+msgid "Show Page Full Content"
+msgstr "Toon pagina volledige inhoud"
+
+#: includes/widgets/widget-posts-category-slider.php:246
+msgid "Enabling this will change slider direction from 'right to left' to 'left to right'."
+msgstr "Als je dit inschakelt, verandert de richting van de slider van 'rechts naar links' naar 'links naar rechts'."
+
+#: includes/widgets/widget-featured.php:130
+#: includes/widgets/widget-popular-post.php:248
+#: includes/widgets/widget-recent-post.php:176
+msgid "Show Post Thumbnail"
+msgstr "Thumbnail bericht weergeven"
+
+#: includes/widgets/widget-posts-category-slider.php:21
+msgid "Simple posts slider from category."
+msgstr "Eenvoudige berichten slider van categorie."
+
+#. Description of the plugin
+msgid "23 extremely useful custom widgets to create an engaging website."
+msgstr "23 uiterst nuttige aangepaste widgets om een boeiende site te maken."
+
+#: includes/widgets/widget-image.php:137
+msgid "Image Size"
+msgstr "Afbeeldingsgrootte"

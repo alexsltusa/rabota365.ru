@@ -1,0 +1,63 @@
+# Translation of Plugins - FV Top Level Categories - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - FV Top Level Categories - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-16 16:22:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - FV Top Level Categories - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://foliovision.com/"
+msgstr "http://foliovision.com/"
+
+#. Author of the plugin/theme
+msgid "Foliovision"
+msgstr "Foliovision"
+
+#. Description of the plugin/theme
+msgid "Removes the prefix from the URL for a category. For instance, if your old category link was <code>/category/catname</code> it will now be <code>/catname</code>"
+msgstr "Удаляет префикс категории из URL-адреса. Например, если ваша старая ссылка на категорию выглядела как <code>/category/catname</code>, теперь она будет выглядеть так: <code>/catname</code>"
+
+#. Plugin URI of the plugin/theme
+msgid "http://foliovision.com/seo-tools/wordpress/plugins/fv-top-level-categories"
+msgstr "http://foliovision.com/seo-tools/wordpress/plugins/fv-top-level-categories"
+
+#: top-level-cats.php:428
+msgid "Settings"
+msgstr "Настройки"
+
+#: top-level-cats.php:412
+msgid "Since you are not using %category% in your post permalinks, there is nothing to adjust."
+msgstr "Поскольку вы не используете %category% в своих постоянных ссылках, вам нечего настраивать."
+
+#: top-level-cats.php:407
+msgid "Are you having any problems or questions? Use our <a target=\"_blank\" href=\"http://foliovision.com/support/fv-top-level-categories/\">support forums</a>."
+msgstr "У вас возникли проблемы или вопросы? Воспользуйтесь нашими <a target=\"_blank\" href=\"http://foliovision.com/support/fv-top-level-categories/\"> форумами поддержки </a>."
+
+#: top-level-cats.php:403
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: top-level-cats.php:396
+msgid "Only allow following categories in URLs:"
+msgstr "Разрешить в URL-адресах только следующие категории:"
+
+#: top-level-cats.php:388
+msgid "Only use top-level categories in URLs."
+msgstr "Используйте в URL-адресах только категории верхнего уровня."
+
+#: top-level-cats.php:380
+msgid "Adjust categories in your post URLs"
+msgstr "Корректировка категорий в URL-адресах записи"
+
+#. #-#-#-#-#  tmp-fv-top-level-cats.pot (FV Top Level Categories 1.8) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: top-level-cats.php:270 top-level-cats.php:368
+msgid "FV Top Level Categories"
+msgstr "FV Top Level Categories"

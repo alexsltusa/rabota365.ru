@@ -1,0 +1,100 @@
+# Translation of Plugins - Contact Form 7 Image Captcha - Development (trunk) in Polish
+# This file is distributed under the same license as the Plugins - Contact Form 7 Image Captcha - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-04 06:04:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - Contact Form 7 Image Captcha - Development (trunk)\n"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/ktc_88"
+msgstr "https://profiles.wordpress.org/ktc_88"
+
+#. Author of the plugin
+msgid "KC Computing"
+msgstr "KC Computing"
+
+#. Description of the plugin
+msgid "Add a simple image captcha and Honeypot to contact form 7"
+msgstr "Dodaj prosty obrazek captcha i Honeypot do Contact Form 7"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/contact-form-7-image-captcha/"
+msgstr "https://wordpress.org/plugins/contact-form-7-image-captcha/"
+
+#. Plugin Name of the plugin
+msgid "Contact Form 7 Image Captcha"
+msgstr "Contact Form 7 Obrazek Captcha"
+
+#: cf7-image-captcha.php:180
+msgid "Insert Tag"
+msgstr "Wstaw tag"
+
+#: cf7-image-captcha.php:166
+msgid "Image Captcha"
+msgstr "Obrazek Captcha"
+
+#: cf7-image-captcha.php:147
+msgid "Please select an icon."
+msgstr "Proszę wybrać ikonę."
+
+#: cf7-image-captcha.php:142
+msgid "Please select the correct icon."
+msgstr "Proszę zaznacz poprawną ikonę."
+
+#: cf7-image-captcha.php:108
+msgid "."
+msgstr "."
+
+#: cf7-image-captcha.php:106
+msgid "Please prove you are human by selecting the "
+msgstr "Proszę udowodnić, że jesteś człowiekiem, wybierając"
+
+#: cf7-image-captcha.php:83
+msgid "Plane"
+msgstr "Samolot"
+
+#: cf7-image-captcha.php:82
+msgid "Tree"
+msgstr "Choinka"
+
+#: cf7-image-captcha.php:81
+msgid "Truck"
+msgstr "Ciężarówka"
+
+#: cf7-image-captcha.php:80
+msgid "Key"
+msgstr "Klucz"
+
+#: cf7-image-captcha.php:79
+msgid "Flag"
+msgstr "Flaga"
+
+#: cf7-image-captcha.php:78
+msgid "Cup"
+msgstr "Filiżanka"
+
+#: cf7-image-captcha.php:77
+msgid "Car"
+msgstr "Samochód"
+
+#: cf7-image-captcha.php:76
+msgid "Star"
+msgstr "Gwiazdka"
+
+#: cf7-image-captcha.php:75
+msgid "House"
+msgstr "Dom"
+
+#: cf7-image-captcha.php:74
+msgid "Heart"
+msgstr "Serce"
+
+#: cf7-image-captcha.php:25
+msgid "Go Pro"
+msgstr "Przejdź na wersję pro"

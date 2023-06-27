@@ -1,0 +1,1073 @@
+# Translation of Plugins - RaraTheme Companion - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - RaraTheme Companion - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-16 17:43:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - RaraTheme Companion - Stable (latest release)\n"
+
+#: admin/class-raratheme-companion-admin.php:366
+#: admin/class-raratheme-companion-admin.php:395
+msgid "Image"
+msgstr "Resim"
+
+#: admin/class-raratheme-companion-admin.php:370
+#: admin/class-raratheme-companion-admin.php:406
+msgid "Add Image"
+msgstr "Resim ekle"
+
+#: includes/widgets/widget-advertisement.php:25
+msgid "Rara: Advertisement Widget"
+msgstr "Rara: Reklam Widget'ı"
+
+#: includes/widgets/widget-advertisement.php:26
+msgid "An Advertisement Widget."
+msgstr "Bir Reklam Widget'ı."
+
+#: includes/widgets/widget-advertisement.php:118
+msgid "Display Advertisement from:"
+msgstr "Reklamı Görüntüle:"
+
+#: includes/widgets/widget-advertisement.php:120
+#: includes/widgets/widget-advertisement.php:133
+msgid "Ad Code"
+msgstr "Reklam Kodu"
+
+#: includes/widgets/widget-advertisement.php:122
+#: includes/widgets/widget-author-bio.php:344
+#: includes/widgets/widget-author-bio.php:365
+msgid "Uploaded Photo"
+msgstr "Yüklenen Fotoğraf"
+
+#: includes/widgets/widget-author-bio.php:33
+msgid "Rara: Author Bio"
+msgstr "Rara: Yazar Biyografisi"
+
+#: includes/widgets/widget-author-bio.php:34
+msgid "An Author Bio Widget"
+msgstr "Bir Yazar Bio Widget'ı"
+
+#: includes/widgets/widget-author-bio.php:335
+msgid "Author Name"
+msgstr "Yazar Adı"
+
+#: includes/widgets/widget-author-bio.php:340
+msgid "Display photo from:"
+msgstr "Fotoğrafı görüntüle:"
+
+#: includes/widgets/widget-author-bio.php:342
+msgid "Gravatar"
+msgstr "Gravatar"
+
+#: includes/widgets/widget-author-bio.php:347
+msgid "Upload Author Image"
+msgstr "Yazar Resmini Yükle"
+
+#: includes/widgets/widget-author-bio.php:350
+msgid "Author Email"
+msgstr "Yazar E-postası"
+
+#: includes/widgets/widget-author-bio.php:353
+msgid "You can show your %1$s image instead of manually uploading your photo. Just add your gravatar registered email address here."
+msgstr "Fotoğrafınızı manuel olarak yüklemek yerine %1$s resminizi gösterebilirsiniz. Sadece gravatar kayıtlı e-posta adresinizi buraya ekleyin."
+
+#: includes/widgets/widget-author-bio.php:361
+msgid "Display Signature from:"
+msgstr "İmzayı Görüntüle:"
+
+#: includes/widgets/widget-author-bio.php:363
+msgid "Text"
+msgstr "Metin"
+
+#: includes/widgets/widget-author-bio.php:368
+msgid "Upload Signature Image"
+msgstr "İmza Resmi Yükle"
+
+#: includes/widgets/widget-author-bio.php:372
+msgid "Signature Text"
+msgstr "İmza Metni"
+
+#: includes/widgets/widget-author-bio.php:376
+msgid "Button Label"
+msgstr "Düğme Etiketi"
+
+#: includes/widgets/widget-author-bio.php:381
+msgid "Button Link"
+msgstr "Düğme Bağlantısı"
+
+#: includes/widgets/widget-author-bio.php:437
+msgid "Add Social Profile"
+msgstr "Sosyal Profil Ekle"
+
+#: includes/widgets/widget-custom-categories.php:16
+msgid "Rara: Custom Categories"
+msgstr "Rara: Özel Kategoriler"
+
+#: includes/widgets/widget-custom-categories.php:19
+msgid "Widget to display categories with Image and Posts Count"
+msgstr "Resim ve Gönderi Sayısı ile kategorileri görüntülemek için widget"
+
+#: includes/widgets/widget-custom-categories.php:65
+#: includes/widgets/widget-custom-categories.php:80
+msgid " Post(s)"
+msgstr " Gönderiler"
+
+#: includes/widgets/widget-custom-categories.php:121
+msgid "Open in new Tab"
+msgstr "Yeni sekmede aç"
+
+#: includes/widgets/widget-custom-categories.php:169
+msgid "To set thumbnail for categories, go to %1$sPosts > Categories%2$s and %3$sEdit%4$s the categories."
+msgstr "Kategoriler için küçük resim ayarlamak için %1$sGönderiler > Kategoriler%2$s ve kategorileri %3$sDüzenle%4$s seçeneğine gidin."
+
+#: includes/widgets/widget-facebook-page.php:25
+msgid "Rara: Facebook Page"
+msgstr "Rara: Facebook Sayfası"
+
+#: includes/widgets/widget-facebook-page.php:26
+msgid "A widget that shows Facebook Page Box"
+msgstr "Facebook Sayfa Kutusunu gösteren bir widget"
+
+#: includes/widgets/widget-facebook-page.php:112
+msgid "Facebook Page URL"
+msgstr "Facebook Sayfası URL'si"
+
+#: includes/widgets/widget-facebook-page.php:117
+msgid "Height"
+msgstr "Yükseklik"
+
+#: includes/widgets/widget-facebook-page.php:123
+msgid "Show Friend's Faces"
+msgstr "Arkadaşınızın Yüzünü Göster"
+
+#: includes/widgets/widget-facebook-page.php:128
+msgid "Use Small Header"
+msgstr "Küçük Başlık Kullan"
+
+#: includes/widgets/widget-facebook-page.php:133
+msgid "Hide Cover Photo"
+msgstr "Kapak Fotoğrafını Gizle"
+
+#: includes/widgets/widget-facebook-page.php:138
+msgid "Show Timeline Tab"
+msgstr "Zaman Çizelgesi Sekmesini Göster"
+
+#: includes/widgets/widget-facebook-page.php:143
+msgid "Show Event Tab"
+msgstr "Etkinlik Sekmesini Göster"
+
+#: includes/widgets/widget-facebook-page.php:148
+msgid "Show Message Tab"
+msgstr "Mesaj Sekmesini Göster"
+
+#: includes/widgets/widget-image-text.php:26
+msgid "Rara: Image Text"
+msgstr "Rara: Resim Metni"
+
+#: includes/widgets/widget-image-text.php:27
+msgid "An Image Text Widget."
+msgstr "Bir Resim Metni Widget'ı."
+
+#: includes/widgets/widget-image-text.php:40
+#: includes/widgets/widget-image-text.php:168
+msgid "Link Text"
+msgstr "Bağlantı metni"
+
+#: includes/widgets/widget-image-text.php:184
+msgid "Add Image Text"
+msgstr "Resim Metni Ekle"
+
+#: includes/widgets/widget-pinterest.php:15
+msgid "Add your latest pins form Pinterest."
+msgstr "Pinterest'ten en son pinlerinizi ekleyin."
+
+#: includes/widgets/widget-pinterest.php:16
+msgid "Rara: Pinterest"
+msgstr "Rara: Pinterest"
+
+#: includes/widgets/widget-pinterest.php:73
+msgid "Pinterest URL:"
+msgstr "Pinterest URL'si:"
+
+#: includes/widgets/widget-pinterest.php:77
+msgid "Height: (px)"
+msgstr "Yükseklik: (px)"
+
+#: includes/widgets/widget-popular-post.php:187
+#: includes/widgets/widget-recent-post.php:126
+msgid "Style One"
+msgstr "Stil Bir"
+
+#: includes/widgets/widget-popular-post.php:188
+#: includes/widgets/widget-recent-post.php:127
+msgid "Style Two"
+msgstr "Stil İki"
+
+#: includes/widgets/widget-popular-post.php:189
+#: includes/widgets/widget-recent-post.php:128
+msgid "Style Three"
+msgstr "Stil Üç"
+
+#: includes/widgets/widget-popular-post.php:235
+#: includes/widgets/widget-recent-post.php:162
+msgid "Layout:"
+msgstr "Düzen:"
+
+#: includes/widgets/widget-snapchat.php:29
+msgid "Display your Snapchat Snapcode."
+msgstr "Snapchat Snapcode'unuzu görüntüleyin."
+
+#: includes/widgets/widget-snapchat.php:57
+msgid "Please upload your Snapchat image."
+msgstr "Lütfen Snapchat resminizi yükleyin."
+
+#: includes/widgets/widget-snapchat.php:76
+msgid "Follow <b>%s</b> on Snapchat!"
+msgstr "Snapchat'te <b>%s</b>'i takip edin!"
+
+#: includes/widgets/widget-snapchat.php:110
+msgid "Step 1. Download your Snapcode PNG image from"
+msgstr "Adım 1. Snapcode PNG resminizi şuradan indirin:"
+
+#: includes/widgets/widget-snapchat.php:110
+msgid "this link"
+msgstr "bu bağlantı"
+
+#: includes/widgets/widget-snapchat.php:111
+msgid "Step 2. Upload your Snapcode PNG image using the button below."
+msgstr "Adım 2. Aşağıdaki düğmeyi kullanarak Snapcode PNG resminizi yükleyin."
+
+#: includes/widgets/widget-snapchat.php:123
+msgid "Upload Snapchat Image"
+msgstr "Snapchat Resmini Yükle"
+
+#: includes/widgets/widget-snapchat.php:129
+msgid "Snapchat Account Name:"
+msgstr "Snapchat Hesap Adı:"
+
+#: includes/widgets/widget-snapchat.php:130
+msgid "For example:"
+msgstr "Örneğin:"
+
+#: includes/widgets/widget-twitter-feeds.php:27
+msgid "Light"
+msgstr "Işık"
+
+#: includes/widgets/widget-twitter-feeds.php:28
+msgid "Dark"
+msgstr "Karanlık"
+
+#: admin/class-raratheme-companion-admin.php:171
+#: admin/class-raratheme-companion-admin.php:183
+#: includes/class-raratheme-companion-functions.php:605
+msgid "Upload"
+msgstr "Yükle"
+
+#: admin/class-raratheme-companion-admin.php:172
+#: admin/class-raratheme-companion-admin.php:184
+#: includes/class-raratheme-companion-functions.php:607
+msgid "Change"
+msgstr "Değiştir"
+
+#: admin/class-raratheme-companion-admin.php:173
+msgid "Please upload a valid image file."
+msgstr "Lütfen geçerli bir resim dosyası yükleyin."
+
+#: admin/class-raratheme-companion-admin.php:180
+msgid "Are you sure?"
+msgstr "Emin misin?"
+
+#: admin/class-raratheme-companion-admin.php:185
+#: includes/class-raratheme-companion-functions.php:624
+msgid "Please upload valid image file."
+msgstr "Lütfen geçerli bir resim dosyası yükleyin."
+
+#: admin/class-raratheme-companion-admin.php:191
+msgid "Are you sure you want to delete this Social Media?"
+msgstr "Bu Sosyal Medyayı silmek istediğinizden emin misiniz?"
+
+#: admin/class-raratheme-companion-admin.php:219
+#: includes/widgets/widget-faqs.php:100 includes/widgets/widget-faqs.php:115
+msgid "Question"
+msgstr "Soru"
+
+#: admin/class-raratheme-companion-admin.php:221
+#: includes/widgets/widget-faqs.php:102 includes/widgets/widget-faqs.php:117
+msgid "Answer"
+msgstr "Cevap"
+
+#: admin/class-raratheme-companion-admin.php:237
+msgid "Portfolio"
+msgstr "Portföy"
+
+#: admin/class-raratheme-companion-admin.php:238
+msgid "Portfolios"
+msgstr "Portföyler"
+
+#: admin/class-raratheme-companion-admin.php:269
+msgid "%s Archives"
+msgstr "%s Arşivler"
+
+#: admin/class-raratheme-companion-admin.php:270
+msgid "%s Attributes"
+msgstr "%s Öznitelikler"
+
+#: admin/class-raratheme-companion-admin.php:271
+msgid "%s Parent"
+msgstr "%s Üst Öğe"
+
+#: admin/class-raratheme-companion-admin.php:272
+msgid "All %s"
+msgstr "Tüm %s"
+
+#: admin/class-raratheme-companion-admin.php:273
+msgid "Add New %s"
+msgstr "Yeni %s Ekle"
+
+#: admin/class-raratheme-companion-admin.php:274
+msgid "Add New"
+msgstr "Yeni ekle"
+
+#: admin/class-raratheme-companion-admin.php:276
+msgid "Edit %s"
+msgstr "%s düzenle"
+
+#: admin/class-raratheme-companion-admin.php:277
+msgid "Update %s"
+msgstr "%s güncelle"
+
+#: admin/class-raratheme-companion-admin.php:280
+msgid "Search %s"
+msgstr "%s ara"
+
+#: admin/class-raratheme-companion-admin.php:281
+msgid "Not found"
+msgstr "Bulunamadı"
+
+#: admin/class-raratheme-companion-admin.php:282
+msgid "Not found in Trash"
+msgstr "Çöp Kutusu'nda bulunamadı"
+
+#: admin/class-raratheme-companion-admin.php:283
+msgid "Featured Image"
+msgstr "Öne Çıkan Resim"
+
+#: admin/class-raratheme-companion-admin.php:284
+msgid "Set featured image"
+msgstr "Öne çıkan görseli ayarla"
+
+#: admin/class-raratheme-companion-admin.php:285
+msgid "Remove featured image"
+msgstr "Öne çıkan resmi kaldır"
+
+#: admin/class-raratheme-companion-admin.php:286
+msgid "Use as featured image"
+msgstr "Öne çıkan resim olarak kullan"
+
+#: admin/class-raratheme-companion-admin.php:287
+msgid "Insert into %s"
+msgstr "%s içine ekle"
+
+#: admin/class-raratheme-companion-admin.php:288
+msgid "Uploaded to this %s"
+msgstr "Bu %s adresine yüklendi"
+
+#: admin/class-raratheme-companion-admin.php:289
+msgid "%s list"
+msgstr "%s liste"
+
+#: admin/class-raratheme-companion-admin.php:290
+msgid "%s list navigation"
+msgstr "%s liste gezintisi"
+
+#: admin/class-raratheme-companion-admin.php:291
+msgid "Filter %s list"
+msgstr "%s listesini filtrele"
+
+#: admin/class-raratheme-companion-admin.php:295
+msgid "%s Post Type"
+msgstr "%s Gönderi Türü"
+
+#: admin/class-raratheme-companion-admin.php:333
+#: admin/class-raratheme-companion-admin.php:334
+#: admin/class-raratheme-companion-admin.php:343
+msgid "%s Categories"
+msgstr "%s Kategoriler"
+
+#: admin/class-raratheme-companion-admin.php:335
+msgid "Search Categories"
+msgstr "Kategorileri Ara"
+
+#: admin/class-raratheme-companion-admin.php:336
+msgid "All Categories"
+msgstr "Tüm Kategoriler"
+
+#: admin/class-raratheme-companion-admin.php:337
+msgid "Parent Categories"
+msgstr "Üst Kategoriler"
+
+#: admin/class-raratheme-companion-admin.php:338
+msgid "Parent Categories:"
+msgstr "Ebeveyn Kategorileri:"
+
+#: admin/class-raratheme-companion-admin.php:339
+msgid "Edit Categories"
+msgstr "Kategorileri Düzenle"
+
+#: admin/class-raratheme-companion-admin.php:340
+msgid "Update Categories"
+msgstr "Kategorileri Güncelle"
+
+#: admin/class-raratheme-companion-admin.php:341
+msgid "Add New Categories"
+msgstr "Yeni Kategoriler ekleyin"
+
+#: admin/class-raratheme-companion-admin.php:342
+msgid "New Categories Name"
+msgstr "Yeni Kategoriler Adı"
+
+#: admin/class-raratheme-companion-admin.php:371
+#: admin/class-raratheme-companion-admin.php:407
+#: includes/class-raratheme-companion-functions.php:616
+msgid "Remove Image"
+msgstr "Resmi Kaldır"
+
+#: includes/class-raratheme-companion-functions.php:23
+msgid "Search Icon"
+msgstr "Arama Simgesi"
+
+#: includes/class-raratheme-companion-functions.php:602
+msgid "No file chosen"
+msgstr "Dosya seçili değil"
+
+#: includes/class-raratheme-companion-functions.php:610
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Tam medya desteği için WordPress sürümünüzü yükseltin."
+
+#: includes/class-raratheme-companion-templates.php:52
+msgid "Portfolio Template"
+msgstr "Portföy Şablonu"
+
+#: includes/templates/portfolio.php:22
+msgid "All"
+msgstr "Tüm"
+
+#: includes/templates/single-rara-portfolio.php:39
+msgid "Related Projects"
+msgstr "İlgili Projeler"
+
+#: includes/widgets/widget-advertisement.php:113
+#: includes/widgets/widget-author-bio.php:330
+#: includes/widgets/widget-client-logo.php:130
+#: includes/widgets/widget-contact.php:239 includes/widgets/widget-cta.php:190
+#: includes/widgets/widget-facebook-page.php:107
+#: includes/widgets/widget-icon-text.php:116
+#: includes/widgets/widget-image-text.php:145
+#: includes/widgets/widget-image.php:112
+#: includes/widgets/widget-popular-post.php:217
+#: includes/widgets/widget-recent-post.php:152
+#: includes/widgets/widget-social-links.php:223
+#: includes/widgets/widget-stat-counter.php:140
+#: includes/widgets/widget-twitter-feeds.php:149
+msgid "Title"
+msgstr "Başlık"
+
+#: includes/widgets/widget-advertisement.php:125
+#: includes/widgets/widget-client-logo.php:154
+#: includes/widgets/widget-cta.php:254
+#: includes/widgets/widget-icon-text.php:125
+#: includes/widgets/widget-image-text.php:37
+#: includes/widgets/widget-image-text.php:165
+#: includes/widgets/widget-image.php:149
+#: includes/widgets/widget-stat-counter.php:168
+#: includes/widgets/widget-testimonial.php:116
+msgid "Upload Image"
+msgstr "Fotoğraf yükleniyor"
+
+#: includes/widgets/widget-advertisement.php:128
+#: includes/widgets/widget-client-logo.php:155
+#: includes/widgets/widget-image-text.php:44
+#: includes/widgets/widget-image-text.php:172
+#: includes/widgets/widget-image.php:127
+msgid "Featured Link"
+msgstr "Öne Çıkan Bağlantı"
+
+#: includes/widgets/widget-advertisement.php:139
+#: includes/widgets/widget-author-bio.php:388
+#: includes/widgets/widget-client-logo.php:139
+#: includes/widgets/widget-cta.php:233
+#: includes/widgets/widget-image-text.php:150
+#: includes/widgets/widget-popular-post.php:276
+#: includes/widgets/widget-recent-post.php:185
+#: includes/widgets/widget-social-links.php:227
+msgid "Open in New Tab"
+msgstr "Yeni sekmede aç"
+
+#: includes/widgets/widget-author-bio.php:100
+#: includes/widgets/widget-author-bio.php:420
+#: includes/widgets/widget-contact.php:60
+#: includes/widgets/widget-contact.php:298
+#: includes/widgets/widget-social-links.php:60
+#: includes/widgets/widget-social-links.php:260
+msgid "Social Icon"
+msgstr "Sosyal Simge"
+
+#: includes/widgets/widget-author-bio.php:102
+#: includes/widgets/widget-contact.php:62
+#: includes/widgets/widget-social-links.php:62
+msgid "Search Social Icons"
+msgstr "Sosyal Simgeleri Ara"
+
+#: includes/widgets/widget-author-bio.php:103
+#: includes/widgets/widget-author-bio.php:423
+#: includes/widgets/widget-contact.php:63
+#: includes/widgets/widget-contact.php:301
+#: includes/widgets/widget-social-links.php:63
+#: includes/widgets/widget-social-links.php:263
+msgid "Link"
+msgstr "Bağlantı"
+
+#: includes/widgets/widget-author-bio.php:356
+#: includes/widgets/widget-contact.php:244 includes/widgets/widget-cta.php:195
+#: includes/widgets/widget-icon-text.php:121
+#: includes/widgets/widget-team-member.php:213
+msgid "Description"
+msgstr "Açıklama"
+
+#: includes/widgets/widget-author-bio.php:438
+#: includes/widgets/widget-contact.php:317
+#: includes/widgets/widget-social-links.php:279
+msgid "Click on the above button to add social media icons. You can also change the order of the social icons."
+msgstr "Sosyal medya simgeleri eklemek için yukarıdaki düğmeye tıklayın. Ayrıca sosyal simgelerin sırasını da değiştirebilirsiniz."
+
+#: includes/widgets/widget-client-logo.php:25
+msgid "Rara: Client Logo"
+msgstr "Rara: Müşteri Logosu"
+
+#: includes/widgets/widget-client-logo.php:26
+msgid "A Client Logo Widget."
+msgstr "Bir Müşteri Logosu Widget'ı."
+
+#: includes/widgets/widget-client-logo.php:135
+msgid "Display logo in black and white"
+msgstr "Logoyu siyah beyaz göster"
+
+#: includes/widgets/widget-client-logo.php:166
+msgid "Add Another Logo"
+msgstr "Başka Bir Logo Ekle"
+
+#: includes/widgets/widget-contact.php:44
+msgid "Rara: Contact Widget"
+msgstr "Rara: İletişim Widget'ı"
+
+#: includes/widgets/widget-contact.php:45
+msgid "A Contact Widget"
+msgstr "Bir Kişi Widget'ı"
+
+#: includes/widgets/widget-contact.php:103
+#: includes/widgets/widget-contact.php:249
+msgid "Phone"
+msgstr "Telefon"
+
+#: includes/widgets/widget-contact.php:104
+#: includes/widgets/widget-contact.php:254
+msgid "Email"
+msgstr "E-posta"
+
+#: includes/widgets/widget-contact.php:105
+#: includes/widgets/widget-contact.php:259
+msgid "Address"
+msgstr "Adres"
+
+#: includes/widgets/widget-contact.php:266
+msgid "Open Social Links in New Tab"
+msgstr "Sosyal Bağlantıları Yeni Sekmede Açın"
+
+#: includes/widgets/widget-contact.php:316
+#: includes/widgets/widget-social-links.php:278
+msgid "Add Social Icon"
+msgstr "Sosyal Simge Ekle"
+
+#: includes/widgets/widget-cta.php:26
+msgid "Rara: Call To Action"
+msgstr "Rara: Harekete Geçirici Mesaj"
+
+#: includes/widgets/widget-cta.php:27
+msgid "A Call To Action Widget."
+msgstr "Harekete Geçirici Mesaj Widget'ı"
+
+#: includes/widgets/widget-cta.php:200
+msgid "Number of Call-to-Action Buttons:"
+msgstr "Harekete Geçirici Mesaj Butonlarının Sayısı:"
+
+#: includes/widgets/widget-cta.php:212
+msgid "Button 1 Label"
+msgstr "Düğme 1 Etiket"
+
+#: includes/widgets/widget-cta.php:216
+msgid "Button 1 Link"
+msgstr "Düğme 1 Bağlantısı"
+
+#: includes/widgets/widget-cta.php:223
+msgid "Button 2 Label"
+msgstr "Düğme 2 Etiketi"
+
+#: includes/widgets/widget-cta.php:227
+msgid "Button 2 Link"
+msgstr "Düğme 2 Bağlantısı"
+
+#: includes/widgets/widget-cta.php:186
+msgid "Button Alignment:"
+msgstr "Düğme Hizalama:"
+
+#: includes/widgets/widget-cta.php:249
+msgid "Background Color"
+msgstr "Arka plan rengi"
+
+#: includes/widgets/widget-custom-categories.php:104
+#: includes/widgets/widget-posts-category-slider.php:179
+msgid "New title"
+msgstr "Yeni başlık"
+
+#: includes/widgets/widget-custom-categories.php:116
+#: includes/widgets/widget-featured-page.php:160
+#: includes/widgets/widget-pinterest.php:69
+#: includes/widgets/widget-posts-category-slider.php:214
+#: includes/widgets/widget-snapchat.php:106
+msgid "Title:"
+msgstr "Başlık:"
+
+#: includes/widgets/widget-faqs.php:25
+msgid "Rara: FAQs"
+msgstr "Rara: SSS"
+
+#: includes/widgets/widget-faqs.php:26
+msgid "A Widget for FAQs."
+msgstr "SSS için bir Widget."
+
+#: includes/widgets/widget-faqs.php:53
+msgid "Expand/Close"
+msgstr "Genişlet/Kapat"
+
+#: includes/widgets/widget-faqs.php:93
+msgid "Enable FAQs Toggle"
+msgstr "SSS'leri Etkinleştir"
+
+#: includes/widgets/widget-faqs.php:127
+msgid "Add FAQs"
+msgstr "SSS Ekle"
+
+#: includes/widgets/widget-featured-page.php:25
+msgid "Rara: A Featured Page Widget"
+msgstr "Rara: Öne Çıkan Bir Sayfa Widget'ı"
+
+#: includes/widgets/widget-featured-page.php:26
+msgid "A Featured Page Widget"
+msgstr "Öne Çıkan Sayfa Widget'ı"
+
+#: includes/widgets/widget-featured-page.php:33
+msgid "Right"
+msgstr "Sağ"
+
+#: includes/widgets/widget-featured-page.php:34
+msgid "Left"
+msgstr "Sol"
+
+#: includes/widgets/widget-featured-page.php:35
+msgid "Centered"
+msgstr "Merkez"
+
+#: includes/widgets/widget-featured-page.php:49
+#: includes/widgets/widget-featured-page.php:152
+#: includes/widgets/widget-featured-page.php:247
+msgid "Read More"
+msgstr "Devamını Oku"
+
+#: includes/widgets/widget-featured-page.php:138
+#: includes/widgets/widget-featured.php:96
+msgid "--Choose--"
+msgstr "--Seç--"
+
+#: includes/widgets/widget-featured-page.php:165
+msgid "Page:"
+msgstr "Sayfa:"
+
+#: includes/widgets/widget-featured-page.php:176
+msgid "Show Featured Image"
+msgstr "Öne Çıkan Resmi Göster"
+
+#: includes/widgets/widget-featured-page.php:183
+msgid "Show Page Title"
+msgstr "Sayfa Başlığını Göster"
+
+#: includes/widgets/widget-featured-page.php:190
+msgid "Show Page Full Content"
+msgstr "Sayfanın Tam İçeriğini Göster"
+
+#: includes/widgets/widget-featured-page.php:196
+#: includes/widgets/widget-featured.php:124
+msgid "Read More Text"
+msgstr "Read More Text"
+
+#: includes/widgets/widget-featured-page.php:203
+msgid "Show Read More"
+msgstr "Daha Fazlasını Göster"
+
+#: includes/widgets/widget-featured-page.php:209
+#: includes/widgets/widget-icon-text.php:150
+#: includes/widgets/widget-image.php:132
+#: includes/widgets/widget-team-member.php:220
+msgid "Open in Same Tab"
+msgstr "Aynı Sekmede Aç"
+
+#: includes/widgets/widget-featured.php:25
+msgid "Rara: Featured Widget"
+msgstr "Rara: Öne Çıkan Widget"
+
+#: includes/widgets/widget-featured.php:26
+msgid "A Featured Widget"
+msgstr "Öne Çıkan Bir Widget"
+
+#: includes/widgets/widget-featured.php:114
+msgid "Posts"
+msgstr "Gönderiler"
+
+#: includes/widgets/widget-featured.php:130
+#: includes/widgets/widget-popular-post.php:248
+#: includes/widgets/widget-recent-post.php:176
+msgid "Show Post Thumbnail"
+msgstr "Gönderinin Küçük Resmini Göster"
+
+#: includes/widgets/widget-icon-text.php:25
+msgid "Rara: Icon Text"
+msgstr "Rara: Simge Metni"
+
+#: includes/widgets/widget-icon-text.php:26
+msgid "An Icon Text Widget."
+msgstr "Bir Simge Metin Widget'ı."
+
+#: includes/widgets/widget-icon-text.php:127
+msgid "or"
+msgstr "veya"
+
+#: includes/widgets/widget-icon-text.php:130
+#: includes/widgets/widget-stat-counter.php:155
+msgid "Icons"
+msgstr "Simgeler"
+
+#: includes/widgets/widget-icon-text.php:145
+msgid "Read More Label"
+msgstr "Devamını Oku Etiketi"
+
+#: includes/widgets/widget-icon-text.php:155
+msgid "Read More Link"
+msgstr "Devamını Oku Bağlantısı"
+
+#: includes/widgets/widget-image.php:25
+msgid "Rara: Image Widget"
+msgstr "Rara: Resim Widget'ı"
+
+#: includes/widgets/widget-image.php:26
+msgid "An Image Widget."
+msgstr "Bir Görüntü Widget'ı."
+
+#: includes/widgets/widget-image.php:117
+msgid "Content"
+msgstr "İçerik"
+
+#: includes/widgets/widget-image.php:122
+msgid "Button label"
+msgstr "Düğme etiketi"
+
+#: includes/widgets/widget-image.php:137
+msgid "Image Size"
+msgstr "Görüntü boyutu"
+
+#: includes/widgets/widget-image.php:140
+msgid "Select image size"
+msgstr "Resim boyutunu seçin"
+
+#: includes/widgets/widget-popular-post.php:28
+msgid "Rara: Popular Post"
+msgstr "Rara: Popüler Gönderi"
+
+#: includes/widgets/widget-popular-post.php:29
+msgid "A Popular Post Widget"
+msgstr "Popüler Bir Gönderi Widget'ı"
+
+#: includes/widgets/widget-popular-post.php:66
+msgid "0 View"
+msgstr "0 Görünüm"
+
+#: includes/widgets/widget-popular-post.php:68
+msgid " View"
+msgstr "  View"
+
+#: includes/widgets/widget-popular-post.php:70
+msgid " Views"
+msgstr " Görüntülemeler"
+
+#: includes/widgets/widget-popular-post.php:84
+#: includes/widgets/widget-popular-post.php:204
+#: includes/widgets/widget-popular-post.php:312
+msgid "Popular Posts"
+msgstr "Popüler Gönderiler"
+
+#: includes/widgets/widget-popular-post.php:149
+#: includes/widgets/widget-posts-category-slider.php:97
+#: includes/widgets/widget-recent-post.php:97
+msgid "View all posts in %s"
+msgstr "%s içindeki tüm gönderileri görüntüle"
+
+#: includes/widgets/widget-popular-post.php:222
+#: includes/widgets/widget-recent-post.php:157
+msgid "Number of Posts"
+msgstr "Gönderi Sayısı"
+
+#: includes/widgets/widget-popular-post.php:227
+msgid "Popular based on:"
+msgstr "Şuna göre popüler:"
+
+#: includes/widgets/widget-popular-post.php:229
+msgid "Post Views"
+msgstr "Gönderi Görünümleri"
+
+#: includes/widgets/widget-popular-post.php:230
+msgid "Comment Count"
+msgstr "Yorum sayısı"
+
+#: includes/widgets/widget-popular-post.php:253
+#: includes/widgets/widget-recent-post.php:181
+msgid "Show Post Date"
+msgstr "Gönderi Tarihini Göster"
+
+#: includes/widgets/widget-popular-post.php:260
+msgid "Show number of comments"
+msgstr "Yorum sayısını göster"
+
+#: includes/widgets/widget-popular-post.php:269
+msgid "Show number of views"
+msgstr "Görüntüleme sayısını göster"
+
+#: includes/widgets/widget-posts-category-slider.php:18
+msgid "Rara: Posts Category Slider"
+msgstr "Rara: Gönderiler Kategori Kaydırıcısı"
+
+#: includes/widgets/widget-posts-category-slider.php:21
+msgid "Simple posts slider from category."
+msgstr "Kategoriden basit gönderiler kaydırıcısı."
+
+#: includes/widgets/widget-posts-category-slider.php:219
+msgid "Category:"
+msgstr "Kategori:"
+
+#: includes/widgets/widget-posts-category-slider.php:228
+msgid "Number of Slides:"
+msgstr "Slayt Sayısı:"
+
+#: includes/widgets/widget-posts-category-slider.php:230
+msgid "Total number of posts available in the selected category will be the maximum number of slides."
+msgstr "Seçilen kategoride mevcut olan toplam gönderi sayısı, maksimum slayt sayısı olacaktır."
+
+#: includes/widgets/widget-posts-category-slider.php:235
+msgid "Show Slider Arrows"
+msgstr "Kaydırıcı Oklarını Göster"
+
+#: includes/widgets/widget-posts-category-slider.php:240
+msgid "Show Slider Pagination"
+msgstr "Kaydırıcı Sayfalandırmasını Göster"
+
+#: includes/widgets/widget-posts-category-slider.php:245
+msgid "Change Direction"
+msgstr "Yönü değiştir"
+
+#: includes/widgets/widget-posts-category-slider.php:246
+msgid "Enabling this will change slider direction from 'right to left' to 'left to right'."
+msgstr "Bunu etkinleştirmek, kaydırıcı yönünü 'sağdan sola'dan 'soldan sağa' değiştirir."
+
+#: includes/widgets/widget-posts-category-slider.php:250
+msgid "Open Posts in New Tab"
+msgstr "Gönderileri Yeni Sekmede Aç"
+
+#: includes/widgets/widget-recent-post.php:25
+msgid "Rara: Recent Post"
+msgstr "Rara: Son Gönderi"
+
+#: includes/widgets/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr "Son Gönderi Widget'ı"
+
+#: includes/widgets/widget-recent-post.php:40
+#: includes/widgets/widget-recent-post.php:143
+#: includes/widgets/widget-recent-post.php:204
+msgid "Recent Posts"
+msgstr "Son Gönderiler"
+
+#: includes/widgets/widget-recent-post.php:105
+msgid "%1$s"
+msgstr "%1$s"
+
+#: includes/widgets/widget-social-links.php:44
+msgid "Rara: Social Media"
+msgstr "Rara: Sosyal Medya"
+
+#: includes/widgets/widget-social-links.php:45
+msgid "A Social Links Widget"
+msgstr "Sosyal Bağlantılar Widget'ı"
+
+#: includes/widgets/widget-social-links.php:206
+msgid "Subscribe and Follow"
+msgstr "Abone ol ve takip et"
+
+#: includes/widgets/widget-stat-counter.php:25
+msgid "Rara: Stat Counter Widget"
+msgstr "Rara: İstatistik Sayacı Widget'ı"
+
+#: includes/widgets/widget-stat-counter.php:26
+msgid "Widget for stat counter."
+msgstr "İstatistik sayacı için widget."
+
+#: includes/widgets/widget-stat-counter.php:145
+msgid "Counter"
+msgstr "Sayaç"
+
+#: includes/widgets/widget-stat-counter.php:151
+msgid "Disable Comma(,) Separation"
+msgstr "Virgül(,) Ayırmasını Devre Dışı Bırak"
+
+#: includes/widgets/widget-team-member.php:25
+msgid "Rara: Team Member"
+msgstr "Rara: Ekip Üyesi"
+
+#: includes/widgets/widget-team-member.php:26
+msgid "A Team Member Widget."
+msgstr "Bir Ekip Üyesi Widget'ı."
+
+#: includes/widgets/widget-team-member.php:148
+msgid "closepopup"
+msgstr "açılır pencereyi kapat"
+
+#: includes/widgets/widget-team-member.php:203
+#: includes/widgets/widget-testimonial.php:101
+msgid "Name"
+msgstr "İsim"
+
+#: includes/widgets/widget-team-member.php:208
+#: includes/widgets/widget-testimonial.php:106
+msgid "Designation"
+msgstr "Designation"
+
+#: includes/widgets/widget-team-member.php:217
+msgid "Upload Photo"
+msgstr "Fotoğraf yükle"
+
+#: includes/widgets/widget-team-member.php:225
+msgid "LinkedIn Profile"
+msgstr "LinkedIn Profili"
+
+#: includes/widgets/widget-team-member.php:231
+msgid "Twitter Profile"
+msgstr "Twitter Profili"
+
+#: includes/widgets/widget-team-member.php:235
+msgid "Facebook Profile"
+msgstr "Facebook kimliği"
+
+#: includes/widgets/widget-team-member.php:239
+msgid "Instagram Profile"
+msgstr "Instagram Profili"
+
+#: includes/widgets/widget-team-member.php:243
+msgid "YouTube Profile"
+msgstr "YouTube Profili"
+
+#: includes/widgets/widget-team-member.php:247
+msgid "Dribbble Profile"
+msgstr "Top Sürme Profili"
+
+#: includes/widgets/widget-team-member.php:251
+msgid "Behance Profile"
+msgstr "Behance Profili"
+
+#: includes/widgets/widget-testimonial.php:25
+msgid "Rara: Testimonial"
+msgstr "Rara: Referans"
+
+#: includes/widgets/widget-testimonial.php:26
+msgid "A Testimonial Widget."
+msgstr "Bir Referans Widget'ı."
+
+#: includes/widgets/widget-testimonial.php:111
+msgid "Testimonial"
+msgstr "Referans"
+
+#: includes/widgets/widget-twitter-feeds.php:39
+msgid "RARA: Latest Tweets"
+msgstr "RARA: Son Tweetler"
+
+#: includes/widgets/widget-twitter-feeds.php:40
+msgid "A widget that shows latest tweets"
+msgstr "En son tweetleri gösteren bir widget"
+
+#: includes/widgets/widget-twitter-feeds.php:153
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/widgets/widget-twitter-feeds.php:154
+#: includes/widgets/widget-twitter-feeds.php:155
+msgid "Choose a theme&hellip;"
+msgstr "Bir tema seç…"
+
+#: includes/widgets/widget-twitter-feeds.php:167
+msgid "Twitter Username"
+msgstr "Twitter kullanıcı adı"
+
+#: includes/widgets/widget-twitter-feeds.php:172
+msgid "Border Color"
+msgstr "Sınır rengi"
+
+#: includes/widgets/widget-twitter-feeds.php:177
+msgid "Link Color"
+msgstr "Bağlantı rengi"
+
+#: includes/widgets/widget-twitter-feeds.php:182
+msgid "Widget Width"
+msgstr "Widget Genişliği"
+
+#: includes/widgets/widget-twitter-feeds.php:187
+msgid "Number of tweets"
+msgstr "tweet sayısı"
+
+#. Plugin Name of the plugin
+msgid "RaraTheme Companion"
+msgstr "RaraTheme Companion"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/raratheme-companion"
+msgstr "https://wordpress.org/plugins/raratheme-companion"
+
+#. Description of the plugin
+msgid "23 extremely useful custom widgets to create an engaging website."
+msgstr "İlgi çekici bir web sitesi oluşturmak için son derece kullanışlı 23 özel widget."
+
+#. Author of the plugin
+msgid "Rara Theme"
+msgstr "Rara Teması"
+
+#. Author URI of the plugin
+msgid "https://raratheme.com/"
+msgstr "https://raratheme.com/"
+
+#: admin/class-raratheme-companion-admin.php:275
+msgid "New %s"
+msgstr "Yeni %s"
+
+#: admin/class-raratheme-companion-admin.php:278
+#: admin/class-raratheme-companion-admin.php:279
+msgid "View %s"
+msgstr "Görüntüle %s"

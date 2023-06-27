@@ -1,0 +1,100 @@
+# Translation of Plugins - Contact Form 7 Image Captcha - Development (trunk) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Contact Form 7 Image Captcha - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-25 02:35:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Contact Form 7 Image Captcha - Development (trunk)\n"
+
+#: cf7-image-captcha.php:180
+msgid "Insert Tag"
+msgstr "嵌入标签"
+
+#: cf7-image-captcha.php:166
+msgid "Image Captcha"
+msgstr "图片验证码"
+
+#: cf7-image-captcha.php:147
+msgid "Please select an icon."
+msgstr "请选择图标"
+
+#: cf7-image-captcha.php:142
+msgid "Please select the correct icon."
+msgstr "请选正确择图标"
+
+#: cf7-image-captcha.php:83
+msgid "Plane"
+msgstr "飞机"
+
+#: cf7-image-captcha.php:82
+msgid "Tree"
+msgstr "树"
+
+#: cf7-image-captcha.php:81
+msgid "Truck"
+msgstr "卡车"
+
+#: cf7-image-captcha.php:80
+msgid "Key"
+msgstr "钥匙"
+
+#: cf7-image-captcha.php:79
+msgid "Flag"
+msgstr "旗"
+
+#: cf7-image-captcha.php:78
+msgid "Cup"
+msgstr "杯"
+
+#: cf7-image-captcha.php:77
+msgid "Car"
+msgstr "车"
+
+#: cf7-image-captcha.php:76
+msgid "Star"
+msgstr "星星"
+
+#: cf7-image-captcha.php:75
+msgid "House"
+msgstr "屋子"
+
+#: cf7-image-captcha.php:74
+msgid "Heart"
+msgstr "心"
+
+#: cf7-image-captcha.php:25
+msgid "Go Pro"
+msgstr "升级至专业版"
+
+#: cf7-image-captcha.php:106
+msgid "Please prove you are human by selecting the "
+msgstr "请验证您是人类，选择"
+
+#. Plugin Name of the plugin
+msgid "Contact Form 7 Image Captcha"
+msgstr "Contact Form 7 Image Captcha"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/ktc_88"
+msgstr "https://profiles.wordpress.org/ktc_88"
+
+#. Author of the plugin
+msgid "KC Computing"
+msgstr "KC Computing"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/contact-form-7-image-captcha/"
+msgstr "https://cn.wordpress.org/plugins/contact-form-7-image-captcha/"
+
+#: cf7-image-captcha.php:108
+msgid "."
+msgstr "。"
+
+#. Description of the plugin
+msgid "Add a simple image captcha and Honeypot to contact form 7"
+msgstr "在Contact Form 7添加一个简单的图像验证码和蜜罐"

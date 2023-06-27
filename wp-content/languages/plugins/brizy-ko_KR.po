@@ -1,0 +1,1118 @@
+# Translation of Plugins - Brizy &#8211; Page Builder - Stable (latest release) in Korean
+# This file is distributed under the same license as the Plugins - Brizy &#8211; Page Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-23 06:22:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Plugins - Brizy &#8211; Page Builder - Stable (latest release)\n"
+
+#: public/editor-build/261-wp/texts.php:144
+msgid "An error happened while trying to display this element"
+msgstr "이 블록을 표시하는 중 에러 발생"
+
+#: public/editor-build/261-wp/texts.php:1430
+msgid "You can"
+msgstr "다음이 가능합니다"
+
+#: public/editor-build/261-wp/texts.php:1457
+msgid "open an issue"
+msgstr "문제 보고"
+
+#: public/editor-build/261-wp/texts.php:1458
+msgid "or"
+msgstr "또는"
+
+#: public/editor-build/261-wp/texts.php:446
+msgid "Error"
+msgstr "오류"
+
+#: public/editor-build/261-wp/texts.php:761
+msgid "Message sent"
+msgstr "메시지가 발송됐습니다"
+
+#: public/editor-build/261-wp/texts.php:500
+msgid "Filter By"
+msgstr "필터"
+
+#: public/editor-build/261-wp/texts.php:210
+msgid "Block"
+msgstr "블록"
+
+#: public/editor-build/261-wp/texts.php:727
+msgid "Make it Global"
+msgstr "글로벌로 만들기"
+
+#: public/editor-build/261-wp/texts.php:1065
+msgid "Save"
+msgstr "저장하기"
+
+#: public/editor-build/261-wp/texts.php:1068
+msgid "Saved"
+msgstr "저장함"
+
+#: import/main.php:53 public/editor-build/261-wp/texts.php:135
+msgid "All Categories"
+msgstr "모든 카테고리"
+
+#: public/editor-build/261-wp/texts.php:1059
+msgid "START BUILDING YOUR PAGE"
+msgstr "자신의 페이지를 만들기 시작하세요"
+
+#: public/editor-build/261-wp/texts.php:922
+msgid "Press the button above to add blocks"
+msgstr "위 버튼을 눌러 블록 추가하기"
+
+#: public/editor-build/261-wp/texts.php:1061
+msgid "SWITCH TO DESKTOP"
+msgstr "데스크탑으로 전환"
+
+#: public/editor-build/261-wp/texts.php:1234
+msgid "Switch to desktop to add blocks"
+msgstr "데스크탑으로 전환해 블록 추가하기"
+
+#: public/editor-build/261-wp/texts.php:112
+msgid "Add a new block"
+msgstr "새 블록 추가"
+
+#: public/editor-build/261-wp/texts.php:924
+msgid "Press the button to add blocks"
+msgstr "버튼을 눌러 블록 추가하기"
+
+#: public/editor-build/261-wp/texts.php:102
+msgid "Add Elements"
+msgstr "요소 추가"
+
+#: public/editor-build/261-wp/texts.php:1255
+msgid "Text"
+msgstr "텍스트"
+
+#: public/editor-build/261-wp/texts.php:241
+msgid "Button"
+msgstr "버튼"
+
+#: public/editor-build/261-wp/texts.php:608
+msgid "Icon"
+msgstr "아이콘"
+
+#: public/editor-build/261-wp/texts.php:622
+msgid "Image"
+msgstr "이미지"
+
+#: public/editor-build/261-wp/texts.php:1391
+msgid "Video"
+msgstr "비디오"
+
+#: public/editor-build/261-wp/texts.php:1185
+msgid "Spacer"
+msgstr "여백 설정"
+
+#: public/editor-build/261-wp/texts.php:701
+msgid "Line"
+msgstr "선"
+
+#: public/editor-build/261-wp/texts.php:732
+msgid "Map"
+msgstr "지도"
+
+#: public/editor-build/261-wp/texts.php:430
+msgid "Embed"
+msgstr "임베드"
+
+#: public/editor-build/261-wp/texts.php:527
+msgid "Form"
+msgstr "폼"
+
+#: public/editor-build/261-wp/texts.php:609
+msgid "Icon Box"
+msgstr "아이콘 박스"
+
+#: public/editor-build/261-wp/texts.php:343
+msgid "Counter"
+msgstr "카운터"
+
+#: public/editor-build/261-wp/texts.php:342
+msgid "Countdown"
+msgstr "카운트다운"
+
+#: public/editor-build/261-wp/texts.php:1244
+msgid "Tabs"
+msgstr "탭"
+
+#: public/editor-build/261-wp/texts.php:960
+msgid "Progress"
+msgstr "프로그레스"
+
+#: public/editor-build/261-wp/texts.php:91
+msgid "Accordion"
+msgstr "어코디언"
+
+#: public/editor-build/261-wp/texts.php:1048
+msgid "Row"
+msgstr "행"
+
+#: public/editor-build/261-wp/texts.php:306
+msgid "Column"
+msgstr "열"
+
+#: public/editor-build/261-wp/texts.php:119
+msgid "Add to cart"
+msgstr "장바구니"
+
+#: public/editor-build/261-wp/texts.php:273
+msgid "Categories"
+msgstr "카테고리"
+
+#: public/editor-build/261-wp/texts.php:867
+msgid "Pages"
+msgstr "페이지"
+
+#: admin/templates.php:125 public/editor-build/261-wp/texts.php:933
+msgid "Product"
+msgstr "상품"
+
+#: public/editor-build/261-wp/texts.php:956
+msgid "Products"
+msgstr "상품"
+
+#: public/editor-build/261-wp/texts.php:1119
+msgid "Shortcode"
+msgstr "숏코드"
+
+#: public/editor-build/261-wp/texts.php:755
+msgid "Menu"
+msgstr "메뉴"
+
+#: public/editor-build/261-wp/texts.php:915
+msgid "Posts"
+msgstr "글"
+
+#: public/editor-build/261-wp/texts.php:1147
+msgid "Sidebar"
+msgstr "사이드바"
+
+#: public/editor-build/261-wp/texts.php:1001
+msgid "Reorder Blocks"
+msgstr "블록 재정렬"
+
+#: public/editor-build/261-wp/texts.php:410
+msgid "Drag to reorder"
+msgstr "재정렬하려면 드래그하세요"
+
+#: public/editor-build/261-wp/texts.php:1216
+msgid "Styling"
+msgstr "스타일링"
+
+#: public/editor-build/261-wp/texts.php:116
+msgid "Add new option"
+msgstr "새 옵션 추가"
+
+#: admin/form-entries.php:336 admin/popups/main.php:106 admin/templates.php:204
+#: public/editor-build/261-wp/texts.php:105
+msgid "Add New"
+msgstr "새로추가"
+
+#: public/editor-build/261-wp/texts.php:804
+msgid "New Style #%s"
+msgstr "새 스타일 #%s"
+
+#: public/editor-build/261-wp/texts.php:781
+msgid "Mobile view"
+msgstr "모바일 보기"
+
+#: public/editor-build/261-wp/texts.php:381
+msgid "Desktop"
+msgstr "데스크탑"
+
+#: public/editor-build/261-wp/texts.php:779
+msgid "Mobile"
+msgstr "모바일"
+
+#: public/editor-build/261-wp/texts.php:784
+msgid "More"
+msgstr "더보기"
+
+#: public/editor-build/261-wp/texts.php:1352
+msgid "Update"
+msgstr "업데이트"
+
+#: public/editor-build/261-wp/texts.php:963
+msgid "Publish"
+msgstr "공개"
+
+#: public/editor-build/261-wp/texts.php:785
+msgid "More Settings"
+msgstr "더 많은 설정"
+
+#: public/editor-build/261-wp/texts.php:126
+msgid "Advanced"
+msgstr "고급 설정"
+
+#: public/editor-build/261-wp/texts.php:1142
+msgid "Show on Desktop"
+msgstr "데스크탑에서 보이기"
+
+#: public/editor-build/261-wp/texts.php:388
+msgid "Disable on Mobile"
+msgstr "모바일에서 비활성화"
+
+#: public/editor-build/261-wp/texts.php:436
+msgid "Enable on Mobile"
+msgstr "모바일에서 활성화"
+
+#: public/editor-build/261-wp/texts.php:1444
+msgid "Z-index"
+msgstr "Z-index"
+
+#: public/editor-build/261-wp/texts.php:258
+msgid "CSS Class"
+msgstr "CSS 클래스"
+
+#: public/editor-build/261-wp/texts.php:1163
+msgid "Slider"
+msgstr "슬라이더"
+
+#: public/editor-build/261-wp/texts.php:730
+msgid "Make it a Slider"
+msgstr "슬라이더로 만들기"
+
+#: public/editor-build/261-wp/texts.php:1195
+msgid "Speed"
+msgstr "속도"
+
+#: public/editor-build/261-wp/texts.php:802
+msgid "Navigation"
+msgstr "내비게이션"
+
+#: public/editor-build/261-wp/texts.php:402
+msgid "Dots"
+msgstr "점"
+
+#: public/editor-build/261-wp/texts.php:813
+msgid "None"
+msgstr "아니오"
+
+#: public/editor-build/261-wp/texts.php:289
+msgid "Circle"
+msgstr "원형"
+
+#: public/editor-build/261-wp/texts.php:384
+msgid "Diamond"
+msgstr "Diamond"
+
+#: public/editor-build/261-wp/texts.php:1197
+msgid "Square"
+msgstr "정사각형"
+
+#: public/editor-build/261-wp/texts.php:158
+msgid "Arrows"
+msgstr "화살표"
+
+#: public/editor-build/261-wp/texts.php:1268
+msgid "Thin"
+msgstr "가장 얆게"
+
+#: public/editor-build/261-wp/texts.php:583
+msgid "Heavy"
+msgstr "무거움"
+
+#: public/editor-build/261-wp/texts.php:1247
+msgid "Tail"
+msgstr "꼬리"
+
+#: public/editor-build/261-wp/texts.php:1047
+msgid "Round"
+msgstr "둥글게"
+
+#: public/editor-build/261-wp/texts.php:854
+msgid "Outline"
+msgstr "아웃라인"
+
+#: public/editor-build/261-wp/texts.php:537
+msgid "Full Height"
+msgstr "전체 높이"
+
+#: public/editor-build/261-wp/texts.php:1414
+msgid "Width"
+msgstr "넓이"
+
+#: public/editor-build/261-wp/texts.php:584
+msgid "Height"
+msgstr "높이"
+
+#: public/editor-build/261-wp/texts.php:228
+msgid "Boxed"
+msgstr "박스형"
+
+#: public/editor-build/261-wp/texts.php:172
+msgid "Auto"
+msgstr "자동"
+
+#: admin/views/settings/maintenance.php:27
+#: public/editor-build/261-wp/texts.php:355
+msgid "Custom"
+msgstr "사용자 정의"
+
+#: public/editor-build/261-wp/texts.php:536
+msgid "Full"
+msgstr "전체 크기"
+
+#: public/editor-build/261-wp/texts.php:776
+msgid "Missing Element"
+msgstr "요소가 없음"
+
+#: public/editor-build/261-wp/texts.php:337
+msgid "Could not find"
+msgstr "찾을 수 없습니다"
+
+#: public/editor-build/261-wp/texts.php:1446
+msgid "component"
+msgstr "구성 요소"
+
+#: public/editor-build/261-wp/texts.php:107
+msgid "Add New Column"
+msgstr "새 열 추가하기"
+
+#: public/editor-build/261-wp/texts.php:185
+msgid "Background"
+msgstr "배경"
+
+#: public/editor-build/261-wp/texts.php:204
+msgid "Bg Size"
+msgstr "큰 사이즈"
+
+#: public/editor-build/261-wp/texts.php:870
+msgid "Parallax"
+msgstr "패럴랙스"
+
+#: public/editor-build/261-wp/texts.php:511
+msgid "Fixed"
+msgstr "고정"
+
+#: public/editor-build/261-wp/texts.php:145
+msgid "Animated"
+msgstr "애니메이션"
+
+#: public/editor-build/261-wp/texts.php:1328
+msgid "URL"
+msgstr "URL"
+
+#: public/editor-build/261-wp/texts.php:1440
+msgid "YouTube or Vimeo"
+msgstr "유튜브나 비미오"
+
+#: public/editor-build/261-wp/texts.php:719
+msgid "Loop"
+msgstr "연속재생"
+
+#: public/editor-build/261-wp/texts.php:124
+msgid "Address"
+msgstr "주소"
+
+#: public/editor-build/261-wp/texts.php:442
+msgid "Enter address"
+msgstr "주소 입력"
+
+#: public/editor-build/261-wp/texts.php:1445
+msgid "Zoom"
+msgstr "줌"
+
+#: public/editor-build/261-wp/texts.php:305
+msgid "Colors"
+msgstr "색상"
+
+#: public/editor-build/261-wp/texts.php:857
+msgid "Overlay"
+msgstr "오버레이"
+
+#: public/editor-build/261-wp/texts.php:220
+msgid "Border"
+msgstr "테두리"
+
+#: public/editor-build/261-wp/texts.php:412
+msgid "Duplicate"
+msgstr "복제"
+
+#: public/editor-build/261-wp/texts.php:377
+msgid "Delete"
+msgstr "제거하기"
+
+#: public/editor-build/261-wp/texts.php:414
+msgid "Duration"
+msgstr "기간"
+
+#: public/editor-build/261-wp/texts.php:376
+msgid "Delay"
+msgstr "지연"
+
+#: public/editor-build/261-wp/texts.php:225
+msgid "Bounce"
+msgstr "Bounce"
+
+#: public/editor-build/261-wp/texts.php:514
+msgid "Flash"
+msgstr "Flash"
+
+#: public/editor-build/261-wp/texts.php:965
+msgid "Pulse"
+msgstr "펄스"
+
+#: public/editor-build/261-wp/texts.php:1050
+msgid "Rubber Band"
+msgstr "고무 밴드"
+
+#: public/editor-build/261-wp/texts.php:1109
+msgid "Shake"
+msgstr "뱀"
+
+#: public/editor-build/261-wp/texts.php:1232
+msgid "Swing"
+msgstr "스윙"
+
+#: public/editor-build/261-wp/texts.php:1245
+msgid "Tada"
+msgstr "Tada"
+
+#: public/editor-build/261-wp/texts.php:1420
+msgid "Wobble"
+msgstr "Wobble"
+
+#: public/editor-build/261-wp/texts.php:674
+msgid "Jello"
+msgstr "Jello"
+
+#: public/editor-build/261-wp/texts.php:515
+msgid "Flip"
+msgstr "플립"
+
+#: public/editor-build/261-wp/texts.php:673
+msgid "JackInTheBox"
+msgstr "JackInTheBox"
+
+#: public/editor-build/261-wp/texts.php:317
+msgid "Content"
+msgstr "콘텐츠"
+
+#: public/editor-build/261-wp/texts.php:130
+msgid "Align"
+msgstr "정렬"
+
+#: public/editor-build/261-wp/texts.php:904
+msgid "Position"
+msgstr "위치"
+
+#: public/editor-build/261-wp/texts.php:1325
+msgid "Typography"
+msgstr "글자"
+
+#: public/editor-build/261-wp/texts.php:518
+msgid "Font Family"
+msgstr "글꼴 패밀리"
+
+#: public/editor-build/261-wp/texts.php:1150
+msgid "Size"
+msgstr "사이즈"
+
+#: public/editor-build/261-wp/texts.php:702
+msgid "Line Hgt."
+msgstr "줄 간격"
+
+#: public/editor-build/261-wp/texts.php:693
+msgid "Letter Sp."
+msgstr "글자 스페이싱"
+
+#: public/editor-build/261-wp/texts.php:709
+msgid "List"
+msgstr "목록"
+
+#: public/editor-build/261-wp/texts.php:219
+msgid "Bold"
+msgstr "굵게"
+
+#: public/editor-build/261-wp/texts.php:670
+msgid "Italic"
+msgstr "기울임"
+
+#: public/editor-build/261-wp/texts.php:546
+msgid "Gap Above"
+msgstr "상단 갭"
+
+#: public/editor-build/261-wp/texts.php:547
+msgid "Gap Below"
+msgstr "하단 갭"
+
+#: public/editor-build/261-wp/texts.php:574
+msgid "HTML Tag"
+msgstr "HTML 태그"
+
+#: public/editor-build/261-wp/texts.php:859
+msgid "P"
+msgstr "P"
+
+#: public/editor-build/261-wp/texts.php:568
+msgid "H1"
+msgstr "H1"
+
+#: public/editor-build/261-wp/texts.php:569
+msgid "H2"
+msgstr "H2"
+
+#: public/editor-build/261-wp/texts.php:570
+msgid "H3"
+msgstr "H3"
+
+#: public/editor-build/261-wp/texts.php:571
+msgid "H4"
+msgstr "H4"
+
+#: public/editor-build/261-wp/texts.php:572
+msgid "H5"
+msgstr "H5"
+
+#: public/editor-build/261-wp/texts.php:573
+msgid "H6"
+msgstr "H6"
+
+#: public/editor-build/261-wp/texts.php:419
+msgid "Editable Text"
+msgstr "편집가능 텍스트"
+
+#: public/editor-build/261-wp/texts.php:704
+msgid "Link"
+msgstr "링크"
+
+#: public/editor-build/261-wp/texts.php:707
+msgid "Link to"
+msgstr "링크"
+
+#: public/editor-build/261-wp/texts.php:841
+msgid "Open In New Tab"
+msgstr "새 탭에서 열기"
+
+#: public/editor-build/261-wp/texts.php:861
+msgid "Padding"
+msgstr "패딩"
+
+#: public/editor-build/261-wp/texts.php:733
+msgid "Margin"
+msgstr "마진"
+
+#: public/editor-build/261-wp/texts.php:328
+msgid "Corner"
+msgstr "모서리"
+
+#: public/editor-build/261-wp/texts.php:497
+msgid "Fill"
+msgstr "채우기"
+
+#: public/editor-build/261-wp/texts.php:1186
+msgid "Spacing"
+msgstr "스페이싱"
+
+#: public/editor-build/261-wp/texts.php:814
+msgid "Normal"
+msgstr "기본"
+
+#: public/editor-build/261-wp/texts.php:601
+msgid "Hover"
+msgstr "마우스 오버"
+
+#: admin/form-entries.php:62 public/editor-build/261-wp/texts.php:368
+msgid "Date"
+msgstr "날짜"
+
+#: public/editor-build/261-wp/texts.php:599
+msgid "Hour"
+msgstr "시"
+
+#: public/editor-build/261-wp/texts.php:774
+msgid "Minutes"
+msgstr "분"
+
+#: public/editor-build/261-wp/texts.php:1285
+msgid "Time Zone"
+msgstr "시간대"
+
+#: public/editor-build/261-wp/texts.php:38
+msgid "- 11:00 (Niue)"
+msgstr "- 11:00 (Niue)"
+
+#: public/editor-build/261-wp/texts.php:36
+msgid "- 10:00 (Honolulu, Papeete)"
+msgstr "- 10:00 (Honolulu, Papeete)"
+
+#: public/editor-build/261-wp/texts.php:53
+msgid "- 9:00 (Anchorage)"
+msgstr "- 9:00 (Anchorage)"
+
+#: public/editor-build/261-wp/texts.php:52
+msgid "- 8:00 (Los Angeles)"
+msgstr "- 8:00 (Los Angeles)"
+
+#: public/editor-build/261-wp/texts.php:51
+msgid "- 7:00 (Denver, Phoenix)"
+msgstr "- 7:00 (Denver, Phoenix)"
+
+#: public/editor-build/261-wp/texts.php:50
+msgid "- 6:00 (Chicago, Dallas)"
+msgstr "- 6:00 (Chicago, Dallas)"
+
+#: public/editor-build/261-wp/texts.php:49
+msgid "- 5:00 (New York, Miami)"
+msgstr "- 5:00 (New York, Miami)"
+
+#: public/editor-build/261-wp/texts.php:46
+msgid "- 4:00 (Halifax, Manaus)"
+msgstr "- 4:00 (Halifax, Manaus)"
+
+#: public/editor-build/261-wp/texts.php:43
+msgid "- 3:00 (Brasilia, Santiago)"
+msgstr "- 3:00 (Brasilia, Santiago)"
+
+#: public/editor-build/261-wp/texts.php:41
+msgid "- 2:00 (Noronha)"
+msgstr "- 2:00 (Noronha)"
+
+#: public/editor-build/261-wp/texts.php:40
+msgid "- 1:00 (Cape Verde)"
+msgstr "- 1:00 (Cape Verde)"
+
+#: public/editor-build/261-wp/texts.php:59
+msgid "00:00 (London, Dublin)"
+msgstr "00:00 (London, Dublin)"
+
+#: public/editor-build/261-wp/texts.php:14
+msgid "+ 1:00 (Berlin, Paris)"
+msgstr "+ 1:00 (Berlin, Paris)"
+
+#: public/editor-build/261-wp/texts.php:16
+msgid "+ 2:00 (Athens, Istanbul)"
+msgstr "+ 2:00 (Athens, Istanbul)"
+
+#: public/editor-build/261-wp/texts.php:18
+msgid "+ 3:00 (Moscow, Baghdad)"
+msgstr "+ 3:00 (Moscow, Baghdad)"
+
+#: public/editor-build/261-wp/texts.php:20
+msgid "+ 4:00 (Dubai, Baku)"
+msgstr "+ 4:00 (Dubai, Baku)"
+
+#: public/editor-build/261-wp/texts.php:22
+msgid "+ 5:00 (Yekaterinburg)"
+msgstr "+ 5:00 (Yekaterinburg)"
+
+#: public/editor-build/261-wp/texts.php:29
+msgid "+ 7:00 (Bangkok, Jakarta)"
+msgstr "+ 7:00 (Bangkok, Jakarta)"
+
+#: public/editor-build/261-wp/texts.php:31
+msgid "+ 8:00 (Singapore, Beijing)"
+msgstr "+ 8:00 (Singapore, Beijing)"
+
+#: public/editor-build/261-wp/texts.php:34
+msgid "+ 9:00 (Tokyo, Seoul)"
+msgstr "+ 9:00 (Tokyo, Seoul)"
+
+#: public/editor-build/261-wp/texts.php:10
+msgid "+ 11:00 (Ponape)"
+msgstr "+ 11:00 (Ponape)"
+
+#: public/editor-build/261-wp/texts.php:11
+msgid "+ 12:00 (Auckland)"
+msgstr "+ 12:00 (Auckland)"
+
+#: public/editor-build/261-wp/texts.php:683
+msgid "Language"
+msgstr "언어"
+
+#: public/editor-build/261-wp/texts.php:549
+msgid "German"
+msgstr "German"
+
+#: public/editor-build/261-wp/texts.php:441
+msgid "English"
+msgstr "English"
+
+#: public/editor-build/261-wp/texts.php:1187
+msgid "Spanish"
+msgstr "Spanish"
+
+#: public/editor-build/261-wp/texts.php:532
+msgid "French"
+msgstr "French"
+
+#: public/editor-build/261-wp/texts.php:669
+msgid "Italian"
+msgstr "Italian"
+
+#: public/editor-build/261-wp/texts.php:415
+msgid "Dutch"
+msgstr "Dutch"
+
+#: public/editor-build/261-wp/texts.php:1051
+msgid "Russian"
+msgstr "Russian"
+
+#: public/editor-build/261-wp/texts.php:1203
+msgid "Start"
+msgstr "시작"
+
+#: public/editor-build/261-wp/texts.php:440
+msgid "End"
+msgstr "끝"
+
+#: public/editor-build/261-wp/texts.php:491
+msgid "Field"
+msgstr "필드"
+
+#: public/editor-build/261-wp/texts.php:492
+msgid "Field Type"
+msgstr "필드 타입"
+
+#: public/editor-build/261-wp/texts.php:679
+msgid "Label"
+msgstr "레이블"
+
+#: public/editor-build/261-wp/texts.php:759
+msgid "Message"
+msgstr "메시지"
+
+#: public/editor-build/261-wp/texts.php:1228
+msgid "Success"
+msgstr "성공"
+
+#: public/editor-build/261-wp/texts.php:760
+msgid "Message not sent"
+msgstr "메시지가 발송되지 않았습니다"
+
+#: public/editor-build/261-wp/texts.php:985
+msgid "Redirect"
+msgstr "리디렉트"
+
+#: public/editor-build/261-wp/texts.php:556
+msgid "Go to"
+msgstr "가기"
+
+#: public/editor-build/261-wp/texts.php:1010
+msgid "Required"
+msgstr "필수 항목"
+
+#: public/editor-build/261-wp/texts.php:423
+msgid "Email"
+msgstr "이메일"
+
+#: public/editor-build/261-wp/texts.php:830
+msgid "Number"
+msgstr "수"
+
+#: public/editor-build/261-wp/texts.php:869
+msgid "Paragraph"
+msgstr "단락"
+
+#: public/editor-build/261-wp/texts.php:1083
+msgid "Select"
+msgstr "선택"
+
+#: public/editor-build/261-wp/texts.php:1214
+msgid "Style"
+msgstr "스타일"
+
+#: public/editor-build/261-wp/texts.php:605
+msgid "Hue"
+msgstr "Hue"
+
+#: public/editor-build/261-wp/texts.php:884
+msgid "Percentage"
+msgstr "퍼센티지"
+
+#: public/editor-build/261-wp/texts.php:198
+msgid "Bar"
+msgstr "바"
+
+#: public/editor-build/261-wp/texts.php:1180
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: public/editor-build/261-wp/texts.php:1181
+msgid "SoundCloud Link"
+msgstr "SoundCloud 링크"
+
+#: public/editor-build/261-wp/texts.php:978
+msgid "Ratio"
+msgstr "비율"
+
+#: public/editor-build/261-wp/texts.php:323
+msgid "Controls"
+msgstr "제어"
+
+#: public/editor-build/261-wp/texts.php:345
+msgid "Cover"
+msgstr "커버"
+
+#: public/editor-build/261-wp/texts.php:890
+msgid "Play"
+msgstr "실행"
+
+#: public/editor-build/261-wp/texts.php:525
+msgid "Footer"
+msgstr "푸터"
+
+#: public/editor-build/261-wp/texts.php:970
+msgid "Query"
+msgstr "쿼리"
+
+#: public/editor-build/261-wp/texts.php:939
+msgid "Product ID"
+msgstr "상품 ID"
+
+#: public/editor-build/261-wp/texts.php:940
+msgid "Product ID or SKU"
+msgstr "상품 ID 또는 SKU"
+
+#: public/editor-build/261-wp/texts.php:957
+msgid "Products Count"
+msgstr "상품 수"
+
+#: public/editor-build/261-wp/texts.php:689
+msgid "Layout"
+msgstr "레이아웃"
+
+#: public/editor-build/261-wp/texts.php:307
+msgid "Columns"
+msgstr "열"
+
+#: public/editor-build/261-wp/texts.php:274
+msgid "Categories Count"
+msgstr "카테고리 개수"
+
+#: public/editor-build/261-wp/texts.php:846
+msgid "Order"
+msgstr "순서"
+
+#: public/editor-build/261-wp/texts.php:163
+msgid "Asc"
+msgstr "오름차순"
+
+#: public/editor-build/261-wp/texts.php:378
+msgid "Desc"
+msgstr "내림차순"
+
+#: public/editor-build/261-wp/texts.php:847
+msgid "Order By"
+msgstr "﻿정렬 기준"
+
+#: public/editor-build/261-wp/texts.php:798
+msgid "Name"
+msgstr "이름"
+
+#: public/editor-build/261-wp/texts.php:1165
+msgid "Slug"
+msgstr "슬러그"
+
+#: public/editor-build/261-wp/texts.php:379
+msgid "Description"
+msgstr "상세정보"
+
+#: public/editor-build/261-wp/texts.php:341
+msgid "Count"
+msgstr "개수"
+
+#: public/editor-build/261-wp/texts.php:862
+msgid "Page"
+msgstr "페이지"
+
+#: public/editor-build/261-wp/texts.php:268
+msgid "Cart"
+msgstr "장바구니"
+
+#: public/editor-build/261-wp/texts.php:286
+msgid "Checkout"
+msgstr "결제"
+
+#: public/editor-build/261-wp/texts.php:796
+msgid "My Account"
+msgstr "마이 페이지"
+
+#: public/editor-build/261-wp/texts.php:848
+msgid "Order Tracking"
+msgstr "주문 추적"
+
+#: public/editor-build/261-wp/texts.php:499
+msgid "Filter"
+msgstr "필터"
+
+#: public/editor-build/261-wp/texts.php:1293
+msgid "Title"
+msgstr "타이틀"
+
+#: public/editor-build/261-wp/texts.php:976
+msgid "Rating"
+msgstr "평가"
+
+#: public/editor-build/261-wp/texts.php:898
+msgid "Popularity"
+msgstr "인기순"
+
+#: public/editor-build/261-wp/texts.php:757
+msgid "Menu Order"
+msgstr "메뉴 순서"
+
+#: public/editor-build/261-wp/texts.php:974
+msgid "Random"
+msgstr "무작위"
+
+#: public/editor-build/261-wp/texts.php:607
+msgid "ID"
+msgstr "ID"
+
+#: public/editor-build/261-wp/texts.php:912
+msgid "Post Type"
+msgstr "글 타입"
+
+#: public/editor-build/261-wp/texts.php:905
+msgid "Post"
+msgstr "글"
+
+#: public/editor-build/261-wp/texts.php:277
+msgid "Category"
+msgstr "카테고리"
+
+#: public/editor-build/261-wp/texts.php:171
+msgid "Author"
+msgstr "글쓴이"
+
+#: public/editor-build/261-wp/texts.php:635
+msgid "Include"
+msgstr "포함하기"
+
+#: public/editor-build/261-wp/texts.php:457
+msgid "Exclude"
+msgstr "제외하기"
+
+#: public/editor-build/261-wp/texts.php:1205
+msgid "Status"
+msgstr "상태"
+
+#: public/editor-build/261-wp/texts.php:541
+msgid "Future"
+msgstr "향후"
+
+#: public/editor-build/261-wp/texts.php:409
+msgid "Draft"
+msgstr "임시글"
+
+#: public/editor-build/261-wp/texts.php:882
+msgid "Pending"
+msgstr "대기중"
+
+#: public/editor-build/261-wp/texts.php:932
+msgid "Private"
+msgstr "비공개"
+
+#: public/editor-build/261-wp/texts.php:1307
+msgid "Trash"
+msgstr "휴지통"
+
+#: public/editor-build/261-wp/texts.php:174
+msgid "Auto-Draft"
+msgstr "자동 임시글"
+
+#: public/editor-build/261-wp/texts.php:649
+msgid "Inherit"
+msgstr "상속"
+
+#: public/editor-build/261-wp/texts.php:766
+msgid "Meta Key"
+msgstr "메타 키"
+
+#: public/editor-build/261-wp/texts.php:767
+msgid "Meta Value"
+msgstr "메타 값"
+
+#: public/editor-build/261-wp/texts.php:782
+msgid "Modified"
+msgstr "수정됨"
+
+#: public/editor-build/261-wp/texts.php:872
+msgid "Parent"
+msgstr "상위"
+
+#: public/editor-build/261-wp/texts.php:309
+msgid "Comment Count"
+msgstr "댓글 수"
+
+#: public/editor-build/261-wp/texts.php:1403
+msgid "Weight"
+msgstr "font-weight"
+
+#: public/editor-build/261-wp/texts.php:1043
+msgid "Roll In"
+msgstr "롤인"
+
+#: public/editor-build/261-wp/texts.php:7
+msgid "+ 10:00 (Sydney, Melbourne)"
+msgstr "+ 10:00 (시드니, 멜버른)"
+
+#: public/editor-build/261-wp/texts.php:881
+msgid "Paste your HTML code here..."
+msgstr "여기에 HTML 코드 붙여넣기..."
+
+#: public/editor-build/261-wp/texts.php:226
+msgid "Bounce In"
+msgstr "바운스 인"
+
+#: public/editor-build/261-wp/texts.php:227
+msgid "Bounce Out"
+msgstr "바운스 아웃"
+
+#: public/editor-build/261-wp/texts.php:696
+msgid "Light Speed In"
+msgstr "Light Speed In"
+
+#: admin/main.php:244 admin/settings.php:109 admin/settings.php:110
+#: public/editor-build/261-wp/texts.php:1107
+msgid "Settings"
+msgstr "설정"
+
+#: admin/main.php:479
+msgid "Auto Draft"
+msgstr "자동 임시글"
+
+#: admin/views/settings/general.php:62 admin/views/settings/maintenance.php:76
+#: admin/views/settings/roles.php:26
+msgid "Save Changes"
+msgstr "변경 사항 저장"
+
+#: admin/membership/membership.php:64 editor/post.php:619
+#: public/editor-build/261-wp/texts.php:371
+msgid "Default"
+msgstr "기본"
+
+#: public/editor-build/261-wp/texts.php:925
+msgid "Preview"
+msgstr "미리보기"
+
+#. Author of the plugin
+msgid "Brizy.io"
+msgstr "Brizy.io"
+
+#. Description of the plugin
+msgid "A free drag & drop front-end page builder to help you create WordPress pages lightning fast. It's easy with Brizy."
+msgstr "무료 드래그 앤 드롭 전면 페이지 빌더는 워드프레스 페이지 생성을 빛의 속도로 빠르게 해줍니다. 브리지라면 쉽습니다."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://brizy.io/"
+msgstr "https://brizy.io/"
+
+#: public/editor-build/261-wp/texts.php:555
+msgid "Go Back"
+msgstr "돌아가기"
+
+#. Plugin Name of the plugin
+msgid "Brizy"
+msgstr "Brizy"

@@ -1,0 +1,2255 @@
+# Translation of Plugins - WP Job Manager - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - WP Job Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-09-06 10:34:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - WP Job Manager - Stable (latest release)\n"
+
+#: wp-job-manager-functions.php:1689
+msgid "Month"
+msgstr "Місяць"
+
+#: wp-job-manager-functions.php:1691
+msgid "Day"
+msgstr "День"
+
+#: wp-job-manager-functions.php:1688
+msgid "Year"
+msgstr "Рік"
+
+#: wp-job-manager-functions.php:1692
+msgid "Hour"
+msgstr "Година"
+
+#: includes/admin/class-wp-job-manager-settings.php:247
+#: includes/class-wp-job-manager-post-types.php:1610
+#: includes/forms/class-wp-job-manager-form-submit-job.php:276
+msgid "Salary Currency"
+msgstr "Валюта зарплати"
+
+#: includes/admin/class-wp-job-manager-settings.php:238
+#: includes/class-wp-job-manager-post-types.php:1600
+#: includes/forms/class-wp-job-manager-form-submit-job.php:269
+msgid "Salary"
+msgstr "Оклад"
+
+#: includes/class-wp-job-manager-post-types.php:1488
+#: includes/forms/class-wp-job-manager-form-submit-job.php:195
+msgid "https://"
+msgstr "https://"
+
+#: templates/job-filters.php:75
+msgid "Search Jobs"
+msgstr "Пошук роботи"
+
+#. translators: placeholder is the URL to the job dashboard page.
+#: includes/forms/class-wp-job-manager-form-submit-job.php:809
+msgid "Draft was saved. Job listing drafts can be resumed from the <a href=\"%s\">job dashboard</a>."
+msgstr "Чернетку збережено. Чернетки робочих списків можна відновити з <a href=\"%s\"> панелі інструментів </a>."
+
+#: includes/class-wp-job-manager-dependency-checker.php:136
+#: includes/class-wp-job-manager-dependency-checker.php:138
+msgid "WordPress Update Required"
+msgstr "Потрібно оновити WordPress"
+
+#: includes/class-wp-job-manager-dependency-checker.php:122
+msgid "<strong>WP Job Manager</strong> requires a more recent version of WordPress."
+msgstr "<strong> Керування роботою WP </strong> вимагає більш нової версії WordPress."
+
+#: includes/class-wp-job-manager-dependency-checker.php:77
+msgid "Learn more about updating PHP"
+msgstr "Докладніше про оновлення PHP"
+
+#: includes/class-wp-job-manager-post-types.php:1485
+#: includes/forms/class-wp-job-manager-form-submit-job.php:190
+msgid "you@example.com"
+msgstr "you@example.com"
+
+#. translators: Placeholder %d is the number of files to that users are limited
+#. to.
+#: includes/class-wp-job-manager.php:524
+#: includes/forms/class-wp-job-manager-form-submit-job.php:504
+msgid "You are only allowed to upload a maximum of %d files."
+msgstr "Дозволено завантажувати лише %d файлів."
+
+#. translators: accessibility text
+#: includes/class-wp-job-manager-dependency-checker.php:79
+msgid "(opens in a new tab)"
+msgstr "(відкривається у новій вкладці)"
+
+#: templates/job-submit.php:79
+msgid "Save Draft"
+msgstr "Зберегти"
+
+#: includes/class-wp-job-manager.php:540
+msgid "This field is required."
+msgstr "Це поле обов’язкове для заповнення."
+
+#. translators: Used in user select. %1$s is the user's display name; #%2$s is
+#. the user ID; %3$s is the user email.
+#: includes/admin/class-wp-job-manager-writepanels.php:532
+#: includes/class-wp-job-manager-ajax.php:424
+msgid "%1$s (#%2$s – %3$s)"
+msgstr "%1$s (#%2$s – %3$s)"
+
+#: includes/admin/views/html-admin-notice-core-setup.php:20
+msgid "Skip Setup"
+msgstr "Пропустити налаштування"
+
+#: includes/admin/views/html-admin-notice-core-setup.php:15
+msgid "You are nearly ready to start listing jobs with <strong>WP Job Manager</strong>."
+msgstr "Ви майже готові почати роботу з <strong>WP Job Manager</strong>."
+
+#: includes/admin/views/html-admin-notice-core-setup.php:19
+msgid "Run Setup Wizard"
+msgstr "Запустити помічник встановлення"
+
+#: includes/admin/class-wp-job-manager-admin.php:119
+msgctxt "user selection"
+msgid "Searching&hellip;"
+msgstr "Пошук&hellip;"
+
+#: includes/admin/class-wp-job-manager-admin.php:118
+msgctxt "user selection"
+msgid "Loading more results&hellip;"
+msgstr "Завантаження додаткових результатів&hellip;"
+
+#: includes/admin/class-wp-job-manager-admin.php:116
+msgctxt "user selection"
+msgid "Please enter 1 or more characters"
+msgstr "Будь ласка, введіть 1 чи більше символів"
+
+#: includes/admin/class-wp-job-manager-admin.php:117
+msgctxt "user selection"
+msgid "Please enter %qty% or more characters"
+msgstr "Будь ласка, введіть %qty% чи більше символів"
+
+#: includes/admin/class-wp-job-manager-admin.php:115
+msgctxt "user selection"
+msgid "Loading failed"
+msgstr "Завантаження не вдалось"
+
+#: includes/admin/class-wp-job-manager-admin.php:114
+msgctxt "user selection"
+msgid "No matches found"
+msgstr "Співпадінь не знайдено"
+
+#: includes/admin/class-wp-job-manager-admin-notices.php:160
+msgid "You don&#8217;t have permission to do this."
+msgstr "У вас немає прав на це."
+
+#: includes/admin/class-wp-job-manager-admin-notices.php:156
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Дія не вдалась. Будь ласка, оновіть сторінку та спробуйте ще раз."
+
+#: includes/admin/class-wp-job-manager-writepanels.php:546
+msgid "Guest"
+msgstr "Гість"
+
+#: includes/class-wp-job-manager-shortcodes.php:484
+msgid "Continue Submission"
+msgstr "Продовжити представлення"
+
+#: includes/admin/class-wp-job-manager-permalink-settings.php:86
+msgid "Job listing archive page"
+msgstr "Сторінка архіву списку вакансій"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:487
+msgid "Invalid attachment provided."
+msgstr "Невірний додаток."
+
+#. translators: Placeholders %1$s and %2$s are the names of the two cookies
+#. used in WP Job Manager.
+#: includes/class-wp-job-manager.php:141
+msgid ""
+"This site adds the following cookies to help users resume job submissions that they\n"
+"\t\t\t\thave started but have not completed: %1$s and %2$s"
+msgstr "Цей сайт додає наступні файли cookie, щоб допомогти користувачам відновити подачу заявок, котрі вони почали, але ще не закінчили: %1$s та %2$s"
+
+#: includes/widgets/class-wp-job-manager-widget-featured-jobs.php:69
+#: includes/widgets/class-wp-job-manager-widget-recent-jobs.php:69
+msgid "Show Company Logo"
+msgstr "Показати логотип компанії"
+
+#: includes/class-wp-job-manager-data-exporter.php:81
+msgid "WP Job Manager User Data"
+msgstr "Користувацькі данні WP Job Manager"
+
+#. translators: %1$s is the URL to WPJM support documentation; %2$s is the URL
+#. to WPJM support forums.
+#: includes/admin/views/html-admin-setup-step-3.php:52
+msgid ""
+"If you need help, you can find more detail in our\n"
+"\t\t\t\t\t\t\t<a href=\"%1$s\">support documentation</a> or post your question on the\n"
+"\t\t\t\t\t\t\t<a href=\"%2$s\">WP Job Manager support forums</a>. Happy hiring!"
+msgstr "Якщо вам потрібна допомога, ви можете знайти більш детальну інформацію в нашій <a href=\"%1$s\">документації підтримкм</a> або опублікуйте своє запитання на <a href=\"%2$s\">форумі підтримкм WP Job Manager</a>. Удачного найма!"
+
+#. translators: %1$s is URL to WordPress core shortcode documentation. %2$s is
+#. URL to WPJM specific shortcode reference.
+#: includes/admin/views/html-admin-setup-step-2.php:20
+msgid ""
+"(These pages are created using <a href=\"%1$s\" title=\"What is a shortcode?\" class=\"help-page-link\">shortcodes</a>,\n"
+"\t\t\t\t\t\t\t\twhich we take care of in this step. If you'd like to build these pages yourself or want to add one of these options to an existing\n"
+"\t\t\t\t\t\t\t\tpage on your site, you can skip this step and take a look at <a href=\"%2$s\" class=\"help-page-link\">shortcode documentation</a> for detailed instructions.)"
+msgstr "(Ці сторінки створюються з використанням <a href=\"%1$s\" title=\"Що таке шорткод?\" class=\"help-page-link\">шорткодів</a>, про які ми подбаємо на цьому кроці. Якщо ви хочете створити ці сторінки самостійно або додати один із цих варіантів на існуючу сторінку на своєму сайті, ви можете пропустити цей крок і поглянути на <a href=\"%2$s\" class=\"help-page-link\">документацію по шорткоду</a> для отримання детальних інструкцій.)"
+
+#: templates/job-application-url.php:18
+msgid "To apply for this job please visit"
+msgstr "Щоб відгукнутися на цю роботу, будь ласка, відвідайте"
+
+#. translators: Placeholder %s is the job listing dashboard URL.
+#: templates/emails/plain/employer-expiring-job.php:36
+msgid "Visit the job listing dashboard (%s) to manage the listing."
+msgstr "Відвідайте панель керування вакансіями (%s), щоб керувати вакансією."
+
+#. translators: Placeholder %s is the admin job listings URL.
+#: templates/emails/plain/admin-updated-job.php:31
+msgid "The job listing is not publicly available until the changes are approved by an administrator in the site's WordPress admin (%s)."
+msgstr "Вакансія не є загальнодоступною до тих пір, поки зміни не будуть схвалені адміністратором в адмінці WordPress (%s)."
+
+#. translators: Placeholder %s is the admin job listings URL.
+#: templates/emails/plain/admin-new-job.php:31
+msgid "It is awaiting approval by an administrator in WordPress admin (%s)."
+msgstr "Очікує схвалення адміністратора в адмінці WordPress (%s)."
+
+#. translators: Placeholder %s is the edit job URL.
+#: templates/emails/plain/admin-expiring-job.php:46
+msgid "Visit WordPress admin (%s) to manage the listing."
+msgstr "Відвідайте адмінку WordPress (%s), щоб управляти вакансією."
+
+#. translators: Placeholder %s is the job listing dashboard URL.
+#: templates/emails/employer-expiring-job.php:51
+msgid "Visit the <a href=\"%s\">job listing dashboard</a> to manage the listing."
+msgstr "Відвідайте <a href=\"%s\">панель керування вакансіями</a>, щоб керувати вакансією."
+
+#. translators: Placeholder %s is the admin job listings URL.
+#: templates/emails/admin-updated-job.php:34
+msgid "The job listing is not publicly available until the changes are approved by an administrator in the site's <a href=\"%s\">WordPress admin</a>."
+msgstr "Вакансію не є загальнодоступною до тих пір, поки зміни не будуть схвалені адміністратором в <a href=\"%s\">адмінці WordPress</a>."
+
+#: templates/emails/admin-updated-job.php:29
+#: templates/emails/plain/admin-updated-job.php:27
+msgid "The changes have been published and are now available to the public."
+msgstr "Зміни були опубліковані і тепер доступні публічно."
+
+#. translators: %1$s placeholder is URL to the blog. %2$s placeholder is the
+#. name of the site.
+#: templates/emails/admin-updated-job.php:26
+msgid "A job listing has been updated on <a href=\"%s\">%s</a>."
+msgstr "Вакансія була оновлена <a href=\"%s\">%s</a>."
+
+#. translators: Placeholder %s is the admin job listings URL.
+#: templates/emails/admin-new-job.php:40
+msgid "It is awaiting approval by an administrator in <a href=\"%s\">WordPress admin</a>."
+msgstr "Очікує схвалення адміністратора в <a href=\"%s\">адмінці WordPress</a>."
+
+#: templates/emails/admin-new-job.php:34
+#: templates/emails/plain/admin-new-job.php:27
+msgid "It has been published and is now available to the public."
+msgstr "Була опублікована і тепер доступна публічно."
+
+#. translators: %1$s placeholder is URL to the blog. %2$s placeholder is the
+#. name of the site.
+#: templates/emails/admin-new-job.php:27
+msgid "A new job listing has been submitted to <a href=\"%s\">%s</a>."
+msgstr "Була запропонована нова вакансія <a href=\"%s\">%s</a>."
+
+#. translators: Placeholder is URL to site's WP admin.
+#: templates/emails/admin-expiring-job.php:41
+msgid "Visit <a href=\"%s\">WordPress admin</a> to manage the listing."
+msgstr "Відвідайте <a href=\"%s\">адмінку WordPress</a>, щоб управляти вакансією."
+
+#. translators: %1$s placeholder is URL to the blog. %2$s placeholder is the
+#. name of the site.
+#: templates/emails/employer-expiring-job.php:42
+msgid "The following job listing is expiring soon from <a href=\"%s\">%s</a>."
+msgstr "Наступна вакансія скоро збігає: <a href=\"%s\">%s</a>."
+
+#. translators: %1$s placeholder is URL to the blog. %2$s placeholder is the
+#. name of the site.
+#: templates/emails/employer-expiring-job.php:33
+msgid "The following job listing is expiring today from <a href=\"%s\">%s</a>."
+msgstr "Наступна вакансія збігає сьогодні: <a href=\"%s\">%s</a>."
+
+#: includes/emails/class-wp-job-manager-email-employer-expiring-job.php:132
+msgid "Notice Period"
+msgstr "Період сповіщення"
+
+#. translators: Placeholder %s is the job listing post title.
+#: includes/emails/class-wp-job-manager-email-employer-expiring-job.php:79
+msgid "Job Listing Expiring: %s"
+msgstr "Термін закінчення вакансії: %s"
+
+#: includes/emails/class-wp-job-manager-email-employer-expiring-job.php:47
+msgid "Send notices to employers before a job listing expires."
+msgstr "Відправляти сповіщення роботодавцям до закінчення терміну дії вакансій."
+
+#: includes/emails/class-wp-job-manager-email-employer-expiring-job.php:37
+msgid "Employer Notice of Expiring Job Listings"
+msgstr "Сповіщення роботодавця про закінчення терміну дії вакансій"
+
+#. translators: Placeholder %s is the job listing post title.
+#: includes/emails/class-wp-job-manager-email-admin-updated-job.php:63
+msgid "Job Listing Updated: %s"
+msgstr "Вакансія оновлена: %s"
+
+#: includes/emails/class-wp-job-manager-email-admin-updated-job.php:44
+msgid "Send a notice to the site administrator when a job is updated on the frontend."
+msgstr "Відправляти сповіщення адміністратору сайту, коли вакансія оновлена через фронтенд."
+
+#: includes/emails/class-wp-job-manager-email-admin-updated-job.php:34
+msgid "Admin Notice of Updated Listing"
+msgstr "Сповіщення адміністратора про оновлену вакансію"
+
+#. translators: Placeholder %s is the job listing post title.
+#: includes/emails/class-wp-job-manager-email-admin-new-job.php:63
+msgid "New Job Listing Submitted: %s"
+msgstr "Запропонована нова вакансія: %s"
+
+#: includes/emails/class-wp-job-manager-email-admin-new-job.php:44
+msgid "Send a notice to the site administrator when a new job is submitted on the frontend."
+msgstr "Відправляти сповіщення адміністратору сайту, коли запропонована нова вакансія через фронтенд."
+
+#: includes/emails/class-wp-job-manager-email-admin-new-job.php:34
+msgid "Admin Notice of New Listing"
+msgstr "Сповіщення адміністратора про нову вакансію"
+
+#: includes/emails/class-wp-job-manager-email-admin-expiring-job.php:44
+msgid "Send notices to the site administrator before a job listing expires."
+msgstr "Відправляти сповіщення адміністратору сайту до закінчення терміну дії вакансії."
+
+#: includes/emails/class-wp-job-manager-email-admin-expiring-job.php:34
+msgid "Admin Notice of Expiring Job Listings"
+msgstr "Сповіщення адміністратора про закінчення терміну дії вакансій"
+
+#: includes/class-wp-job-manager-email-notifications.php:635
+msgid "Send rich text email"
+msgstr "Відправляти email з розширеним текстом"
+
+#: includes/class-wp-job-manager-email-notifications.php:634
+msgid "Send plain text email"
+msgstr "Відправляти email з простим текстом"
+
+#: includes/class-wp-job-manager-email-notifications.php:631
+msgid "Format"
+msgstr "Формат"
+
+#: includes/class-wp-job-manager-email-notifications.php:477
+msgid "Select the email notifications to enable."
+msgstr "Виберіть email сповіщення для включення."
+
+#: includes/class-wp-job-manager-email-notifications.php:474
+msgid "Email Notifications"
+msgstr "Email сповіщення"
+
+#: includes/class-wp-job-manager-email-notifications.php:315
+msgid "Listing expires"
+msgstr "Вакансія збігає"
+
+#: includes/class-wp-job-manager-email-notifications.php:306
+msgid "Company website"
+msgstr "Сайт компанії"
+
+#: includes/class-wp-job-manager-email-notifications.php:259
+msgid "Job title"
+msgstr "Назва посади"
+
+#: includes/admin/class-wp-job-manager-cpt.php:393
+msgid "Not Featured"
+msgstr "Не виділена"
+
+#: includes/admin/class-wp-job-manager-cpt.php:374
+msgid "Not Filled"
+msgstr "Не зайнята"
+
+#: includes/admin/class-wp-job-manager-cpt.php:370
+msgid "Filled"
+msgstr "Зайнята"
+
+#: includes/3rd-party/wpml.php:94
+msgid "Page Not Set"
+msgstr "Сторінку не задано"
+
+#. translators: Placeholder (%s) is the URL to edit the primary language in
+#. WPML.
+#: includes/3rd-party/wpml.php:108
+msgid "<a href=\"%s\">Switch to primary language</a> to edit this setting."
+msgstr "<a href=\"%s\">Перейдіть на основну мову</a>, щоб відредагувати цей параметр."
+
+#: includes/admin/class-wp-job-manager-cpt.php:366
+msgid "Select Filled"
+msgstr "Доступність"
+
+#: includes/admin/class-wp-job-manager-cpt.php:385
+msgid "Select Featured"
+msgstr "Виділеність"
+
+#: includes/admin/class-wp-job-manager-settings.php:113
+msgid "Delete Data On Uninstall"
+msgstr "Стерти дані при видаленні плагіну"
+
+#: includes/admin/class-wp-job-manager-cpt.php:389
+msgid "Featured"
+msgstr "Вибрані"
+
+#: includes/emails/class-wp-job-manager-email-employer-expiring-job.php:134
+msgid "days"
+msgstr "дні"
+
+#. translators: %1$s placeholder is the name of the site, %2$s placeholder is
+#. URL to the blog.
+#: templates/emails/plain/admin-updated-job.php:24
+msgid "A job listing has been updated on %1$s (%2$s)."
+msgstr "Вакансія була оновлена %1$s (%2$s)."
+
+#. translators: %1$s placeholder is the name of the site, %2$s placeholder is
+#. URL to the blog.
+#: templates/emails/plain/admin-new-job.php:24
+msgid "A new job listing has been submitted to %1$s (%2$s)."
+msgstr "Була запропонована нова вакансія %1$s (%2$s)."
+
+#. translators: %1$s placeholder is the name of the site, %2$s placeholder is
+#. URL to the blog.
+#: templates/emails/plain/admin-expiring-job.php:38
+#: templates/emails/plain/employer-expiring-job.php:33
+msgid "The following job listing is expiring soon from %1$s (%2$s)."
+msgstr "Наступна вакансія скоро збігає %1$s (%2$s)."
+
+#. translators: %1$s placeholder is the name of the site, %2$s placeholder is
+#. URL to the blog.
+#: templates/emails/plain/admin-expiring-job.php:31
+#: templates/emails/plain/employer-expiring-job.php:30
+msgid "The following job listing is expiring today from %1$s (%2$s)."
+msgstr "Наступна вакансія збігає сьогодні %1$s (%2$s)."
+
+#: templates/job-dashboard.php:55
+msgid "Featured Job"
+msgstr "Виділена вакансія"
+
+#: lib/usage-tracking/class-usage-tracking-base.php:498
+msgid "Something went wrong. Please try again later."
+msgstr "Щось пішло не так. Спробуйте ще раз."
+
+#: lib/usage-tracking/class-usage-tracking-base.php:486
+msgid "Disable Usage Tracking"
+msgstr "Відключити відстежування використання."
+
+#: lib/usage-tracking/class-usage-tracking-base.php:344
+msgid "Every Two Weeks"
+msgstr "Кожні два тижні"
+
+#: includes/widgets/class-wp-job-manager-widget-featured-jobs.php:63
+msgid "Descending"
+msgstr "Спадання"
+
+#: includes/widgets/class-wp-job-manager-widget-featured-jobs.php:62
+msgid "Ascending"
+msgstr "Зростання"
+
+#: includes/widgets/class-wp-job-manager-widget-featured-jobs.php:60
+msgid "Sort Direction"
+msgstr "Порядок сортування"
+
+#: lib/usage-tracking/class-usage-tracking-base.php:495
+msgid "Disabled usage tracking."
+msgstr "Відстежування використання виключено."
+
+#: includes/widgets/class-wp-job-manager-widget-featured-jobs.php:54
+msgid "Random"
+msgstr "Випадково"
+
+#: includes/widgets/class-wp-job-manager-widget-featured-jobs.php:53
+msgid "Author"
+msgstr "Автор"
+
+#: includes/widgets/class-wp-job-manager-widget-featured-jobs.php:51
+msgid "Date"
+msgstr "Дата"
+
+#: includes/widgets/class-wp-job-manager-widget-featured-jobs.php:49
+msgid "Sort By"
+msgstr "Сортувати за"
+
+#: includes/helper/class-wp-job-manager-helper.php:333
+msgid "Manage License (Requires Attention)"
+msgstr "Керувати ліцензією (вимагає уваги)"
+
+#: includes/forms/class-wp-job-manager-form-edit-job.php:203
+msgid "Your changes have been submitted and your listing will be visible again once approved."
+msgstr "Ваші зміни були відправлені і ваше оголошення буде знову відображатися після його затвердження."
+
+#: includes/forms/class-wp-job-manager-form-edit-job.php:141
+msgid "Submit changes for approval"
+msgstr "Надіслати на затвердження"
+
+#. translators: the href tag contains the URL for the page telling users what
+#. data WPJM tracks.
+#: includes/class-wp-job-manager-usage-tracking.php:293
+msgid ""
+"Help us make WP Job Manager better by allowing us to collect\n"
+"\t\t\t\t<a href=\"%s\">usage tracking data</a>.\n"
+"\t\t\t\tNo sensitive information is collected."
+msgstr ""
+"Допоможіть нам зробити плагін WP Job Manager краще, дозволяючи збирати \n"
+"\t\t\t\t<a href=\"%s\">дані використання</a>.\n"
+"\t\t\t\tЗбір конфіденційної інформації не проводиться."
+
+#: includes/admin/views/html-admin-page-addons.php:33
+msgid "No add-ons were found."
+msgstr "Доповнення не знайдені."
+
+#. translators: %1$s is placeholder for singular name of the job listing post
+#. type; %2$s is the intl formatted date the listing was last modified.
+#: includes/admin/class-wp-job-manager-writepanels.php:619
+msgid "%1$s was last modified by the user on %2$s."
+msgstr "%1$s був в останній раз змінений користувачем %2$s."
+
+#: includes/admin/class-wp-job-manager-settings.php:442
+msgid "Display a reCAPTCHA field on job submission form."
+msgstr "Відображати поле reCAPTCHA у формі додавання вакансії."
+
+#. translators: Placeholder %s is a URL to the document on wpjobmanager.com
+#. with info on usage tracking.
+#: includes/class-wp-job-manager-usage-tracking.php:228
+msgid ""
+"We'd love if you helped us make WP Job Manager better by allowing us to collect\n"
+"\t\t\t\t<a href=\"%s\">usage tracking data</a>. No sensitive information is\n"
+"\t\t\t\tcollected, and you can opt out at any time."
+msgstr ""
+"Допоможіть нам зробити плагін WP Job Manager краще, дозволяючи збирати\n"
+"\t\t\t<a href=\"%s\">дані використання</a>.\n"
+"\t\t\tЗбір конфіденційної інформації не проводиться, \n"
+"\t\t\tі ви можете відмовитися в будь-який момент."
+
+#: includes/admin/class-wp-job-manager-settings.php:441
+msgid "Job Submission Form"
+msgstr "Форма додавання вакансії"
+
+#: includes/admin/class-wp-job-manager-settings.php:433
+msgid "Secret Key"
+msgstr "Секретний ключ"
+
+#: includes/admin/class-wp-job-manager-settings.php:424
+msgid "Site Key"
+msgstr "Ключ сайту"
+
+#: includes/admin/class-wp-job-manager-settings.php:417
+msgid "The label used for the reCAPTCHA field on forms."
+msgstr "Напис, що використовується для поля reCAPTCHA для форм."
+
+#: includes/admin/class-wp-job-manager-settings.php:416
+msgid "Field Label"
+msgstr "Назва поля"
+
+#: includes/admin/class-wp-job-manager-settings.php:414
+msgid "Are you human?"
+msgstr "Ви людина?"
+
+#: includes/admin/class-wp-job-manager-settings.php:410
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: includes/admin/class-wp-job-manager-settings.php:367
+msgid "Users can edit, but edits require admin approval"
+msgstr "Користувачі можуть редагувати, але для редагування потрібен дозвіл адміністратора"
+
+#: includes/admin/class-wp-job-manager-settings.php:366
+msgid "Users can edit without admin approval"
+msgstr "Користувачі можуть редагувати без схвалення адміністратором"
+
+#: includes/admin/class-wp-job-manager-settings.php:365
+msgid "Users cannot edit"
+msgstr "Користувачі не можуть редагувати"
+
+#: includes/admin/class-wp-job-manager-settings.php:362
+msgid "Choose whether published job listings can be edited and if edits require admin approval. When moderation is required, the original job listings will be unpublished while edits await admin approval."
+msgstr "Виберіть, чи можна редагувати опубліковані вакансії, і чи потрібно для редагування схвалення адміністратора. Там, де необхідна модерація, вихідні вакансію не будуть опубліковані поки не будуть схвалені адміністратором."
+
+#: includes/admin/class-wp-job-manager-settings.php:361
+msgid "Allow editing of published listings"
+msgstr "Дозволити редагування опублікованих оголошень"
+
+#: includes/admin/class-wp-job-manager-settings.php:360
+msgid "Allow Published Edits"
+msgstr "Дозволити публікувати редаговані оголошення"
+
+#. translators: Placeholder is for the label of the reCAPTCHA field.
+#. translators: %s is the name of the form validation that failed.
+#: includes/abstracts/abstract-wp-job-manager-form.php:389
+#: includes/abstracts/abstract-wp-job-manager-form.php:405
+msgid "\"%s\" check failed. Please try again."
+msgstr "\"%s\" перевірити не вдалося. Будь ласка, спробуйте ще раз."
+
+#: includes/admin/class-wp-job-manager-settings.php:443
+msgid "This will help prevent bots from submitting job listings. You must have entered a valid site key and secret key above."
+msgstr "Це допоможе запобігти публікації вакансій ботами. Ви повинні вказати ключ сайту і секретний ключ вище."
+
+#: includes/class-wp-job-manager-usage-tracking.php:320
+#: lib/usage-tracking/class-usage-tracking-base.php:483
+msgid "Enable Usage Tracking"
+msgstr "Включити відстежування використання"
+
+#: lib/usage-tracking/class-usage-tracking-base.php:492
+msgid "Usage data enabled. Thank you!"
+msgstr "Відстежування використання включено. Дякуємо!"
+
+#: includes/admin/class-wp-job-manager-settings.php:89
+msgid "General"
+msgstr "Загальне"
+
+#: templates/account-signin.php:48
+msgid "Your account details will be confirmed via email."
+msgstr "Інформацію про ваш обліковий запис буде підтверджено по ел. пошті."
+
+#: templates/account-signin.php:46
+msgid "If you don't have an account you can create one below by entering your email address/username."
+msgstr "Якщо у вас немає облікового запису, ви можете створити його нижче, ввівши свою електронну адресу/ім’я користувача."
+
+#: includes/helper/views/html-licences.php:188
+msgid "No plugins are activated that have licenses managed by WP Job Manager."
+msgstr "Плагіни не активовані і у них є ліцензії, якими керує WP Job Manager."
+
+#: includes/helper/views/html-licences.php:107
+msgid "Deactivate License"
+msgstr "Деактивувати ліцензію"
+
+#: includes/helper/views/html-licence-key-error.php:13
+#: includes/helper/views/html-licence-key-notice.php:13
+msgid "Hide notice"
+msgstr "Приховати сповіщення"
+
+#: includes/helper/class-wp-job-manager-helper.php:753
+msgid "Plugin license has been deactivated."
+msgstr "Ліцензію плагіна деактивовано."
+
+#: includes/helper/class-wp-job-manager-helper.php:737
+msgid "license is not active."
+msgstr "ліцензія не активна."
+
+#: includes/helper/class-wp-job-manager-helper.php:887
+msgid "An unknown error occurred while attempting to activate the license"
+msgstr "При спробі активувати ліцензію сталася невідома помилка"
+
+#: includes/helper/class-wp-job-manager-helper.php:883
+msgid "Plugin license has been activated."
+msgstr "Ліцензія плагіну активована."
+
+#: includes/helper/class-wp-job-manager-helper.php:874
+msgid "Connection failed to the License Key API server - possible server issue."
+msgstr "Помилка з'єднання з сервером ліцензії. Спробуйте пізніше."
+
+#: includes/helper/class-wp-job-manager-helper.php:339
+#: includes/helper/views/html-licences.php:44
+#: includes/helper/views/html-licences.php:170
+msgid "Activate License"
+msgstr "Активувати ліцензію"
+
+#: includes/helper/class-wp-job-manager-helper.php:336
+msgid "Manage License"
+msgstr "Управління ліцензією"
+
+#: includes/admin/views/html-admin-setup-step-3.php:67
+msgid "There are lots of ways you can support open source software projects like this one: contributing code, fixing a bug, assisting with non-English translation, or just telling your friends about WP Job Manager to help spread the word. We appreciate your support!"
+msgstr "Існує безліч способів підтримки таких проектів з відкритим вихідним кодом, як ці: внесення коду, виправлення помилки, допомога в перекладі на інші мови або просто розкажіть друзям про WP Job Manager. Ми цінуємо вашу підтримку!"
+
+#: includes/admin/views/html-admin-setup-step-3.php:66
+msgid "Support WP Job Manager's Ongoing Development"
+msgstr "Підтримка безперервного розвитку WP Job Manager"
+
+#: includes/admin/views/html-admin-setup-step-3.php:43
+msgid "Learn to use the front-end job dashboard"
+msgstr "Дізнайтеся більше про особистий кабінет"
+
+#: includes/admin/views/html-admin-setup-step-3.php:34
+msgid "Learn to use the front-end job submission board"
+msgstr "Дізнайтеся більше про форму розміщення вакансій"
+
+#: includes/admin/views/html-admin-setup-step-3.php:25
+msgid "Add job listings to a page using the [jobs] shortcode"
+msgstr "Відображайте вакансії на сторінці, додавши на сторінку наступний шорткод [jobs]"
+
+#: includes/admin/views/html-admin-setup-step-3.php:18
+msgid "Add a job using the admin dashboard"
+msgstr "Додайте вакансії використовуючи панель керування"
+
+#: includes/admin/views/html-admin-setup-step-3.php:17
+msgid "Tweak your settings"
+msgstr "Налаштуйте параметри"
+
+#: includes/admin/views/html-admin-setup-step-3.php:14
+msgid "Wondering what to do now? Here are some of the most common next steps:"
+msgstr "Цікаво, що робити зараз? Ось деякі з найбільш поширених наступних кроків:"
+
+#: includes/admin/views/html-admin-setup-step-3.php:12
+msgid "You're ready to start using WP Job Manager!"
+msgstr "Ви готові почати використовувати WP Job Manager!"
+
+#: includes/admin/views/html-admin-setup-step-2.php:57
+msgid "Creates a page that allows employers to manage their job listings directly from a page on your website, instead of requiring them to log in to an admin area. If you want to manage all job listings from the admin dashboard only, you can uncheck this setting."
+msgstr "Створює сторінку, яка дозволяє роботодавцям керувати вакансіями через свій особистий кабінет, замість необхідності входу в адмінку сайту. Зніміть цю опцію, щоб управляти вакансіями можна було тільки через адмінку."
+
+#: includes/admin/views/html-admin-setup-step-2.php:64
+msgid "Creates a page where visitors can browse, search, and filter job listings."
+msgstr "Створює сторінку, де відвідувачі можуть переглядати, шукати і фільтрувати списки вакансій."
+
+#: includes/class-wp-job-manager-email-notifications.php:647
+msgid "Email"
+msgstr "Електронна пошта"
+
+#: includes/admin/views/html-admin-setup-step-2.php:49
+msgid "Creates a page that allows employers to post new jobs directly from a page on your website, instead of requiring them to log in to an admin area. If you'd rather not allow this -- for example, if you want employers to use the admin dashboard only -- you can uncheck this setting."
+msgstr "Створює сторінку, яка дозволяє роботодавцям додавати вакансії через свій особистий кабінет, замість необхідності входу в адмінку сайту. Зніміть цю опцію, щоб додавати вакансії можна було тільки через адмінку."
+
+#: includes/admin/views/html-admin-setup-step-1.php:29
+msgid "Start setup"
+msgstr "Почати налаштування"
+
+#. translators: Placeholder %s is the path to WPJM documentation site.
+#: includes/admin/views/html-admin-setup-step-1.php:19
+msgid "If you'd prefer to skip this and set up your pages manually, our <a href=\"%s\">documentation</a> will walk you through each step."
+msgstr "Якщо ви волієте пропустити це і власноруч налаштувати свої сторінки, наша <a href=\"%s\">документація</a> проведе вас через кожен крок."
+
+#: includes/admin/views/html-admin-setup-step-1.php:15
+msgid "This setup wizard will walk you through the process of creating pages for job submissions, management, and listings."
+msgstr "Цей майстер встановлення дозволить вам почати роботу зі створення сторінок для додавання і управління вакансіями."
+
+#: includes/admin/views/html-admin-setup-step-1.php:14
+msgid "Thanks for installing <em>WP Job Manager</em>! Let's get your site ready to accept job listings."
+msgstr "Дякуємо за встановлення <em>WP Job Manager</em>! Давайте підготуємо ваш сайт для прийому оголошень вакансій."
+
+#: includes/admin/views/html-admin-setup-step-2.php:14
+msgid "With WP Job Manager, employers and applicants can post, manage, and browse job listings right on your website. Tell us which of these common pages you'd like your site to have and we'll create and configure them for you."
+msgstr "З плагіном WP Job Manager роботодавці та шукачі можуть розміщувати, управляти і переглядати списки вакансій прямо на вашому веб-сайті. Розкажіть нам, які з цих загальних сторінок ви хочете розмістити на своєму сайті і ми створимо і налаштуємо їх для вас."
+
+#: includes/admin/views/html-admin-setup-step-1.php:12
+msgid "Welcome to the Setup Wizard!"
+msgstr "Ласкаво просимо в майстер встановлення!"
+
+#: includes/admin/class-wp-job-manager-addons.php:104
+#: includes/helper/views/html-licences.php:14
+msgid "Licenses"
+msgstr "Ліцензії"
+
+#: wp-job-manager-functions.php:927
+msgid "Other"
+msgstr "Інше"
+
+#: wp-job-manager-functions.php:926
+msgid "Per Diem"
+msgstr "Одноденна"
+
+#: wp-job-manager-functions.php:925
+msgid "Volunteer"
+msgstr "Волонтер"
+
+#: wp-job-manager-functions.php:924
+msgid "Intern"
+msgstr "Ученик"
+
+#: wp-job-manager-functions.php:923
+msgid "Temporary"
+msgstr "Тимчасова"
+
+#: wp-job-manager-functions.php:922
+msgid "Contractor"
+msgstr "Контрактна"
+
+#: wp-job-manager-functions.php:921
+msgid "Part Time"
+msgstr "Часткова зайнятість"
+
+#: wp-job-manager-functions.php:920
+msgid "Full Time"
+msgstr "Повна зайнятість"
+
+#: includes/admin/class-wp-job-manager-taxonomy-meta.php:87
+#: includes/admin/class-wp-job-manager-taxonomy-meta.php:110
+#: includes/admin/class-wp-job-manager-taxonomy-meta.php:129
+#: includes/class-wp-job-manager-post-types.php:293
+msgid "Employment Type"
+msgstr "Тип зайнятості"
+
+#: includes/admin/class-wp-job-manager-settings.php:463
+msgid "Select the page where you've used the [job_dashboard] shortcode. This lets the plugin know the location of the dashboard."
+msgstr "Виберіть сторінку, де ви розмістили шорткод [job_dashboard]. Це дозволить плагіну визначити, де знаходиться особистий кабінет."
+
+#: includes/admin/class-wp-job-manager-settings.php:456
+msgid "Select the page where you've used the [submit_job_form] shortcode. This lets the plugin know the location of the form."
+msgstr "Виберіть сторінку, де ви розмістили шорткод [submit_job_form]. Це дозволить плагіну визначити розташування форми."
+
+#: includes/admin/class-wp-job-manager-settings.php:390
+msgid "Choose the application method job listers will need to provide. Specify URL or email address only, or allow listers to choose which they prefer."
+msgstr "Виберіть спосіб відгуку, який повинен вказати роботодавець. Вкажіть лише URL або адресу електронної пошти або дозвольте вибирати."
+
+#: includes/admin/class-wp-job-manager-settings.php:375
+msgid "Listings will display for the set number of days, then expire. Leave this field blank if you don't want listings to have an expiration date."
+msgstr "Оголошення будуть відображатися певну кількість днів, а потім закінчуються. Залиште це поле порожнім, якщо ви не хочете, щоб оголошення мали термін придатності."
+
+#: includes/admin/class-wp-job-manager-settings.php:353
+msgid "Users can continue to edit pending listings until they are approved by an admin."
+msgstr "Користувачі можуть продовжувати редагувати чекаючі оголошення, поки вони не затверджені адміністратором."
+
+#: includes/admin/class-wp-job-manager-settings.php:352
+msgid "Allow editing of pending listings"
+msgstr "Дозволити редагування очікуючих оголошень"
+
+#: includes/admin/class-wp-job-manager-settings.php:344
+msgid "Sets all new submissions to \"pending.\" They will not appear on your site until an admin approves them."
+msgstr "Встановлює усі нові вакансії в статус \"в очікуванні\". Вони не з'являться на вашому сайті, поки адміністратор не схвалить їх."
+
+#: includes/admin/class-wp-job-manager-settings.php:343
+msgid "Require admin approval of all new listing submissions"
+msgstr "Необхідно схвалення адміністратора для всіх нових вакансій"
+
+#: includes/admin/class-wp-job-manager-settings.php:335
+msgid "Any new accounts created during submission will have this role. If you haven't enabled account creation during submission in the options above, your own method of assigning roles will apply."
+msgstr "Будь-який новий обліковий запис, створений під час публікації вакансії, матиме цю роль. Якщо Ви не включили створення облікового запису під час публікації вакансій в параметрах вище, буде застосовуватися власний метод призначення ролей."
+
+#: includes/admin/class-wp-job-manager-settings.php:327
+msgid "Sends an email to the user with their username and a link to set their password. If this is not enabled, a \"password\" field will display instead, and their email address won't be verified."
+msgstr "Відправляє електронного листа користувачу із зазначенням імені користувача та посилання для установки пароля. Якщо це не дозволено, замість цього відобразиться поле \"пароль\" і адреса ел. пошти не буде перевірена."
+
+#: includes/admin/class-wp-job-manager-settings.php:326
+msgid "Email new users a link to set a password"
+msgstr "Надіслати електронного листа новим користувачам з посиланням для установки пароля"
+
+#: includes/admin/class-wp-job-manager-settings.php:318
+msgid "Automatically generates usernames for new accounts from the registrant's email address. If this is not enabled, a \"username\" field will display instead."
+msgstr "Автоматично створює імена користувачів для нових облікових записів з реєстрацією через пошту. Якщо це не дозволено, замість цього відобразиться поле \"ім'я користувача\"."
+
+#: includes/admin/class-wp-job-manager-settings.php:317
+msgid "Generate usernames from email addresses"
+msgstr "Створення імен користувачів з адрес електронної пошти"
+
+#: includes/admin/class-wp-job-manager-settings.php:309
+msgid "Includes account creation on the listing submission form, to allow non-registered users to create an account and submit a job listing simultaneously."
+msgstr "Включає створення облікового запису в формі додавання вакансії, щоб дозволити незареєстрованим користувачам створювати обліковий запис і одночасно додавати нові вакансії."
+
+#: includes/admin/class-wp-job-manager-settings.php:308
+msgid "Enable account creation during submission"
+msgstr "Включити створення облікового запису під час публікації вакансії"
+
+#: includes/admin/class-wp-job-manager-settings.php:300
+msgid "Limits job listing submissions to registered, logged-in users."
+msgstr "Обмежує кількість додавання вакансій для зареєстрованих і авторизованих користувачів."
+
+#: includes/admin/class-wp-job-manager-settings.php:299
+msgid "Require an account to submit listings"
+msgstr "Вимагати реєстрацію перед додаванням вакансій"
+
+#: includes/admin/class-wp-job-manager-settings.php:222
+msgid "This allows users to select more than one type when submitting a job. The metabox on the post editor and the selection box on the front-end job submission form will both reflect this."
+msgstr "Це дозволяє користувачам вибирати кілька типів зайнятості при додаванні вакансії. Метабокс в редакторі записів і поле вибору в формі відправки вакансій на сайті будуть відображати це."
+
+#: includes/admin/class-wp-job-manager-settings.php:213
+msgid "This lets users select from a list of types when submitting a job. Note: an admin has to create types before site users can select them."
+msgstr "Це дозволяє користувачам вибрати зі списку тип зайнятості при публікації вакансії. Примітка: адміністратор повинен створити спочатку типи зайнятості для вакансій."
+
+#: includes/admin/class-wp-job-manager-settings.php:212
+msgid "Enable listing types"
+msgstr "Включити типи зайнятості для вакансій"
+
+#: includes/admin/class-wp-job-manager-settings.php:193
+msgid "The category selection box will default to allowing multiple selections on the [jobs] shortcode. Without this, visitors will only be able to select a single category when filtering jobs."
+msgstr "В поле вибору категорії за замовчуванням буде задано кілька варіантів вибору на сторінці з шорткодом [jobs]. Без цього користувачі зможуть вибирати тільки одну категорію при публікації вакансії."
+
+#: includes/admin/class-wp-job-manager-settings.php:192
+msgid "Default to category multiselect"
+msgstr "Множинний вибір категорій за замовчуванням"
+
+#: includes/admin/class-wp-job-manager-settings.php:184
+msgid "This lets users select from a list of categories when submitting a job. Note: an admin has to create categories before site users can select them."
+msgstr "Це дозволяє користувачам вибирати категорії при додаванні вакансій. Примітка: адміністратор повинен створити спочатку категорії, перш ніж користувачі сайту зможуть їх вибрати."
+
+#: includes/admin/class-wp-job-manager-settings.php:183
+msgid "Enable listing categories"
+msgstr "Включити категорії"
+
+#: includes/admin/class-wp-job-manager-settings.php:166
+msgid "Expired job listings will not be searchable."
+msgstr "Минулі списки вакансій стануть недоступними для пошуку."
+
+#: includes/admin/class-wp-job-manager-settings.php:157
+msgid "Filled positions will not display in your archives."
+msgstr "Зайняті вакансії не показуються в ваших архівах."
+
+#: includes/admin/class-wp-job-manager-settings.php:138
+msgid "Number of job listings to display per page."
+msgstr "Кількість вакансій для відображення на сторінці."
+
+#: includes/admin/class-wp-job-manager-settings.php:470
+msgid "Select the page where you've used the [jobs] shortcode. This lets the plugin know the location of the job listings page."
+msgstr "Виберіть сторінку, де ви розмістили шорткод [job]. Це дозволить плагіну визначити, де знаходиться сторінка з опублікованими вакансіями."
+
+#: wp-job-manager-template.php:735
+msgid "Verify Password"
+msgstr "Повторіть пароль"
+
+#: wp-job-manager-template.php:725
+msgid "Password"
+msgstr "Пароль"
+
+#: wp-job-manager-functions.php:994
+msgid "Passwords must be at least 8 characters long."
+msgstr "Паролі повинні містити не менше 8 символів."
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:751
+msgid "Password is not valid."
+msgstr "Пароль недійсний."
+
+#. translators: Placeholder %s is the password hint.
+#: includes/forms/class-wp-job-manager-form-submit-job.php:749
+msgid "Invalid Password: %s"
+msgstr "Невірний пароль: %s"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:743
+msgid "Passwords must match."
+msgstr "Паролі повинні співпадати."
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:733
+msgid "Please enter a password."
+msgstr "Будь ласка, введітьпароль"
+
+#: includes/admin/class-wp-job-manager-settings.php:325
+msgid "Account Password"
+msgstr "Пароль облікового запису"
+
+#: includes/admin/class-wp-job-manager-permalink-settings.php:71
+msgid "Job category base"
+msgstr "Префікс посилань категорій"
+
+#: includes/admin/class-wp-job-manager-permalink-settings.php:78
+msgid "Job type base"
+msgstr "Префікс посилань типу зайнятості"
+
+#: includes/admin/class-wp-job-manager-permalink-settings.php:64
+msgid "Job base"
+msgstr "Префікс посилань вакансій"
+
+#. translators: Placeholder (%s) is the plural name of the job listings post
+#. type.
+#: includes/admin/class-wp-job-manager-cpt.php:104
+msgid "%s marked as not filled"
+msgstr "%s відмічено, як незайняту"
+
+#. translators: Placeholder (%s) is the plural name of the job listings post
+#. type.
+#: includes/admin/class-wp-job-manager-cpt.php:102
+msgid "Mark %s Not Filled"
+msgstr "Відмітити %s незайнятою"
+
+#. translators: Placeholder (%s) is the plural name of the job listings post
+#. type.
+#: includes/admin/class-wp-job-manager-cpt.php:97
+msgid "%s marked as filled"
+msgstr "%s відмічена як зайнята"
+
+#. translators: Placeholder (%s) is the plural name of the job listings post
+#. type.
+#: includes/admin/class-wp-job-manager-cpt.php:95
+msgid "Mark %s Filled"
+msgstr "Відмітити %s зайнятою"
+
+#: includes/class-wp-job-manager-ajax.php:289
+msgid "You must be logged in to upload files using this method."
+msgstr "Ви повинні увійти в систему, щоб завантажувати файли, використовуючи цей спосіб."
+
+#: templates/job-submit.php:24
+msgid "Create A New Job"
+msgstr "Створити нову вакансію"
+
+#: templates/job-submit.php:24
+msgid "You are editing an existing job. %s"
+msgstr "Ви редагуєте існуючу вакансію. %s"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:240
+msgid "Choose job type&hellip;"
+msgstr "Виберіть тип зайнятості&hellip;"
+
+#. translators: Placeholder %s is URL to set up a Google Maps API key.
+#: includes/admin/class-wp-job-manager-settings.php:107
+msgid "Google requires an API key to retrieve location information for job listings. Acquire an API key from the <a href=\"%s\">Google Maps API developer site</a>."
+msgstr "Google вимагає ключ API для отримання інформації про місце знаходження вакансії. Отримати ключ API можна <a href=\"%s\">тут</a>."
+
+#: includes/admin/class-wp-job-manager-settings.php:105
+msgid "Google Maps API Key"
+msgstr "Ключ Google Maps API"
+
+#: includes/admin/class-wp-job-manager-settings.php:164
+msgid "Hide Expired Listings"
+msgstr "Приховати минулі вакансії"
+
+#: wp-job-manager-template.php:762
+msgid "Posted on "
+msgstr "Опубліковано "
+
+#: includes/admin/class-wp-job-manager-settings.php:211
+msgid "Types"
+msgstr "Типи зайнятості"
+
+#: includes/admin/class-wp-job-manager-settings.php:99
+msgid "Default date format as defined in Settings"
+msgstr "Формат дати за замовчуванням, визначений в налаштуваннях"
+
+#: includes/admin/class-wp-job-manager-settings.php:98
+msgid "Relative to the current date (e.g., 1 day, 1 week, 1 month ago)"
+msgstr "Щодо поточної дати (наприклад, 1 день, 1 тиждень, 1 місяць тому)"
+
+#: includes/admin/class-wp-job-manager-settings.php:95
+msgid "Choose how you want the published date for jobs to be displayed on the front-end."
+msgstr "Виберіть вид відображення дати публікації вакансії."
+
+#: includes/admin/class-wp-job-manager-settings.php:94
+msgid "Date Format"
+msgstr "Формат дати"
+
+#. translators: Placeholder %d is the number of found search results.
+#: includes/class-wp-job-manager-ajax.php:191
+msgid "Search completed. Found %d matching record."
+msgid_plural "Search completed. Found %d matching records."
+msgstr[0] "Пошук виконаний. Знайдено %d вакансію."
+msgstr[1] "Пошук виконаний. Знайдено %d вакансії."
+msgstr[2] "Пошук виконаний. Знайдено %d вакансій."
+
+#: includes/admin/class-wp-job-manager-settings.php:221
+msgid "Allow multiple types for listings"
+msgstr "Ввімкнути множинний вибір типів зайнятості для вакансій"
+
+#: includes/admin/class-wp-job-manager-settings.php:220
+msgid "Multi-select Listing Types"
+msgstr "Множинний вибір типів зайнятості вакансій"
+
+#: includes/admin/class-wp-job-manager-settings.php:201
+msgid "Determines the logic used to display jobs when selecting multiple categories."
+msgstr "Визначає логіку, яка використовується для відображення вакансій при виборі декількох категорій."
+
+#: includes/class-wp-job-manager-shortcodes.php:244
+#: includes/class-wp-job-manager-shortcodes.php:258
+msgid "Missing submission page."
+msgstr "Відсутня сторінка публікації вакансії."
+
+#: includes/class-wp-job-manager-shortcodes.php:460
+msgid "Duplicate"
+msgstr "Дублювати"
+
+#: includes/class-wp-job-manager-post-types.php:360
+msgid "Use as company logo"
+msgstr "Використовувати як логотип компанії"
+
+#: includes/class-wp-job-manager-post-types.php:359
+msgid "Remove company logo"
+msgstr "Видалити логотип компанії"
+
+#: includes/class-wp-job-manager-post-types.php:358
+msgid "Set company logo"
+msgstr "Встановити логотип компанії"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic."
+
+#: includes/class-wp-job-manager-shortcodes.php:397
+msgid "Listing Expires"
+msgstr "Термін дії вакансії закінчується"
+
+#. translators: Placeholder %s is the number of posts in a preview state.
+#: includes/class-wp-job-manager-post-types.php:417
+msgid "Preview <span class=\"count\">(%s)</span>"
+msgid_plural "Preview <span class=\"count\">(%s)</span>"
+msgstr[0] "Попередній перегляд <span class=\"count\">(%s)</span>"
+msgstr[1] "Попередній перегляд <span class=\"count\">(%s)</span>"
+msgstr[2] "Попередній перегляд <span class=\"count\">(%s)</span>"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:321
+msgid "A link to a video about your company"
+msgstr "Посилання на відео про вашу компанію"
+
+#. translators: Placeholder %s is the label for the required field.
+#: includes/forms/class-wp-job-manager-form-submit-job.php:425
+msgid "%s is a required field"
+msgstr "%s обов'язкове поле"
+
+#: wp-job-manager-functions.php:359
+msgctxt "post status"
+msgid "Draft"
+msgstr "Чернетка"
+
+#. Description of the plugin
+msgid "Manage job listings from the WordPress admin panel, and allow users to post jobs directly to your site."
+msgstr "Керуйте списками вакансій через майстерню WordPress, і дозвольте користувачам публікувати вакансії безпосередньо на ваш сайт"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://wpjobmanager.com/"
+msgstr "https://wpjobmanager.com/"
+
+#. Plugin Name of the plugin
+#: includes/class-wp-job-manager-data-exporter.php:27
+msgid "WP Job Manager"
+msgstr "WP Job Manager"
+
+#: includes/class-wp-job-manager.php:532
+msgid "Are you sure you want to delete this listing?"
+msgstr "Ви впевнені, що хочете видалити цю вакансію?"
+
+#: includes/class-wp-job-manager.php:362
+msgid "Load previous listings"
+msgstr "Завантажити попередні вакансії"
+
+#: includes/class-wp-job-manager.php:490
+msgid "Invalid file type. Accepted types:"
+msgstr "Тип файлу не підтримується. Підтримувані типи файлів:"
+
+#: wp-job-manager-template.php:825
+msgid "Anywhere"
+msgstr "Всюди"
+
+#. translators: %1$s is the job listing title; %2$s is the URL for the current
+#. WordPress instance.
+#: wp-job-manager-template.php:249
+msgid "Application via %1$s listing on %2$s"
+msgstr "Відгук на %1$s зазначено в вакансії %2$s"
+
+#. translators: %s is the list of allowed file types.
+#: wp-job-manager-functions.php:1396
+msgid "Uploaded files need to be one of the following file types: %s"
+msgstr "Завантажені файли повинні бути одним з наступних типів файлів: %s"
+
+#: wp-job-manager-functions.php:1159
+msgid "Choose a category&hellip;"
+msgstr "Категорія&hellip;"
+
+#: wp-job-manager-functions.php:609
+msgid "This email is already registered, please choose another one."
+msgstr "Обліковий запис для цієї ел. пошти вже існує. Використовуйте іншу ел. пошту"
+
+#: wp-job-manager-functions.php:605
+msgid "Your email address isn&#8217;t correct."
+msgstr "Некоректна адреса ел. пошти."
+
+#: wp-job-manager-functions.php:489
+msgid "RSS"
+msgstr "RSS"
+
+#: wp-job-manager-functions.php:364
+msgctxt "post status"
+msgid "Active"
+msgstr "Активна"
+
+#: wp-job-manager-functions.php:363
+msgctxt "post status"
+msgid "Pending payment"
+msgstr "Очікується оплата"
+
+#: wp-job-manager-functions.php:362
+msgctxt "post status"
+msgid "Pending approval"
+msgstr "Очікується підтвердження"
+
+#: includes/class-wp-job-manager-post-types.php:411
+#: wp-job-manager-functions.php:361
+msgctxt "post status"
+msgid "Preview"
+msgstr "Попередній перегляд"
+
+#. translators: Placeholder %s is the job listing post type name.
+#: templates/job-submitted.php:35
+msgid "%s submitted successfully. Your listing will be visible once approved."
+msgstr "%s успішно опублікована. Вашу вакансію буде видно після затвердження."
+
+#: templates/job-submit.php:54
+msgid "Company Details"
+msgstr "Про компанію"
+
+#: templates/job-filters.php:87
+msgid "Your browser does not support JavaScript, or it is disabled. JavaScript must be enabled in order to view listings."
+msgstr "Ваш браузер не підтримує JavaScript, або він відключений. JavaScript повинен бути включений для того, щоб переглядати список вакансій."
+
+#: templates/job-filters.php:58
+msgid "Any category"
+msgstr "Будь-яка категорія"
+
+#: templates/job-filters.php:54
+msgid "Category"
+msgstr "Категорія"
+
+#: templates/job-filters.php:30 templates/job-filters.php:31
+msgid "Keywords"
+msgstr "Ключові слова"
+
+#: includes/class-wp-job-manager-shortcodes.php:467
+msgid "Relist"
+msgstr "Знову розмістити вакансію"
+
+#: includes/class-wp-job-manager-shortcodes.php:454
+msgid "Mark filled"
+msgstr "Відмітити закритою"
+
+#: includes/class-wp-job-manager-shortcodes.php:449
+msgid "Mark not filled"
+msgstr "Відмітити відкритою"
+
+#: templates/job-dashboard.php:30
+msgid "Your listings are shown in the table below."
+msgstr "Ваші оголошення будуть показані в таблиці нижче."
+
+#: templates/job-dashboard-login.php:20
+msgid "You need to be signed in to manage your listings."
+msgstr "Для управління вакансіями необхідно ввійти в систему."
+
+#: templates/job-dashboard.php:42
+msgid "You do not have any active listings."
+msgstr "У вас немає активних вакансій."
+
+#: templates/job-application.php:24
+msgid "Apply for job"
+msgstr "Відгукнутися"
+
+#. translators: %1$s is the email address, %2$s is the subject query args.
+#: templates/job-application-email.php:19
+msgid "To apply for this job <strong>email your details to</strong> <a class=\"job_application_email\" href=\"mailto:%1$s%2$s\">%1$s</a>"
+msgstr "Для відгуку на цю вакансію <strong>надішліть подробиці по ел. пошті</strong> <a class=\"job_application_email\" href=\"mailto:%1$s%2$s\">%1$s</a>"
+
+#: templates/form-fields/uploaded-file-html.php:28
+#: templates/form-fields/uploaded-file-html.php:30
+msgid "remove"
+msgstr "Видалити"
+
+#: templates/form-fields/multiselect-field.php:20
+#: wp-job-manager-functions.php:1161
+msgid "Select Some Options"
+msgstr "Виберіть кілька варіантів"
+
+#: templates/form-fields/multiselect-field.php:20
+#: wp-job-manager-functions.php:1160
+msgid "No results match"
+msgstr "Нічого не знайдено"
+
+#: templates/form-fields/file-field.php:60
+msgid "Maximum file size: %s."
+msgstr "Максимальний розмір файлу: %s."
+
+#: templates/content-single-job_listing.php:24
+msgid "This listing has expired."
+msgstr "Термін дії цієї вакансії закінчився."
+
+#: templates/content-single-job_listing-meta.php:52
+msgid "Applications have closed"
+msgstr "Вакансія закрита"
+
+#: templates/content-single-job_listing-meta.php:50
+msgid "This position has been filled"
+msgstr "Ця вакансія закрита"
+
+#. translators: Placeholder %s is the relative, human readable time since the
+#. job listing was posted.
+#: wp-job-manager-template.php:765 wp-job-manager-template.php:786
+msgid "Posted %s ago"
+msgstr "%s тому"
+
+#: templates/content-no-jobs-found.php:20
+msgid "There are no listings matching your search."
+msgstr "Вакансій, що відповідають вашому запиту, немає."
+
+#: templates/content-no-jobs-found.php:22
+msgid "There are currently no vacancies."
+msgstr "Зараз вакансій немає."
+
+#: wp-job-manager-template.php:707
+msgid "Your email"
+msgstr "Ел. пошта"
+
+#: templates/account-signin.php:64 templates/job-submit.php:43
+#: templates/job-submit.php:60
+msgid "(optional)"
+msgstr "(необов'язково)"
+
+#: templates/account-signin.php:53
+msgid "You must sign in to create a new listing."
+msgstr "Ви повинні авторизуватися для додавання вакансій"
+
+#: templates/account-signin.php:46
+msgid "optionally"
+msgstr "необов'язково"
+
+#: templates/account-signin.php:42 templates/job-dashboard-login.php:20
+msgid "Sign in"
+msgstr "Увійти"
+
+#: templates/account-signin.php:40
+msgid "Have an account?"
+msgstr "Маєте обліковий запис?"
+
+#: templates/account-signin.php:29
+msgid "Sign out"
+msgstr "Вийти"
+
+#. translators: Placeholder %s is the username.
+#: templates/account-signin.php:26
+msgid "You are currently signed in as <strong>%s</strong>."
+msgstr "Ви авторизовані як <strong>%s</strong>."
+
+#: templates/account-signin.php:21
+msgid "Your account"
+msgstr "Ваш обліковий запис"
+
+#: templates/job-preview.php:29
+msgid "Edit listing"
+msgstr "Редагувати вакансію"
+
+#: templates/job-preview.php:28
+msgid "Submit Listing"
+msgstr "Опублікувати"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:783
+msgid "You must be signed in to post a new listing."
+msgstr "Ви повинні бути авторизовані для публікації нових вакансій"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:737
+msgid "Please enter your email address."
+msgstr "Будь ласка, введіть свою ел. пошту."
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:544
+msgid "Please enter a valid application email address or URL"
+msgstr "Будь ласка, введіть ел. пошту або URL"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:538
+msgid "Please enter a valid application URL"
+msgstr "Будь ласка, введіть вірне посилання"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:533
+msgid "Please enter a valid application email address"
+msgstr "Будь ласка, введіть коректну адресу ел. пошти"
+
+#. translators: Placeholder %1$s is field label; %2$s is the file mime type;
+#. %3$s is the allowed mime-types.
+#. translators: %1$s is the file field label; %2$s is the file type; %3$s is
+#. the list of allowed file types.
+#: includes/forms/class-wp-job-manager-form-submit-job.php:477
+#: wp-job-manager-functions.php:1393
+msgid "\"%1$s\" (filetype %2$s) needs to be one of the following file types: %3$s"
+msgstr "\"%1$s\" (тип файлу %2$s) повинен бути одним з наступних типів файлів: %3$s"
+
+#. translators: Placeholder %s is the field label that is did not validate.
+#: includes/forms/class-wp-job-manager-form-submit-job.php:436
+msgid "%s is invalid"
+msgstr "Помилка в полі %s"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:328
+msgid "@yourcompany"
+msgstr "@yourcompany"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:325
+msgid "Twitter username"
+msgstr "Ім'я користувача Twitter"
+
+#: wp-job-manager-template.php:716
+msgid "Username"
+msgstr "Ім'я користувача"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:729
+msgid "Please enter a username."
+msgstr "Будь ласка, введіть ім’я користувача"
+
+#: wp-job-manager-functions.php:597
+msgid "Invalid email address."
+msgstr "Невірна адреса e-mail."
+
+#: wp-job-manager-template.php:155
+msgid "Inactive"
+msgstr "Неактивна"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:332
+msgid "Logo"
+msgstr "Логотип"
+
+#: wp-job-manager-functions.php:485
+msgid "Reset"
+msgstr "Скидання"
+
+#. translators: %1$s is the job listing post type name, %2$s is the job listing
+#. URL.
+#: templates/job-submitted.php:25
+msgid "%1$s listed successfully. To view your listing <a href=\"%2$s\">click here</a>."
+msgstr "%1$s додана в список. Для перегляду вашого списку вакансій <a href=\"%2$s\">натисніть сюди</a>."
+
+#: includes/admin/class-wp-job-manager-admin.php:138
+msgid "Settings"
+msgstr "Налаштування"
+
+#: includes/admin/class-wp-job-manager-settings.php:450
+msgid "Pages"
+msgstr "Сторінки"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:317
+msgid "Video"
+msgstr "Відео"
+
+#. translators: Placeholder %s is the singular label of the job listing post
+#. type.
+#: includes/admin/class-wp-job-manager-cpt.php:652
+#: includes/class-wp-job-manager-post-types.php:340
+#: includes/class-wp-job-manager-shortcodes.php:443
+#: includes/class-wp-job-manager-shortcodes.php:476
+msgid "Edit"
+msgstr "Редагувати"
+
+#: includes/admin/class-wp-job-manager-cpt.php:659
+#: includes/class-wp-job-manager-shortcodes.php:491
+msgid "Delete"
+msgstr "Видалити"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:255
+msgid "Description"
+msgstr "Опис"
+
+#: includes/admin/class-wp-job-manager-cpt.php:505
+#: includes/admin/class-wp-job-manager-settings.php:182
+msgid "Categories"
+msgstr "Категорії"
+
+#: includes/admin/class-wp-job-manager-cpt.php:502
+msgid "Status"
+msgstr "Статус"
+
+#. translators: Placeholder %s is the singular label of the job listing post
+#. type.
+#: includes/class-wp-job-manager-post-types.php:346
+#: includes/class-wp-job-manager-post-types.php:348
+msgid "View %s"
+msgstr "Переглянути %s"
+
+#. translators: Placeholder %s is the plural label for the job listing post
+#. type.
+#: includes/class-wp-job-manager-shortcodes.php:394
+#: includes/widgets/class-wp-job-manager-widget-featured-jobs.php:36
+#: includes/widgets/class-wp-job-manager-widget-featured-jobs.php:52
+#: includes/widgets/class-wp-job-manager-widget-recent-jobs.php:36
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:312
+msgid "Briefly describe your company"
+msgstr "Короткий опис компанії"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:297
+msgid "Enter the name of the company"
+msgstr "Введіть назву компанії"
+
+#: includes/class-wp-job-manager-email-notifications.php:298
+#: includes/forms/class-wp-job-manager-form-submit-job.php:294
+msgid "Company name"
+msgstr "Назва компанії"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:223
+msgid "Leave this blank if the location is not important"
+msgstr "Залиште це поле порожнім, якщо розташування не важливо"
+
+#: includes/class-wp-job-manager-post-types.php:1481
+#: includes/forms/class-wp-job-manager-form-submit-job.php:200
+msgid "Enter an email address or website URL"
+msgstr "Введіть адресу ел. пошти або посилання на сайт"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:305
+msgid "http://"
+msgstr "http://"
+
+#: wp-job-manager-template.php:708
+msgid "you@yourdomain.com"
+msgstr "you@yourdomain.com"
+
+#: includes/class-wp-job-manager-post-types.php:1487
+#: includes/forms/class-wp-job-manager-form-submit-job.php:194
+msgid "Application URL"
+msgstr "Посилання для відгуків"
+
+#: includes/class-wp-job-manager-post-types.php:1480
+#: includes/forms/class-wp-job-manager-form-submit-job.php:199
+msgid "Application email/URL"
+msgstr "Адреса ел. пошти/URL для відгуків"
+
+#: includes/class-wp-job-manager-post-types.php:1484
+#: includes/forms/class-wp-job-manager-form-submit-job.php:189
+msgid "Application email"
+msgstr "Ел. пошта для відгуків"
+
+#: includes/forms/class-wp-job-manager-form-edit-job.php:201
+msgid "View &rarr;"
+msgstr "Переглянути &rarr;"
+
+#: includes/forms/class-wp-job-manager-form-edit-job.php:195
+msgid "Your changes have been saved."
+msgstr "Ваші зміни збережено."
+
+#: includes/forms/class-wp-job-manager-form-edit-job.php:104
+msgid "Invalid listing"
+msgstr "Невірна вакансія"
+
+#. translators: Placeholder %s is the plural label for the job listing post
+#. type.
+#: includes/widgets/class-wp-job-manager-widget-featured-jobs.php:27
+#: includes/widgets/class-wp-job-manager-widget-featured-jobs.php:35
+msgid "Featured %s"
+msgstr "Виділені %s"
+
+#: includes/widgets/class-wp-job-manager-widget-featured-jobs.php:29
+msgid "Display a list of featured listings on your site."
+msgstr "Показати список виділених вакансій на вашому сайті."
+
+#: includes/widgets/class-wp-job-manager-widget-featured-jobs.php:44
+#: includes/widgets/class-wp-job-manager-widget-recent-jobs.php:64
+msgid "Number of listings to show"
+msgstr "Кількість вакансій для показу"
+
+#: includes/widgets/class-wp-job-manager-widget-recent-jobs.php:41
+msgid "Keyword"
+msgstr "Ключове слово"
+
+#. translators: Placeholder %s is the plural label for the job listing post
+#. type.
+#: includes/widgets/class-wp-job-manager-widget-recent-jobs.php:27
+#: includes/widgets/class-wp-job-manager-widget-recent-jobs.php:35
+msgid "Recent %s"
+msgstr "Останні %s"
+
+#: includes/widgets/class-wp-job-manager-widget-recent-jobs.php:29
+msgid "Display a list of recent listings on your site, optionally matching a keyword and location."
+msgstr "Відображати актуальні списки вакансій на вашому сайті (співпадаючих за ключовим словом або місцем - опціонально)."
+
+#: includes/class-wp-job-manager-shortcodes.php:690
+#: includes/class-wp-job-manager-shortcodes.php:729
+msgid "Load more listings"
+msgstr "Завантажити більше вакансій"
+
+#. translators: Placeholder %s is the job listing title.
+#: includes/class-wp-job-manager-shortcodes.php:239
+msgid "%s has been deleted"
+msgstr "%s була видалена"
+
+#. translators: Placeholder %s is the job listing title.
+#: includes/class-wp-job-manager-shortcodes.php:231
+msgid "%s has been marked as not filled"
+msgstr "%s була позначена як відкрита"
+
+#: includes/class-wp-job-manager-shortcodes.php:223
+msgid "This position is not filled"
+msgstr "Ця вакансія відкрита"
+
+#. translators: Placeholder %s is the job listing title.
+#: includes/class-wp-job-manager-shortcodes.php:218
+msgid "%s has been filled"
+msgstr "%s була закрита"
+
+#: includes/class-wp-job-manager-shortcodes.php:210
+msgid "This position has already been filled"
+msgstr "Ця вакансія закрита"
+
+#: includes/class-wp-job-manager-shortcodes.php:203
+msgid "Invalid ID"
+msgstr "Невірний ID"
+
+#. translators: Placeholder %s is the number of expired posts of this type.
+#: includes/class-wp-job-manager-post-types.php:405
+msgid "Expired <span class=\"count\">(%s)</span>"
+msgid_plural "Expired <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> вакансія збігла"
+msgstr[1] "<span class=\"count\">(%s)</span> вакансії збігло"
+msgstr[2] "<span class=\"count\">(%s)</span> вакансій збігло"
+
+#: includes/class-wp-job-manager-post-types.php:398
+#: wp-job-manager-functions.php:360
+msgctxt "post status"
+msgid "Expired"
+msgstr "Збігла"
+
+#. translators: Placeholder %s is the plural label of the job listing post
+#. type.
+#: includes/class-wp-job-manager-post-types.php:363
+msgid "This is where you can create and manage %s."
+msgstr "Тут ви можете створювати і керувати %s."
+
+#. translators: Placeholder %s is the plural label of the job listing post
+#. type.
+#: includes/class-wp-job-manager-post-types.php:354
+msgid "No %s found in trash"
+msgstr "В кошику, не знайдено %s "
+
+#. translators: Placeholder %s is the singular label of the job listing post
+#. type.
+#: includes/class-wp-job-manager-post-types.php:352
+msgid "No %s found"
+msgstr "Не знайдено %s"
+
+#. translators: Placeholder %s is the singular label of the job listing post
+#. type.
+#: includes/class-wp-job-manager-post-types.php:344
+msgid "New %s"
+msgstr "Нову %s"
+
+#. translators: Placeholder %s is the singular label of the job listing post
+#. type.
+#: includes/class-wp-job-manager-post-types.php:339
+msgid "Add %s"
+msgstr "Додати %s"
+
+#: includes/class-wp-job-manager-post-types.php:304
+msgid "Jobs"
+msgstr "Вакансії"
+
+#: includes/class-wp-job-manager-post-types.php:303
+msgid "Job"
+msgstr "Вакансія"
+
+#: includes/admin/class-wp-job-manager-permalink-settings.php:126
+#: includes/class-wp-job-manager-post-types.php:1181
+msgctxt "Job type slug - resave permalinks after changing this"
+msgid "job-type"
+msgstr "job-type"
+
+#: includes/class-wp-job-manager-post-types.php:225
+msgid "Job types"
+msgstr "Типи зайнятості"
+
+#: includes/class-wp-job-manager-email-notifications.php:279
+#: includes/class-wp-job-manager-post-types.php:224
+#: includes/forms/class-wp-job-manager-form-submit-job.php:237
+msgid "Job type"
+msgstr "Тип зайнятості"
+
+#. translators: Placeholder %s is the singular label of the job listing
+#. category taxonomy type.
+#. translators: Placeholder %s is the singular label of the job listing job
+#. type taxonomy type.
+#: includes/class-wp-job-manager-post-types.php:203
+#: includes/class-wp-job-manager-post-types.php:266
+msgid "New %s Name"
+msgstr "Нова назва %s"
+
+#. translators: Placeholder %s is the singular label of the job listing
+#. category taxonomy type.
+#. translators: Placeholder %s is the singular label of the job listing job
+#. type taxonomy type.
+#: includes/class-wp-job-manager-post-types.php:201
+#: includes/class-wp-job-manager-post-types.php:264
+msgid "Add New %s"
+msgstr "Додати нову %s"
+
+#. translators: Placeholder %s is the singular label of the job listing
+#. category taxonomy type.
+#. translators: Placeholder %s is the singular label of the job listing job
+#. type taxonomy type.
+#: includes/class-wp-job-manager-post-types.php:199
+#: includes/class-wp-job-manager-post-types.php:262
+msgid "Update %s"
+msgstr "Оновити %s"
+
+#. translators: Placeholder %s is the singular label of the job listing
+#. category taxonomy type.
+#. translators: Placeholder %s is the singular label of the job listing job
+#. type taxonomy type.
+#. translators: Placeholder %s is the singular label of the job listing post
+#. type.
+#: includes/class-wp-job-manager-post-types.php:197
+#: includes/class-wp-job-manager-post-types.php:260
+#: includes/class-wp-job-manager-post-types.php:342
+msgid "Edit %s"
+msgstr "Редагувати %s"
+
+#. translators: Placeholder %s is the singular label of the job listing
+#. category taxonomy type.
+#. translators: Placeholder %s is the singular label of the job listing job
+#. type taxonomy type.
+#: includes/class-wp-job-manager-post-types.php:195
+#: includes/class-wp-job-manager-post-types.php:258
+msgid "Parent %s:"
+msgstr "Батьківська %s:"
+
+#. translators: Placeholder %s is the singular label of the job listing
+#. category taxonomy type.
+#. translators: Placeholder %s is the singular label of the job listing job
+#. type taxonomy type.
+#. translators: Placeholder %s is the singular label of the job listing post
+#. type.
+#: includes/class-wp-job-manager-post-types.php:193
+#: includes/class-wp-job-manager-post-types.php:256
+#: includes/class-wp-job-manager-post-types.php:356
+msgid "Parent %s"
+msgstr "Батьківська %s"
+
+#. translators: Placeholder %s is the plural label of the job listing category
+#. taxonomy type.
+#. translators: Placeholder %s is the plural label of the job listing job type
+#. taxonomy type.
+#. translators: Placeholder %s is the plural label of the job listing post
+#. type.
+#: includes/class-wp-job-manager-post-types.php:191
+#: includes/class-wp-job-manager-post-types.php:254
+#: includes/class-wp-job-manager-post-types.php:336
+msgid "All %s"
+msgstr "Всі %s"
+
+#. translators: Placeholder %s is the plural label of the job listing category
+#. taxonomy type.
+#. translators: Placeholder %s is the plural label of the job listing job type
+#. taxonomy type.
+#. translators: Placeholder %s is the singular label of the job listing post
+#. type.
+#: includes/class-wp-job-manager-post-types.php:189
+#: includes/class-wp-job-manager-post-types.php:252
+#: includes/class-wp-job-manager-post-types.php:350
+msgid "Search %s"
+msgstr "Пошук %s"
+
+#: includes/admin/class-wp-job-manager-permalink-settings.php:117
+#: includes/class-wp-job-manager-post-types.php:1180
+msgctxt "Job category slug - resave permalinks after changing this"
+msgid "job-category"
+msgstr "job-category"
+
+#: includes/class-wp-job-manager-post-types.php:161
+msgid "Job categories"
+msgstr "Категорії вакансій"
+
+#: includes/class-wp-job-manager-email-notifications.php:289
+#: includes/class-wp-job-manager-post-types.php:160
+#: includes/forms/class-wp-job-manager-form-submit-job.php:246
+msgid "Job category"
+msgstr "Категорія вакансії"
+
+#: includes/class-wp-job-manager-install.php:84
+msgid "Employer"
+msgstr "Роботодавець"
+
+#: includes/class-wp-job-manager-geocode.php:241
+#: includes/class-wp-job-manager-geocode.php:244
+msgid "Geocoding error"
+msgstr "Помилка Геокодингу"
+
+#: includes/class-wp-job-manager-geocode.php:237
+msgid "Query limit reached"
+msgstr "Ліміт запитів вичерпано"
+
+#: includes/class-wp-job-manager-geocode.php:234
+msgid "No results found"
+msgstr "Нічого не знайдено"
+
+#: includes/admin/class-wp-job-manager-writepanels.php:543
+msgid "Change"
+msgstr "Змінити"
+
+#: includes/admin/class-wp-job-manager-writepanels.php:539
+msgid "Guest User"
+msgstr "Гість"
+
+#: includes/admin/class-wp-job-manager-writepanels.php:294
+msgid "Add file"
+msgstr "Додати файл"
+
+#: includes/admin/class-wp-job-manager-writepanels.php:234
+#: includes/admin/class-wp-job-manager-writepanels.php:294
+msgid "Upload"
+msgstr "Завантажити"
+
+#: includes/admin/class-wp-job-manager-writepanels.php:233
+#: includes/admin/class-wp-job-manager-writepanels.php:294
+msgid "Use file"
+msgstr "Використати файл"
+
+#: includes/admin/class-wp-job-manager-writepanels.php:65
+#: includes/class-wp-job-manager-email-notifications.php:324
+msgid "Posted by"
+msgstr "Опублікував"
+
+#: includes/class-wp-job-manager-post-types.php:1579
+msgid "Listing Expiry Date"
+msgstr "Дата збігу вакансії"
+
+#: includes/class-wp-job-manager-post-types.php:1569
+msgid "Featured Listing"
+msgstr "Виділені вакансії"
+
+#: includes/class-wp-job-manager-post-types.php:1571
+msgid "Featured listings will be sticky during searches, and can be styled differently."
+msgstr "Виділенні вакансії будуть приліплені при пошуку вакансії, а також їх можна стилізувати по-іншому."
+
+#: includes/class-wp-job-manager-post-types.php:1566
+msgid "Filled listings will no longer accept applications."
+msgstr "Закриті вакансії більше не приймають відгуків."
+
+#: includes/class-wp-job-manager-post-types.php:1560
+msgid "Position Filled"
+msgstr "Вакансія закрита"
+
+#: includes/class-wp-job-manager-post-types.php:1551
+msgid "URL to the company video"
+msgstr "Посилання на відео компанії"
+
+#: includes/class-wp-job-manager-data-exporter.php:56
+#: includes/class-wp-job-manager-post-types.php:1550
+msgid "Company Video"
+msgstr "Відео компанії"
+
+#. translators: Placeholder %s is the singular label of the job listing post
+#. type.
+#: includes/class-wp-job-manager-data-exporter.php:51
+#: includes/class-wp-job-manager-post-types.php:357
+msgid "Company Logo"
+msgstr "Логотип компанії"
+
+#: includes/class-wp-job-manager-data-exporter.php:55
+#: includes/class-wp-job-manager-post-types.php:1542
+msgid "Company Twitter"
+msgstr "Twitter компанії"
+
+#: includes/class-wp-job-manager-post-types.php:1535
+msgid "Brief description about the company"
+msgstr "Кроткий опис компанії"
+
+#: includes/class-wp-job-manager-data-exporter.php:54
+#: includes/class-wp-job-manager-post-types.php:1534
+msgid "Company Tagline"
+msgstr "Слоган компанії"
+
+#: includes/class-wp-job-manager-data-exporter.php:53
+#: includes/class-wp-job-manager-post-types.php:1525
+msgid "Company Website"
+msgstr "Сайт компанії"
+
+#: includes/class-wp-job-manager-data-exporter.php:52
+#: includes/class-wp-job-manager-post-types.php:1517
+msgid "Company Name"
+msgstr "Назва компанії"
+
+#: includes/class-wp-job-manager-post-types.php:1509
+msgid "This field is required for the \"application\" area to appear beneath the listing."
+msgstr "Це поле необхідно для того щоб область \"відгуку\" з'явилася під вакансією."
+
+#: includes/class-wp-job-manager-post-types.php:1500
+msgid "Leave this blank if the location is not important."
+msgstr "Залиште це поле порожнім, якщо місце не важливо."
+
+#: includes/class-wp-job-manager-post-types.php:1499
+#: includes/forms/class-wp-job-manager-form-submit-job.php:226
+msgid "e.g. \"London\""
+msgstr "Наприклад \"Миколаїв\""
+
+#: includes/admin/views/html-admin-setup-step-3.php:72
+msgid "Help other users on the forums"
+msgstr "Допомогти іншим користувачам на форумах"
+
+#: includes/admin/views/html-admin-setup-step-3.php:71
+msgid "Contribute code or report a bug"
+msgstr "Внести код або повідомити про помилку"
+
+#: includes/admin/views/html-admin-setup-step-3.php:70
+msgid "Contribute a localization"
+msgstr "Сприяти локалізації"
+
+#: includes/admin/views/html-admin-setup-step-3.php:69
+msgid "Leave a positive review"
+msgstr "Залишити позитивний відгук"
+
+#: includes/admin/views/html-admin-setup-step-3.php:41
+msgid "View the job dashboard"
+msgstr "Перейти до управління вакансіями"
+
+#: includes/admin/views/html-admin-setup-step-3.php:23
+msgid "View submitted job listings"
+msgstr "Переглянути підтвердженні вакансії"
+
+#: includes/admin/views/html-admin-setup-step-3.php:32
+msgid "Add a job via the front-end"
+msgstr "Додати вакансію через фронт-енд"
+
+#: includes/admin/views/html-admin-setup-step-2.php:72
+msgid "Skip this step"
+msgstr "Пропустити цей крок"
+
+#: includes/admin/views/html-admin-setup-step-2.php:63
+msgctxt "Default page title (wizard)"
+msgid "Jobs"
+msgstr "Вакансії"
+
+#: includes/admin/views/html-admin-setup-step-2.php:55
+msgctxt "Default page title (wizard)"
+msgid "Job Dashboard"
+msgstr "Управління вакансіями"
+
+#: includes/admin/views/html-admin-setup-step-2.php:47
+msgctxt "Default page title (wizard)"
+msgid "Post a Job"
+msgstr "Розмістити вакансію"
+
+#: includes/admin/views/html-admin-setup-step-2.php:41
+msgid "Content Shortcode"
+msgstr "Шорткод контенту"
+
+#: includes/admin/views/html-admin-setup-step-2.php:40
+msgid "Page Description"
+msgstr "Опис сторінки"
+
+#: includes/admin/views/html-admin-setup-step-2.php:39
+msgid "Page Title"
+msgstr "Заголовок сторінки"
+
+#: includes/admin/views/html-admin-setup-step-2.php:12
+msgid "Page Setup"
+msgstr "Налаштування сторінок"
+
+#: includes/admin/views/html-admin-setup-step-1.php:30
+msgid "Skip setup. I will set up the plugin manually."
+msgstr "Пропустити налаштування. Я налаштую плагін в самостійно"
+
+#: includes/admin/views/html-admin-setup-header.php:22
+msgid "3. Done"
+msgstr "3. Готово"
+
+#: includes/admin/views/html-admin-setup-header.php:21
+msgid "2. Page Setup"
+msgstr "2. Налаштування сторінок"
+
+#: includes/admin/views/html-admin-setup-header.php:20
+msgid "1. Introduction"
+msgstr "1. Вступ"
+
+#: includes/admin/views/html-admin-setup-header.php:13
+msgid "WP Job Manager Setup"
+msgstr "Налаштування WP Job Manager"
+
+#: includes/admin/class-wp-job-manager-setup.php:58
+msgid "Setup"
+msgstr "Налаштування"
+
+#: includes/admin/class-wp-job-manager-settings.php:822
+msgid "Select a page&hellip;"
+msgstr "Виберіть сторінку&hellip;"
+
+#: includes/admin/class-wp-job-manager-settings.php:816
+msgid "--no page--"
+msgstr "--не вибрана--"
+
+#: includes/admin/class-wp-job-manager-settings.php:552
+msgid "Settings successfully saved"
+msgstr "Налаштування успішно збережено"
+
+#: includes/admin/class-wp-job-manager-settings.php:469
+msgid "Job Listings Page"
+msgstr "Сторінка списку вакансій"
+
+#: includes/admin/class-wp-job-manager-settings.php:462
+msgid "Job Dashboard Page"
+msgstr "Сторінка управління вакансіями"
+
+#: includes/admin/class-wp-job-manager-settings.php:455
+msgid "Submit Job Form Page"
+msgstr "Сторінка публікації вакансії"
+
+#: includes/admin/class-wp-job-manager-settings.php:395
+msgid "Website URLs only"
+msgstr "Тільки посилання на сайт"
+
+#: includes/admin/class-wp-job-manager-settings.php:394
+msgid "Email addresses only"
+msgstr "Тільки ел. пошта"
+
+#: includes/admin/class-wp-job-manager-settings.php:393
+msgid "Email address or website URL"
+msgstr "Ел. пошта або посилання на сайт"
+
+#: includes/admin/class-wp-job-manager-settings.php:389
+msgid "Application Method"
+msgstr "Спосіб відгуку"
+
+#: includes/admin/class-wp-job-manager-settings.php:374
+msgid "Listing Duration"
+msgstr "Термін публікації"
+
+#: includes/admin/class-wp-job-manager-settings.php:351
+msgid "Allow Pending Edits"
+msgstr "Дозволяти відкладене редагування"
+
+#: includes/admin/class-wp-job-manager-settings.php:342
+msgid "Moderate New Listings"
+msgstr "Редагувати вакансії що надійшли"
+
+#: includes/admin/class-wp-job-manager-settings.php:334
+msgid "Account Role"
+msgstr "Роль облікового запису"
+
+#: includes/admin/class-wp-job-manager-settings.php:316
+msgid "Account Username"
+msgstr "Ім'я користувача"
+
+#: includes/admin/class-wp-job-manager-settings.php:307
+msgid "Account Creation"
+msgstr "Створення облікового запису"
+
+#: includes/admin/class-wp-job-manager-settings.php:298
+msgid "Account Required"
+msgstr "Потрібно обліковий запис"
+
+#: includes/admin/class-wp-job-manager-settings.php:293
+msgid "Job Submission"
+msgstr "Публікація вакансії"
+
+#: includes/admin/class-wp-job-manager-settings.php:205
+msgid "Jobs will be shown if within ALL selected categories"
+msgstr "Вакансії будуть показані, В УСІХ вибраних категоріях"
+
+#: includes/admin/class-wp-job-manager-settings.php:204
+msgid "Jobs will be shown if within ANY selected category"
+msgstr "Вакансії будуть показані, В БУДЬ-ЯКІЙ з обраних категорій"
+
+#: includes/admin/class-wp-job-manager-settings.php:200
+msgid "Category Filter Type"
+msgstr "Тип фільтру категорій"
+
+#: includes/admin/class-wp-job-manager-settings.php:191
+msgid "Multi-select Categories"
+msgstr "Множинний вибір категорій"
+
+#: includes/admin/class-wp-job-manager-settings.php:137
+msgid "Listings Per Page"
+msgstr "Вакансій на сторінці"
+
+#: includes/admin/class-wp-job-manager-settings.php:131
+#: includes/class-wp-job-manager-post-types.php:334
+#: includes/class-wp-job-manager-post-types.php:437
+msgid "Job Listings"
+msgstr "Вакансії"
+
+#: includes/admin/class-wp-job-manager-cpt.php:637
+msgid "Approve"
+msgstr "Схвалити"
+
+#. translators: %s placeholder is the username of the user.
+#: includes/admin/class-wp-job-manager-cpt.php:617
+msgid "by a guest"
+msgstr "від гостя"
+
+#. translators: %d is the post ID for the job listing.
+#: includes/admin/class-wp-job-manager-cpt.php:573
+msgid "ID: %d"
+msgstr "ID: %d"
+
+#: includes/admin/class-wp-job-manager-cpt.php:508
+msgid "Actions"
+msgstr "Дії"
+
+#: includes/admin/class-wp-job-manager-cpt.php:507
+#: includes/class-wp-job-manager-shortcodes.php:395
+msgid "Filled?"
+msgstr "Закрита?"
+
+#: includes/admin/class-wp-job-manager-cpt.php:506
+msgid "Featured?"
+msgstr "Виділена?"
+
+#: includes/admin/class-wp-job-manager-cpt.php:504
+msgid "Expires"
+msgstr "Збіглі"
+
+#: includes/admin/class-wp-job-manager-cpt.php:503
+msgid "Posted"
+msgstr "Опубліковано"
+
+#. translators: %1$s is the singular name of the job listing post type; %2$s is
+#. the URL to view the listing.
+#: includes/admin/class-wp-job-manager-cpt.php:480
+msgid "%1$s draft updated. <a target=\"_blank\" href=\"%2$s\">Preview</a>"
+msgstr "%1$s чернетка оновлена. <a target=\"_blank\" href=\"%2$s\">Переглянути</a>"
+
+#. translators: %1$s is the singular name of the post type; %2$s is the date
+#. the post will be published; %3$s is the URL to preview the listing.
+#: includes/admin/class-wp-job-manager-cpt.php:474
+msgid "%1$s scheduled for: <strong>%2$s</strong>. <a target=\"_blank\" href=\"%3$s\">Preview</a>"
+msgstr "%1$s заплановано на: <strong>%2$s</strong>. <a target=\"_blank\" href=\"%3$s\">Переглянути</a>"
+
+#. translators: %1$s is the singular name of the job listing post type; %2$s is
+#. the URL to preview the listing.
+#: includes/admin/class-wp-job-manager-cpt.php:471
+msgid "%1$s submitted. <a target=\"_blank\" href=\"%2$s\">Preview</a>"
+msgstr "%1$s надіслано на схвалення. <a target=\"_blank\" href=\"%2$s\">Переглянути</a>"
+
+#. translators: %1$s is the singular name of the job listing post type; %2$s is
+#. the URL to view the listing.
+#: includes/admin/class-wp-job-manager-cpt.php:469
+msgid "%s saved."
+msgstr "%s збережено."
+
+#. translators: %1$s is the singular name of the job listing post type; %2$s is
+#. the URL to view the listing.
+#: includes/admin/class-wp-job-manager-cpt.php:467
+msgid "%1$s published. <a href=\"%2$s\">View</a>"
+msgstr "%1$s опубліковано. <a href=\"%2$s\">Переглянути</a>"
+
+#. translators: %1$s is the singular name of the job listing post type; %2$s is
+#. the revision number.
+#: includes/admin/class-wp-job-manager-cpt.php:465
+msgid "%1$s restored to revision from %2$s"
+msgstr "%1$s відновлено з ревізії %2$s"
+
+#. translators: %s is the singular name of the job listing post type.
+#: includes/admin/class-wp-job-manager-cpt.php:463
+msgid "%s updated."
+msgstr "%s оновлено."
+
+#: includes/admin/class-wp-job-manager-cpt.php:461
+msgid "Custom field deleted."
+msgstr "Користувацьке поле видалено."
+
+#. translators: %1$s is the singular name of the job listing post type; %2$s is
+#. the URL to view the listing.
+#: includes/admin/class-wp-job-manager-cpt.php:460
+msgid "Custom field updated."
+msgstr "Користувацьке поле оновлено."
+
+#. translators: %1$s is the singular name of the job listing post type; %2$s is
+#. the URL to view the listing.
+#: includes/admin/class-wp-job-manager-cpt.php:459
+msgid "%1$s updated. <a href=\"%2$s\">View</a>"
+msgstr "%1$s оновлено. <a href=\"%2$s\">Переглянути</a>"
+
+#. translators: Placeholder (%s) is the plural name of the job listings post
+#. type.
+#: includes/admin/class-wp-job-manager-cpt.php:90
+msgid "%s expired"
+msgstr "%s збігли"
+
+#. translators: Placeholder (%s) is the plural name of the job listings post
+#. type.
+#: includes/admin/class-wp-job-manager-cpt.php:83
+msgid "%s approved"
+msgstr "%s схвалені"
+
+#. translators: Placeholder (%s) is the plural name of the job listings post
+#. type.
+#: includes/admin/class-wp-job-manager-cpt.php:88
+msgid "Expire %s"
+msgstr "Збігає %s"
+
+#. translators: Placeholder (%s) is the plural name of the job listings post
+#. type.
+#: includes/admin/class-wp-job-manager-cpt.php:81
+msgid "Approve %s"
+msgstr "Схвалено %s"
+
+#: includes/admin/class-wp-job-manager-admin.php:141
+msgid "Add-ons"
+msgstr "Доповнення"
+
+#: includes/admin/class-wp-job-manager-addons.php:96
+#: includes/admin/class-wp-job-manager-admin.php:141
+#: includes/admin/views/html-admin-page-addons.php:12
+msgid "WP Job Manager Add-ons"
+msgstr "Доповнення WP Job Manager"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:87
+msgid "Submit Details"
+msgstr "Зберегти деталі"
+
+#. translators: Placeholder %s is the singular name for a job listing post
+#. type.
+#: includes/admin/class-wp-job-manager-writepanels.php:154
+msgid "%s Data"
+msgstr "%s Дата"
+
+#: includes/admin/class-wp-job-manager-cpt.php:341
+msgid "Select category"
+msgstr "Категорія"
+
+#: includes/admin/class-wp-job-manager-settings.php:155
+msgid "Filled Positions"
+msgstr "Зайняті вакансії"
+
+#: includes/admin/class-wp-job-manager-settings.php:156
+msgid "Hide filled positions"
+msgstr "Приховати зайняті вакансії"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:309
+msgid "Tagline"
+msgstr "Ключова фраза"
+
+#. translators: %s placeholder is the username of the user.
+#: includes/admin/class-wp-job-manager-cpt.php:617
+msgid "by %s"
+msgstr "Автор: %s"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:99
+msgid "Done"
+msgstr "Готово"
+
+#: includes/admin/class-wp-job-manager-cpt.php:500
+msgid "Type"
+msgstr "Тип"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:93
+#: includes/forms/class-wp-job-manager-form-submit-job.php:670
+#: templates/job-preview.php:30
+msgid "Preview"
+msgstr "Попередній перегляд"
+
+#: includes/admin/class-wp-job-manager-cpt.php:645
+#: includes/admin/class-wp-job-manager-writepanels.php:244
+#: includes/admin/class-wp-job-manager-writepanels.php:294
+msgid "View"
+msgstr "Дивитися"
+
+#: includes/forms/class-wp-job-manager-form-edit-job.php:136
+msgid "Save changes"
+msgstr "Зберегти зміни"
+
+#: includes/admin/class-wp-job-manager-cpt.php:439
+#: includes/admin/class-wp-job-manager-cpt.php:499
+msgid "Position"
+msgstr "Розташування"
+
+#: includes/admin/class-wp-job-manager-cpt.php:501
+#: includes/class-wp-job-manager-email-notifications.php:270
+#: includes/class-wp-job-manager-post-types.php:1498
+#: includes/forms/class-wp-job-manager-form-submit-job.php:222
+#: includes/widgets/class-wp-job-manager-widget-recent-jobs.php:46
+#: templates/job-filters.php:35 templates/job-filters.php:36
+#: templates/job-filters.php:41
+msgid "Location"
+msgstr "Розташування"
+
+#. translators: Placeholder %s is the plural label of the job listing post
+#. type.
+#: includes/class-wp-job-manager-post-types.php:337
+msgid "Add New"
+msgstr "Додати новий"
+
+#: includes/class-wp-job-manager-shortcodes.php:396
+msgid "Date Posted"
+msgstr "Дата опублікування"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:215
+msgid "Job Title"
+msgstr "Назва посади"
+
+#: includes/admin/class-wp-job-manager-settings.php:577
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+#: includes/forms/class-wp-job-manager-form-submit-job.php:301
+#: templates/content-single-job_listing-company.php:31
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: includes/class-wp-job-manager-post-types.php:1163
+msgctxt "Post type archive slug - resave permalinks after changing this"
+msgid "jobs"
+msgstr "jobs"
+
+#: includes/admin/class-wp-job-manager-permalink-settings.php:108
+#: includes/class-wp-job-manager-post-types.php:1179
+msgctxt "Job permalink - resave permalinks after changing this"
+msgid "job"
+msgstr "job"

@@ -1,0 +1,5557 @@
+# Translation of Plugins - Ultimate Member – User Profile, Registration, Login, Member Directory, Content Restriction &amp; Membership Plugin - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Ultimate Member – User Profile, Registration, Login, Member Directory, Content Restriction &amp; Membership Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-09-28 05:04:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Ultimate Member – User Profile, Registration, Login, Member Directory, Content Restriction &amp; Membership Plugin - Stable (latest release)\n"
+
+#: includes/admin/core/packages/2.1.17-alpha/functions.php:43
+msgid "View Item"
+msgstr "項目を表示"
+
+#: includes/admin/core/packages/2.1.17-alpha/functions.php:36
+msgid "Parent Item:"
+msgstr "親項目:"
+
+#: includes/admin/core/packages/2.1.17-alpha/functions.php:46
+msgid "Not found"
+msgstr "見つかりません"
+
+#: includes/admin/core/packages/2.1.17-alpha/functions.php:40
+msgid "New Item"
+msgstr "新規項目"
+
+#: includes/admin/core/packages/2.1.17-alpha/functions.php:38
+msgid "Add New Item"
+msgstr "新規項目を追加"
+
+#: includes/class-config.php:523
+msgid "Are you sure you want to delete your account? This will erase all of your account data from the site. To delete your account enter your password below."
+msgstr "アカウントを削除してもよいですか ? 実行するとサイトからすべてのアカウントデータが消去されます。削除するには以下にパスワードを入力してください"
+
+#: templates/modal/um_view_photo.php:16
+msgid "Close view photo modal"
+msgstr "写真モーダルを閉じる"
+
+#: includes/core/um-actions-account.php:611
+msgid "Download Personal Data"
+msgstr "個人データをダウンロード"
+
+#: templates/members-pagination.php:29
+msgid "Previous page"
+msgstr "前のページ"
+
+#: templates/members-pagination.php:35
+msgid "Next page"
+msgstr "次のページ"
+
+#: templates/members-pagination.php:28
+msgid "First page"
+msgstr "最初の固定ページ"
+
+#: includes/core/um-actions-account.php:753
+#: includes/core/um-actions-account.php:760
+msgid "The password you entered is incorrect."
+msgstr "入力されたパスワードが間違っています。"
+
+#: includes/class-config.php:243
+msgid "Update Profile"
+msgstr "プロフィールを更新"
+
+#: templates/members.php:294
+msgid "Sort by:"
+msgstr "並び順:"
+
+#: templates/members.php:253
+msgid "Search:"
+msgstr "検索:"
+
+#: templates/members-pagination.php:22
+msgid "of"
+msgstr "/"
+
+#: includes/core/class-member-directory.php:307
+msgid "List"
+msgstr "リスト"
+
+#: includes/core/class-member-directory.php:306
+msgid "Grid"
+msgstr "グリッド"
+
+#: includes/admin/core/class-admin-builder.php:548
+msgid "(no title)"
+msgstr "(タイトルなし)"
+
+#: includes/admin/core/class-admin-metabox.php:829
+msgid "Sorting"
+msgstr "並べ替え"
+
+#: templates/members.php:340
+msgid "Remove filter"
+msgstr "フィルター解除"
+
+#: includes/core/class-member-directory.php:317
+msgid "Last name"
+msgstr "姓"
+
+#: templates/members.php:367
+msgid "Clear all"
+msgstr "すべてクリア"
+
+#: includes/admin/core/class-admin-metabox.php:1894
+#: includes/admin/core/class-admin-metabox.php:1904
+msgid "YYYY/MM/DD"
+msgstr "YYYY/MM/DD"
+
+#: includes/admin/core/class-admin-metabox.php:1856
+msgid "Wednesday"
+msgstr "水曜日"
+
+#: includes/admin/core/class-admin-metabox.php:1855
+msgid "Tuesday"
+msgstr "火曜日"
+
+#: includes/admin/core/class-admin-metabox.php:1857
+msgid "Thursday"
+msgstr "木曜日"
+
+#: includes/admin/core/class-admin-metabox.php:1681
+msgid "Text Color"
+msgstr "文字色"
+
+#: includes/admin/core/class-admin-metabox.php:1853
+msgid "Sunday"
+msgstr "日曜日"
+
+#: includes/admin/core/class-admin-metabox.php:2066
+msgid "Spacing"
+msgstr "間隔"
+
+#: includes/admin/core/class-admin-metabox.php:1598
+#: includes/admin/core/class-admin-metabox.php:1769
+msgid "Solid"
+msgstr "単色"
+
+#: includes/admin/core/class-admin-metabox.php:1859
+msgid "Saturday"
+msgstr "土曜日"
+
+#: includes/admin/core/class-admin-metabox.php:2305
+msgid "Placeholder"
+msgstr "プレースホルダー"
+
+#: includes/admin/core/class-admin-metabox.php:1566
+msgid "Padding"
+msgstr "パディング"
+
+#: includes/admin/core/class-admin-metabox.php:1854
+msgid "Monday"
+msgstr "月曜日"
+
+#: includes/admin/core/class-admin-metabox.php:1721
+msgid "Link Target"
+msgstr "リンクターゲット"
+
+#: includes/admin/core/class-admin-forms.php:1685
+#: includes/admin/core/class-admin-forms.php:1707
+#: includes/admin/core/class-admin-metabox.php:2285
+#: includes/admin/assets/js/um-admin-forms.js:302
+msgid "Label"
+msgstr "ラベル"
+
+#: includes/admin/core/class-admin-metabox.php:1858
+msgid "Friday"
+msgstr "金曜日"
+
+#: includes/admin/core/class-admin-metabox.php:1600
+#: includes/admin/core/class-admin-metabox.php:1771
+msgid "Dashed"
+msgstr "破線"
+
+#: includes/admin/core/class-admin-metabox.php:1701
+msgid "Color"
+msgstr "色"
+
+#: includes/admin/core/class-admin-metabox.php:1586
+msgid "Border"
+msgstr "枠線"
+
+#: includes/admin/core/class-admin-builder.php:920
+#: includes/admin/core/class-admin-metabox.php:2218
+#: includes/admin/core/class-admin-metabox.php:2224
+msgid "Meta Key"
+msgstr "メタキー"
+
+#: includes/admin/core/class-admin-metabox.php:1599
+#: includes/admin/core/class-admin-metabox.php:1770
+msgid "Dotted"
+msgstr "ドット"
+
+#: includes/admin/core/class-admin-metabox.php:1621
+msgid "Border Color"
+msgstr "枠線の色"
+
+#: includes/admin/core/class-admin-metabox.php:1601
+#: includes/admin/core/class-admin-metabox.php:1772
+msgid "Double"
+msgstr "ダブル"
+
+#: includes/admin/core/class-admin-metabox.php:1304
+msgid "Visibility"
+msgstr "表示状態"
+
+#: includes/admin/core/class-admin-metabox.php:1807
+msgid "Time Format"
+msgstr "時刻形式"
+
+#: includes/admin/core/class-admin-metabox.php:1724
+msgid "Same window"
+msgstr "同一ウィンドウ"
+
+#: includes/admin/core/class-admin-metabox.php:1576
+msgid "Margin"
+msgstr "マージン"
+
+#: includes/admin/core/class-admin-metabox.php:1691
+msgid "Icon Color"
+msgstr "アイコンの色"
+
+#: includes/admin/core/class-admin-metabox.php:1481
+#: includes/admin/core/class-admin-metabox.php:1509
+msgid "Icon"
+msgstr "アイコン"
+
+#: includes/admin/core/class-admin-metabox.php:1536
+msgid "CSS Class"
+msgstr "CSS クラス"
+
+#: includes/admin/core/class-admin-metabox.php:1939
+msgid "Content Editor"
+msgstr "コンテンツエディター"
+
+#: includes/admin/core/class-admin-metabox.php:1611
+msgid "Border Radius"
+msgstr "枠線の丸み"
+
+#: includes/admin/core/class-admin-metabox.php:2273
+msgid "Default Value"
+msgstr "初期値"
+
+#: includes/admin/core/class-admin-notices.php:260
+msgid "View Pricing"
+msgstr "価格を表示"
+
+#. translators: %s: Restricted post message.
+#. translators: %s: The message after registration process based on a role data
+#. and user status after registration
+#. translators: %s: Restricted blog page message.
+#. translators: %s: Restricted taxonomy message.
+#: includes/core/class-access.php:737 includes/core/class-fields.php:1537
+#: includes/core/um-actions-account.php:510 templates/message.php:23
+#: templates/restricted-blog.php:41 templates/restricted-taxonomy.php:59
+msgid "%s"
+msgstr "%s"
+
+#: templates/password-reset.php:69
+msgid "Your password reset link has expired. Please request a new link below."
+msgstr "パスワードリセット用リンクの期限が切れています。以下から新しいリンクをリクエストしてください。"
+
+#: templates/password-reset.php:71
+msgid "Your password reset link appears to be invalid. Please request a new link below."
+msgstr "パスワードリセット用リンクが無効のようです。以下から新しいリンクをリクエストしてください。"
+
+#: includes/core/class-fields.php:3031
+msgid "Upload File"
+msgstr "ファイルをアップロード"
+
+#: includes/core/class-plugin-updater.php:330
+msgid "https://wordpress.org/support/"
+msgstr "https://ja.wordpress.org/support/"
+
+#: includes/core/um-actions-form.php:580
+msgid "This field is required"
+msgstr "このフィールドは必須です"
+
+#: includes/admin/templates/gdpr.php:33
+msgid "Where we send your data"
+msgstr "あなたのデータの送信先"
+
+#: includes/admin/templates/gdpr.php:20
+msgid "How long we retain your data"
+msgstr "データを保存する期間"
+
+#: includes/admin/templates/modal/forms/fonticons.php:13
+msgid "Finish"
+msgstr "完了"
+
+#: includes/class-init.php:163 includes/class-init.php:172
+msgid "Cheatin&#8217; huh?"
+msgstr "間違えましたか ?"
+
+#: includes/admin/core/class-admin-metabox.php:2315
+#: includes/class-config.php:125 includes/class-config.php:794
+msgid "Members"
+msgstr "会員"
+
+#: includes/admin/templates/role/wp-capabilities.php:41
+#: includes/admin/templates/role/wp-capabilities.php:49
+msgid "Check All"
+msgstr "すべてチェック"
+
+#: includes/admin/templates/role/role-edit.php:193
+msgid "Add New Role"
+msgstr "新規権限グループを追加"
+
+#: includes/admin/core/class-admin-settings.php:2801
+#: includes/admin/core/class-admin-settings.php:2911
+msgid "Your license key has reached its activation limit. <a href=\"%s\">View possible upgrades</a> now."
+msgstr "ライセンスキーがアクティベーションの上限に達しました。 <a href=\"%s\">ライセンスのアップグレードを確認</a>してください。"
+
+#: includes/admin/core/class-admin-settings.php:2755
+#: includes/admin/core/class-admin-settings.php:2865
+msgid "Your license key has been disabled. Please <a href=\"%s\" target=\"_blank\">contact support</a> for more information."
+msgstr "ライセンスキーが無効になっています。 詳細については、<a href=\"%s\" target=\"_blank\">サポートにお問い合わせください</a>。"
+
+#: includes/admin/core/class-admin-settings.php:2952
+msgid "Your license key expires on %s."
+msgstr "ライセンスキーは %s で有効期限切れになります。"
+
+#: includes/admin/core/class-admin-settings.php:2742
+#: includes/admin/core/class-admin-settings.php:2852
+msgid "Your license key expired on %s. Please <a href=\"%s\" target=\"_blank\">renew your license key</a>."
+msgstr "ライセンスキーが %s で有効期限切れになりました。 <a href=\"%s\" target=\"_blank\">ライセンスキーを更新</a>してください。"
+
+#: includes/admin/templates/gdpr.php:4
+msgid "What personal data we collect and why we collect it"
+msgstr "このサイトが収集する個人データと収集の理由"
+
+#: includes/admin/core/class-admin-upgrade.php:243
+msgid "Upgrade"
+msgstr "アップグレード"
+
+#: includes/admin/core/class-admin-settings.php:2818
+#: includes/admin/core/class-admin-settings.php:2826
+#: includes/admin/core/class-admin-settings.php:2838
+msgid "unknown_error"
+msgstr "unknown_error"
+
+#: includes/admin/core/class-admin-settings.php:2970
+msgid "To receive updates, please enter your valid %s license key."
+msgstr "アップデートを受け取るには、有効な %s ライセンスキーを入力してください。"
+
+#: includes/admin/core/class-admin-settings.php:2792
+#: includes/admin/core/class-admin-settings.php:2902
+msgid "This appears to be an invalid license key for %s."
+msgstr "この %s のライセンスキーは無効なようです。"
+
+#: includes/admin/core/list-tables/roles-list-table.php:465
+msgid "Role"
+msgstr "権限グループ"
+
+#: includes/admin/core/class-admin-settings.php:1830
+msgid "Remove Data on Uninstall?"
+msgstr "アンインストール時にデータを削除しますか ?"
+
+#: includes/admin/core/list-tables/roles-list-table.php:483
+msgid "Priority"
+msgstr "優先順位"
+
+#: includes/admin/templates/extensions.php:209
+msgid "Premium"
+msgstr "プレミアム"
+
+#: includes/admin/core/class-admin-settings.php:982
+msgid "Pages"
+msgstr "固定ページ"
+
+#: includes/admin/core/class-admin-settings.php:1289
+msgid "Other"
+msgstr "その他"
+
+#: includes/admin/templates/extensions.php:243
+#: includes/admin/templates/extensions.php:272
+msgid "More Details"
+msgstr "詳細情報"
+
+#: includes/admin/core/class-admin-settings.php:1773
+msgid "Misc"
+msgstr "その他"
+
+#: includes/admin/core/class-admin-settings.php:2935
+msgid "License key never expires."
+msgstr "ライセンスキーは失効することはありません。"
+
+#: includes/admin/core/list-tables/emails-list-table.php:71
+#: includes/admin/core/list-tables/roles-list-table.php:222
+#: includes/admin/core/list-tables/version-template-list-table.php:31
+msgid "items"
+msgstr "項目"
+
+#: includes/admin/core/class-admin-settings.php:2767
+#: includes/admin/core/class-admin-settings.php:2877
+msgid "Invalid license. Please <a href=\"%s\" target=\"_blank\">visit your account page</a> and verify it."
+msgstr "ライセンスが無効です。 <a href=\"%s\" target=\"_blank\">アカウントページにアクセス</a>して確認してください。"
+
+#: includes/admin/templates/extensions.php:214
+msgid "Free"
+msgstr "無料"
+
+#: includes/admin/core/list-tables/emails-list-table.php:280
+msgid "Email Notifications"
+msgstr "メール通知"
+
+#: includes/admin/core/list-tables/emails-list-table.php:279
+msgid "Email Notification"
+msgstr "メール通知"
+
+#: includes/admin/core/class-admin-builder.php:553
+#: includes/admin/core/list-tables/roles-list-table.php:387
+msgid "Edit"
+msgstr "編集"
+
+#: includes/admin/core/class-admin-settings.php:2942
+msgid "Your license key expires soon! It expires on %s. <a href=\"%s\" target=\"_blank\">Renew your license key</a>."
+msgstr "ライセンスキーの有効期限がもうすぐ切れます。期限は%sです。<a href=\"%s\" target=\"_blank\">ライセンスキーを更新</a>してください。"
+
+#: includes/admin/core/class-admin-settings.php:2780
+#: includes/admin/core/class-admin-settings.php:2890
+msgid "Your %s is not active for this URL. Please <a href=\"%s\" target=\"_blank\">visit your account page</a> to manage your license key URLs."
+msgstr "あなたの %s はこの URL に対して有効ではありません。ライセンスキーの URL を管理するには<a href=\"%s\" target=\"_blank\">アカウントページへ移動してください</a>。"
+
+#: includes/admin/core/class-admin-settings.php:2819
+#: includes/admin/core/class-admin-settings.php:2827
+msgid "There was an error with this license key: %s. Please <a href=\"%s\">contact our support team</a>."
+msgstr "このライセンスキー %s でエラーが発生しました。<a href=\"%s\">サポートチームまでご連絡</a>ください。"
+
+#: includes/admin/core/class-admin-settings.php:2810
+#: includes/admin/core/class-admin-settings.php:2920
+msgid "The key you entered belongs to a bundle, please use the product specific license key."
+msgstr "入力したキーはバンドルに属します。商品固有のライセンスキーを使用してください。"
+
+#: includes/admin/core/class-admin-forms.php:1011
+#: includes/admin/core/class-admin-upgrade.php:261
+msgid "Run"
+msgstr "実行"
+
+#: includes/admin/core/list-tables/emails-list-table.php:310
+msgid "Recipient(s)"
+msgstr "受取人"
+
+#: includes/admin/core/list-tables/emails-list-table.php:70
+#: includes/admin/core/list-tables/roles-list-table.php:221
+#: includes/admin/core/list-tables/version-template-list-table.php:30
+msgid "item"
+msgstr "項目"
+
+#: includes/admin/templates/form/register_gdpr.php:38
+msgid "Content"
+msgstr "コンテンツ"
+
+#: includes/admin/templates/directory/sorting.php:69
+#: includes/admin/templates/form/profile_settings.php:29
+msgid "Add New Field"
+msgstr "新規フィールドを追加"
+
+#. translators: %s: Page title
+#: includes/admin/core/class-admin-settings.php:285
+#: includes/admin/core/class-admin-settings.php:295
+msgid "%s page"
+msgstr "%sページ"
+
+#: includes/admin/core/class-admin-notices.php:378
+msgid "No thanks"
+msgstr "結構です"
+
+#: includes/admin/core/class-admin-forms.php:1376
+#: includes/admin/assets/js/um-admin-forms.js:724
+msgid "Select"
+msgstr "選択"
+
+#: includes/admin/core/class-admin-metabox.php:917
+msgid "Publish"
+msgstr "公開"
+
+#: includes/admin/core/class-admin-gdpr.php:42
+msgid "Privacy Policy"
+msgstr "プライバシーポリシー"
+
+#: includes/admin/core/class-admin-forms.php:1377
+msgid "Clear"
+msgstr "クリア"
+
+#: includes/admin/core/class-admin-forms.php:558
+#: includes/admin/core/class-admin-metabox.php:1485
+#: includes/admin/core/class-admin-metabox.php:1513
+#: includes/admin/assets/js/um-admin-modal.js:415
+#: includes/admin/assets/js/um-admin-modal.js:419
+msgid "No Icon"
+msgstr "アイコンなし"
+
+#: includes/admin/core/class-admin-settings.php:1039
+msgid "Enable Members Directory"
+msgstr "メンバーディレクトリを有効にする"
+
+#: includes/admin/core/class-admin-settings.php:1056
+msgid "Mystery Man"
+msgstr "ミステリーマン"
+
+#: includes/admin/core/class-admin-settings.php:1060
+msgid "Retro"
+msgstr "レトロ"
+
+#: includes/admin/core/class-admin-settings.php:1119
+msgid "Password Account Tab"
+msgstr "パスワードアカウントのタブ"
+
+#: includes/admin/core/class-admin-settings.php:1125
+msgid "Privacy Account Tab"
+msgstr "プライバシーアカウントのタブ"
+
+#: includes/admin/core/class-admin-settings.php:1131
+msgid "Notifications Account Tab"
+msgstr "通知アカウントのタブ"
+
+#: includes/admin/core/class-admin-settings.php:1137
+msgid "Delete Account Tab"
+msgstr "削除アカウントのタブ"
+
+#: includes/admin/core/class-admin-settings.php:1143
+msgid "Account Deletion Custom Text"
+msgstr "アカウント削除のカスタムテキスト"
+
+#: includes/admin/core/class-admin-settings.php:1193
+msgid "Allow users to hide their profiles from directory"
+msgstr "ユーザーがディレクトリからプロフィールを非表示にすることを許可する"
+
+#: includes/admin/core/class-admin-settings.php:1194
+msgid "Whether to allow users changing their profile visibility from member directory in account page."
+msgstr "ユーザーがアカウントページのメンバーディレクトリからプロフィールの表示を変更できるようにするかどうか"
+
+#: includes/admin/core/class-admin-settings.php:1282
+msgid "Access"
+msgstr "アクセス"
+
+#: includes/admin/core/class-admin-settings.php:485
+msgid "Global Site Access"
+msgstr "グローバルサイトアクセス"
+
+#: includes/admin/core/class-admin-settings.php:512
+msgid "Allow Homepage to be accessible"
+msgstr "ホームページにアクセスできるようにする"
+
+#: includes/admin/core/class-admin-settings.php:1299
+msgid "Reset Password Limit"
+msgstr "パスワードリセット回数の上限"
+
+#: includes/admin/core/class-admin-settings.php:1300
+msgid "Set the maximum reset password limit. If reached the maximum limit, user will be locked from using this."
+msgstr "パスワードリセット回数の最大上限を設定します。 最大限度に達すると、ユーザーはこの機能によりロックされます。"
+
+#: includes/admin/core/class-admin-settings.php:1321
+msgid "This option lets you specify blacklist of words to prevent anyone from signing up with such a word as their username"
+msgstr "このオプションを使用すると、ブラックリストの単語を指定し、そのユーザー名などの単語で新規登録できないようにします"
+
+#: includes/admin/core/class-admin-settings.php:1351
+msgid "Mail appears from"
+msgstr "メールの送信者名"
+
+#: includes/admin/core/class-admin-settings.php:1352
+msgid "e.g. Site Name"
+msgstr "例: サイト名"
+
+#: includes/admin/core/class-admin-settings.php:1357
+msgid "Mail appears from address"
+msgstr "メールの送信アドレス"
+
+#: includes/admin/core/class-admin-settings.php:1346
+#: includes/admin/core/class-admin-settings.php:1358
+msgid "e.g. admin@companyname.com"
+msgstr "例: admin@companyname.com"
+
+#: includes/admin/core/class-admin-settings.php:2683
+msgid "Subject Line"
+msgstr "件名"
+
+#: includes/admin/core/class-admin-settings.php:2690
+msgid "Message Body"
+msgstr "メッセージ本文"
+
+#: includes/class-config.php:349
+msgid "Account Activation Email"
+msgstr "アカウントの有効化メール"
+
+#: includes/class-config.php:404
+msgid "Account Deactivated Email"
+msgstr "アカウントの無効化メール"
+
+#: includes/class-config.php:417
+msgid "Account Deleted Email"
+msgstr "アカウントの削除メール"
+
+#: includes/class-config.php:470
+msgid "New User Notification"
+msgstr "新規ユーザーの通知"
+
+#: includes/class-config.php:482
+msgid "Account Needs Review Notification"
+msgstr "アカウント承認申請の通知"
+
+#: includes/class-config.php:489
+msgid "Whether to receive notification when an account needs admin review"
+msgstr "アカウントに管理者による承認が必要な時に通知を受け取るかどうか"
+
+#: includes/class-config.php:494
+msgid "Account Deletion Notification"
+msgstr "アカウント削除の通知"
+
+#: includes/class-config.php:497
+msgid "Whether to receive notification when an account is deleted"
+msgstr "アカウントが削除された時に通知を受け取るかどうか"
+
+#: includes/admin/core/class-admin-settings.php:1212
+msgid "Uploads"
+msgstr "アップロード"
+
+#: includes/admin/core/class-admin-settings.php:1218
+msgid "Profile Photo Maximum File Size (bytes)"
+msgstr "プロフィール写真の最大ファイルサイズ (bytes)"
+
+#: includes/admin/core/class-admin-settings.php:1219
+msgid "Sets a maximum size for the uploaded photo"
+msgstr "アップロードした写真の最大サイズを設定します"
+
+#: includes/admin/core/class-admin-settings.php:1225
+msgid "Cover Photo Maximum File Size (bytes)"
+msgstr "カバー写真の最大ファイルサイズ (bytes)"
+
+#: includes/admin/core/class-admin-settings.php:1233
+msgid "Here you can define which thumbnail sizes will be created for each profile photo upload."
+msgstr "プロフィール写真のアップロードごとに作成するサムネイルサイズを定義します。"
+
+#: includes/admin/core/class-admin-settings.php:1235
+#: includes/admin/core/class-admin-settings.php:1245
+msgid "Add New Size"
+msgstr "新しいサイズを追加"
+
+#: includes/admin/core/class-admin-settings.php:1242
+msgid "Cover Photo Thumbnail Sizes (px)"
+msgstr "カバー写真のサムネイルサイズ (px)"
+
+#: includes/admin/core/class-admin-settings.php:1243
+msgid "Here you can define which thumbnail sizes will be created for each cover photo upload."
+msgstr "カバー写真のアップロードごとに作成するサムネイルサイズを定義します。"
+
+#: includes/admin/core/class-admin-settings.php:1259
+msgid "Quality is used to determine quality of image uploads, and ranges from 0 (worst quality, smaller file) to 100 (best quality, biggest file). The default range is 60."
+msgstr "クオリティーは、画像アップロードの品質を決定するために使用され、0 (最悪品質、最小ファイル)から100 (最高品質、最大ファイル)までの範囲です。 デフォルト範囲は60です。"
+
+#: includes/admin/core/class-admin-settings.php:1266
+msgid "Image Upload Maximum Width (px)"
+msgstr "画像アップロードの最大幅 (px)"
+
+#: includes/admin/core/class-admin-settings.php:1274
+msgid "Cover Photo Minimum Width (px)"
+msgstr "カバー写真の最小幅 (px)"
+
+#: includes/admin/core/class-admin-settings.php:1275
+msgid "This will be the minimum width for cover photo uploads"
+msgstr "カバー写真アップロードの最小幅になります"
+
+#: includes/admin/core/class-admin-settings.php:1784
+msgid "This is the title that is displayed on a specific user profile"
+msgstr "固有のユーザープロフィールに表示されるタイトルです"
+
+#: includes/admin/core/class-admin-settings.php:1790
+msgid "User Profile Dynamic Meta Description"
+msgstr "ユーザープロフィールの動的な meta description"
+
+#: includes/admin/core/class-admin-settings.php:1369
+msgid "Appearance"
+msgstr "外観"
+
+#: includes/admin/core/class-admin-enqueue.php:127
+#: includes/admin/core/class-admin-settings.php:979
+msgid "General"
+msgstr "一般"
+
+#: includes/admin/core/class-admin-settings.php:1778
+msgid "Show an asterisk for required fields"
+msgstr "必須フィールドにアスタリスクを表示する"
+
+#: includes/admin/core/class-admin-settings.php:1372
+#: includes/core/class-form.php:779
+msgid "Profile"
+msgstr "プロフィール"
+
+#: includes/admin/core/class-admin-settings.php:1377
+msgid "Profile Default Template"
+msgstr "プロフィールのデフォルトテンプレート"
+
+#: includes/admin/core/class-admin-settings.php:1378
+msgid "This will be the default template to output profile"
+msgstr "プロフィールを出力するためのデフォルトテンプレートになります"
+
+#: includes/admin/core/class-admin-settings.php:1386
+msgid "Profile Maximum Width"
+msgstr "プロフィールの最大幅"
+
+#: includes/admin/core/class-admin-settings.php:1607
+#: includes/admin/core/class-admin-settings.php:1697
+msgid "Left aligned"
+msgstr "左揃え"
+
+#: includes/admin/core/class-admin-settings.php:1608
+#: includes/admin/core/class-admin-settings.php:1698
+msgid "Right aligned"
+msgstr "右揃え"
+
+#: includes/admin/core/class-admin-settings.php:1402
+msgid "Profile Field Icons"
+msgstr "プロフィールのフィールドアイコン"
+
+#: includes/admin/core/class-admin-settings.php:1403
+msgid "This is applicable for edit mode only"
+msgstr "これは編集モードのみに適用されます"
+
+#: includes/admin/core/class-admin-settings.php:1406
+#: includes/admin/core/class-admin-settings.php:1619
+#: includes/admin/core/class-admin-settings.php:1709
+#: includes/admin/templates/form/login_customize.php:54
+#: includes/admin/templates/form/profile_customize.php:87
+#: includes/admin/templates/form/register_customize.php:68
+msgid "Show inside text field"
+msgstr "テキストフィールド内に表示"
+
+#: includes/admin/core/class-admin-settings.php:1407
+#: includes/admin/core/class-admin-settings.php:1620
+#: includes/admin/core/class-admin-settings.php:1710
+#: includes/admin/templates/form/login_customize.php:55
+#: includes/admin/templates/form/profile_customize.php:88
+#: includes/admin/templates/form/register_customize.php:69
+msgid "Show with label"
+msgstr "ラベルと合わせて表示"
+
+#: includes/admin/core/class-admin-settings.php:1408
+#: includes/admin/core/class-admin-settings.php:1621
+#: includes/admin/core/class-admin-settings.php:1711
+#: includes/admin/templates/form/login_customize.php:56
+#: includes/admin/templates/form/profile_customize.php:89
+#: includes/admin/templates/form/register_customize.php:70
+msgid "Turn off"
+msgstr "オフにする"
+
+#: includes/admin/core/class-admin-settings.php:1417
+msgid "The text that is used for updating profile button"
+msgstr "プロフィールの更新ボタンに使用されるテキスト"
+
+#: includes/admin/core/class-admin-settings.php:1439
+msgid "Default Profile Photo"
+msgstr "デフォルトのプロフィール写真"
+
+#: includes/admin/core/class-admin-settings.php:1440
+msgid "You can change the default profile picture globally here. Please make sure that the photo is 300x300px."
+msgstr "デフォルトのプロフィール画像を共通で変更することができます。 写真が 300x300px であることを確認してください。"
+
+#: includes/admin/core/class-admin-settings.php:1451
+msgid "Default Cover Photo"
+msgstr "デフォルトのカバー写真"
+
+#: includes/admin/core/class-admin-settings.php:1468
+msgid "The global default of profile photo size. This can be overridden by individual form settings"
+msgstr "共通デフォルトのプロフィール写真サイズ。 個々のフォーム設定で上書きすることができます"
+
+#: includes/admin/core/class-admin-settings.php:1474
+msgid "Profile Cover Photos"
+msgstr "プロフィールカバー写真"
+
+#: includes/admin/core/class-admin-settings.php:1491
+msgid "Profile Cover Ratio"
+msgstr "プロフィールカバーの比率"
+
+#: includes/admin/core/class-admin-settings.php:1506
+msgid "Profile Header Meta Text Icon"
+msgstr "プロフィールヘッダーのメタテキストアイコン"
+
+#: includes/admin/core/class-admin-settings.php:1508
+msgid "Display field icons for related user meta fields in header or not"
+msgstr "ヘッダーのユーザーメタ情報フィールドに関連するフィールドアイコンを表示するかどうか"
+
+#: includes/admin/core/class-admin-settings.php:1513
+msgid "Show display name in profile header"
+msgstr "プロフィールヘッダーに表示名を表示する"
+
+#: includes/admin/core/class-admin-settings.php:1515
+msgid "Switch on/off the user name on profile header"
+msgstr "プロフィールヘッダーにあるユーザー名のオン/オフを切り替えます"
+
+#: includes/admin/core/class-admin-settings.php:1520
+msgid "Show social links in profile header"
+msgstr "プロフィールヘッダーにソーシャルリンクを表示する"
+
+#: includes/admin/core/class-admin-settings.php:1522
+msgid "Switch on/off the social links on profile header"
+msgstr "プロフィールヘッダーにあるソーシャルリンクのオン/オフを切り替えます"
+
+#: includes/admin/core/class-admin-settings.php:1527
+msgid "Show user description in header"
+msgstr "ヘッダーにユーザーの説明文を表示する"
+
+#: includes/admin/core/class-admin-settings.php:1529
+msgid "Switch on/off the user description on profile header"
+msgstr "プロフフィールヘッダーにあるユーザー説明文のオン/オフに切り替えます"
+
+#: includes/admin/core/class-admin-settings.php:1540
+msgid "User description maximum chars"
+msgstr "ユーザー説明文の最大文字数"
+
+#: includes/admin/core/class-admin-settings.php:1542
+msgid "Maximum number of characters to allow in user description field in header."
+msgstr "ヘッダーのユーザー説明文フィールドで許可される最大文字数。"
+
+#: includes/admin/core/class-admin-settings.php:1549
+msgid "Profile Header Menu Position"
+msgstr "プロフィールヘッダーメニューの位置"
+
+#: includes/admin/core/class-admin-settings.php:1551
+msgid "For incompatible themes, please make the menu open from left instead of bottom by default."
+msgstr "互換性のないテーマの場合、デフォルトでは左側の下へメニューを開いてください。"
+
+#: includes/admin/core/class-admin-settings.php:1561
+msgid "Show a custom message if profile is empty"
+msgstr "プロフィールが空の場合にカスタムメッセージを表示する"
+
+#. translators: %s: Tab title
+#: includes/admin/core/class-admin-settings.php:342
+#: includes/admin/core/class-admin-settings.php:358
+msgid "%s Tab"
+msgstr "%s タブ"
+
+#. translators: %s: Tab title
+#: includes/admin/core/class-admin-settings.php:367
+msgid "Select which users can view this tab."
+msgstr "このタブを表示できるユーザーを選択します。"
+
+#: includes/admin/core/class-admin-settings.php:376
+msgid "Allowed roles"
+msgstr "許可された権限グループ"
+
+#: includes/admin/core/class-admin-settings.php:377
+msgid "Select the the user roles allowed to view this tab."
+msgstr "このタブを表示できるユーザー権限グループを選択します。"
+
+#: includes/admin/core/class-admin-settings.php:379
+msgid "Choose user roles..."
+msgstr "ユーザー権限グループを選択..."
+
+#: includes/admin/core/class-admin-settings.php:407
+msgid "Profile menu default tab"
+msgstr "プロフィールメニューのデフォルトタブ"
+
+#: includes/admin/core/class-admin-settings.php:408
+msgid "This will be the default tab on user profile page"
+msgstr "ユーザープロフィールページのデフォルトタブになります"
+
+#: includes/admin/core/class-admin-settings.php:424
+msgid "Enable menu icons in desktop view"
+msgstr "デスクトップビューでメニューアイコンを有効にする"
+
+#: includes/admin/core/class-admin-settings.php:1576
+msgid "Profile Menu"
+msgstr "プロフィールメニュー"
+
+#: includes/admin/core/class-admin-settings.php:1585
+msgid "Registration Default Template"
+msgstr "新規登録のデフォルトテンプレート"
+
+#: includes/admin/core/class-admin-settings.php:1586
+msgid "This will be the default template to output registration"
+msgstr "新規登録を出力するためのデフォルトテンプレートになります"
+
+#: includes/admin/core/class-admin-settings.php:1594
+msgid "Registration Maximum Width"
+msgstr "新規登録の最大幅"
+
+#: includes/admin/core/class-admin-settings.php:1388
+#: includes/admin/core/class-admin-settings.php:1596
+#: includes/admin/core/class-admin-settings.php:1686
+msgid "The maximum width this shortcode can take from the page width"
+msgstr "このショートコード最大幅はページ幅から取ることができます"
+
+#: includes/admin/core/class-admin-settings.php:1602
+msgid "Registration Shortcode Alignment"
+msgstr "新規登録ショートコードの配置"
+
+#: includes/admin/core/class-admin-settings.php:1615
+msgid "Registration Field Icons"
+msgstr "新規登録のフィールドアイコン"
+
+#: includes/admin/core/class-admin-settings.php:1616
+msgid "This controls the display of field icons in the registration form"
+msgstr "新規登録フォームにあるフィールドアイコンの表示をコントロールします"
+
+#: includes/admin/core/class-admin-settings.php:1661
+msgid "Registration Default Role"
+msgstr "新規登録のデフォルト権限グループ"
+
+#: includes/admin/core/class-admin-settings.php:1662
+msgid "This will be the default role assigned to users registering thru registration form"
+msgstr "フォームで新規登録するユーザーに割り当てるデフォルト権限グループになります"
+
+#: includes/admin/core/class-admin-settings.php:1675
+msgid "Login Default Template"
+msgstr "ログインのデフォルトテンプレート"
+
+#: includes/admin/core/class-admin-settings.php:1676
+msgid "This will be the default template to output login"
+msgstr "ログインを出力するためのデフォルトテンプレートになります"
+
+#: includes/admin/core/class-admin-settings.php:1684
+msgid "Login Maximum Width"
+msgstr "ログインの最大幅"
+
+#: includes/admin/core/class-admin-settings.php:1692
+msgid "Login Shortcode Alignment"
+msgstr "ログインショートコードの配置"
+
+#: includes/admin/core/class-admin-settings.php:1705
+msgid "Login Field Icons"
+msgstr "ログインのフィールドアイコン"
+
+#: includes/admin/core/class-admin-settings.php:1706
+msgid "This controls the display of field icons in the login form"
+msgstr "ログインフォームにあるフィールドアイコンの表示をコントロールします"
+
+#: includes/admin/core/class-admin-settings.php:1753
+msgid "Switch on/off the forgot password link in login form"
+msgstr "ログインフォームでパスワードを忘れたリンクのオン/オフを切り替えます"
+
+#: includes/admin/core/class-admin-settings.php:1760
+msgid "Allow users to choose If they want to stay signed in even after closing the browser. If you do not show this option, the default will be to not remember login session."
+msgstr "ブラウザを閉じた後でもログインしたままにしておきたい場合にユーザーが選択できるようにします。 このオプションを表示しないと、デフォルトではログインセッションを保存しません。"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://ultimatemember.com/"
+msgstr "http://ultimatemember.com/"
+
+#: includes/admin/core/class-admin-settings.php:505
+msgid "Add New URL"
+msgstr "新規 URL を追加"
+
+#: includes/admin/core/class-admin-settings.php:1161
+msgid "Add a First & Last Name fields"
+msgstr "新規姓名欄を追加"
+
+#: includes/admin/core/class-admin-settings.php:1345
+msgid "Admin E-mail Address"
+msgstr "管理者メールアドレス"
+
+#: includes/admin/core/class-admin-settings.php:313
+msgid "Enable profile menu"
+msgstr "プロフィールメニューを有効化"
+
+#: includes/class-config.php:444
+msgid "Password Changed Email"
+msgstr "パスワード変更通知メール"
+
+#: includes/class-config.php:430
+msgid "Password Reset Email"
+msgstr "パスワードリセットメール"
+
+#: includes/admin/core/class-admin-metabox.php:485
+#: includes/admin/core/class-admin-metabox.php:636
+#: includes/admin/templates/access/restrict_content.php:129
+msgid "Custom URL"
+msgstr "カスタム URL"
+
+#: includes/admin/core/class-admin-settings.php:1394
+msgid "Profile Area Maximum Width"
+msgstr "プロフィールエリアの最大幅"
+
+#: includes/admin/core/class-admin-settings.php:1232
+msgid "Profile Photo Thumbnail Sizes (px)"
+msgstr "プロフィール写真のサムネイルサイズ (px)"
+
+#: includes/admin/core/class-admin-settings.php:1045
+msgid "Use Gravatars?"
+msgstr "Gravatar を使用しますか ?"
+
+#: includes/admin/core/class-admin-settings.php:496
+msgid "Custom Redirect URL"
+msgstr "カスタムリダイレクト URL"
+
+#: includes/admin/core/class-admin-settings.php:1076
+msgid "Require a strong password?"
+msgstr "強力なパスワードが必要ですか ?"
+
+#: includes/admin/core/class-admin-settings.php:1055
+msgid "404 ( File Not Found response )"
+msgstr "404 (ファイルが見つかりませんでした)"
+
+#: includes/admin/core/class-admin-settings.php:1061
+msgid "Blank ( a transparent PNG image )"
+msgstr "空 (透明 PNG 画像)"
+
+#. Description of the plugin
+msgid "The easiest way to create powerful online communities and beautiful user profiles with WordPress"
+msgstr "WordPress で強力なオンラインコミュニティと美しいユーザープロフィールを作成する最も簡単な方法"
+
+#: includes/admin/core/class-admin-settings.php:1563
+msgid "Switch on/off the custom message that appears when the profile is empty"
+msgstr "プロフフィールが空の時に表示されるカスタムメッセージのオン / オフを切り替えます"
+
+#: includes/admin/core/class-admin-settings.php:1476
+msgid "Switch on/off the profile cover photos"
+msgstr "プロフィールカバー写真のオン / オフを切り替えます"
+
+#: includes/admin/core/class-admin-settings.php:2685
+msgid "This is the subject line of the e-mail"
+msgstr "これはメールの件名です"
+
+#: includes/admin/core/class-admin-settings.php:1057
+msgid "Identicon"
+msgstr "Identicon"
+
+#: includes/admin/core/class-admin-settings.php:1058
+msgid "Monsterid"
+msgstr "Monsterid"
+
+#: includes/admin/core/class-admin-settings.php:1059
+msgid "Wavatar"
+msgstr "Wavatar"
+
+#: includes/admin/core/class-admin-settings.php:1718
+msgid "Login Primary Button Text"
+msgstr "ログインのメインボタンテキスト"
+
+#: includes/admin/core/class-admin-settings.php:1630
+#: includes/admin/core/class-admin-settings.php:1720
+msgid "The text that is used for primary button text"
+msgstr "メインボタンに使われるテキスト"
+
+#: includes/admin/core/class-admin-settings.php:1628
+msgid "Registration Primary Button Text"
+msgstr "新規登録メインボタンのテキスト"
+
+#: includes/admin/core/class-admin-settings.php:1415
+msgid "Profile Primary Button Text"
+msgstr "プロフィールのメインボタンテキスト"
+
+#: includes/admin/core/class-admin-settings.php:1652
+msgid "Registration Secondary Button URL"
+msgstr "新規登録サブボタンの URL"
+
+#: includes/admin/core/class-admin-settings.php:1742
+msgid "Login Secondary Button URL"
+msgstr "ログイン用サブボタンの URL"
+
+#: includes/admin/core/class-admin-settings.php:1733
+msgid "Login Secondary Button Text"
+msgstr "ログイン用サブボタンのテキスト"
+
+#: includes/admin/core/class-admin-settings.php:1726
+msgid "Login Secondary Button"
+msgstr "ログイン用サブボタン"
+
+#: includes/admin/core/class-admin-settings.php:1645
+#: includes/admin/core/class-admin-settings.php:1735
+msgid "The text that is used for the secondary button text"
+msgstr "サブボタンに使われるテキスト"
+
+#: includes/admin/core/class-admin-settings.php:1432
+msgid "The text that is used for cancelling update profile button"
+msgstr "プロフィール更新のキャンセルボタンに使われるテキスト"
+
+#: includes/admin/core/class-admin-settings.php:1423
+msgid "Profile Secondary Button"
+msgstr "プロフィールのサブボタン"
+
+#: includes/admin/core/class-admin-settings.php:1636
+msgid "Registration Secondary Button"
+msgstr "新規登録サブボタン"
+
+#: includes/admin/core/class-admin-settings.php:1643
+msgid "Registration Secondary Button Text"
+msgstr "新規登録サブボタンのテキスト"
+
+#: includes/admin/core/class-admin-settings.php:1430
+msgid "Profile Secondary Button Text"
+msgstr "プロフィールのサブボタンテキスト"
+
+#: includes/admin/core/class-admin-settings.php:1425
+#: includes/admin/core/class-admin-settings.php:1638
+#: includes/admin/core/class-admin-settings.php:1728
+msgid "Switch on/off the secondary button display in the form"
+msgstr "フォーム内のサブボタン表示のオン/オフを切り替える"
+
+#: includes/admin/core/class-admin-settings.php:1363
+msgid "Use HTML for E-mails?"
+msgstr "メールに HTML を使用しますか ?"
+
+#: includes/admin/core/class-admin-settings.php:1181
+msgid "Allow users to change e-mail"
+msgstr "ユーザーによるメールアドレスの変更を許可"
+
+#: includes/admin/core/class-admin-settings.php:2692
+msgid "This is the content of the e-mail"
+msgstr "これはメールの内容です"
+
+#: includes/admin/core/class-admin-settings.php:1175
+msgid "Require first and last name?"
+msgstr "姓名欄を必須にしますか ?"
+
+#. translators: %s: Tab title
+#: includes/admin/core/class-admin-settings.php:366
+msgid "Who can see %s Tab?"
+msgstr "誰が %s タブを見れますか ?"
+
+#: includes/admin/core/class-admin-settings.php:1783
+msgid "User Profile Title"
+msgstr "ユーザープロフィールタイトル"
+
+#: includes/admin/core/class-admin-settings.php:1654
+#: includes/admin/core/class-admin-settings.php:1744
+msgid "You can replace default link for this button by entering custom URL"
+msgstr "カスタム URL を入力して、ボタンのデフォルトリンクを置き換えます"
+
+#: includes/admin/core/class-admin-settings.php:1226
+msgid "Sets a maximum size for the uploaded cover"
+msgstr "アップロードしたカバーの最大サイズを設定します"
+
+#: includes/class-config.php:424
+msgid "Whether to send the user an email when his account is deleted"
+msgstr "アカウントを削除した時にユーザーへメールを送信するかどうか"
+
+#: includes/class-config.php:411
+msgid "Whether to send the user an email when his account is deactivated"
+msgstr "アカウントが無効になった時にユーザーへメールを送信するかどうか"
+
+#: includes/admin/core/class-admin-settings.php:1294
+msgid "Enable the Reset Password Limit?"
+msgstr "パスワードリセット回数の上限をを有効にしますか ?"
+
+#: includes/admin/core/class-admin-settings.php:518
+msgid "Allow Category pages to be accessible"
+msgstr "カテゴリーページにアクセスできるようにする"
+
+#: includes/admin/core/class-admin-settings.php:1568
+msgid "Show the emoticon"
+msgstr "顔文字を表示"
+
+#: includes/class-config.php:375
+msgid "Account Approved Email"
+msgstr "アカウント承認メール"
+
+#: includes/class-config.php:392
+msgid "Account Rejected Email"
+msgstr "アカウント拒否メール"
+
+#: includes/class-config.php:332
+msgid "Account Welcome Email"
+msgstr "アカウント歓迎メール"
+
+#: includes/admin/core/class-admin-settings.php:503
+msgid "Exclude the following URLs"
+msgstr "次の URL を除外"
+
+#: includes/admin/core/class-admin-settings.php:1174
+msgid "Require First & Last Name"
+msgstr "名と姓の欄を必須にする"
+
+#: includes/admin/core/class-admin-settings.php:1751
+msgid "Login Forgot Password Link"
+msgstr "ログインパスワードを忘れた場合のリンク"
+
+#: includes/admin/core/class-admin-settings.php:1040
+msgid "Control whether to enable or disable member directories on this site"
+msgstr "このサイトのメンバーディレクトリを有効または無効にするかどうかをコントロール"
+
+#: includes/admin/core/class-admin-settings.php:1046
+msgid "Do you want to use gravatars instead of the default plugin profile photo (If the user did not upload a custom profile photo / avatar)"
+msgstr "デフォルトのプラグインプロフィール写真の代わりに Gravitar を使用しますか (ユーザーがカスタムプロフィール写真/アバターをアップロードしていない場合)"
+
+#: includes/admin/core/class-admin-settings.php:1051
+msgid "Use Gravatar builtin image"
+msgstr "Gravatar ビルトインの画像を使用"
+
+#: includes/admin/core/class-admin-settings.php:1052
+msgid "Gravatar has a number of built in options which you can also use as defaults"
+msgstr "Gravatar にはデフォルトで使えるビルトインオプションが複数あります"
+
+#: includes/admin/core/class-admin-settings.php:1069
+msgid "Use Default plugin avatar as Gravatar's Default avatar"
+msgstr "Gravatar のデフォルトアバターとしてプラグインのデフォルトアバターを使用"
+
+#: includes/admin/core/class-admin-settings.php:1167
+msgid "Disable First & Last Name fields"
+msgstr "姓名欄を無効化"
+
+#: includes/admin/core/class-admin-settings.php:1070
+msgid "Do you want to use the plugin default avatar instead of the gravatar default photo (If the user did not upload a custom profile photo / avatar)"
+msgstr "Gravatar のデフォルト写真の代わりにプラグインのデフォルトアバターを使用しますか (ユーザーがカスタムプロフィール写真またはアバターをアップロードしていない場合)"
+
+#: includes/admin/core/class-admin-settings.php:1126
+msgid "Enable/disable the Privacy account tab in account page"
+msgstr "アカウントページのプライバシーアカウントタブを有効化/無効化"
+
+#: includes/admin/core/class-admin-settings.php:1132
+msgid "Enable/disable the Notifications account tab in account page"
+msgstr "アカウントページの通知アカウントタブを有効化/無効化"
+
+#: includes/admin/core/class-admin-settings.php:1138
+msgid "Enable/disable the Delete account tab in account page"
+msgstr "アカウントページのアカウント削除タブを有効化/無効化"
+
+#: includes/admin/core/class-admin-settings.php:1162
+msgid "Whether to enable these fields on the user account page by default or hide them."
+msgstr "ユーザーアカウントページのこれらの欄をデフォルトで有効化するか、非表示にするか"
+
+#: includes/admin/core/class-admin-settings.php:1182
+msgid "Whether to allow users changing their email in account page."
+msgstr "ユーザーにアカウントページでのメールアドレス変更を許可するかどうか"
+
+#: includes/admin/core/class-admin-settings.php:497
+msgid "A logged out user will be redirected to this url If he is not permitted to access the site"
+msgstr "サイトへのアクセスを許可されていない場合、ログアウトしたユーザーはこの URL にリダイレクトされます"
+
+#: includes/admin/core/class-admin-settings.php:504
+msgid "Here you can exclude URLs beside the redirect URI to be accessible to everyone"
+msgstr "ここで、リダイレクト URI の横の URL をすべてのユーザーがアクセスできるように除外できます"
+
+#: includes/admin/core/class-admin-settings.php:1267
+msgid "Any image upload above this width will be resized to this limit automatically."
+msgstr "この幅より大きいアップロード画像は、この上限に合わせて自動でリサイズされます。"
+
+#: includes/admin/core/class-admin-settings.php:1791
+msgid "This will be used in the meta description that is available for search-engines."
+msgstr "これは、検索エンジン向けのメタディスクリプション内で使われます。"
+
+#: includes/admin/core/class-admin-settings.php:1396
+#: includes/admin/templates/form/profile_customize.php:76
+msgid "The maximum width of the profile area inside profile (below profile header)"
+msgstr "プロフィール内のプロフィールエリアの最大幅 (プロフィールヘッダーの下)"
+
+#: includes/admin/core/class-admin-settings.php:1452
+msgid "You can change the default cover photo globally here. Please make sure that the default cover is large enough and respects the ratio you are using for cover photos."
+msgstr "ここで全体のデフォルトカバー写真をで変更できます。デフォルトのカバーが十分に大きく、カバー写真用に使用している縦横比と一致するようにしてください。"
+
+#: includes/admin/core/class-admin-settings.php:1492
+msgid "Choose global ratio for cover photos of profiles"
+msgstr "全体のプロフィールカバー写真の縦横比を選択"
+
+#: includes/admin/core/class-admin-settings.php:1535
+msgid "Switch on/off to enable/disable support for html tags on user description."
+msgstr "ユーザー説明文 HTML タグのサポートを有効化/無効化するには、オンとオフを切り替えてください。"
+
+#: includes/admin/core/class-admin-settings.php:1570
+msgid "Switch on/off the emoticon (sad face) that appears above the message"
+msgstr "メッセージの上に表示される顔文字 (悲しい顔) のオンとオフを切り替える"
+
+#: includes/admin/core/class-admin-settings.php:1758
+msgid "Show \"Remember Me\""
+msgstr "「ログイン状態を保存する」を表示"
+
+#: includes/admin/core/class-admin-settings.php:1168
+msgid "Whether to allow users changing their first and last name in account page."
+msgstr "アカウントページで姓名の変更を許可するかどうか。"
+
+#: includes/class-config.php:387
+msgid "Whether to send the user an email when his account is approved"
+msgstr "アカウント承認の際にユーザーへメールを送信するかどうか"
+
+#: includes/class-config.php:343
+msgid "Whether to send the user an email when his account is automatically approved"
+msgstr "アカウント自動承認の際にユーザーへメールを送信するかどうか"
+
+#: includes/class-config.php:399
+msgid "Whether to send the user an email when his account is rejected"
+msgstr "アカウント却下の際にユーザーへメールを送信するかどうか"
+
+#: includes/class-config.php:438
+msgid "Whether to send an email when users changed their password (Recommended, please keep on)"
+msgstr "ユーザーがパスワードを変更した際にメールを送信するかどうか (推奨。オンのままにしてください)"
+
+#: includes/class-config.php:370
+msgid "Whether to send the user an email when his account needs admin review"
+msgstr "アカウントに管理者の承認が必要な時にユーザーにメールを送信するかどうか"
+
+#: includes/class-config.php:357
+msgid "Whether to send the user an email when his account needs e-mail activation"
+msgstr "アカウントにメールの有効化が必要な時にユーザーへメールを送信するかどうか"
+
+#: includes/admin/core/class-admin-settings.php:1315
+msgid "This will block the specified e-mail addresses from being able to sign up or sign in to your site. To block an entire domain, use something like *@domain.com"
+msgstr "指定されたメールアドレスがサイトに新規登録、またはサインインできなくなります。 ドメイン全体をブロックするには、*@domain.com のように使用します"
+
+#: includes/admin/core/class-admin-settings.php:1340
+#: includes/admin/core/list-tables/emails-list-table.php:309
+msgid "Email"
+msgstr "メール"
+
+#: includes/admin/core/class-admin-settings.php:1534
+msgid "Enable HTML support for user description"
+msgstr "ユーザー説明文で HTML を有効化"
+
+#: includes/class-config.php:524
+msgid "Are you sure you want to delete your account? This will erase all of your account data from the site. To delete your account, click on the button below."
+msgstr "アカウントを削除してもよいですか ? 実行するとサイトからすべてのアカウントデータが消去されます。アカウントを削除するには、下のボタンをクリックしてください。"
+
+#: includes/admin/core/class-admin-settings.php:1258
+msgid "Image Quality"
+msgstr "画質"
+
+#: includes/admin/core/class-admin-settings.php:1606
+#: includes/admin/core/class-admin-settings.php:1696
+msgid "Centered"
+msgstr "中央"
+
+#: includes/admin/core/class-admin-builder.php:294
+#: includes/admin/core/class-admin-builder.php:614
+#: includes/admin/core/class-admin-builder.php:778
+#: includes/admin/core/class-admin-dragdrop.php:40
+#: includes/admin/core/class-admin-menu.php:106
+#: includes/core/class-fields.php:4983
+msgid "Please login as administrator"
+msgstr "管理者としてログインしてください"
+
+#: includes/admin/core/class-admin-builder.php:1209
+#: includes/core/class-form.php:147 includes/core/class-form.php:155
+#: includes/core/class-form.php:162 includes/core/class-form.php:244
+#: includes/core/class-form.php:509 includes/core/class-password.php:525
+#: includes/core/um-actions-profile.php:597
+msgid "This is not possible for security reasons."
+msgstr "セキュリティ上の理由で不可能です。"
+
+#: includes/admin/core/class-admin-builder.php:240
+msgid "Reset all rules"
+msgstr "すべてのルールをリセット"
+
+#: includes/admin/core/class-admin-builder.php:856
+msgid "Search Icons..."
+msgstr "アイコンを検索..."
+
+#: includes/admin/core/class-admin-builder.php:876
+msgid "Setup New Field"
+msgstr "新しいフィールドの設定"
+
+#: includes/admin/core/class-admin-builder.php:893
+msgid "Predefined Fields"
+msgstr "定義済みのフィールド"
+
+#: includes/admin/core/class-admin-builder.php:905
+#: includes/core/class-builtin.php:1495
+msgid "None"
+msgstr "なし"
+
+#: includes/admin/core/class-admin-builder.php:910
+msgid "Custom Fields"
+msgstr "カスタムフィールド"
+
+#: includes/admin/core/class-admin-builder.php:924
+msgid "You did not create any custom fields"
+msgstr "カスタムフィールドを作成していません"
+
+#: includes/admin/core/class-admin-builder.php:956
+#: includes/admin/core/class-admin-builder.php:1030
+msgid "This field type is not setup correcty."
+msgstr "このフィールドタイプは正しく設定されていません。"
+
+#: includes/admin/core/class-admin-gdpr.php:64
+msgid "Community Role"
+msgstr "コミュニティーの権限グループ"
+
+#: includes/admin/core/class-admin-builder.php:402
+#: includes/admin/core/class-admin-builder.php:472
+#: includes/admin/core/class-admin-dragdrop.php:182
+msgid "Edit Row"
+msgstr "行を編集"
+
+#: includes/admin/core/class-admin-builder.php:555
+#: includes/admin/core/class-admin-columns.php:102
+msgid "Duplicate"
+msgstr "複製"
+
+#: includes/admin/core/class-admin-columns.php:138
+#: includes/admin/core/class-admin-columns.php:158
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/core/class-admin-columns.php:139
+msgid "Type"
+msgstr "タイプ"
+
+#: includes/admin/core/class-admin-columns.php:141
+#: includes/admin/core/class-admin-columns.php:160
+#: includes/admin/core/class-admin-metabox.php:833
+#: includes/admin/core/class-admin-metabox.php:995
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: includes/admin/core/class-admin-columns.php:142
+#: includes/admin/core/class-admin-columns.php:161
+msgid "Date"
+msgstr "日付"
+
+#: includes/admin/core/class-admin-menu.php:151
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: includes/admin/core/class-admin-menu.php:159
+#: includes/admin/templates/gdpr.php:7 includes/core/class-common.php:58
+msgid "Forms"
+msgstr "フォーム"
+
+#: includes/admin/core/class-admin-menu.php:161
+#: includes/admin/core/list-tables/roles-list-table.php:547
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:12
+msgid "User Roles"
+msgstr "ユーザー権限グループ"
+
+#: includes/admin/core/class-admin-menu.php:164
+#: includes/core/class-common.php:88
+msgid "Member Directories"
+msgstr "メンバーディレクトリ"
+
+#: includes/admin/core/class-admin-menu.php:219
+msgid "Users Overview"
+msgstr "ユーザーの概要"
+
+#: includes/admin/core/class-admin-menu.php:221
+msgid "Purge Temp Files"
+msgstr "一時ファイルをパージする"
+
+#: includes/admin/core/class-admin-menu.php:223
+msgid "User Cache"
+msgstr "ユーザーキャッシュ"
+
+#: includes/admin/class-admin.php:2002 includes/admin/class-admin.php:2005
+msgid "Form updated."
+msgstr "フォームを更新しました。"
+
+#: includes/admin/class-admin.php:2003
+msgid "Custom field updated."
+msgstr "カスタムフィールドを更新しました。"
+
+#: includes/admin/class-admin.php:2004
+msgid "Custom field deleted."
+msgstr "カスタムフィールドを削除しました。"
+
+#: includes/admin/class-admin.php:2007
+msgid "Form created."
+msgstr "フォームを作成しました。"
+
+#: includes/admin/class-admin.php:2008
+msgid "Form saved."
+msgstr "フォームを保存しました。"
+
+#: includes/admin/core/class-admin-metabox.php:830
+msgid "Profile Card"
+msgstr "プロフィールカード"
+
+#: includes/admin/core/class-admin-metabox.php:834
+msgid "Styling: General"
+msgstr "スタイリング: 一般"
+
+#: includes/admin/core/class-admin-metabox.php:863
+msgid "Profile Access"
+msgstr "プロフィールアクセス"
+
+#: includes/admin/core/class-admin-metabox.php:874
+msgid "Homepage Options"
+msgstr "ホームページオプション"
+
+#: includes/admin/core/class-admin-metabox.php:885
+msgid "Registration Options"
+msgstr "新規登録オプション"
+
+#: includes/admin/core/class-admin-metabox.php:893
+msgid "Login Options"
+msgstr "ログインオプション"
+
+#: includes/admin/core/class-admin-metabox.php:901
+msgid "Logout Options"
+msgstr "ログアウトオプション"
+
+#: includes/admin/core/class-admin-metabox.php:909
+msgid "Delete Options"
+msgstr "削除オプション"
+
+#: includes/admin/core/class-admin-metabox.php:993
+msgid "Select Form Type"
+msgstr "フォームタイプを選択"
+
+#: includes/admin/core/class-admin-metabox.php:994
+msgid "Form Builder"
+msgstr "フォームビルダー"
+
+#: includes/admin/core/class-admin-metabox.php:997
+#: includes/admin/core/class-admin-metabox.php:1018
+#: includes/admin/core/class-admin-metabox.php:1040
+msgid "Customize this form"
+msgstr "このフォームをカスタマイズする"
+
+#: includes/admin/core/class-admin-metabox.php:1019
+msgid "User Meta"
+msgstr "ユーザーメタ情報"
+
+#: includes/admin/core/class-admin-metabox.php:1304
+msgid "Select where this field should appear. This option should only be changed on the profile form and allows you to show a field in one mode only (edit or view) or in both modes."
+msgstr "このフィールドの表示場所を選択します。このオプションは、プロフィールフォームでのみ変更する必要があり、1つのモード(編集、表示)、または両方のモードでフィールドを表示することができます。"
+
+#: includes/admin/core/class-admin-metabox.php:1556
+msgid "Optional text to include with the divider"
+msgstr "区分線に含めるオプションテキスト"
+
+#: includes/admin/core/class-admin-metabox.php:1747
+msgid "Turn on to force users to create a strong password (A combination of one lowercase letter, one uppercase letter, and one number). If turned on this option is only applied to register forms and not to login forms."
+msgstr "オンにすると、強力なパスワード(小文字1文字、大文字1文字、数字1文字の組み合わせ)をユーザーに強制できます。このオプションは、フォームを新規登録するためにのみ適用され、ログインフォームには適用されません。"
+
+#: includes/admin/core/class-admin-metabox.php:1757
+msgid "Turn on to add a confirm password field. If turned on the confirm password field will only show on register forms and not on login forms."
+msgstr "オンにすると、パスワードの確認フィールドが追加されます。パスワードの確認フィールドは登録フォームにのみ表示され、ログインフォームには表示されません。"
+
+#: includes/admin/core/class-admin-metabox.php:2126
+msgid "Minimum number that can be entered in this field"
+msgstr "このフィールドに入力できる最小数"
+
+#: includes/admin/core/class-admin-metabox.php:2136
+msgid "Maximum number that can be entered in this field"
+msgstr "このフィールドに入力できる最大数"
+
+#: includes/admin/core/class-admin-notices.php:464
+msgid "Undo"
+msgstr "元に戻す"
+
+#: includes/admin/core/class-admin-notices.php:469
+msgid "Your translation files have been updated successfully."
+msgstr "翻訳ファイルが正常に更新されました。"
+
+#: includes/admin/core/class-admin-notices.php:501
+msgid "User has been updated."
+msgstr "ユーザーが更新されました。"
+
+#: includes/admin/core/class-admin-notices.php:505
+msgid "Users have been updated."
+msgstr "ユーザーが更新されました。"
+
+#: includes/admin/core/class-admin-notices.php:509
+msgid "Changed roles."
+msgstr "権限グループを変更しました。"
+
+#: includes/admin/core/class-admin-notices.php:513
+msgid "Super administrators cannot be modified."
+msgstr "ネットワーク管理者は変更できません。"
+
+#: includes/admin/class-admin.php:1927
+#: includes/admin/core/class-admin-settings.php:1921
+msgid "Settings"
+msgstr "設定"
+
+#: includes/admin/core/list-tables/roles-list-table.php:478
+msgid "Role Title"
+msgstr "権限グループのタイトル"
+
+#: includes/admin/core/list-tables/roles-list-table.php:480
+msgid "No.of Members"
+msgstr "メンバー数"
+
+#: includes/admin/core/list-tables/roles-list-table.php:482
+msgid "WP-Admin Access"
+msgstr "wp-admin アクセス"
+
+#: includes/admin/core/class-admin-users.php:277 templates/account.php:59
+#: templates/account.php:100
+msgid "View profile"
+msgstr "プロフィールを表示"
+
+#: includes/admin/core/class-admin-users.php:408
+#: includes/admin/templates/dashboard/users.php:28
+#: includes/core/class-user.php:1188
+msgid "Approved"
+msgstr "承認済み"
+
+#: includes/admin/core/class-admin-users.php:199
+#: includes/core/class-fields.php:3006
+msgid "Apply"
+msgstr "適用"
+
+#: includes/admin/core/class-admin-settings.php:986
+#: includes/admin/templates/dashboard/users.php:15
+msgid "Users"
+msgstr "ユーザー"
+
+#: includes/admin/core/list-tables/version-template-list-table.php:170
+#: includes/admin/core/list-tables/version-template-list-table.php:200
+#: includes/admin/templates/directory/appearance.php:17
+#: includes/admin/templates/form/login_customize.php:34
+#: includes/admin/templates/form/profile_customize.php:59
+#: includes/admin/templates/form/register_customize.php:48
+msgid "Template"
+msgstr "テンプレート"
+
+#: includes/admin/templates/directory/general.php:66
+msgid "User Roles to Display"
+msgstr "表示するユーザー権限グループ"
+
+#: includes/admin/templates/directory/general.php:75
+msgid "Only show members who have uploaded a profile photo"
+msgstr "プロフィール写真をアップロードしたメンバーのみを表示"
+
+#: includes/admin/templates/directory/general.php:82
+msgid "Only show members who have uploaded a cover photo"
+msgstr "カバー写真をアップロードしたメンバーのみを表示"
+
+#: includes/core/class-member-directory.php:313
+msgid "Old users first"
+msgstr "最初に古いユーザー"
+
+#: includes/core/class-member-directory.php:320
+msgid "Last login"
+msgstr "前回のログイン"
+
+#: includes/core/class-member-directory.php:318
+msgid "Display name"
+msgstr "表示名"
+
+#: includes/core/class-builtin.php:780 includes/core/class-builtin.php:783
+#: includes/core/class-member-directory.php:379
+msgid "First Name"
+msgstr "名"
+
+#: includes/core/class-builtin.php:790 includes/core/class-builtin.php:793
+#: includes/core/class-member-directory.php:380
+msgid "Last Name"
+msgstr "姓"
+
+#: includes/core/class-member-directory.php:364 templates/members.php:102
+msgid "Random"
+msgstr "ランダム"
+
+#: includes/admin/templates/directory/general.php:88
+msgid "Only show specific users (Enter one username per line)"
+msgstr "特定のユーザーのみを表示する (1行に1つのユーザー名を入力する)"
+
+#: includes/admin/templates/directory/pagination.php:33
+msgid "Number of profiles per page"
+msgstr "ページごとのプロフィール数"
+
+#: includes/admin/templates/directory/pagination.php:34
+msgid "Number of profiles to appear on page for standard users"
+msgstr "標準ユーザーのページに表示されるプロフィール数"
+
+#: includes/admin/templates/directory/pagination.php:42
+msgid "Number of profiles to appear on page for mobile users"
+msgstr "モバイルユーザーのページに表示されるプロフィール数"
+
+#: includes/admin/templates/directory/pagination.php:25
+msgid "Maximum number of profiles"
+msgstr "プロフィールの最大数"
+
+#: includes/admin/templates/directory/pagination.php:26
+msgid "Use this setting to control the maximum number of profiles to appear in this directory. Leave blank to disable this limit"
+msgstr "この設定を使用して、このディレクトリに表示されるプロフィールの最大数をコントロールします。空白のままなら、制限を無効にします"
+
+#: includes/admin/templates/directory/profile.php:19
+msgid "Enable Profile Photo"
+msgstr "プロフィール写真を有効にする"
+
+#: includes/admin/templates/directory/profile.php:25
+msgid "Enable Cover Photo"
+msgstr "カバー写真を有効にする"
+
+#: includes/admin/templates/directory/profile.php:32
+msgid "Show display name"
+msgstr "表示名を表示する"
+
+#: includes/admin/templates/directory/profile.php:38
+msgid "Show tagline below profile name"
+msgstr "プロフィール名の下にタグラインを表示する"
+
+#: includes/admin/templates/directory/profile.php:44
+msgid "Choose field(s) to display in tagline"
+msgstr "タグラインに表示するフィールドを選択する"
+
+#: includes/admin/templates/directory/search.php:34
+msgid "User Roles that can use search"
+msgstr "検索を使用できるユーザー権限グループ"
+
+#: includes/admin/templates/directory/pagination.php:49
+msgid "Results Text"
+msgstr "結果テキスト"
+
+#: includes/class-config.php:172 includes/class-config.php:272
+msgid "{total_users} Members"
+msgstr "{total_users} メンバー"
+
+#: includes/admin/templates/directory/pagination.php:58
+msgid "Same as above but in case of 1 user found only"
+msgstr "上記と同じですが、ユーザーが1人しか見つからない場合"
+
+#: includes/admin/templates/directory/pagination.php:65
+msgid "Custom text if no users were found"
+msgstr "ユーザーが見つからない場合のカスタムテキスト"
+
+#: includes/admin/templates/form/builder.php:15
+msgid "Live Preview"
+msgstr "ライブプレビュー"
+
+#: includes/admin/templates/form/login_customize.php:42
+#: includes/admin/templates/form/profile_customize.php:67
+#: includes/admin/templates/form/register_customize.php:56
+msgid "Max. Width (px)"
+msgstr "最大幅 (px)"
+
+#: includes/admin/templates/form/login_customize.php:50
+#: includes/admin/templates/form/profile_customize.php:83
+#: includes/admin/templates/form/register_customize.php:64
+msgid "Field Icons"
+msgstr "フィールドアイコン"
+
+#: includes/admin/templates/form/login_customize.php:90
+msgid "Show Forgot Password Link?"
+msgstr "パスワード忘れリンクの表示"
+
+#: includes/admin/templates/form/mode.php:20
+msgid "Profile Form"
+msgstr "プロフィールフォーム"
+
+#: includes/admin/core/class-admin-settings.php:1670
+#: includes/admin/templates/form/mode.php:24
+msgid "Login Form"
+msgstr "ログインフォーム"
+
+#: includes/admin/core/class-admin-settings.php:1465
+#: includes/admin/templates/form/profile_customize.php:169
+msgid "Profile Photo Size"
+msgstr "プロフィールの写真サイズ"
+
+#: includes/admin/core/class-admin-metabox.php:1661
+msgid "Heading Background Color"
+msgstr "ヘッダー背景色"
+
+#: includes/admin/templates/form/profile_settings.php:25
+msgid "Field(s) to show in user meta"
+msgstr "ユーザーメタ情報で表示するフィールド"
+
+#: includes/admin/templates/form/register_customize.php:40
+msgid "Assign role to form"
+msgstr "フォームに権限グループを割り当てる"
+
+#: includes/admin/core/class-admin-settings.php:1603
+#: includes/admin/core/class-admin-settings.php:1693
+#: includes/admin/templates/form/profile_customize.php:144
+msgid "The shortcode is centered by default unless you specify otherwise here"
+msgstr "ショートコードは、ここで指定しない限りデフォルトで中央に配置されます"
+
+#: includes/admin/templates/form/login_customize.php:51
+#: includes/admin/templates/form/profile_customize.php:84
+#: includes/admin/templates/form/register_customize.php:65
+msgid "Whether to show field icons and where to show them relative to the field"
+msgstr "フィールドを基準に表示する場所とフィールドアイコンを表示するかどうか"
+
+#: includes/admin/templates/form/login_customize.php:64
+#: includes/admin/templates/form/login_customize.php:83
+#: includes/admin/templates/form/profile_customize.php:97
+#: includes/admin/templates/form/profile_customize.php:116
+#: includes/admin/templates/form/register_customize.php:78
+#: includes/admin/templates/form/register_customize.php:97
+msgid "Customize the button text"
+msgstr "ボタンテキストをカスタマイズする"
+
+#: includes/admin/templates/modal/forms/dynamic_edit_field.php:9
+msgid "Edit Field"
+msgstr "フィールドを編集"
+
+#: includes/admin/templates/modal/forms/dynamic_edit_row.php:9
+msgid "Edit Row Settings"
+msgstr "行設定の編集"
+
+#: includes/admin/templates/modal/forms/dynamic_edit_field.php:18
+#: includes/admin/templates/modal/forms/dynamic_edit_row.php:18
+#: includes/admin/templates/modal/forms/dynamic_new_divider.php:18
+#: includes/admin/templates/modal/forms/dynamic_new_field.php:18
+#: includes/admin/templates/modal/forms/dynamic_new_group.php:18
+#: includes/admin/templates/modal/forms/fonticons.php:14
+#: includes/admin/templates/role/publish.php:30 includes/class-config.php:245
+#: includes/core/class-fields.php:3007 includes/core/class-fields.php:3120
+#: includes/core/um-actions-profile.php:897
+#: includes/core/um-actions-profile.php:909
+#: includes/core/um-actions-profile.php:1097
+#: includes/core/um-actions-profile.php:1130
+#: includes/core/um-actions-profile.php:1473
+#: includes/core/um-actions-profile.php:1480
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: includes/admin/templates/modal/forms/dynamic_form_preview.php:13
+msgid "Continue editing"
+msgstr "編集を続ける"
+
+#: includes/admin/templates/modal/forms/dynamic_new_divider.php:9
+msgid "Add a New Divider"
+msgstr "新しい区分線を追加"
+
+#: includes/admin/templates/modal/forms/dynamic_new_divider.php:15
+#: includes/admin/templates/modal/forms/dynamic_new_field.php:15
+#: includes/admin/templates/modal/forms/dynamic_new_group.php:15
+msgid "Add"
+msgstr "追加"
+
+#: includes/admin/templates/modal/forms/fields.php:7
+msgid "Fields Manager"
+msgstr "フィールドマネージャー"
+
+#: includes/admin/templates/modal/forms/fonticons.php:7
+msgid "Choose from %s available icons"
+msgstr "利用できる %s のアイコンから選択する"
+
+#: includes/admin/templates/role/admin-permissions.php:29
+#: includes/admin/templates/role/admin-permissions.php:46
+msgid "Allow this role to edit accounts of other members"
+msgstr "この権限グループで他メンバーのアカウントを編集できるようにする"
+
+#: includes/admin/templates/role/admin-permissions.php:35
+msgid "Can edit these user roles only"
+msgstr "これらのユーザー権限グループのみを編集できます"
+
+#: includes/admin/templates/role/admin-permissions.php:36
+#: includes/admin/templates/role/admin-permissions.php:53
+msgid "Which roles that role can edit, choose none to allow role to edit all member roles"
+msgstr "どの権限グループが編集できるのかを選択。なし にすると、権限グループがすべてのメンバー権限グループを編集できるようになります"
+
+#: includes/admin/templates/role/admin-permissions.php:52
+msgid "Can delete these user roles only"
+msgstr "これらのユーザー権限グループのみを削除できます"
+
+#: includes/admin/templates/role/delete.php:16
+msgid "Select what happens when a user with this role deletes their own account"
+msgstr "この権限グループを持つユーザーが自分のアカウントを削除した時のアクションを選択します"
+
+#: includes/admin/templates/role/delete.php:19
+#: includes/admin/templates/role/logout.php:19
+msgid "Go to Homepage"
+msgstr "ホームページへ移動"
+
+#: includes/admin/templates/role/delete.php:27
+msgid "Set a url to redirect this user role to after they delete account"
+msgstr "このユーザー権限グループのユーザーがアカウントを削除した後にリダイレクトするURLを設定する"
+
+#: includes/admin/templates/role/home.php:22
+msgid "Custom Homepage Redirect"
+msgstr "カスタムホームページリダイレクト"
+
+#: includes/admin/templates/role/login.php:15
+msgid "Action to be taken after login"
+msgstr "ログイン後に実行するアクション"
+
+#: includes/admin/templates/role/login.php:16
+msgid "Select what happens when a user with this role logins to your site"
+msgstr "この権限グループを持つユーザーがサイトにログインした時のアクションを選択します"
+
+#: includes/admin/templates/form/login_settings.php:20
+#: includes/admin/templates/role/login.php:19
+#: includes/admin/templates/role/register.php:30
+msgid "Redirect to profile"
+msgstr "プロフィールへリダイレクト"
+
+#: includes/admin/templates/role/logout.php:15
+msgid "Action to be taken after logout"
+msgstr "ログアウト後に実行するアクション"
+
+#: includes/admin/templates/role/logout.php:16
+msgid "Select what happens when a user with this role logouts of your site"
+msgstr "この権限グループのユーザーがログアウトのログアウトした時のアクションを選択します"
+
+#: includes/admin/templates/role/profile.php:21
+msgid "Can view these user roles only"
+msgstr "これらのユーザー権限グループのみを表示できます"
+
+#: includes/admin/templates/role/profile.php:22
+msgid "Which roles that role can view, choose none to allow role to view all member roles"
+msgstr "どの権限グループが表示できるのかを選択。なし にすると、すべてのメンバー権限グループを表示できるようになります"
+
+#: includes/admin/templates/role/register.php:14
+msgid "Registration Status"
+msgstr "登録ステータス"
+
+#: includes/admin/templates/role/register.php:15
+msgid "Select the status you would like this user role to have after they register on your site"
+msgstr "サイトに登録した後に、このユーザー権限グループが持つステータスを選択します"
+
+#: includes/admin/templates/role/register.php:18
+msgid "Auto Approve"
+msgstr "自動承認"
+
+#: includes/admin/templates/role/register.php:20
+msgid "Require Admin Review"
+msgstr "管理者の承認が必要"
+
+#: includes/admin/templates/role/register.php:26
+#: includes/admin/templates/role/register.php:53
+#: includes/admin/templates/role/register.php:87
+msgid "Action to be taken after registration"
+msgstr "新規登録後に実行するアクション"
+
+#: includes/admin/templates/role/register.php:27
+#: includes/admin/templates/role/register.php:54
+#: includes/admin/templates/role/register.php:88
+msgid "Select what action is taken after a person registers on your site. Depending on the status you can redirect them to their profile, a custom url or show a custom message"
+msgstr "ユーザーがサイトに登録した後に実行するアクションを選択します。 ステータスに応じて、プロフィール、カスタムURL、またはカスタムメッセージを表示することができます"
+
+#: includes/admin/templates/role/register.php:46
+msgid "Login the user after validating the activation link"
+msgstr "有効化リンクの検証後にユーザーをログインする"
+
+#: includes/admin/templates/role/register.php:57
+#: includes/admin/templates/role/register.php:91
+#: includes/admin/assets/js/um-admin-blocks.js:162
+msgid "Show custom message"
+msgstr "カスタムメッセージを表示する"
+
+#: includes/admin/templates/role/register.php:65
+#: includes/admin/templates/role/register.php:99
+msgid "Personalize the custom message"
+msgstr "カスタムメッセージを好みに合わせる"
+
+#: includes/core/class-files.php:436 includes/core/class-files.php:522
+msgid "A theme or plugin compatibility issue"
+msgstr "テーマ、またはプラグインの互換性の問題"
+
+#: includes/admin/core/class-admin-settings.php:1114
+#: includes/class-config.php:127 includes/class-config.php:796
+#: includes/core/class-account.php:97
+msgid "Account"
+msgstr "アカウント"
+
+#: includes/admin/core/class-admin-enqueue.php:135
+#: includes/admin/core/class-admin-metabox.php:2324
+#: includes/core/class-account.php:109
+msgid "Privacy"
+msgstr "プライバシー"
+
+#: includes/admin/core/class-admin-enqueue.php:139
+#: includes/core/class-account.php:115
+msgid "Notifications"
+msgstr "通知"
+
+#: includes/core/class-account.php:124 includes/core/class-account.php:125
+#: includes/core/class-builtin.php:1309 includes/core/class-builtin.php:1312
+msgid "Delete Account"
+msgstr "アカウント削除"
+
+#: includes/core/um-actions-account.php:32
+#: includes/core/um-actions-account.php:75
+#: includes/core/um-actions-account.php:79
+#: includes/core/um-actions-account.php:178
+msgid "This is not your password"
+msgstr "これはあなたのパスワードではありません"
+
+#: includes/core/um-actions-account.php:86
+msgid "Your new password does not match"
+msgstr "新しいパスワードが一致しません"
+
+#: includes/core/um-actions-account.php:29
+#: includes/core/um-actions-account.php:175
+msgid "You must enter your password"
+msgstr "パスワードを入力する必要があります"
+
+#: includes/core/class-account.php:110
+msgid "Update Privacy"
+msgstr "プライバシーを更新"
+
+#: includes/core/class-account.php:98
+msgid "Update Account"
+msgstr "アカウントを更新"
+
+#: includes/core/class-account.php:104
+msgid "Update Password"
+msgstr "パスワードを更新"
+
+#: includes/core/um-actions-core.php:146
+msgid "You do not have permission to delete this user."
+msgstr "このユーザーを削除する権限がありません。"
+
+#: includes/core/um-actions-form.php:550
+msgid "Please specify account type."
+msgstr "アカウントタイプを指定してください。"
+
+#: includes/core/um-actions-form.php:639
+msgid "Please confirm your password"
+msgstr "パスワードを確認してください"
+
+#: includes/core/class-password.php:604 includes/core/um-actions-form.php:642
+msgid "Your passwords do not match"
+msgstr "パスワードが一致しません"
+
+#: includes/core/um-actions-form.php:702
+msgid "Please enter numbers only in this field"
+msgstr "このフィールドには数字のみを入力してください"
+
+#: includes/core/um-actions-form.php:797
+msgid "You must provide a username"
+msgstr "ユーザー名を入力する必要があります"
+
+#: includes/core/um-actions-form.php:873
+msgid "This is not a valid email"
+msgstr "これは有効なメールではありません"
+
+#: includes/core/um-actions-form.php:892
+msgid "You must provide a unique value"
+msgstr "ユニーク値を入力する必要があります"
+
+#: includes/core/um-actions-form.php:902
+msgid "You must provide alphabetic letters"
+msgstr "アルファベットで入力する必要があります"
+
+#: includes/core/um-actions-login.php:22
+msgid "Please enter your username"
+msgstr "ユーザー名を入力してください"
+
+#: includes/core/um-actions-login.php:52
+msgid "Please enter your password"
+msgstr "パスワードを入力してください"
+
+#: includes/core/um-actions-login.php:433
+msgid "Keep me signed in"
+msgstr "ログイン状態を保存する"
+
+#: templates/members.php:254 templates/members.php:256
+msgid "Search"
+msgstr "検索"
+
+#: templates/members-pagination.php:19
+msgid "Jump to page:"
+msgstr "ページへ移動:"
+
+#: includes/core/um-actions-misc.php:153
+msgid "An error has been encountered"
+msgstr "エラーが発生しました"
+
+#: includes/core/um-actions-misc.php:174 includes/core/um-filters-login.php:73
+msgid "Your account has been disabled."
+msgstr "あなたのアカウントは無効になっています。"
+
+#: includes/core/um-actions-misc.php:178 includes/core/um-filters-login.php:76
+msgid "Your account has not been approved yet."
+msgstr "あなたのアカウントは、まだ承認されていません。"
+
+#: includes/core/class-password.php:542
+msgid "You must enter a new password"
+msgstr "新しいパスワードを入力してください"
+
+#: includes/core/class-password.php:600
+msgid "You must confirm your new password"
+msgstr "新しいパスワードを確認してください"
+
+#: includes/core/um-actions-profile.php:892
+msgid "Change cover photo"
+msgstr "カバー写真を変更"
+
+#: includes/core/um-actions-profile.php:892
+#: includes/core/um-actions-profile.php:908
+#: includes/core/um-actions-profile.php:979
+msgid "Upload a cover photo"
+msgstr "カバー写真をアップロード"
+
+#: includes/core/um-actions-profile.php:1096
+msgid "Upload photo"
+msgstr "写真をアップロード"
+
+#: includes/core/class-fields.php:2967 includes/core/class-fields.php:3006
+#: includes/core/um-actions-profile.php:1128
+msgid "Change photo"
+msgstr "写真を変更"
+
+#: includes/core/um-actions-profile.php:1129
+msgid "Remove photo"
+msgstr "写真を削除"
+
+#: includes/core/um-actions-profile.php:1292
+msgid "Tell us a bit about yourself..."
+msgstr "あなたについて少し教えてください..."
+
+#: includes/core/um-actions-profile.php:1307
+msgid "This user account status is %s"
+msgstr "このユーザーアカウントのステータスは %s です。"
+
+#: includes/core/class-member-directory.php:2336
+#: includes/core/class-member-directory.php:2380
+#: includes/core/um-actions-profile.php:1446
+#: includes/core/um-actions-profile.php:1477
+msgid "Edit Profile"
+msgstr "プロフィールを編集"
+
+#: includes/class-config.php:126 includes/class-config.php:795
+#: includes/core/class-member-directory.php:2391
+#: includes/core/um-actions-profile.php:1479
+#: includes/core/um-actions-user.php:19
+msgid "Logout"
+msgstr "ログアウト"
+
+#: includes/core/um-actions-user.php:14
+msgid "Your account"
+msgstr "あなたのアカウント"
+
+#: includes/core/class-builtin.php:182
+msgid "Please provide a date range beginning"
+msgstr "開始日の範囲を指定してください"
+
+#: includes/core/class-builtin.php:185
+msgid "Please enter a valid start date in the date range"
+msgstr "有効な開始日の範囲を入力してください"
+
+#: includes/core/class-builtin.php:202
+msgid "Please provide a date range end"
+msgstr "終了日の範囲を指定してください"
+
+#: includes/core/class-builtin.php:205
+msgid "Please enter a valid end date in the date range"
+msgstr "有効な終了日の範囲を入力してください"
+
+#: includes/core/class-builtin.php:434 includes/core/class-builtin.php:454
+msgid "Please enter a valid size"
+msgstr "有効なサイズを入力してください"
+
+#: includes/core/class-builtin.php:474
+msgid "Number of years is not valid"
+msgstr "年数が有効ではありません"
+
+#: includes/core/class-builtin.php:543
+msgid "You must add a shortcode to the content area"
+msgstr "コンテンツエリアにショートコードを追加する必要があります"
+
+#: includes/core/class-builtin.php:730 includes/core/class-user.php:2015
+msgid "Only me"
+msgstr "自分のみ"
+
+#: includes/admin/core/class-admin-settings.php:1012
+#: includes/core/class-builtin.php:800 includes/core/class-builtin.php:803
+#: includes/core/class-member-directory.php:315
+#: includes/core/class-member-directory.php:381
+msgid "Nickname"
+msgstr "ニックネーム"
+
+#: includes/core/class-builtin.php:821 includes/core/class-builtin.php:824
+msgid "Registration Date"
+msgstr "登録日"
+
+#: includes/core/class-builtin.php:832 includes/core/class-builtin.php:835
+#: includes/core/class-member-directory.php:377
+msgid "Last Login"
+msgstr "前回のログイン"
+
+#: includes/core/class-builtin.php:866 includes/core/class-builtin.php:869
+#: includes/core/class-member-directory.php:383
+msgid "Biography"
+msgstr "説明文"
+
+#: includes/core/class-builtin.php:879 includes/core/class-builtin.php:882
+msgid "Birth Date"
+msgstr "誕生日"
+
+#: includes/core/class-builtin.php:893 includes/core/class-builtin.php:896
+#: includes/core/class-member-directory.php:373
+msgid "Gender"
+msgstr "性別"
+
+#: includes/core/class-builtin.php:900
+msgid "Male"
+msgstr "男性"
+
+#: includes/core/class-builtin.php:900
+msgid "Female"
+msgstr "女性"
+
+#: includes/core/class-builtin.php:904 includes/core/class-builtin.php:907
+#: includes/core/class-member-directory.php:372
+msgid "Country"
+msgstr "国"
+
+#: includes/core/class-builtin.php:908
+msgid "Choose a Country"
+msgstr "国を選択"
+
+#: includes/core/class-builtin.php:1156 includes/core/class-builtin.php:1168
+msgid "Account Type"
+msgstr "アカウントタイプ"
+
+#: includes/core/class-builtin.php:1176
+#: includes/core/class-member-directory.php:374
+msgid "Languages"
+msgstr "言語"
+
+#: includes/core/class-builtin.php:1179
+msgid "Languages Spoken"
+msgstr "話す言語"
+
+#: includes/core/class-builtin.php:1180
+msgid "Select languages"
+msgstr "言語を選択"
+
+#: includes/core/class-builtin.php:1188 includes/core/class-builtin.php:1191
+#: includes/core/class-builtin.php:1504
+#: includes/core/class-member-directory.php:384
+msgid "Phone Number"
+msgstr "電話番号"
+
+#: includes/core/class-builtin.php:1200 includes/core/class-builtin.php:1203
+#: includes/core/class-member-directory.php:385
+msgid "Mobile Number"
+msgstr "携帯電話番号"
+
+#: includes/core/class-builtin.php:1214
+msgid "Profile Photo"
+msgstr "プロフィール写真"
+
+#: includes/core/class-builtin.php:1217
+msgid "Change your profile photo"
+msgstr "あなたのプロフィール写真を変更"
+
+#: includes/core/class-builtin.php:1218
+msgid "Upload your photo here"
+msgstr "あなたの写真をここにアップロード"
+
+#: includes/core/class-builtin.php:1228
+msgid "Cover Photo"
+msgstr "カバー写真"
+
+#: includes/core/class-builtin.php:1232
+msgid "Upload profile cover here"
+msgstr "プロフィールのカバー写真をここにアップロード"
+
+#: includes/core/class-builtin.php:1256 includes/core/class-builtin.php:1259
+msgid "Profile Privacy"
+msgstr "プロフィールプライバシー"
+
+#: includes/core/class-builtin.php:1496
+msgid "Alphabetic value only"
+msgstr "アルファベットの値のみ"
+
+#: includes/core/class-builtin.php:1497
+msgid "Alpha-numeric value"
+msgstr "英数字"
+
+#: includes/core/class-builtin.php:1634
+msgid "Japanese"
+msgstr "日本語"
+
+#: includes/core/class-builtin.php:1858
+msgid "Japan"
+msgstr "日本"
+
+#: includes/core/class-date-time.php:54
+msgid "just now"
+msgstr "たった今"
+
+#: includes/core/class-date-time.php:63
+msgid "%s min"
+msgid_plural "%s mins"
+msgstr[0] "%s分"
+
+#: includes/core/class-date-time.php:72
+msgid "%s hr"
+msgid_plural "%s hrs"
+msgstr[0] "%s時間"
+
+#: includes/core/class-date-time.php:82
+msgid "Yesterday at %s"
+msgstr "昨日の%s"
+
+#: includes/core/class-date-time.php:146
+msgid "%s year old"
+msgstr "%s年"
+
+#: includes/core/class-date-time.php:149
+msgid "%s years old"
+msgstr "%s年"
+
+#: includes/core/class-date-time.php:152
+msgid "Less than 1 year old"
+msgstr "1年未満"
+
+#: includes/core/class-fields.php:1558
+msgid "Custom Field"
+msgstr "カスタムフィールド"
+
+#: includes/core/class-fields.php:1957
+msgid "You can only upload one image"
+msgstr "1枚の画像しかアップロードできません"
+
+#: includes/core/class-fields.php:2584
+msgid "Current Password"
+msgstr "現在のパスワード"
+
+#: includes/core/class-fields.php:2615
+msgid "New Password"
+msgstr "新しいパスワード"
+
+#: includes/core/class-fields.php:2940
+msgid "Upload Photo"
+msgstr "写真をアップロード"
+
+#: includes/core/class-fields.php:3079 includes/core/class-fields.php:3119
+msgid "Change file"
+msgstr "ファイルを変更"
+
+#: includes/core/class-fields.php:3119
+msgid "Save"
+msgstr "保存"
+
+#: includes/core/class-uploader.php:740
+msgid "This media type is not recognized."
+msgstr "このメディアタイプは認識されません。"
+
+#: includes/core/class-uploader.php:794
+msgid "Your photo is too small. It must be at least %spx wide."
+msgstr "写真が小さすぎます。%spx幅以上でなければなりません。"
+
+#: includes/admin/core/class-admin-settings.php:1770
+msgid "Licenses"
+msgstr "ライセンス"
+
+#: includes/admin/core/class-admin-forms.php:344
+#: includes/core/um-filters-fields.php:17
+msgid "Required"
+msgstr "必須"
+
+#: includes/core/class-fields.php:3075 includes/core/um-filters-fields.php:354
+msgid "This file has been removed."
+msgstr "このファイルは削除されました。"
+
+#: includes/core/um-filters-fields.php:388
+msgid "Untitled photo"
+msgstr "無題の写真"
+
+#: includes/core/um-filters-profile.php:135
+#: includes/core/um-filters-profile.php:156
+msgid "max"
+msgstr "最大"
+
+#: includes/admin/core/class-admin-users.php:241
+#: includes/core/um-filters-user.php:21 includes/core/um-filters-user.php:26
+msgid "Approve Membership"
+msgstr "メンバーとして承認"
+
+#: includes/admin/core/class-admin-users.php:244
+#: includes/core/um-filters-user.php:22
+msgid "Reject Membership"
+msgstr "メンバーとして拒否"
+
+#: includes/admin/core/class-admin-users.php:247
+#: includes/core/um-filters-user.php:30
+msgid "Put as Pending Review"
+msgstr "承認待ちにする"
+
+#: includes/admin/core/class-admin-users.php:250
+#: includes/core/um-filters-user.php:34
+msgid "Resend Activation E-mail"
+msgstr "有効化メールを再送信"
+
+#: includes/admin/core/class-admin-users.php:253
+msgid "Deactivate"
+msgstr "無効化"
+
+#: includes/core/um-filters-user.php:38
+msgid "Deactivate this account"
+msgstr "このアカウントを無効化"
+
+#: includes/core/um-filters-user.php:42
+msgid "Reactivate this account"
+msgstr "このアカウントを再有効化"
+
+#: includes/core/um-filters-user.php:48
+msgid "Delete this user"
+msgstr "このユーザーを削除"
+
+#: includes/core/um-filters-user.php:52
+msgid "Login as this user"
+msgstr "このユーザーとしてログイン"
+
+#: includes/admin/core/class-admin-navmenu.php:28
+msgid "Display Mode"
+msgstr "表示モード"
+
+#: includes/admin/core/class-admin-navmenu.php:85
+#: includes/admin/core/class-admin-navmenu.php:251
+msgid "Select the member roles that can see this link"
+msgstr "このリンクを表示できるメンバーの権限グループを選択してください"
+
+#: includes/class-config.php:123 includes/class-config.php:255
+#: includes/class-config.php:263 includes/class-config.php:792
+#: includes/core/class-form.php:776
+msgid "Login"
+msgstr "ログイン"
+
+#: includes/um-deprecated-functions.php:671 includes/um-short-functions.php:865
+#: includes/um-short-functions.php:903
+msgid "(empty)"
+msgstr "(空)"
+
+#: includes/core/class-shortcodes.php:397
+msgid "This content has been restricted to logged in users only. Please <a href=\"{login_referrer}\">login</a> to view this content."
+msgstr "このコンテンツはログインユーザーのみに制限されています。表示するには<a href=\"{login_referrer}\">ログイン</a>してください。"
+
+#: includes/core/class-shortcodes.php:982
+msgid "Default Template"
+msgstr "デフォルトテンプレート"
+
+#: includes/core/class-common.php:59 includes/um-short-functions.php:690
+#: includes/um-short-functions.php:705
+msgid "Form"
+msgstr "フォーム"
+
+#: includes/admin/core/list-tables/roles-list-table.php:549
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:14
+#: includes/admin/core/packages/2.1.17-alpha/functions.php:39
+#: includes/admin/templates/role/role-edit.php:205
+#: includes/core/class-common.php:60 includes/core/class-common.php:90
+msgid "Add New"
+msgstr "新規追加"
+
+#: includes/core/class-common.php:62
+msgid "Edit Form"
+msgstr "フォームを編集"
+
+#: includes/core/class-common.php:63
+msgid "You did not create any forms yet"
+msgstr "まだフォームを作成していません"
+
+#: includes/core/class-common.php:65
+msgid "Search Forms"
+msgstr "フォームを検索"
+
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:13
+msgid "User Role"
+msgstr "ユーザー権限グループ"
+
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:16
+msgid "Edit User Role"
+msgstr "ユーザー権限グループを編集"
+
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:17
+msgid "You did not create any user roles yet"
+msgstr "まだユーザー権限グループを作成していません"
+
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:19
+msgid "Search User Roles"
+msgstr "ユーザー権限グループを検索"
+
+#: includes/core/class-common.php:89
+msgid "Member Directory"
+msgstr "メンバーディレクトリ"
+
+#: includes/core/class-common.php:92
+msgid "Edit Member Directory"
+msgstr "メンバーディレクトリを編集"
+
+#: includes/core/class-common.php:93
+msgid "You did not create any member directories yet"
+msgstr "まだメンバーディレクトリを作成していません"
+
+#: includes/core/class-common.php:95
+msgid "Search Member Directories"
+msgstr "メンバーディレクトリを検索"
+
+#: includes/core/class-profile.php:156
+msgid "Posts"
+msgstr "投稿"
+
+#: includes/core/class-profile.php:160
+msgid "Comments"
+msgstr "コメント"
+
+#: includes/core/class-user.php:1200
+msgid "Membership Rejected"
+msgstr "メンバーとして拒否済み"
+
+#: includes/core/class-user.php:1204
+msgid "Membership Inactive"
+msgstr "メンバーとして無効"
+
+#: includes/widgets/class-um-search-widget.php:27
+msgid "Ultimate Member - Search"
+msgstr "Ultimate Member - 検索"
+
+#: includes/widgets/class-um-search-widget.php:81
+msgid "Search Users"
+msgstr "ユーザーを検索"
+
+#: templates/profile/comments-single.php:28
+msgid "On <a href=\"%1$s\">%2$s</a>"
+msgstr "<a href=\"%1$s\">%2$s</a> にて"
+
+#: templates/profile/comments.php:40
+msgid "load more comments"
+msgstr "コメントをもっと読み込む"
+
+#: templates/profile/comments.php:52
+msgid "You have not made any comments."
+msgstr "まだコメントをしていません。"
+
+#: templates/profile/comments.php:54
+msgid "This user has not made any comments."
+msgstr "このユーザーはコメントしていません。"
+
+#: templates/profile/posts.php:38
+msgid "load more posts"
+msgstr "投稿をもっと読み込む"
+
+#: templates/profile/posts.php:50
+msgid "You have not created any posts."
+msgstr "まだ投稿がありません。"
+
+#: includes/admin/core/class-admin-metabox.php:484
+#: includes/admin/core/class-admin-metabox.php:635
+#: includes/admin/templates/access/restrict_content.php:128
+msgid "Login page"
+msgstr "ログインページ"
+
+#: includes/admin/core/class-admin-settings.php:297
+msgid "Choose a page..."
+msgstr "ページを選択..."
+
+#: includes/admin/core/class-admin-settings.php:992
+msgid "Profile Permalink Base"
+msgstr "プロフィールのパーマリンクベース"
+
+#: includes/admin/core/class-admin-settings.php:997
+msgid "First and Last Name with '.'"
+msgstr "名.姓"
+
+#: includes/admin/core/class-admin-settings.php:998
+msgid "First and Last Name with '-'"
+msgstr "名-姓"
+
+#: includes/admin/core/class-admin-settings.php:999
+msgid "First and Last Name with '+'"
+msgstr "名+姓"
+
+#: includes/admin/core/class-admin-settings.php:1002
+#: includes/admin/core/class-admin-settings.php:1021
+msgid "Select..."
+msgstr "選択... "
+
+#: includes/admin/core/class-admin-settings.php:1009
+msgid "This is the name that will be displayed for users on the front end of your site. Default setting uses first/last name as display name if it exists"
+msgstr "サイトのフロントエンドのユーザーに表示される名前です。 デフォルト設定では、表示名として姓/名が存在する場合はそれを使用します"
+
+#: includes/admin/core/class-admin-settings.php:1018
+msgid "First name only"
+msgstr "名のみ"
+
+#: includes/admin/core/class-admin-settings.php:1019
+msgid "Custom field(s)"
+msgstr "カスタムフィールド"
+
+#: includes/admin/core/class-admin-settings.php:1026
+msgid "Display Name Custom Field(s)"
+msgstr "表示名のカスタムフィールド"
+
+#: includes/admin/core/class-admin-settings.php:1027
+msgid "Specify the custom field meta key or custom fields seperated by comma that you want to use to display users name on the frontend of your site"
+msgstr "サイトのフロントエンドにユーザー名を表示するために、カンマで区切ったカスタムフィールドのメタキーまたはカスタムフィールドを指定する"
+
+#: includes/admin/core/class-admin-settings.php:1034
+msgid "If enabled, author pages will automatically redirect to the user's profile page"
+msgstr "有効にすると、投稿者ページから自動的にユーザーのプロフィールページへリダイレクトされます"
+
+#: templates/searchform.php:24 templates/searchform.php:25
+msgctxt "label"
+msgid "Search for:"
+msgstr "検索:"
+
+#: includes/core/class-fields.php:1998
+msgid "You can only upload one file"
+msgstr "1つのファイルのみをアップロードできます"
+
+#: includes/core/class-builtin.php:1510
+msgid "Unique Metakey value"
+msgstr "ユニークなメタキーの値"
+
+#: includes/core/class-builtin.php:1507
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: includes/core/class-builtin.php:1500
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: includes/core/class-builtin.php:1501
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: includes/core/class-builtin.php:1502
+msgid "Lowercase only"
+msgstr "小文字のみ"
+
+#: includes/core/class-builtin.php:1499
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: includes/core/class-builtin.php:1114 includes/core/class-builtin.php:1117
+#: includes/core/class-builtin.php:1125
+msgid "YouTube"
+msgstr "YouTube"
+
+#: includes/core/class-builtin.php:988 includes/core/class-builtin.php:991
+#: includes/core/class-builtin.php:1505
+msgid "Skype ID"
+msgstr "Skype ID"
+
+#: includes/core/class-builtin.php:970 includes/core/class-builtin.php:973
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/core/class-builtin.php:952 includes/core/class-builtin.php:955
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/core/class-builtin.php:934 includes/core/class-builtin.php:937
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/core/class-builtin.php:916 includes/core/class-builtin.php:919
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/admin/templates/form/builder.php:28
+msgid "Add Master Row"
+msgstr "マスター行を追加"
+
+#: includes/admin/core/class-admin-forms.php:1677
+#: includes/admin/core/class-admin-forms.php:1706
+#: includes/admin/templates/directory/sorting.php:22
+#: includes/admin/assets/js/um-admin-forms.js:294
+msgid "Meta key"
+msgstr "メタキー"
+
+#: includes/admin/core/class-admin-menu.php:127
+msgctxt "Admin menu name"
+msgid "Users"
+msgstr "ユーザー"
+
+#: includes/admin/core/class-admin-builder.php:217
+msgid "Add conditional fields support"
+msgstr "条件付きフィールドのサポートを追加"
+
+#: includes/admin/core/class-admin-builder.php:215
+msgid "Manage conditional fields support"
+msgstr "条件付きフィールドのサポートを管理"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: includes/admin/core/class-admin-menu.php:147
+#: includes/core/class-user.php:927
+msgid "Ultimate Member"
+msgstr "Ultimate Member"
+
+#: includes/admin/core/class-admin-columns.php:50
+#: includes/admin/core/list-tables/version-template-list-table.php:203
+msgid "Status"
+msgstr "ステータス"
+
+#: includes/core/class-builtin.php:1974
+msgid "Turkey"
+msgstr "トルコ"
+
+#: includes/core/class-builtin.php:1995
+msgid "Zimbabwe"
+msgstr "ジンバブエ"
+
+#: includes/admin/core/class-admin-metabox.php:1413
+msgid "Value"
+msgstr "値"
+
+#: includes/core/class-builtin.php:1135 includes/core/class-builtin.php:1138
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: includes/core/class-builtin.php:1521
+msgid "Custom Validation"
+msgstr "カスタムチェック"
+
+#: includes/core/class-builtin.php:1560
+msgid "Afar"
+msgstr "アファール語"
+
+#: includes/core/class-builtin.php:1561
+msgid "Abkhazian"
+msgstr "アブハズ語"
+
+#: includes/core/class-builtin.php:1562
+msgid "Avestan"
+msgstr "アベスタン語"
+
+#: includes/core/class-builtin.php:1564
+msgid "Akan"
+msgstr "アカン語"
+
+#: includes/core/class-builtin.php:1565
+msgid "Amharic"
+msgstr "アムハラ語"
+
+#: includes/core/class-builtin.php:1566
+msgid "Aragonese"
+msgstr "アラゴン語"
+
+#: includes/core/class-builtin.php:1567
+msgid "Arabic"
+msgstr "アラビア語"
+
+#: includes/core/class-builtin.php:1568
+msgid "Assamese"
+msgstr "アッサム語"
+
+#: includes/core/class-builtin.php:1569
+msgid "Avaric"
+msgstr "アバール語"
+
+#: includes/core/class-builtin.php:1570
+msgid "Aymara"
+msgstr "アイマラ語"
+
+#: includes/core/class-builtin.php:1571
+msgid "Azerbaijani"
+msgstr "アゼルバイジャン語"
+
+#: includes/core/class-builtin.php:1572
+msgid "Bashkir"
+msgstr "バシキール語"
+
+#: includes/core/class-builtin.php:1573
+msgid "Belarusian"
+msgstr "ベラルーシ語"
+
+#: includes/core/class-builtin.php:1574
+msgid "Bulgarian"
+msgstr "ブルガリア語"
+
+#: includes/core/class-builtin.php:1575
+msgid "Bihari"
+msgstr "ビハール語"
+
+#: includes/core/class-builtin.php:1576
+msgid "Bislama"
+msgstr "ビスラマ語"
+
+#: includes/core/class-builtin.php:1577
+msgid "Bambara"
+msgstr "バンバラ語"
+
+#: includes/core/class-builtin.php:1578
+msgid "Bengali"
+msgstr "ベンガル語"
+
+#: includes/core/class-builtin.php:1579
+msgid "Tibetan"
+msgstr "チベット語"
+
+#: includes/core/class-builtin.php:1580
+msgid "Breton"
+msgstr "ブルトン語"
+
+#: includes/core/class-builtin.php:1581
+msgid "Bosnian"
+msgstr "ボスニア語"
+
+#: includes/core/class-builtin.php:1583
+msgid "Chechen"
+msgstr "チェチェン語"
+
+#: includes/core/class-builtin.php:1584
+msgid "Chamorro"
+msgstr "チャモロ語"
+
+#: includes/core/class-builtin.php:1585
+msgid "Corsican"
+msgstr "コルシカ語"
+
+#: includes/core/class-builtin.php:1586
+msgid "Cree"
+msgstr "クリー語"
+
+#: includes/core/class-builtin.php:1587
+msgid "Czech"
+msgstr "チェコ語"
+
+#: includes/core/class-builtin.php:1588
+msgid "Church Slavic"
+msgstr "教会スラブ語"
+
+#: includes/core/class-builtin.php:1590
+msgid "Welsh"
+msgstr "ウェールズ語"
+
+#: includes/core/class-builtin.php:1591
+msgid "Danish"
+msgstr "デンマーク語"
+
+#: includes/core/class-builtin.php:1592
+msgid "German"
+msgstr "ドイツ語"
+
+#: includes/core/class-builtin.php:1593
+msgid "Divehi"
+msgstr "モルジブ語"
+
+#: includes/core/class-builtin.php:1594
+msgid "Dzongkha"
+msgstr "ブータン語"
+
+#: includes/core/class-builtin.php:1595
+msgid "Ewe"
+msgstr "エウェ語群"
+
+#: includes/core/class-builtin.php:1597
+msgid "English"
+msgstr "英語"
+
+#: includes/core/class-builtin.php:1598
+msgid "Esperanto"
+msgstr "エスペラント語"
+
+#: includes/core/class-builtin.php:1599
+msgid "Spanish"
+msgstr "スペイン語"
+
+#: includes/core/class-builtin.php:1600
+msgid "Estonian"
+msgstr "エストニア語"
+
+#: includes/core/class-builtin.php:1601
+msgid "Basque"
+msgstr "バスク語"
+
+#: includes/core/class-builtin.php:1603
+msgid "Fulah"
+msgstr "フラニ語"
+
+#: includes/core/class-builtin.php:1604
+msgid "Finnish"
+msgstr "フィンランド語"
+
+#: includes/core/class-builtin.php:1605
+msgid "Fijian"
+msgstr "フィジー語"
+
+#: includes/core/class-builtin.php:1606
+msgid "Faroese"
+msgstr "フェーロー語"
+
+#: includes/core/class-builtin.php:1607
+msgid "French"
+msgstr "フランス語"
+
+#: includes/core/class-builtin.php:1608
+msgid "Western Frisian"
+msgstr "西フリジア語"
+
+#: includes/core/class-builtin.php:1610
+msgid "Scottish Gaelic"
+msgstr "ゲール語"
+
+#: includes/core/class-builtin.php:1611
+msgid "Galician"
+msgstr "ガリシア語"
+
+#: includes/core/class-builtin.php:1612
+msgid "Guarani"
+msgstr "ワラニー語"
+
+#: includes/core/class-builtin.php:1613
+msgid "Gujarati"
+msgstr "グジャラート語"
+
+#: includes/core/class-builtin.php:1614
+msgid "Manx"
+msgstr "マン島語"
+
+#: includes/core/class-builtin.php:1615
+msgid "Hausa"
+msgstr "ハウサ語"
+
+#: includes/core/class-builtin.php:1618
+msgid "Hiri Motu"
+msgstr "ヒリモトゥ語"
+
+#: includes/core/class-builtin.php:1619
+msgid "Croatian"
+msgstr "クロアチア語"
+
+#: includes/core/class-builtin.php:1620
+msgid "Haitian"
+msgstr "ハイチ語"
+
+#: includes/core/class-builtin.php:1621
+msgid "Hungarian"
+msgstr "ハンガリー語"
+
+#: includes/core/class-builtin.php:1622
+msgid "Armenian"
+msgstr "アルメニア語"
+
+#: includes/core/class-builtin.php:1623
+msgid "Herero"
+msgstr "ヘレロ語"
+
+#: includes/core/class-builtin.php:1627
+msgid "Igbo"
+msgstr "イボ語"
+
+#: includes/core/class-builtin.php:1629
+msgid "Inupiaq"
+msgstr "イヌピアック語"
+
+#: includes/core/class-builtin.php:1630
+msgid "Ido"
+msgstr "イド語"
+
+#: includes/core/class-builtin.php:1631
+msgid "Icelandic"
+msgstr "アイスランド語"
+
+#: includes/core/class-builtin.php:1632
+msgid "Italian"
+msgstr "イタリア語"
+
+#: includes/core/class-builtin.php:1633
+msgid "Inuktitut"
+msgstr "イヌイット語"
+
+#: includes/core/class-builtin.php:1635
+msgid "Javanese"
+msgstr "ジャワ語"
+
+#: includes/core/class-builtin.php:1637
+msgid "Kongo"
+msgstr "コンゴ語"
+
+#: includes/core/class-builtin.php:1638
+msgid "Kikuyu"
+msgstr "キクユ語"
+
+#: includes/core/class-builtin.php:1639
+msgid "Kwanyama"
+msgstr "クワニャマ語"
+
+#: includes/core/class-builtin.php:1640
+msgid "Kazakh"
+msgstr "カザフ語"
+
+#: includes/core/class-builtin.php:1641
+msgid "Kalaallisut"
+msgstr "グリーンランド語"
+
+#: includes/core/class-builtin.php:1643
+msgid "Kannada"
+msgstr "カンナダ語"
+
+#: includes/core/class-builtin.php:1645
+msgid "Kanuri"
+msgstr "カヌリ語"
+
+#: includes/core/class-builtin.php:1646
+msgid "Kashmiri"
+msgstr "カシュミール語"
+
+#: includes/core/class-builtin.php:1647
+msgid "Kurdish"
+msgstr "クルド語"
+
+#: includes/core/class-builtin.php:1648
+msgid "Komi"
+msgstr "コミ語"
+
+#: includes/core/class-builtin.php:1649
+msgid "Cornish"
+msgstr "コーンウォール語"
+
+#: includes/core/class-builtin.php:1650
+msgid "Kirghiz"
+msgstr "キルギス語"
+
+#: includes/core/class-builtin.php:1652
+msgid "Luxembourgish"
+msgstr "ルクセンブルク語"
+
+#: includes/core/class-builtin.php:1653
+msgid "Ganda"
+msgstr "ガンダ語"
+
+#: includes/core/class-builtin.php:1654
+msgid "Limburgish"
+msgstr "リンブルガー語"
+
+#: includes/core/class-builtin.php:1655
+msgid "Lingala"
+msgstr "リンガラ語"
+
+#: includes/core/class-builtin.php:1657
+msgid "Lithuanian"
+msgstr "リトアニア語"
+
+#: includes/core/class-builtin.php:1658
+msgid "Luba-Katanga"
+msgstr "キルバ語"
+
+#: includes/core/class-builtin.php:1659
+msgid "Latvian"
+msgstr "ラトビア語"
+
+#: includes/core/class-builtin.php:1660
+msgid "Malagasy"
+msgstr "マラガシ語"
+
+#: includes/core/class-builtin.php:1661
+msgid "Marshallese"
+msgstr "マーシャル語"
+
+#: includes/core/class-builtin.php:1662
+msgid "Maori"
+msgstr "マオリ語"
+
+#: includes/core/class-builtin.php:1663
+msgid "Macedonian"
+msgstr "マケドニア語"
+
+#: includes/core/class-builtin.php:1665
+msgid "Mongolian"
+msgstr "モンゴル語"
+
+#: includes/core/class-builtin.php:1666
+msgid "Marathi"
+msgstr "マラーティー語"
+
+#: includes/core/class-builtin.php:1667
+msgid "Malay"
+msgstr "マレー語"
+
+#: includes/core/class-builtin.php:1668
+msgid "Maltese"
+msgstr "マルタ語"
+
+#: includes/core/class-builtin.php:1669
+msgid "Burmese"
+msgstr "ビルマ語"
+
+#: includes/core/class-builtin.php:1672
+msgid "North Ndebele"
+msgstr "北ンデベレ語"
+
+#: includes/core/class-builtin.php:1673
+msgid "Nepali"
+msgstr "ネパール語"
+
+#: includes/core/class-builtin.php:1674
+msgid "Ndonga"
+msgstr "ンドゥンガ語"
+
+#: includes/core/class-builtin.php:1675
+msgid "Dutch"
+msgstr "オランダ語"
+
+#: includes/core/class-builtin.php:1677
+msgid "Norwegian"
+msgstr "ノルウェー語"
+
+#: includes/core/class-builtin.php:1678
+msgid "South Ndebele"
+msgstr "南ンデベレ語"
+
+#: includes/core/class-builtin.php:1679
+msgid "Navajo"
+msgstr "ナバホ語"
+
+#: includes/core/class-builtin.php:1682
+msgid "Ojibwa"
+msgstr "オジブワ語"
+
+#: includes/core/class-builtin.php:1684
+msgid "Oriya"
+msgstr "オリヤー語"
+
+#: includes/core/class-builtin.php:1685
+msgid "Ossetian"
+msgstr "オセット語"
+
+#: includes/core/class-builtin.php:1686
+msgid "Panjabi"
+msgstr "パンジャーブ語"
+
+#: includes/core/class-builtin.php:1687
+msgid "Pali"
+msgstr "パーリ語"
+
+#: includes/core/class-builtin.php:1688
+msgid "Polish"
+msgstr "ポーランド語"
+
+#: includes/core/class-builtin.php:1689
+msgid "Pashto"
+msgstr "パシュトー語"
+
+#: includes/core/class-builtin.php:1690
+msgid "Portuguese"
+msgstr "ポルトガル語"
+
+#: includes/core/class-builtin.php:1691
+msgid "Quechua"
+msgstr "ケチュア語"
+
+#: includes/core/class-builtin.php:1692
+msgid "Raeto-Romance"
+msgstr "レト・ロマンス語"
+
+#: includes/core/class-builtin.php:1693
+msgid "Kirundi"
+msgstr "ルンディ語"
+
+#: includes/core/class-builtin.php:1694
+msgid "Romanian"
+msgstr "ルーマニア語"
+
+#: includes/core/class-builtin.php:1695
+msgid "Russian"
+msgstr "ロシア語"
+
+#: includes/core/class-builtin.php:1696
+msgid "Kinyarwanda"
+msgstr "ルワンダ語"
+
+#: includes/core/class-builtin.php:1698
+msgid "Sardinian"
+msgstr "サルデーニャ語"
+
+#: includes/core/class-builtin.php:1699
+msgid "Sindhi"
+msgstr "シンド語"
+
+#: includes/core/class-builtin.php:1700
+msgid "Northern Sami"
+msgstr "北サーミ語"
+
+#: includes/core/class-builtin.php:1701
+msgid "Sango"
+msgstr "サンゴ語"
+
+#: includes/core/class-builtin.php:1702
+msgid "Sinhala"
+msgstr "シンハラ語"
+
+#: includes/core/class-builtin.php:1703
+msgid "Slovak"
+msgstr "スロバキア語"
+
+#: includes/core/class-builtin.php:1704
+msgid "Slovenian"
+msgstr "スロベニア語"
+
+#: includes/core/class-builtin.php:1705
+msgid "Samoan"
+msgstr "サモア語"
+
+#: includes/core/class-builtin.php:1706
+msgid "Shona"
+msgstr "ショナ語"
+
+#: includes/core/class-builtin.php:1707
+msgid "Somali"
+msgstr "ソマリ語"
+
+#: includes/core/class-builtin.php:1708
+msgid "Albanian"
+msgstr "アルバニア語"
+
+#: includes/core/class-builtin.php:1709
+msgid "Serbian"
+msgstr "セルビア語"
+
+#: includes/core/class-builtin.php:1710
+msgid "Swati"
+msgstr "スワティ語"
+
+#: includes/core/class-builtin.php:1711
+msgid "Southern Sotho"
+msgstr "南ソト語"
+
+#: includes/core/class-builtin.php:1714
+msgid "Swahili"
+msgstr "スワヒリ語"
+
+#: includes/core/class-builtin.php:1715
+msgid "Tamil"
+msgstr "タミル語"
+
+#: includes/core/class-builtin.php:1716
+msgid "Telugu"
+msgstr "テルグ語"
+
+#: includes/core/class-builtin.php:1717
+msgid "Tajik"
+msgstr "タジク語"
+
+#: includes/core/class-builtin.php:1718
+msgid "Thai"
+msgstr "タイ語"
+
+#: includes/core/class-builtin.php:1719
+msgid "Tigrinya"
+msgstr "ティグリニア語"
+
+#: includes/core/class-builtin.php:1720
+msgid "Turkmen"
+msgstr "トルクメン語"
+
+#: includes/core/class-builtin.php:1724
+msgid "Turkish"
+msgstr "トルコ語"
+
+#: includes/core/class-builtin.php:1726
+msgid "Tatar"
+msgstr "タタール語"
+
+#: includes/core/class-builtin.php:1729
+msgid "Uighur"
+msgstr "ウイグル語"
+
+#: includes/core/class-builtin.php:1730
+msgid "Ukrainian"
+msgstr "ウクライナ語"
+
+#: includes/core/class-builtin.php:1731
+msgid "Urdu"
+msgstr "ウルドゥー語"
+
+#: includes/core/class-builtin.php:1732
+msgid "Uzbek"
+msgstr "ウズベク語"
+
+#: includes/core/class-builtin.php:1733
+msgid "Venda"
+msgstr "ベンダ語"
+
+#: includes/core/class-builtin.php:1734
+msgid "Vietnamese"
+msgstr "ベトナム語"
+
+#: includes/core/class-builtin.php:1735
+msgid "Volapuk"
+msgstr "ボラピューク語"
+
+#: includes/core/class-builtin.php:1736
+msgid "Walloon"
+msgstr "ワロン語"
+
+#: includes/core/class-builtin.php:1737
+msgid "Wolof"
+msgstr "ウォロフ語"
+
+#: includes/core/class-builtin.php:1738
+msgid "Xhosa"
+msgstr "コサ語"
+
+#: includes/core/class-builtin.php:1739
+msgid "Yiddish"
+msgstr "イディッシュ語"
+
+#: includes/core/class-builtin.php:1740
+msgid "Yoruba"
+msgstr "ヨルバ語"
+
+#: includes/core/class-builtin.php:1741
+msgid "Zhuang"
+msgstr "チュワン語"
+
+#: includes/core/class-builtin.php:1742
+msgid "Chinese"
+msgstr "中国語"
+
+#: includes/core/class-builtin.php:1749
+msgid "Afghanistan"
+msgstr "アフガニスタン"
+
+#: includes/core/class-builtin.php:1750
+msgid "Åland Islands"
+msgstr "オーランド諸島"
+
+#: includes/core/class-builtin.php:1751
+msgid "Albania"
+msgstr "アルバニア"
+
+#: includes/core/class-builtin.php:1752
+msgid "Algeria"
+msgstr "アルジェリア"
+
+#: includes/core/class-builtin.php:1754
+msgid "Andorra"
+msgstr "アンドラ"
+
+#: includes/core/class-builtin.php:1755
+msgid "Angola"
+msgstr "アンゴラ"
+
+#: includes/core/class-builtin.php:1756
+msgid "Anguilla"
+msgstr "アンギラ"
+
+#: includes/core/class-builtin.php:1757
+msgid "Antarctica"
+msgstr "南極"
+
+#: includes/core/class-builtin.php:1758
+msgid "Antigua and Barbuda"
+msgstr "アンティグア・バーブーダ"
+
+#: includes/core/class-builtin.php:1759
+msgid "Argentina"
+msgstr "アルゼンチン"
+
+#: includes/core/class-builtin.php:1760
+msgid "Armenia"
+msgstr "アルメニア"
+
+#: includes/core/class-builtin.php:1761
+msgid "Aruba"
+msgstr "アルバ"
+
+#: includes/core/class-builtin.php:1762
+msgid "Australia"
+msgstr "オーストラリア"
+
+#: includes/core/class-builtin.php:1763
+msgid "Austria"
+msgstr "オーストリア"
+
+#: includes/core/class-builtin.php:1764
+msgid "Azerbaijan"
+msgstr "アゼルバイジャン"
+
+#: includes/core/class-builtin.php:1765
+msgid "Bahamas"
+msgstr "バハマ"
+
+#: includes/core/class-builtin.php:1766
+msgid "Bahrain"
+msgstr "バーレーン"
+
+#: includes/core/class-builtin.php:1767
+msgid "Bangladesh"
+msgstr "バングラデシュ"
+
+#: includes/core/class-builtin.php:1768
+msgid "Barbados"
+msgstr "バルバドス"
+
+#: includes/core/class-builtin.php:1769
+msgid "Belarus"
+msgstr "ベラルーシ"
+
+#: includes/core/class-builtin.php:1770
+msgid "Belgium"
+msgstr "ベルギー"
+
+#: includes/core/class-builtin.php:1771
+msgid "Belize"
+msgstr "ベリーズ"
+
+#: includes/core/class-builtin.php:1774
+msgid "Bhutan"
+msgstr "ブータン"
+
+#: includes/core/class-builtin.php:1777
+msgid "Botswana"
+msgstr "ボツワナ"
+
+#: includes/core/class-builtin.php:1778
+msgid "Bouvet Island"
+msgstr "ブーベ島"
+
+#: includes/core/class-builtin.php:1779
+msgid "Brazil"
+msgstr "ブラジル"
+
+#: includes/core/class-builtin.php:1782
+msgid "Bulgaria"
+msgstr "ブルガリア"
+
+#: includes/core/class-builtin.php:1783
+msgid "Burkina Faso"
+msgstr "ブルキナファソ"
+
+#: includes/core/class-builtin.php:1784
+msgid "Burundi"
+msgstr "ブルンジ"
+
+#: includes/core/class-builtin.php:1785
+msgid "Cambodia"
+msgstr "カンボジア"
+
+#: includes/core/class-builtin.php:1786
+msgid "Cameroon"
+msgstr "カメルーン"
+
+#: includes/core/class-builtin.php:1787
+msgid "Canada"
+msgstr "カナダ"
+
+#: includes/core/class-builtin.php:1791
+msgid "Chad"
+msgstr "チャド"
+
+#: includes/core/class-builtin.php:1792
+msgid "Chile"
+msgstr "チリ"
+
+#: includes/core/class-builtin.php:1793
+msgid "China"
+msgstr "中国"
+
+#: includes/core/class-builtin.php:1794
+msgid "Christmas Island"
+msgstr "クリスマス島"
+
+#: includes/core/class-builtin.php:1797
+msgid "Comoros"
+msgstr "コモロ"
+
+#: includes/core/class-builtin.php:1800
+msgid "Cook Islands"
+msgstr "クック諸島"
+
+#: includes/core/class-builtin.php:1801
+msgid "Costa Rica"
+msgstr "コスタリカ"
+
+#: includes/core/class-builtin.php:1803
+msgid "Croatia"
+msgstr "クロアチア"
+
+#: includes/core/class-builtin.php:1804
+msgid "Cuba"
+msgstr "キューバ"
+
+#: includes/core/class-builtin.php:1807
+msgid "Denmark"
+msgstr "デンマーク"
+
+#: includes/core/class-builtin.php:1809
+msgid "Dominica"
+msgstr "ドミニカ"
+
+#: includes/core/class-builtin.php:1811
+msgid "Ecuador"
+msgstr "エクアドル"
+
+#: includes/core/class-builtin.php:1812
+msgid "Egypt"
+msgstr "エジプト"
+
+#: includes/core/class-builtin.php:1813
+msgid "El Salvador"
+msgstr "エルサルバドル"
+
+#: includes/core/class-builtin.php:1816
+msgid "Estonia"
+msgstr "エストニア"
+
+#: includes/core/class-builtin.php:1817
+msgid "Ethiopia"
+msgstr "エチオピア"
+
+#: includes/core/class-builtin.php:1820
+msgid "Fiji"
+msgstr "フィジー"
+
+#: includes/core/class-builtin.php:1821
+msgid "Finland"
+msgstr "フィンランド"
+
+#: includes/core/class-builtin.php:1822
+msgid "France"
+msgstr "フランス"
+
+#: includes/core/class-builtin.php:1829
+msgid "Germany"
+msgstr "ドイツ"
+
+#: includes/core/class-builtin.php:1830
+msgid "Ghana"
+msgstr "ガーナ"
+
+#: includes/core/class-builtin.php:1832
+msgid "Greece"
+msgstr "ギリシャ"
+
+#: includes/core/class-builtin.php:1833
+msgid "Greenland"
+msgstr "グリーンランド"
+
+#: includes/core/class-builtin.php:1834
+msgid "Grenada"
+msgstr "グレナダ"
+
+#: includes/core/class-builtin.php:1836
+msgid "Guam"
+msgstr "グアム"
+
+#: includes/core/class-builtin.php:1837
+msgid "Guatemala"
+msgstr "グアテマラ"
+
+#: includes/core/class-builtin.php:1839
+msgid "Guinea"
+msgstr "ギニア"
+
+#: includes/core/class-builtin.php:1842
+msgid "Haiti"
+msgstr "ハイチ"
+
+#: includes/core/class-builtin.php:1845
+msgid "Honduras"
+msgstr "ホンジュラス"
+
+#: includes/core/class-builtin.php:1846
+msgid "Hong Kong"
+msgstr "香港"
+
+#: includes/core/class-builtin.php:1847
+msgid "Hungary"
+msgstr "ハンガリー"
+
+#: includes/core/class-builtin.php:1848
+msgid "Iceland"
+msgstr "アイスランド"
+
+#: includes/core/class-builtin.php:1849
+msgid "India"
+msgstr "インド"
+
+#: includes/core/class-builtin.php:1850
+msgid "Indonesia"
+msgstr "インドネシア"
+
+#: includes/core/class-builtin.php:1851
+msgid "Iran, Islamic Republic of"
+msgstr "イラン"
+
+#: includes/core/class-builtin.php:1852
+msgid "Iraq"
+msgstr "イラク"
+
+#: includes/core/class-builtin.php:1853
+msgid "Ireland"
+msgstr "アイルランド"
+
+#: includes/core/class-builtin.php:1855
+msgid "Israel"
+msgstr "イスラエル"
+
+#: includes/core/class-builtin.php:1856
+msgid "Italy"
+msgstr "イタリア"
+
+#: includes/core/class-builtin.php:1857
+msgid "Jamaica"
+msgstr "ジャマイカ"
+
+#: includes/core/class-builtin.php:1860
+msgid "Jordan"
+msgstr "ヨルダン"
+
+#: includes/core/class-builtin.php:1861
+msgid "Kazakhstan"
+msgstr "カザフスタン"
+
+#: includes/core/class-builtin.php:1862
+msgid "Kenya"
+msgstr "ケニア"
+
+#: includes/core/class-builtin.php:1864
+msgid "Korea, Democratic People's Republic of"
+msgstr "北朝鮮"
+
+#: includes/core/class-builtin.php:1865
+msgid "Korea, Republic of"
+msgstr "韓国"
+
+#: includes/core/class-builtin.php:1866
+msgid "Kuwait"
+msgstr "クウェート"
+
+#: includes/core/class-builtin.php:1869
+msgid "Latvia"
+msgstr "ラトビア"
+
+#: includes/core/class-builtin.php:1870
+msgid "Lebanon"
+msgstr "レバノン"
+
+#: includes/core/class-builtin.php:1872
+msgid "Liberia"
+msgstr "リベリア"
+
+#: includes/core/class-builtin.php:1876
+msgid "Luxembourg"
+msgstr "ルクセンブルク"
+
+#: includes/core/class-builtin.php:1877
+msgid "Macao"
+msgstr "マカオ"
+
+#: includes/core/class-builtin.php:1878
+msgid "Macedonia, the former Yugoslav Republic of"
+msgstr "マケドニア"
+
+#: includes/core/class-builtin.php:1879
+msgid "Madagascar"
+msgstr "マダガスカル"
+
+#: includes/core/class-builtin.php:1881
+msgid "Malaysia"
+msgstr "マレーシア"
+
+#: includes/core/class-builtin.php:1882
+msgid "Maldives"
+msgstr "モルディブ"
+
+#: includes/core/class-builtin.php:1883
+msgid "Mali"
+msgstr "マリ"
+
+#: includes/core/class-builtin.php:1884
+msgid "Malta"
+msgstr "マルタ"
+
+#: includes/core/class-builtin.php:1887
+msgid "Mauritania"
+msgstr "モーリタニア"
+
+#: includes/core/class-builtin.php:1888
+msgid "Mauritius"
+msgstr "モーリシャス"
+
+#: includes/core/class-builtin.php:1890
+msgid "Mexico"
+msgstr "メキシコ"
+
+#: includes/core/class-builtin.php:1891
+msgid "Micronesia, Federated States of"
+msgstr "ミクロネシア"
+
+#: includes/core/class-builtin.php:1893
+msgid "Monaco"
+msgstr "モナコ"
+
+#: includes/core/class-builtin.php:1894
+msgid "Mongolia"
+msgstr "モンゴル"
+
+#: includes/core/class-builtin.php:1895
+msgid "Montenegro"
+msgstr "モンテネグロ"
+
+#: includes/core/class-builtin.php:1897
+msgid "Morocco"
+msgstr "モロッコ"
+
+#: includes/core/class-builtin.php:1898
+msgid "Mozambique"
+msgstr "モザンビーク"
+
+#: includes/core/class-builtin.php:1899
+msgid "Myanmar"
+msgstr "ミャンマー"
+
+#: includes/core/class-builtin.php:1900
+msgid "Namibia"
+msgstr "ナミビア"
+
+#: includes/core/class-builtin.php:1902
+msgid "Nepal"
+msgstr "ネパール"
+
+#: includes/core/class-builtin.php:1903
+msgid "Netherlands"
+msgstr "オランダ"
+
+#: includes/core/class-builtin.php:1905
+msgid "New Caledonia"
+msgstr "ニューカレドニア"
+
+#: includes/core/class-builtin.php:1906
+msgid "New Zealand"
+msgstr "ニュージーランド"
+
+#: includes/core/class-builtin.php:1907
+msgid "Nicaragua"
+msgstr "ニカラグア"
+
+#: includes/core/class-builtin.php:1909
+msgid "Nigeria"
+msgstr "ナイジェリア"
+
+#: includes/core/class-builtin.php:1913
+msgid "Norway"
+msgstr "ノルウェー"
+
+#: includes/core/class-builtin.php:1914
+msgid "Oman"
+msgstr "オマーン"
+
+#: includes/core/class-builtin.php:1915
+msgid "Pakistan"
+msgstr "パキスタン"
+
+#: includes/core/class-builtin.php:1917
+msgid "Palestine"
+msgstr "パレスチナ"
+
+#: includes/core/class-builtin.php:1918
+msgid "Panama"
+msgstr "パナマ"
+
+#: includes/core/class-builtin.php:1919
+msgid "Papua New Guinea"
+msgstr "パプアニューギニア"
+
+#: includes/core/class-builtin.php:1920
+msgid "Paraguay"
+msgstr "パラグアイ"
+
+#: includes/core/class-builtin.php:1921
+msgid "Peru"
+msgstr "ペルー"
+
+#: includes/core/class-builtin.php:1922
+msgid "Philippines"
+msgstr "フィリピン"
+
+#: includes/core/class-builtin.php:1924
+msgid "Poland"
+msgstr "ポーランド"
+
+#: includes/core/class-builtin.php:1925
+msgid "Portugal"
+msgstr "ポルトガル"
+
+#: includes/core/class-builtin.php:1926
+msgid "Puerto Rico"
+msgstr "プエルトリコ"
+
+#: includes/core/class-builtin.php:1927
+msgid "Qatar"
+msgstr "カタール"
+
+#: includes/core/class-builtin.php:1929
+msgid "Romania"
+msgstr "ルーマニア"
+
+#: includes/core/class-builtin.php:1931
+msgid "Rwanda"
+msgstr "ルワンダ"
+
+#: includes/core/class-builtin.php:1939
+msgid "Samoa"
+msgstr "サモア"
+
+#: includes/core/class-builtin.php:1940
+msgid "San Marino"
+msgstr "サンマリノ"
+
+#: includes/core/class-builtin.php:1942
+msgid "Saudi Arabia"
+msgstr "サウジアラビア"
+
+#: includes/core/class-builtin.php:1943
+msgid "Senegal"
+msgstr "セネガル"
+
+#: includes/core/class-builtin.php:1944
+msgid "Serbia"
+msgstr "セルビア"
+
+#: includes/core/class-builtin.php:1946
+msgid "Sierra Leone"
+msgstr "シエラレオネ"
+
+#: includes/core/class-builtin.php:1947
+msgid "Singapore"
+msgstr "シンガポール"
+
+#: includes/core/class-builtin.php:1948
+msgid "Slovakia"
+msgstr "スロバキア"
+
+#: includes/core/class-builtin.php:1949
+msgid "Slovenia"
+msgstr "スロベニア"
+
+#: includes/core/class-builtin.php:1951
+msgid "Somalia"
+msgstr "ソマリア"
+
+#: includes/core/class-builtin.php:1952
+msgid "South Africa"
+msgstr "南アフリカ"
+
+#: includes/core/class-builtin.php:1954
+msgid "South Sudan"
+msgstr "南スーダン"
+
+#: includes/core/class-builtin.php:1955
+msgid "Spain"
+msgstr "スペイン"
+
+#: includes/core/class-builtin.php:1956
+msgid "Sri Lanka"
+msgstr "スリランカ"
+
+#: includes/core/class-builtin.php:1957
+msgid "Sudan"
+msgstr "スーダン"
+
+#: includes/core/class-builtin.php:1958
+msgid "Suriname"
+msgstr "スリナム"
+
+#: includes/core/class-builtin.php:1961
+msgid "Sweden"
+msgstr "スウェーデン"
+
+#: includes/core/class-builtin.php:1962
+msgid "Switzerland"
+msgstr "スイス"
+
+#: includes/core/class-builtin.php:1964
+msgid "Taiwan, Province of China"
+msgstr "台湾"
+
+#: includes/core/class-builtin.php:1965
+msgid "Tajikistan"
+msgstr "タジキスタン"
+
+#: includes/core/class-builtin.php:1966
+msgid "Tanzania, United Republic of"
+msgstr "タンザニア"
+
+#: includes/core/class-builtin.php:1967
+msgid "Thailand"
+msgstr "タイ"
+
+#: includes/core/class-builtin.php:1969
+msgid "Togo"
+msgstr "トーゴ"
+
+#: includes/core/class-builtin.php:1973
+msgid "Tunisia"
+msgstr "チュニジア"
+
+#: includes/core/class-builtin.php:1975
+msgid "Turkmenistan"
+msgstr "トルクメニスタン"
+
+#: includes/core/class-builtin.php:1977
+msgid "Tuvalu"
+msgstr "ツバル"
+
+#: includes/core/class-builtin.php:1978
+msgid "Uganda"
+msgstr "ウガンダ"
+
+#: includes/core/class-builtin.php:1979
+msgid "Ukraine"
+msgstr "ウクライナ"
+
+#: includes/core/class-builtin.php:1980
+msgid "United Arab Emirates"
+msgstr "アラブ首長国連邦"
+
+#: includes/core/class-builtin.php:1984
+msgid "Uruguay"
+msgstr "ウルグアイ"
+
+#: includes/core/class-builtin.php:1985
+msgid "Uzbekistan"
+msgstr "ウズベキスタン"
+
+#: includes/core/class-builtin.php:1986
+msgid "Vanuatu"
+msgstr "バヌアツ"
+
+#: includes/core/class-builtin.php:1988
+msgid "Viet Nam"
+msgstr "ベトナム"
+
+#: includes/core/class-builtin.php:1989
+msgid "Virgin Islands, British"
+msgstr "英領バージン諸島"
+
+#: includes/core/class-builtin.php:1990
+msgid "Virgin Islands, U.S."
+msgstr "アメリカ領ヴァージン諸島"
+
+#: includes/core/class-builtin.php:1992
+msgid "Western Sahara"
+msgstr "西サハラ"
+
+#: includes/core/class-builtin.php:1993
+msgid "Yemen"
+msgstr "イエメン"
+
+#: includes/core/class-builtin.php:1994
+msgid "Zambia"
+msgstr "ザンビア"
+
+#: includes/admin/core/class-admin-navmenu.php:29
+msgid "By Role"
+msgstr "ユーザー権限"
+
+#: includes/class-config.php:122 includes/class-config.php:791
+msgid "User"
+msgstr "ユーザー"
+
+#: includes/admin/core/class-admin-menu.php:135
+msgctxt "Admin menu name"
+msgid "All Users"
+msgstr "すべてのユーザー"
+
+#. translators: %s - Form title
+#: includes/admin/class-admin.php:1776
+msgid "Duplicate of %s"
+msgstr "%s の複製"
+
+#: includes/admin/core/class-admin-columns.php:192
+#: includes/admin/core/class-admin-columns.php:225
+#: includes/admin/core/class-admin-settings.php:1100
+#: includes/admin/core/class-admin-settings.php:1203
+#: includes/admin/core/list-tables/roles-list-table.php:435
+#: includes/admin/core/list-tables/roles-list-table.php:443
+#: includes/admin/templates/form/login_customize.php:27
+#: includes/admin/templates/form/login_customize.php:75
+#: includes/admin/templates/form/login_customize.php:94
+#: includes/admin/templates/form/login_customize.php:105
+#: includes/admin/templates/form/profile_customize.php:42
+#: includes/admin/templates/form/profile_customize.php:108
+#: includes/admin/templates/form/profile_customize.php:127
+#: includes/admin/templates/form/profile_customize.php:162
+#: includes/admin/templates/form/profile_customize.php:183
+#: includes/admin/templates/form/profile_customize.php:194
+#: includes/admin/templates/form/profile_customize.php:205
+#: includes/admin/templates/form/profile_customize.php:216
+#: includes/admin/templates/form/register_customize.php:33
+#: includes/admin/templates/form/register_customize.php:89
+#: includes/admin/templates/form/register_gdpr.php:31
+#: includes/admin/templates/role/profile.php:53
+#: includes/core/class-builtin.php:1282 includes/core/class-builtin.php:1301
+#: includes/core/class-builtin.php:1317 includes/core/class-builtin.php:1320
+#: includes/core/um-actions-account.php:347
+msgid "No"
+msgstr "いいえ"
+
+#: includes/admin/core/class-admin-columns.php:192
+#: includes/admin/core/class-admin-columns.php:225
+#: includes/admin/core/class-admin-settings.php:1101
+#: includes/admin/core/class-admin-settings.php:1204
+#: includes/admin/core/list-tables/roles-list-table.php:435
+#: includes/admin/core/list-tables/roles-list-table.php:443
+#: includes/admin/core/packages/2.1.3-beta3/functions.php:75
+#: includes/admin/core/packages/2.1.3-beta3/functions.php:76
+#: includes/admin/templates/form/login_customize.php:28
+#: includes/admin/templates/form/login_customize.php:76
+#: includes/admin/templates/form/login_customize.php:95
+#: includes/admin/templates/form/login_customize.php:106
+#: includes/admin/templates/form/profile_customize.php:43
+#: includes/admin/templates/form/profile_customize.php:109
+#: includes/admin/templates/form/profile_customize.php:128
+#: includes/admin/templates/form/profile_customize.php:163
+#: includes/admin/templates/form/profile_customize.php:184
+#: includes/admin/templates/form/profile_customize.php:195
+#: includes/admin/templates/form/profile_customize.php:206
+#: includes/admin/templates/form/profile_customize.php:217
+#: includes/admin/templates/form/register_customize.php:34
+#: includes/admin/templates/form/register_customize.php:90
+#: includes/admin/templates/form/register_gdpr.php:32
+#: includes/admin/templates/role/profile.php:54
+#: includes/core/class-builtin.php:1283 includes/core/class-builtin.php:1302
+#: includes/core/class-builtin.php:1319 includes/core/class-user.php:477
+#: includes/core/class-user.php:478 includes/core/um-actions-account.php:342
+msgid "Yes"
+msgstr "はい"
+
+#: includes/core/class-builtin.php:1923
+msgid "Pitcairn"
+msgstr "ピトケアン諸島"
+
+#: includes/core/class-builtin.php:1916
+msgid "Palau"
+msgstr "パラウ"
+
+#: includes/core/class-builtin.php:1910
+msgid "Niue"
+msgstr "ニウエ"
+
+#: includes/core/class-builtin.php:1889
+msgid "Mayotte"
+msgstr "マヨット"
+
+#: includes/core/class-builtin.php:1859
+msgid "Jersey"
+msgstr "ジャージー島"
+
+#: includes/core/class-builtin.php:1854
+msgid "Isle of Man"
+msgstr "マン島"
+
+#: includes/core/class-builtin.php:1838
+msgid "Guernsey"
+msgstr "ガーンジー"
+
+#: includes/core/class-builtin.php:1831
+msgid "Gibraltar"
+msgstr "ジブラルタル"
+
+#: includes/core/class-builtin.php:1743
+msgid "Zulu"
+msgstr "ズールー"
+
+#: includes/core/class-builtin.php:1788
+msgid "Cape Verde"
+msgstr "カーボベルデ"
+
+#: includes/core/class-builtin.php:1773
+msgid "Bermuda"
+msgstr "バミューダ島"
+
+#: includes/core/class-builtin.php:1896
+msgid "Montserrat"
+msgstr "モントセラート"
+
+#: includes/core/class-builtin.php:1886
+msgid "Martinique"
+msgstr "マルティニーク"
+
+#: includes/core/class-builtin.php:1841
+msgid "Guyana"
+msgstr "ガイアナ"
+
+#: includes/core/class-builtin.php:1835
+msgid "Guadeloupe"
+msgstr "グアドループ"
+
+#: includes/core/class-builtin.php:1808
+msgid "Djibouti"
+msgstr "ジブチ"
+
+#: includes/core/class-builtin.php:1514
+msgid "YouTube Profile"
+msgstr "YouTube プロフィール"
+
+#: includes/core/class-builtin.php:1506
+msgid "SoundCloud Profile"
+msgstr "SoundCloud プロフィール"
+
+#: includes/admin/core/class-admin-users.php:282
+msgid "Info"
+msgstr "情報"
+
+#: includes/admin/core/class-admin-menu.php:65
+msgid "Thanks :)"
+msgstr "ありがとうございます :)"
+
+#: includes/admin/templates/modal/forms/dynamic_edit_field.php:15
+#: includes/admin/templates/modal/forms/dynamic_edit_row.php:15
+msgid "Update"
+msgstr "更新"
+
+#: includes/core/class-builtin.php:1976
+msgid "Turks and Caicos Islands"
+msgstr "タークス・カイコス諸島"
+
+#: includes/core/class-builtin.php:1972
+msgid "Trinidad and Tobago"
+msgstr "トリニダード・トバゴ"
+
+#: includes/core/class-builtin.php:1970
+msgid "Tokelau"
+msgstr "トケラウ"
+
+#: includes/core/class-builtin.php:1968
+msgid "Timor-Leste"
+msgstr "東ティモール"
+
+#: includes/core/class-builtin.php:1960
+msgid "Swaziland"
+msgstr "スワジランド"
+
+#: includes/core/class-builtin.php:1959
+msgid "Svalbard and Jan Mayen"
+msgstr "スバールバル諸島ヤンマイエン島"
+
+#: includes/core/class-builtin.php:1950
+msgid "Solomon Islands"
+msgstr "ソロモン諸島"
+
+#: includes/core/class-builtin.php:1945
+msgid "Seychelles"
+msgstr "セイシェル"
+
+#: includes/core/class-builtin.php:1937
+msgid "Saint Pierre and Miquelon"
+msgstr "サンピエール・ミクロン島"
+
+#: includes/core/class-builtin.php:1935
+msgid "Saint Lucia"
+msgstr "セントルシア"
+
+#: includes/core/class-builtin.php:1934
+msgid "Saint Kitts and Nevis"
+msgstr "セントクリストファー・ネイビス"
+
+#: includes/core/class-builtin.php:1911
+msgid "Norfolk Island"
+msgstr "ノーフォーク島"
+
+#: includes/core/class-builtin.php:1908
+msgid "Niger"
+msgstr "ニジェール"
+
+#: includes/core/class-builtin.php:1885
+msgid "Marshall Islands"
+msgstr "マーシャル諸島"
+
+#: includes/core/class-builtin.php:1880
+msgid "Malawi"
+msgstr "マラウイ"
+
+#: includes/core/class-builtin.php:1875
+msgid "Lithuania"
+msgstr "リトアニア"
+
+#: includes/core/class-builtin.php:1874
+msgid "Liechtenstein"
+msgstr "リヒテンシュタイン"
+
+#: includes/core/class-builtin.php:1871
+msgid "Lesotho"
+msgstr "レソト"
+
+#: includes/core/class-builtin.php:1867
+msgid "Kyrgyzstan"
+msgstr "キルギスタン"
+
+#: includes/core/class-builtin.php:1863
+msgid "Kiribati"
+msgstr "キリバス"
+
+#: includes/core/class-builtin.php:1843
+msgid "Heard Island and McDonald Islands"
+msgstr "ハード島とマクドナルド諸島"
+
+#: includes/core/class-builtin.php:1840
+msgid "Guinea-Bissau"
+msgstr "ギニアビサウ"
+
+#: includes/core/class-builtin.php:1827
+msgid "Gambia"
+msgstr "ガンビア"
+
+#: includes/core/class-builtin.php:1826
+msgid "Gabon"
+msgstr "ガボン"
+
+#: includes/core/class-builtin.php:1824
+msgid "French Polynesia"
+msgstr "フランス領ポリネシア"
+
+#: includes/core/class-builtin.php:1819
+msgid "Faroe Islands"
+msgstr "フェロー諸島"
+
+#: includes/core/class-builtin.php:1815
+msgid "Eritrea"
+msgstr "エリトリア"
+
+#: includes/core/class-builtin.php:1810
+msgid "Dominican Republic"
+msgstr "ドミニカ共和国"
+
+#: includes/core/class-builtin.php:1806
+msgid "Czech Republic"
+msgstr "チェコ共和国"
+
+#: includes/core/class-builtin.php:1805
+msgid "Cyprus"
+msgstr "キプロス"
+
+#: includes/core/class-builtin.php:1796
+msgid "Colombia"
+msgstr "コロンビア"
+
+#: includes/core/class-builtin.php:1795
+msgid "Cocos (Keeling) Islands"
+msgstr "ココス (キーリング) 諸島"
+
+#: includes/core/class-builtin.php:1790
+msgid "Central African Republic"
+msgstr "中央アフリカ共和国"
+
+#: includes/core/class-builtin.php:1789
+msgid "Cayman Islands"
+msgstr "ケイマン諸島"
+
+#: includes/core/class-builtin.php:1780
+msgid "British Indian Ocean Territory"
+msgstr "イギリス領インド洋地域"
+
+#: includes/core/class-builtin.php:1776
+msgid "Bosnia and Herzegovina"
+msgstr "ボスニア・ヘルツェゴビナ"
+
+#: includes/core/class-builtin.php:1868
+msgid "Lao People's Democratic Republic"
+msgstr "ラオス人民民主共和国"
+
+#: includes/core/class-builtin.php:1904
+msgid "Netherlands Antilles"
+msgstr "オランダ領アンティル"
+
+#: includes/core/class-builtin.php:1892
+msgid "Moldova, Republic of"
+msgstr "モルドバ共和国"
+
+#: includes/core/class-builtin.php:1941
+msgid "Sao Tome and Principe"
+msgstr "サントメ・プリンシペ"
+
+#: includes/core/class-builtin.php:1928
+msgid "Réunion"
+msgstr "レユニオン"
+
+#: includes/core/class-builtin.php:1953
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "サウスジョージア・サウスサンドウィッチ諸島"
+
+#: includes/core/class-builtin.php:1981
+msgid "United Kingdom"
+msgstr "イギリス"
+
+#: includes/core/class-builtin.php:1802
+msgid "Côte d'Ivoire"
+msgstr "コートジボワール"
+
+#: templates/profile/posts-single.php:37
+msgid "%s ago"
+msgstr "%s前"
+
+#: includes/core/class-common.php:91
+msgid "Add New Member Directory"
+msgstr "新規メンバーディレクトリを追加"
+
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:15
+msgid "Add New User Role"
+msgstr "新規ユーザー権限グループを追加"
+
+#. translators: %s: Page title
+#: includes/admin/core/class-admin-settings.php:286
+msgid "Add page ID"
+msgstr "ページ ID を追加"
+
+#: includes/core/class-builtin.php:843 includes/core/class-builtin.php:846
+msgid "E-mail Address"
+msgstr "メールアドレス"
+
+#: includes/admin/core/class-admin-settings.php:1000
+msgid "User ID"
+msgstr "ユーザー ID"
+
+#: templates/profile/posts-single.php:48
+msgid "%s comments"
+msgstr "%件のコメント"
+
+#: templates/profile/posts-single.php:50
+msgid "1 comment"
+msgstr "1件のコメント"
+
+#: templates/profile/posts-single.php:46
+msgid "no comments"
+msgstr "0件のコメント"
+
+#: includes/core/class-fields.php:2658 includes/core/class-fields.php:2677
+#: includes/core/class-fields.php:2679
+msgid "Confirm %s"
+msgstr "%s の確認"
+
+#: includes/core/class-fields.php:1989
+msgid "Sorry this is not a valid file."
+msgstr "これは有効なファイルではありません。"
+
+#: includes/core/class-fields.php:1948
+msgid "Sorry this is not a valid image."
+msgstr "これは有効な画像ではありません。"
+
+#: includes/admin/templates/role/delete.php:20
+#: includes/admin/templates/role/logout.php:20
+msgid "Go to Custom URL"
+msgstr "カスタム URL へ移動"
+
+#: includes/admin/core/class-admin-metabox.php:491
+#: includes/admin/core/class-admin-metabox.php:643
+#: includes/admin/templates/access/restrict_content.php:136
+msgid "Redirect URL"
+msgstr "リダイレクト URL"
+
+#: includes/core/class-builtin.php:1753
+msgid "American Samoa"
+msgstr "アメリカ領サモア"
+
+#: includes/core/class-builtin.php:1991
+msgid "Wallis and Futuna"
+msgstr "ウォリス・フツナ"
+
+#: includes/core/class-builtin.php:754 includes/core/class-builtin.php:757
+#: includes/core/class-builtin.php:1243
+msgid "Username or E-mail"
+msgstr "ユーザー名またはメールアドレス"
+
+#: includes/core/class-builtin.php:1509
+msgid "Unique E-mail"
+msgstr "ユニークなメールアドレス"
+
+#: includes/admin/core/class-admin-users.php:256
+msgid "Reactivate"
+msgstr "再有効化"
+
+#: includes/admin/templates/form/profile_customize.php:178
+msgid "Make Profile Photo Required"
+msgstr "プロフィール写真を必須にする"
+
+#: includes/admin/core/class-admin-users.php:192
+#: includes/admin/core/class-admin-users.php:195
+msgid "UM Action"
+msgstr "UM 操作"
+
+#: includes/core/class-builtin.php:1503
+msgid "Numeric value only"
+msgstr "数値のみ"
+
+#: includes/admin/templates/form/login_customize.php:63
+#: includes/admin/templates/form/profile_customize.php:96
+#: includes/admin/templates/form/register_customize.php:77
+msgid "Primary Button Text"
+msgstr "メインボタンのテキスト"
+
+#: includes/core/class-builtin.php:854 includes/core/class-builtin.php:857
+#: includes/core/class-member-directory.php:382
+msgid "Secondary E-mail Address"
+msgstr "サブメールアドレス"
+
+#: includes/admin/templates/form/login_customize.php:82
+#: includes/admin/templates/form/profile_customize.php:115
+#: includes/admin/templates/form/register_customize.php:96
+msgid "Secondary Button Text"
+msgstr "サブボタンテキスト"
+
+#: includes/admin/templates/form/login_customize.php:71
+#: includes/admin/templates/form/profile_customize.php:104
+#: includes/admin/templates/form/register_customize.php:85
+msgid "Show Secondary Button"
+msgstr "サブボタンを表示"
+
+#: includes/core/um-actions-login.php:477
+msgid "Forgot your password?"
+msgstr "パスワードをお忘れですか ?"
+
+#: includes/core/um-actions-misc.php:158
+msgid "Registration is currently disabled"
+msgstr "現在、登録はできません"
+
+#: includes/core/rest/class-api.php:277
+msgid "Invalid API key"
+msgstr "無効な API キー"
+
+#: includes/core/rest/class-api.php:434
+msgid "Invalid query!"
+msgstr "無効なクエリーです。"
+
+#: includes/core/class-fields.php:1951
+msgid "This image is too large!"
+msgstr "この画像は大きすぎます。"
+
+#: includes/core/class-fields.php:1954
+msgid "This image is too small!"
+msgstr "この画像は小さすぎます。"
+
+#: includes/core/class-uploader.php:788
+msgid "Your image is invalid or too large!"
+msgstr "画像が無効または大きすぎます。"
+
+#: includes/core/um-filters-fields.php:208
+msgid "Joined %s"
+msgstr "%sに参加"
+
+#: includes/core/class-form.php:460 includes/core/class-password.php:441
+#: includes/core/class-password.php:519
+msgid "Hello, spam bot!"
+msgstr "スパムボットさん、こんにちは。"
+
+#: includes/core/um-actions-misc.php:111
+msgid "Your account was updated successfully."
+msgstr "アカウントを更新しました。"
+
+#: includes/core/um-actions-misc.php:115
+msgid "You have successfully changed your password."
+msgstr "パスワードを変更しました。"
+
+#: includes/admin/templates/role/delete.php:15
+msgid "Action to be taken after account is deleted"
+msgstr "アカウントを削除した後に実行する操作"
+
+#: includes/admin/templates/form/login_settings.php:21
+#: includes/admin/templates/role/login.php:20
+#: includes/admin/templates/role/register.php:31
+#: includes/admin/templates/role/register.php:58
+#: includes/admin/templates/role/register.php:92
+msgid "Redirect to URL"
+msgstr "URL へリダイレクト"
+
+#: includes/admin/templates/form/login_settings.php:22
+#: includes/admin/templates/role/login.php:21
+msgid "Refresh active page"
+msgstr "有効なページを再読み込み"
+
+#: includes/admin/templates/form/login_settings.php:23
+#: includes/admin/templates/role/login.php:22
+msgid "Redirect to WordPress Admin"
+msgstr "WordPress 管理画面へリダイレクト"
+
+#: includes/core/class-form.php:86 includes/core/class-profile.php:73
+#: includes/core/class-profile.php:93
+msgid "You can not edit this user"
+msgstr "このユーザーを編集できません"
+
+#: includes/core/class-account.php:116
+msgid "Update Notifications"
+msgstr "更新通知"
+
+#: includes/core/um-actions-login.php:26
+msgid "Please enter your email"
+msgstr "メールアドレスを入力してください"
+
+#: includes/core/um-actions-login.php:18
+msgid "Please enter your username or email"
+msgstr "ユーザー名またはメールアドレスを入力してください"
+
+#: includes/core/class-builtin.php:1231
+#: includes/core/um-actions-profile.php:857
+msgid "Change your cover photo"
+msgstr "カバー写真を変更"
+
+#: includes/core/class-builtin.php:1153
+msgid "Roles (Dropdown)"
+msgstr "権限グループ (ドロップダウン)"
+
+#: includes/core/class-builtin.php:1165
+msgid "Roles (Radio)"
+msgstr "権限グループ (ラジオボタン)"
+
+#: includes/core/class-fields.php:1934
+msgid "Please upload a valid image!"
+msgstr "有効な画像をアップロードしてください。"
+
+#: includes/core/class-password.php:452
+msgid "Please provide your username or email"
+msgstr "ユーザー名またはメールアドレスを入力してください"
+
+#: includes/core/um-actions-account.php:164
+#: includes/core/um-actions-account.php:168
+msgid "Please provide a valid e-mail"
+msgstr "有効なメールアドレスを入力してください"
+
+#: includes/admin/templates/role/register.php:79
+msgid "URL redirect after e-mail activation"
+msgstr "メールアドレス有効化後の URL リダイレクト"
+
+#: includes/admin/core/class-admin-users.php:410
+msgid "Waiting e-mail confirmation"
+msgstr "メールアドレスの確認待ち"
+
+#: includes/core/um-actions-account.php:160
+msgid "You must provide your e-mail"
+msgstr "メールアドレスを入力する必要があります"
+
+#: includes/admin/templates/dashboard/users.php:73
+#: includes/core/class-user.php:1192
+msgid "Awaiting E-mail Confirmation"
+msgstr "メールアドレスの確認待ち中"
+
+#: includes/core/um-actions-misc.php:182 includes/core/um-filters-login.php:79
+msgid "Your account is awaiting e-mail verification."
+msgstr "このアカウントはメールアドレスの確認待ち中です。"
+
+#: includes/core/class-builtin.php:1728
+msgid "Tahitian"
+msgstr "タヒチ語"
+
+#: includes/core/class-builtin.php:1727
+msgid "Twi"
+msgstr "トウィ語"
+
+#: includes/core/class-builtin.php:1725
+msgid "Tsonga"
+msgstr "ツォンガ語"
+
+#: includes/core/class-builtin.php:1722
+msgid "Tswana"
+msgstr "ツワナ語"
+
+#: includes/core/class-builtin.php:1721
+msgid "Tagalog"
+msgstr "タガログ語"
+
+#: includes/core/class-builtin.php:1713
+msgid "Swedish"
+msgstr "スウェーデン語"
+
+#: includes/core/class-builtin.php:1712
+msgid "Sundanese"
+msgstr "スンダ語"
+
+#: includes/core/class-builtin.php:1697
+msgid "Sanskrit"
+msgstr "サンスクリット語"
+
+#: includes/core/class-builtin.php:1683
+msgid "Oromo"
+msgstr "オロモ語"
+
+#: includes/core/class-builtin.php:1681
+msgid "Occitan"
+msgstr "オック語"
+
+#: includes/core/class-builtin.php:1680
+msgid "Chichewa"
+msgstr "チェワ語"
+
+#: includes/core/class-builtin.php:1676
+msgid "Norwegian Nynorsk"
+msgstr "ノルウェー語 (ニューノルスク)"
+
+#: includes/core/class-builtin.php:1671
+msgid "Norwegian Bokmal"
+msgstr "ノルウェー語 (ブークモール)"
+
+#: includes/core/class-builtin.php:1664
+msgid "Malayalam"
+msgstr "マラヤーラム語"
+
+#: includes/core/class-builtin.php:1644
+msgid "Korean"
+msgstr "韓国語"
+
+#: includes/core/class-builtin.php:1628
+msgid "Sichuan Yi"
+msgstr "四川彝語"
+
+#: includes/core/class-builtin.php:1626
+msgid "Interlingue"
+msgstr "インターリングア"
+
+#: includes/core/class-builtin.php:1625
+msgid "Indonesian"
+msgstr "インドネシア語"
+
+#: includes/core/class-builtin.php:1624
+msgid "Interlingua (International Auxiliary Language Association)"
+msgstr "インターリングア (国際補助語協会)"
+
+#: includes/core/class-builtin.php:1617
+msgid "Hindi"
+msgstr "ヒンディー語"
+
+#: includes/core/class-builtin.php:1616
+msgid "Hebrew"
+msgstr "ヘブライ語"
+
+#: includes/core/class-builtin.php:1609
+msgid "Irish"
+msgstr "アイルランド語"
+
+#: includes/core/class-builtin.php:1589
+msgid "Chuvash"
+msgstr "チュワシュ語"
+
+#: includes/core/class-builtin.php:810 includes/core/class-builtin.php:813
+#: includes/core/class-builtin.php:1513
+msgid "Website URL"
+msgstr "サイト URL"
+
+#: includes/core/um-actions-form.php:666
+msgid "Maximum number limit is %s"
+msgstr "最大値上限は %s です"
+
+#: includes/core/um-actions-form.php:660
+msgid "Minimum number limit is %s"
+msgstr "最小値下限は %s です"
+
+#: includes/admin/core/class-admin-settings.php:1017
+msgid "First initial of first name & last name"
+msgstr "名のイニシャルと姓"
+
+#: includes/admin/core/class-admin-settings.php:1016
+msgid "First name & first initial of last name"
+msgstr "名と姓のイニシャル"
+
+#: includes/admin/core/class-admin-settings.php:1014
+msgid "First name & last name"
+msgstr "名と姓"
+
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:18
+#: includes/core/class-common.php:64 includes/core/class-common.php:94
+msgid "Nothing found in Trash"
+msgstr "ゴミ箱には何も見つかりません"
+
+#: includes/core/class-date-time.php:84 includes/core/class-date-time.php:89
+#: includes/core/class-date-time.php:93 includes/core/class-date-time.php:97
+msgid "%s at %s"
+msgstr "%s @ %s"
+
+#: includes/admin/class-admin.php:2006
+msgid "Form restored to revision."
+msgstr "リビジョンからフォームを復元しました。"
+
+#: includes/admin/class-admin.php:2010
+msgid "Form scheduled."
+msgstr "フォームを予約しました。"
+
+#: includes/admin/class-admin.php:2011
+msgid "Form draft updated."
+msgstr "フォームの下書きを更新しました。"
+
+#: includes/admin/core/class-admin-metabox.php:832
+msgid "Results &amp; Pagination"
+msgstr "結果とページ送り"
+
+#: includes/admin/core/class-admin-metabox.php:847
+msgid "Administrative Permissions"
+msgstr "管理者権限"
+
+#: includes/admin/core/class-admin-metabox.php:855
+msgid "General Permissions"
+msgstr "一般権限"
+
+#: includes/admin/core/class-admin-notices.php:398
+msgid "Ultimate Member Setup Error: User page can not be a child page."
+msgstr "Ultimate Member 設定エラー: ユーザーページを子ページにすることはできません。"
+
+#: includes/admin/core/class-admin-notices.php:408
+msgid "Ultimate Member Setup Error: Account page can not be a child page."
+msgstr "Ultimate Member 設定エラー: アカウントページを子ページにすることはできません。"
+
+#: includes/admin/core/class-admin-notices.php:473
+msgid "Your temp uploads directory is now clean."
+msgstr "一時アップロードディレクトリをクリアしました。"
+
+#: includes/admin/core/class-admin-notices.php:477
+msgid "Your user cache is now removed."
+msgstr "ユーザーキャッシュを削除しました。"
+
+#: includes/admin/core/class-admin-notices.php:493
+msgid "The form has been duplicated successfully."
+msgstr "フォームを複製しました。"
+
+#: includes/admin/core/class-admin-notices.php:514
+msgid "Other users have been updated."
+msgstr "他のユーザーを更新しました。"
+
+#: includes/admin/core/class-admin-users.php:488
+msgid "You do not have enough permissions to do that."
+msgstr "操作を行うための権限がありません。"
+
+#: includes/core/class-member-directory.php:312
+msgid "New users first"
+msgstr "新しいユーザーを先頭にする"
+
+#: includes/admin/templates/directory/search.php:27
+msgid "Enable Search feature"
+msgstr "検索機能を有効化"
+
+#: includes/admin/templates/form/profile_customize.php:123
+msgid "Enable Cover Photos"
+msgstr "カバー写真を有効化"
+
+#: includes/admin/templates/form/profile_customize.php:143
+msgid "Cover photo ratio"
+msgstr "カバー写真の縦横比"
+
+#: includes/admin/templates/form/profile_customize.php:190
+msgid "Show display name in profile header?"
+msgstr "プロフィールヘッダーに表示名を表示しますか ?"
+
+#: includes/admin/templates/form/profile_customize.php:201
+msgid "Show social links in profile header?"
+msgstr "プロフィールヘッダーにソーシャルリンクを表示しますか ?"
+
+#: includes/admin/templates/form/profile_customize.php:212
+msgid "Show user description in profile header?"
+msgstr "プロフィールヘッダーにユーザー説明文を表示しますか ?"
+
+#: includes/admin/templates/role/admin-permissions.php:14
+msgid "Can access wp-admin?"
+msgstr "wp-admin へのアクセス権"
+
+#: includes/admin/templates/role/register.php:19
+msgid "Require Email Activation"
+msgstr "メールの有効化が必要"
+
+#: includes/core/um-actions-account.php:150
+msgid "You must provide your first name"
+msgstr "名を入力する必要があります"
+
+#: includes/core/um-actions-account.php:154
+msgid "You must provide your last name"
+msgstr "姓を入力する必要があります"
+
+#: includes/core/class-password.php:595
+#: includes/core/um-actions-account.php:120
+#: includes/core/um-actions-form.php:633
+msgid "Your password must contain at least one lowercase letter, one capital letter and one number"
+msgstr "パスワードにはそれぞれ1つ以上の小文字・大文字・数字が含まれている必要があります"
+
+#: includes/core/class-files.php:337
+msgid "Invalid coordinates"
+msgstr "無効な座標"
+
+#: includes/core/um-actions-form.php:92
+msgid "You are not allowed to use this word as your username."
+msgstr "この単語はユーザー名として使用できません。"
+
+#: includes/core/um-actions-form.php:537 includes/core/um-actions-form.php:541
+#: includes/core/um-actions-form.php:545
+msgid "%s is required."
+msgstr "%s は必須項目です。"
+
+#: includes/core/um-actions-form.php:591
+msgid "You are only allowed to enter a maximum of %s words"
+msgstr "最大%s文字までのみ入力できます"
+
+#: includes/core/um-actions-form.php:600
+msgid "Your %s must contain at least %s characters"
+msgstr "%sは%s文字以上にしてください"
+
+#: includes/core/um-actions-form.php:610
+msgid "Your %s must contain less than %s characters"
+msgstr "%sは%s文字未満にしてください"
+
+#: includes/core/um-actions-form.php:618
+msgid "You can not use HTML tags here"
+msgstr "ここでは HTML タグを使用できません"
+
+#: includes/core/um-actions-form.php:648
+msgid "Please select at least %s choices"
+msgstr "%s個以上の選択肢を選択してください"
+
+#: includes/core/um-actions-form.php:654
+msgid "You can only select up to %s choices"
+msgstr "%s個までの選択肢しか選択できません"
+
+#: includes/core/um-actions-form.php:714 includes/core/um-actions-form.php:726
+#: includes/core/um-actions-form.php:732 includes/core/um-actions-form.php:738
+#: includes/core/um-actions-form.php:744 includes/core/um-actions-form.php:757
+msgid "Please enter a valid %s username or profile URL"
+msgstr "「%s」の有効なユーザー名、またはプロフィール URL を入力してください"
+
+#: includes/core/um-actions-form.php:790
+msgid "Please enter a valid URL"
+msgstr "有効な URL を入力してください"
+
+#: includes/core/um-actions-form.php:801
+msgid "Username cannot be an email"
+msgstr "ユーザー名はメールアドレスにはできません"
+
+#: includes/core/um-actions-form.php:803 includes/core/um-actions-form.php:817
+msgid "Your username contains invalid characters"
+msgstr "ユーザー名に無効な文字が含まれています"
+
+#: includes/core/um-actions-form.php:835
+msgid "You must provide your email"
+msgstr "メールアドレスを入力する必要があります"
+
+#: includes/core/um-actions-form.php:843
+msgid "Your email contains invalid characters"
+msgstr "メールアドレスに無効な文字が含まれています"
+
+#: includes/core/um-actions-form.php:914
+msgid "You must provide lowercase letters."
+msgstr "小文字で入力する必要があります。"
+
+#: includes/core/um-actions-form.php:932
+msgid "Your user description must contain less than %s characters"
+msgstr "ユーザー説明文は%s文字未満にする必要があります"
+
+#: includes/core/um-actions-global.php:28
+msgid "Only fill in if you are not human"
+msgstr "ボットの場合のみ記入してください"
+
+#: includes/core/um-actions-login.php:59 includes/core/um-actions-login.php:74
+#: includes/core/um-actions-login.php:83
+msgid "Password is incorrect. Please try again."
+msgstr "パスワードが間違っています。もう一度お試しください。"
+
+#: includes/core/um-actions-login.php:205
+msgid "This action has been prevented for security measures."
+msgstr "この操作はセキュリティ対策のため禁止されています。"
+
+#: includes/core/um-actions-misc.php:119
+msgid "Your account is now active! You can login."
+msgstr "アカウントが有効になりました。ログインできます。"
+
+#: includes/core/um-actions-misc.php:162 includes/core/um-filters-login.php:18
+msgid "This email address has been blocked."
+msgstr "このメールアドレスはブロックされています。"
+
+#: includes/core/um-actions-misc.php:166
+msgid "We do not accept registrations from that domain."
+msgstr "そのドメインからの登録は受け付けていません。"
+
+#: includes/core/um-actions-misc.php:170 includes/core/um-filters-login.php:21
+msgid "Your IP address has been blocked."
+msgstr "あなたの IP アドレスはブロックされています。"
+
+#: includes/core/um-actions-misc.php:186 includes/core/um-filters-login.php:82
+msgid "Your membership request has been rejected."
+msgstr "メンバー申請は拒否されました。"
+
+#: includes/core/class-password.php:470
+msgid "You have reached the limit for requesting password change for this user already. Contact support if you cannot open the email"
+msgstr "このユーザーに対するパスワード変更リクエストがすでに上限に達しています。メールを開くことができない場合はサポートにお問い合わせください"
+
+#: includes/core/um-actions-profile.php:204
+msgid "You are not allowed to edit this user."
+msgstr "このユーザーを編集する権限がありません。"
+
+#: includes/core/rest/class-api.php:253
+msgid "You must specify both a token and API key!"
+msgstr "トークンと API キーの両方を指定する必要があります。"
+
+#: includes/core/rest/class-api.php:265
+msgid "Your request could not be authenticated"
+msgstr "リクエストを認証できませんでした"
+
+#: includes/core/rest/class-api-v1.php:256
+#: includes/core/rest/class-api-v1.php:328
+#: includes/core/rest/class-api-v1.php:365
+#: includes/core/rest/class-api-v2.php:256
+#: includes/core/rest/class-api-v2.php:328
+#: includes/core/rest/class-api-v2.php:365
+msgid "You must provide a user ID"
+msgstr "ユーザー ID を入力する必要があります"
+
+#: includes/core/rest/class-api-v1.php:261
+#: includes/core/rest/class-api-v2.php:261
+msgid "You need to provide data to update"
+msgstr "更新データを提供する必要があります"
+
+#: includes/core/rest/class-api-v1.php:270
+#: includes/core/rest/class-api-v2.php:270
+msgid "User status has been changed."
+msgstr "ユーザーステータスを変更しました。"
+
+#: includes/core/rest/class-api-v1.php:303
+#: includes/core/rest/class-api-v2.php:303
+msgid "User meta has been changed."
+msgstr "ユーザーのメタ情報を変更しました。"
+
+#: includes/core/rest/class-api-v1.php:334
+#: includes/core/rest/class-api-v1.php:371
+#: includes/core/rest/class-api-v2.php:334
+#: includes/core/rest/class-api-v2.php:371
+msgid "Invalid user specified"
+msgstr "無効なユーザーが指定されました"
+
+#: includes/core/rest/class-api-v1.php:341
+#: includes/core/rest/class-api-v2.php:341
+msgid "User has been successfully deleted."
+msgstr "ユーザーを削除しました。"
+
+#: includes/core/class-builtin.php:157
+msgid "Your meta key is a reserved core field and cannot be used"
+msgstr "メタキーは予約済みのコアフィールドであり、使用できません"
+
+#: includes/core/class-builtin.php:160
+msgid "Your meta key is a predefined reserved key and cannot be used"
+msgstr "メタキーは事前定義された予約キーであり、使用することはできません"
+
+#: includes/core/class-builtin.php:163
+msgid "Your meta key already exists in your fields list"
+msgstr "メタキーはすでにフィールドリストに存在しています"
+
+#: includes/core/class-builtin.php:166
+msgid "Your meta key contains illegal characters. Please correct it."
+msgstr "meta key に不正な文字が含まれています。修正してください。"
+
+#: includes/core/class-builtin.php:251 includes/core/class-builtin.php:267
+#: includes/core/class-builtin.php:283 includes/core/class-builtin.php:299
+#: includes/core/class-builtin.php:315 includes/core/class-builtin.php:335
+#: includes/core/class-builtin.php:355 includes/core/class-builtin.php:375
+#: includes/core/class-builtin.php:395 includes/core/class-builtin.php:411
+#: includes/core/class-builtin.php:427 includes/core/class-builtin.php:447
+#: includes/core/class-builtin.php:467 includes/core/class-builtin.php:493
+#: includes/core/class-builtin.php:509 includes/core/class-builtin.php:526
+#: includes/core/class-builtin.php:539 includes/core/class-builtin.php:556
+#: includes/core/class-builtin.php:569 includes/core/class-builtin.php:582
+#: includes/core/class-builtin.php:598 includes/core/class-builtin.php:614
+#: includes/core/class-builtin.php:630 includes/core/class-builtin.php:645
+msgid "You must provide a title"
+msgstr "タイトルを入力する必要があります"
+
+#: includes/core/class-builtin.php:322 includes/core/class-builtin.php:342
+#: includes/core/class-builtin.php:362 includes/core/class-builtin.php:382
+msgid "You have not added any choices yet."
+msgstr "まだ選択肢を追加していません。"
+
+#: includes/core/class-builtin.php:1260
+msgid "Who can see your public profile?"
+msgstr "公開プロフィールを表示できる人"
+
+#: includes/core/class-builtin.php:1291 includes/core/class-builtin.php:1294
+msgid "Hide my profile from directory"
+msgstr "ディレクトリで自分のプロフィールを非表示にする"
+
+#: includes/core/class-builtin.php:1295
+msgid "Here you can hide yourself from appearing in public directory"
+msgstr "ここで、公開ディレクトリ内でのプロフィール非表示設定ができます"
+
+#: includes/core/class-builtin.php:1313
+msgid "If you confirm, everything related to your profile will be deleted permanently from the site"
+msgstr "承認するとプロフィールに関連するものはすべてサイトから永久に削除されます"
+
+#: includes/core/class-builtin.php:1498
+msgid "English letters only"
+msgstr "半角英字のみ"
+
+#: includes/core/class-builtin.php:1511
+msgid "Unique Username"
+msgstr "ユニークなユーザー名"
+
+#: includes/core/class-builtin.php:1512
+msgid "Unique Username/E-mail"
+msgstr "ユニークなユーザー名/メールアドレス"
+
+#: includes/core/class-fields.php:4714
+msgid "This user has not added any information to their profile yet."
+msgstr "このユーザーはまだプロフィールに情報を追加していません。"
+
+#: includes/admin/core/class-admin-navmenu.php:76
+#: includes/admin/core/class-admin-navmenu.php:235
+msgid "Who can see this menu link?"
+msgstr "このメニューを表示できる人"
+
+#: includes/um-deprecated-functions.php:665
+msgid "date submitted"
+msgstr "申請日"
+
+#: templates/profile/posts.php:52
+msgid "This user has not created any posts."
+msgstr "このユーザーはまだ投稿を作成していません。"
+
+#: includes/admin/core/class-admin-settings.php:1011
+msgid "Default WP Display Name"
+msgstr "WordPress デフォルトの表示名"
+
+#: includes/admin/core/class-admin-settings.php:1015
+msgid "Last name & first name"
+msgstr "姓と名"
+
+#: includes/core/class-fields.php:1995
+msgid "This file is too small!"
+msgstr "このファイルは小さすぎます。"
+
+#: includes/core/class-fields.php:1992
+msgid "This file is too large!"
+msgstr "このファイルは大きすぎます。"
+
+#: includes/core/um-actions-core.php:34
+msgid "Super administrators can not be modified."
+msgstr "スーパー管理者は変更できません。"
+
+#: includes/core/class-builtin.php:208
+msgid "The end of date range must be greater than the start of date range"
+msgstr "終了日の範囲は、開始日の範囲より長くする必要があります"
+
+#: includes/core/class-fields.php:4712
+msgid "Your profile is looking a little empty. Why not <a href=\"%s\">add</a> some information!"
+msgstr "プロフィールがまだ完全ではないようです。情報を<a href=\"%s\">追加</a>しましょう。"
+
+#: includes/core/class-permalinks.php:120
+msgid "This activation link is expired or have already been used."
+msgstr "この有効化リンクは期限切れまたは使用済みです。"
+
+#: includes/admin/core/class-admin-settings.php:1033
+msgid "Automatically redirect author page to their profile?"
+msgstr "投稿者ページからプロフィールへ自動リダイレクトしますか ?"
+
+#: includes/admin/templates/directory/pagination.php:57
+msgid "Single Result Text"
+msgstr "個別結果テキスト"
+
+#: includes/admin/templates/directory/pagination.php:50
+msgid "Customize the search result text . e.g. Found 3,000 Members. Leave this blank to not show result text"
+msgstr "検索結果のテキストをカスタマイズします (例: 3,000メンバーが見つかりました)。結果テキストを表示しない場合は空白のままにします"
+
+#: includes/class-config.php:173 includes/class-config.php:273
+msgid "{total_users} Member"
+msgstr "{total_users}メンバー"
+
+#: includes/class-config.php:174
+msgid "We are sorry. We cannot find any users who match your search criteria."
+msgstr "検索条件に一致するユーザーは見つかりませんでした。"
+
+#: includes/admin/templates/form/login_customize.php:101
+msgid "Show \"Remember Me\"?"
+msgstr "「ログイン状態を保存する」を表示しますか ?"
+
+#: includes/admin/templates/form/login_settings.php:15
+msgid "Redirection after Login"
+msgstr "ログイン後のリダイレクト"
+
+#: includes/admin/templates/form/login_settings.php:29
+#: includes/admin/templates/role/delete.php:26
+#: includes/admin/templates/role/login.php:28
+#: includes/admin/templates/role/logout.php:26
+#: includes/admin/templates/role/register.php:38
+#: includes/admin/templates/role/register.php:72
+#: includes/admin/templates/role/register.php:106
+msgid "Set Custom Redirect URL"
+msgstr "カスタムリダイレクト URL を設定"
+
+#: includes/admin/templates/form/profile_customize.php:75
+msgid "Profile Area Max. Width (px)"
+msgstr "プロフィールエリア最大幅 (px)"
+
+#: includes/admin/templates/modal/forms/dynamic_new_field.php:9
+msgid "Add a New Field"
+msgstr "新規フィールドを追加"
+
+#: includes/admin/templates/modal/forms/dynamic_new_group.php:9
+msgid "Add a New Field Group"
+msgstr "新規フィールドグループを追加"
+
+#: includes/admin/templates/modal/dynamic_registration_preview.php:7
+msgid "Review Registration Details"
+msgstr "登録詳細をレビュー"
+
+#: includes/admin/templates/role/admin-permissions.php:45
+msgid "Can delete other member accounts?"
+msgstr "他のメンバーアカウントを削除できますか ?"
+
+#: includes/admin/templates/role/home.php:15
+msgid "Can view default homepage?"
+msgstr "デフォルトのホームページを表示できますか ?"
+
+#: includes/admin/templates/role/home.php:16
+msgid "Allow this user role to view your site's homepage"
+msgstr "このユーザー権限グループによるサイトのホームページ表示を許可する"
+
+#: includes/admin/templates/role/general.php:22
+msgid "Allow this role to delete their account and end their membership on your site"
+msgstr "この権限グループによる自分のアカウントの削除とサイトからのメンバー退会を許可する"
+
+#: includes/admin/templates/role/general.php:21
+msgid "Can delete their account?"
+msgstr "アカウントを削除できますか ?"
+
+#: includes/admin/templates/role/general.php:14
+msgid "Can edit their profile?"
+msgstr "プロフィールを編集できますか ?"
+
+#: includes/admin/templates/role/general.php:15
+msgid "Can this role edit his own profile?"
+msgstr "この権限グループは自分のプロフィールを編集できますか ?"
+
+#: includes/admin/core/class-admin-users.php:412
+#: includes/admin/templates/dashboard/users.php:41
+msgid "Rejected"
+msgstr "却下済み"
+
+#: includes/admin/templates/role/register.php:100
+msgid "Thank you for applying for membership to our site. We will review your details and send you an email letting you know whether your application has been successful or not."
+msgstr "サイトへの会員登録ありがとうございます。あなたの申請の承認を知らせるメールをお送りします。"
+
+#: includes/admin/templates/role/register.php:66
+msgid "Thank you for registering. Before you can login we need you to activate your account by clicking the activation link in the email we just sent you."
+msgstr "新規登録ありがとうございます。ログインする前に、送信したメールの有効化リンクをクリックして、アカウントを有効にする必要があります。"
+
+#: includes/admin/templates/role/admin-permissions.php:15
+msgid "The core admin role must always have access to wp-admin / WordPress backend"
+msgstr "コア管理者の権限グループは、常に wp-admin / WordPress バックエンドにアクセスできる必要があります"
+
+#: includes/admin/core/class-admin-metabox.php:1336
+msgid "If"
+msgstr "もし"
+
+#: includes/admin/class-admin.php:848
+#: includes/admin/templates/directory/sorting.php:68
+#: includes/core/class-member-directory.php:365
+msgid "Other (Custom Field)"
+msgstr "その他 (カスタムフィールド)"
+
+#: includes/admin/templates/role/login.php:29
+msgid "Set a url to redirect this user role to after they login with their account"
+msgstr "このユーザー権限グループのユーザーがアカウントにログインした後にリダイレクトする URL を設定する"
+
+#: includes/admin/templates/role/logout.php:27
+msgid "Set a url to redirect this user role to after they logout from site"
+msgstr "このユーザー権限グループがログアウトした後のリダイレクトする URL を設定する"
+
+#: includes/admin/templates/directory/profile.php:55
+msgid "Show extra user information below tagline?"
+msgstr "タグラインの下に追加ユーザー情報を表示しますか ?"
+
+#: includes/admin/core/class-admin-notices.php:426
+msgid "Exif is not enabled on your server. Mobile photo uploads will not be rotated correctly until you enable the exif extension. <a href=\"%s\">Hide this notice</a>"
+msgstr "サーバー上で Exif が有効になっていません。Exi f拡張機能を有効にするまで、モバイル写真のアップロードは正しく回転されません。<a href=\"%s\">通知を非表示</a>"
+
+#: includes/admin/templates/role/admin-permissions.php:21
+msgid "Force hiding adminbar in frontend?"
+msgstr "フロントエンドで管理バーを隠しますか ?"
+
+#: includes/admin/templates/role/register.php:80
+msgid "If you want users to go to a specific page other than login page after e-mail activation, enter the URL here."
+msgstr "メールの有効化後にユーザーがログイン以外の特定ページに移動するには、ここに URL を入力します。"
+
+#: includes/admin/templates/modal/forms/dynamic_form_preview.php:7
+msgid "Live Form Preview"
+msgstr "ライブフォームプレビュー"
+
+#: includes/admin/templates/role/register.php:45
+msgid "Login user after validating the activation link?"
+msgstr "有効化リンクの検証後にログインしますか ?"
+
+#: includes/admin/templates/directory/pagination.php:41
+msgid "Number of profiles per page (for Mobiles & Tablets)"
+msgstr "1ページごとのプロフィール数 (モバイル & タブレット用)"
+
+#: includes/admin/core/class-admin-notices.php:463
+msgid "Are you sure you want to delete the selected user(s)? The following users will be deleted: <p>%s</p> <strong>This cannot be undone!</strong>"
+msgstr "選択したユーザーを削除してもよろしいですか ? 次のユーザーが削除されます: <p>%s</p><strong>元に戻すことはできません!</strong>"
+
+#: includes/admin/templates/role/admin-permissions.php:28
+msgid "Can edit other member accounts?"
+msgstr "他のメンバーアカウントを編集できますか ?"
+
+#: includes/admin/templates/role/profile.php:32
+msgid "Can make their profile private?"
+msgstr "プロフィールを非公開にできますか ?"
+
+#: includes/admin/templates/role/profile.php:33
+msgid "Can this role make their profile private?"
+msgstr "この権限グループはプロフィールを非公開にできますか ?"
+
+#: includes/admin/templates/role/profile.php:15
+msgid "Can this role view all member profiles?"
+msgstr "この権限グループは、すべてのメンバープロフィールを表示できますか ?"
+
+#: includes/admin/templates/role/profile.php:41
+msgid "Can this role view private profiles?"
+msgstr "この権限グループは非公開プロフィールを表示できますか ?"
+
+#: includes/admin/templates/role/profile.php:14
+msgid "Can view other member profiles?"
+msgstr "他のメンバープロフィールを表示できますか ?"
+
+#: includes/admin/templates/role/profile.php:40
+msgid "Can view/access private profiles?"
+msgstr "非公開プロフィールを表示/アクセスできますか ?"
+
+#: includes/admin/core/class-admin-settings.php:2994
+msgid "Activate"
+msgstr "有効化"
+
+#: includes/core/rest/class-api-v1.php:299
+#: includes/core/rest/class-api-v2.php:299
+msgid "User role has been changed."
+msgstr "ユーザー権限を変更しました。"
+
+#: includes/core/class-builtin.php:1983
+msgid "United States Minor Outlying Islands"
+msgstr "合衆国領有小離島"
+
+#: includes/core/class-builtin.php:1963
+msgid "Syrian Arab Republic"
+msgstr "シリア・アラブ共和国"
+
+#: includes/admin/core/class-admin-settings.php:1008
+msgid "User Display Name"
+msgstr "ユーザーの表示名"
+
+#: includes/core/class-builtin.php:1982
+msgid "United States"
+msgstr "アメリカ合衆国"
+
+#: includes/core/class-builtin.php:1723 includes/core/class-builtin.php:1971
+msgid "Tonga"
+msgstr "トンガ"
+
+#: includes/admin/core/class-admin-settings.php:2085
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: includes/core/class-builtin.php:1938
+msgid "Saint Vincent and the Grenadines"
+msgstr "セントビンセントとグレナディーン"
+
+#: includes/core/class-builtin.php:1933
+msgid "Saint Helena"
+msgstr "セントヘレナ島"
+
+#: includes/core/class-builtin.php:1930
+msgid "Russian Federation"
+msgstr "ロシア連邦"
+
+#: includes/admin/core/class-admin-settings.php:1580
+#: includes/admin/templates/form/mode.php:16
+msgid "Registration Form"
+msgstr "登録フォーム"
+
+#: includes/class-config.php:124 includes/class-config.php:253
+#: includes/class-config.php:267 includes/class-config.php:793
+#: includes/core/class-form.php:782
+msgid "Register"
+msgstr "登録"
+
+#: includes/core/class-fields.php:3006 includes/core/class-fields.php:3119
+msgid "Processing..."
+msgstr "処理中…"
+
+#: includes/core/class-builtin.php:1602
+msgid "Persian"
+msgstr "ペルシア語"
+
+#: includes/admin/core/class-admin-users.php:409
+msgid "Pending review"
+msgstr "レビュー待ち"
+
+#: includes/admin/templates/dashboard/users.php:60
+#: includes/core/class-user.php:1196
+msgid "Pending Review"
+msgstr "レビュー待ち"
+
+#: includes/class-config.php:128 includes/class-config.php:797
+msgid "Password Reset"
+msgstr "パスワードのリセット"
+
+#: includes/core/class-cron.php:62
+msgid "Once Weekly"
+msgstr "週1回"
+
+#: includes/core/class-builtin.php:1912
+msgid "Northern Mariana Islands"
+msgstr "北マリアナ諸島"
+
+#: includes/core/class-builtin.php:1670 includes/core/class-builtin.php:1901
+msgid "Nauru"
+msgstr "ナウル"
+
+#: includes/core/class-member-directory.php:2386
+#: includes/core/um-actions-profile.php:1478
+msgid "My Account"
+msgstr "アカウント"
+
+#: includes/core/class-builtin.php:1873
+msgid "Libyan Arab Jamahiriya"
+msgstr "リビア・アラブ・ジャマヒリーヤ"
+
+#: includes/core/class-builtin.php:1651
+msgid "Latin"
+msgstr "ラテン文字"
+
+#: templates/members-pagination.php:36
+msgid "Last page"
+msgstr "最後のページ"
+
+#: includes/core/class-builtin.php:1656
+msgid "Lao"
+msgstr "ラオス"
+
+#: includes/core/class-builtin.php:1642
+msgid "Khmer"
+msgstr "クメール文字"
+
+#: includes/admin/core/class-admin-users.php:411
+#: includes/admin/templates/dashboard/users.php:86
+msgid "Inactive"
+msgstr "休止中"
+
+#: includes/core/class-builtin.php:1844
+msgid "Holy See (Vatican City State)"
+msgstr "法王聖座 (バチカン市国)"
+
+#: includes/core/class-builtin.php:1596
+msgid "Greek"
+msgstr "ギリシャ語"
+
+#: includes/admin/core/class-admin-metabox.php:828
+msgid "General Options"
+msgstr "基本設定"
+
+#: includes/core/class-builtin.php:1825
+msgid "French Southern Territories"
+msgstr "フランス領南方・南極地域"
+
+#: includes/core/class-builtin.php:1823
+msgid "French Guiana"
+msgstr "フランス領ギアナ"
+
+#: includes/admin/class-admin.php:2009
+msgid "Form submitted."
+msgstr "フォームを送信しました。"
+
+#: includes/core/class-builtin.php:1818
+msgid "Falkland Islands (Malvinas)"
+msgstr "フォークランド諸島 (マルビナス)"
+
+#: includes/admin/core/class-admin-menu.php:206
+#: includes/admin/core/class-admin-settings.php:1767
+msgid "Extensions"
+msgstr "拡張機能"
+
+#: includes/core/class-builtin.php:1814
+msgid "Equatorial Guinea"
+msgstr "赤道ギニア"
+
+#: includes/core/class-builtin.php:1246
+msgid "Enter your username or email"
+msgstr "ユーザー名かメールアドレスを入力してください"
+
+#: includes/admin/core/class-admin-builder.php:475
+#: includes/admin/core/class-admin-dragdrop.php:184
+#: includes/admin/core/class-admin-dragdrop.php:199
+#: includes/admin/core/class-admin-dragdrop.php:224
+msgid "Delete Row"
+msgstr "行の削除"
+
+#: includes/core/class-builtin.php:1798
+msgid "Congo"
+msgstr "コンゴ民主共和国"
+
+#: includes/core/class-builtin.php:1582
+msgid "Catalan"
+msgstr "カタロニア語"
+
+#: includes/core/class-builtin.php:1772
+msgid "Benin"
+msgstr "ベニン"
+
+#: includes/core/class-builtin.php:1563
+msgid "Afrikaans"
+msgstr "アフリカーンス語"
+
+#: includes/admin/core/class-admin-builder.php:401
+#: includes/admin/core/class-admin-builder.php:471
+#: includes/admin/core/class-admin-dragdrop.php:181
+msgid "Add Row"
+msgstr "列を追加"
+
+#: includes/core/um-actions-form.php:708
+msgid "Please enter a valid phone number"
+msgstr "有効な電話番号を入力してください"
+
+#: includes/admin/core/class-admin-settings.php:489
+msgid "Site accessible to Logged In Users"
+msgstr "ログイン中のユーザーがアクセスできるサイト"
+
+#: includes/admin/core/class-admin-settings.php:488
+msgid "Site accessible to Everyone"
+msgstr "誰もがアクセス可能なサイト"
+
+#: includes/core/class-member-directory.php:316
+msgid "First name"
+msgstr "名"
+
+#: includes/admin/templates/form/login_customize.php:24
+#: includes/admin/templates/form/profile_customize.php:39
+#: includes/admin/templates/form/register_customize.php:30
+msgid "Switch to yes if you want to customize this form settings, styling &amp; appearance"
+msgstr "このフォーム設定、スタイル、外観をカスタマイズしたい場合は「はい」に切り替えてください"
+
+#: includes/admin/templates/role/home.php:23
+msgid "Set a url to redirect this user role to if they try to view your site's homepage"
+msgstr "このユーザー権限グループでサイトのホームページを表示しようとした場合にリダイレクトする URL を設定してください"
+
+#: includes/admin/templates/form/profile_customize.php:50
+msgid "Make this profile form role-specific"
+msgstr "このプロフィールフォームを権限グループ固有にする"
+
+#: includes/admin/templates/directory/sorting.php:66
+msgid "Choose field(s) to enable in sorting"
+msgstr "並べ替えで有効化するフィールドを選択"
+
+#: includes/core/class-builtin.php:1987
+msgid "Venezuela, Bolivarian Republic of"
+msgstr "ベネズエラ・ボリバル共和国"
+
+#: includes/admin/core/class-admin-metabox.php:831
+msgid "Search Options"
+msgstr "検索設定"
+
+#: templates/searchform.php:25
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "検索&hellip;"
+
+#: includes/core/class-builtin.php:1936
+msgid "Saint Martin (French part)"
+msgstr "サン・マルタン (フランス領)"
+
+#: includes/core/class-builtin.php:1932
+msgid "Saint Barthélemy"
+msgstr "サン・バルテルミー"
+
+#: includes/core/class-builtin.php:276
+msgid "Number"
+msgstr "番号"
+
+#: templates/profile/posts-single.php:40
+msgid "in"
+msgstr "in (インチ)"
+
+#: includes/admin/core/class-admin-metabox.php:421
+#: includes/admin/core/class-admin-metabox.php:572
+#: includes/admin/core/class-admin-metabox.php:2314
+#: includes/admin/core/class-admin-navmenu.php:78
+#: includes/admin/core/class-admin-navmenu.php:239
+#: includes/admin/templates/access/restrict_content.php:65
+#: includes/core/class-builtin.php:729
+#: includes/admin/assets/js/um-admin-blocks.js:102
+msgid "Everyone"
+msgstr "全員"
+
+#: includes/admin/class-admin.php:1926
+msgid "Docs"
+msgstr "ドキュメンテーション"
+
+#: includes/core/class-builtin.php:1799
+msgid "Congo, the Democratic Republic of the"
+msgstr "コンゴ民主共和国"
+
+#: includes/core/class-account.php:103
+msgid "Change Password"
+msgstr "パスワードを変更"
+
+#: includes/core/class-builtin.php:1781
+msgid "Brunei Darussalam"
+msgstr "ブルネイ・ダルサラーム"
+
+#: includes/core/class-builtin.php:1775
+msgid "Bolivia, Plurinational State of"
+msgstr "ボリビア多民族国"
+
+#: includes/core/class-common.php:61
+msgid "Add New Form"
+msgstr "新規フォームを追加"
+
+#: includes/core/class-profile.php:152
+msgid "About"
+msgstr "このサイトについて"
+
+#: includes/core/um-actions-form.php:582
+msgid "%s is required"
+msgstr "%s は必須項目です"
+
+#: includes/core/class-files.php:332
+msgid "Invalid parameters"
+msgstr "無効なパラメータ"
+
+#: includes/admin/core/class-admin-columns.php:137
+#: includes/admin/core/class-admin-columns.php:157
+#: includes/admin/core/class-admin-metabox.php:2193
+#: includes/admin/templates/role/role-edit.php:246
+#: includes/widgets/class-um-search-widget.php:94
+msgid "Title"
+msgstr "タイトル"
+
+#: includes/admin/core/class-admin-metabox.php:1041
+msgid "Options"
+msgstr "オプション"
+
+#: includes/admin/core/class-admin-forms.php:1151
+#: includes/admin/core/class-admin-forms.php:1170
+#: includes/admin/core/class-admin-forms.php:1297
+#: includes/admin/core/class-admin-forms.php:1306
+#: includes/admin/core/class-admin-forms.php:1546
+#: includes/admin/core/class-admin-forms.php:1560
+#: includes/admin/core/class-admin-forms.php:1676
+#: includes/admin/core/class-admin-forms.php:1705
+#: includes/admin/core/class-admin-notices.php:464
+#: includes/core/um-actions-profile.php:896
+#: includes/admin/assets/js/um-admin-forms.js:292
+#: includes/admin/assets/js/um-admin-forms.js:366
+#: includes/admin/assets/js/um-admin-forms.js:643
+#: includes/admin/assets/js/um-admin-forms.js:676
+msgid "Remove"
+msgstr "削除"
+
+#: includes/admin/core/class-admin-columns.php:140
+#: includes/admin/core/class-admin-columns.php:159
+#: includes/admin/core/class-admin-settings.php:1054
+#: includes/admin/core/class-admin-settings.php:1664
+#: includes/admin/templates/form/login_settings.php:19
+#: includes/admin/templates/form/register_customize.php:9
+#: includes/admin/templates/form/register_customize.php:42
+#: includes/admin/templates/role/profile.php:52
+msgid "Default"
+msgstr "デフォルト"
+
+#: includes/admin/core/class-admin-settings.php:996
+#: includes/admin/core/class-admin-settings.php:1013
+#: includes/core/class-builtin.php:741 includes/core/class-builtin.php:744
+#: includes/core/class-member-directory.php:314
+msgid "Username"
+msgstr "ユーザー名"
+
+#: includes/admin/core/class-admin-enqueue.php:131
+#: includes/core/class-builtin.php:765 includes/core/class-builtin.php:768
+#: includes/core/class-builtin.php:1326 includes/core/class-builtin.php:1329
+#: includes/core/um-actions-account.php:638
+#: includes/core/um-actions-account.php:710
+msgid "Password"
+msgstr "パスワード"
+
+#: includes/admin/core/class-admin-metabox.php:2037
+#: includes/core/class-fields.php:1945 includes/core/class-fields.php:1986
+#: includes/core/class-fields.php:2930 includes/core/class-fields.php:3026
+msgid "Upload"
+msgstr "アップロード"
+
+#: includes/admin/core/class-admin-builder.php:562
+#: includes/admin/core/class-admin-enqueue.php:143
+#: includes/admin/core/list-tables/roles-list-table.php:390
+#: includes/admin/core/list-tables/roles-list-table.php:474
+msgid "Delete"
+msgstr "削除"
+
+#: includes/admin/core/class-admin-users.php:402
+#: includes/admin/core/class-admin-users.php:404
+#: includes/blocks/um-account/build/index.js:1
+#: includes/blocks/um-account/src/index.js:14
+msgid "All"
+msgstr "すべて"
+
+#: includes/admin/core/class-admin-metabox.php:1596
+#: includes/admin/core/class-admin-metabox.php:1767
+msgid "Style"
+msgstr "スタイル"
+
+#: includes/admin/core/class-admin-settings.php:3258
+msgid "To copy the Install info, click below then press Ctrl + C (PC) or Cmd + C (Mac)."
+msgstr "インストール情報をコピーするには、下をクリックし Ctrl + C (PC) もしくは Cmd + C (Mac) を押してください。"
+
+#: includes/admin/core/class-admin-metabox.php:1651
+msgid "Background Color"
+msgstr "背景色"

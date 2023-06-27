@@ -1,0 +1,2018 @@
+# Translation of Plugins - Brizy &#8211; Page Builder - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Brizy &#8211; Page Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-03 15:24:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Brizy &#8211; Page Builder - Stable (latest release)\n"
+
+#: public/editor-build/259-wp/texts.php:116
+msgid "Amount"
+msgstr "数量"
+
+#: public/editor-build/259-wp/texts.php:198
+msgid "Bottom Left"
+msgstr "左下"
+
+#: public/editor-build/259-wp/texts.php:199
+msgid "Bottom Right"
+msgstr "右下"
+
+#: public/editor-build/259-wp/texts.php:257
+msgid "Center Left"
+msgstr "中央左"
+
+#: public/editor-build/259-wp/texts.php:258
+msgid "Center Right"
+msgstr "中央右"
+
+#: public/editor-build/259-wp/texts.php:1152
+msgid "Space"
+msgstr "Space"
+
+#: public/editor-build/259-wp/texts.php:1270
+msgid "Top Left"
+msgstr "左上"
+
+#: public/editor-build/259-wp/texts.php:1271
+msgid "Top Right"
+msgstr "右上"
+
+#: public/editor-build/259-wp/texts.php:102
+msgid "Alert"
+msgstr "通知"
+
+#: public/editor-build/259-wp/texts.php:162
+msgid "Badge Position"
+msgstr "バッジの位置"
+
+#: public/editor-build/259-wp/texts.php:221
+msgid "Button Type"
+msgstr "ボタンタイプ"
+
+#: public/editor-build/259-wp/texts.php:228
+msgid "Buy now"
+msgstr "今すぐ購入"
+
+#: public/editor-build/259-wp/texts.php:272
+msgid "Code"
+msgstr "コード"
+
+#: public/editor-build/259-wp/texts.php:274
+msgid "Collapse"
+msgstr "折りたたむ"
+
+#: public/editor-build/259-wp/texts.php:372
+msgid "Display Mode"
+msgstr "表示モード"
+
+#: public/editor-build/259-wp/texts.php:442
+msgid "Extra Large"
+msgstr "とても大きい"
+
+#: public/editor-build/259-wp/texts.php:444
+msgid "Extra Small"
+msgstr "とても小さい"
+
+#: public/editor-build/259-wp/texts.php:465
+msgid "Feed Type"
+msgstr "フィードのタイプ"
+
+#: public/editor-build/259-wp/texts.php:619
+msgid "Information"
+msgstr "情報"
+
+#: public/editor-build/259-wp/texts.php:655
+msgid "Large"
+msgstr "大"
+
+#: public/editor-build/259-wp/texts.php:705
+msgid "Marketing"
+msgstr "マーケティング"
+
+#: public/editor-build/259-wp/texts.php:794
+msgid "Notification"
+msgstr "通知"
+
+#: public/editor-build/259-wp/texts.php:795
+msgid "Notifications"
+msgstr "通知"
+
+#: public/editor-build/259-wp/texts.php:857
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: public/editor-build/259-wp/texts.php:1094
+msgid "Show"
+msgstr "表示"
+
+#: public/editor-build/259-wp/texts.php:1141
+msgid "Small"
+msgstr "小"
+
+#: public/editor-build/259-wp/texts.php:1194
+msgid "Subtitle"
+msgstr "サブタイトル"
+
+#: public/editor-build/259-wp/texts.php:1252
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+#: public/editor-build/259-wp/texts.php:1343
+msgid "User"
+msgstr "ユーザー"
+
+#: public/editor-build/259-wp/texts.php:1377
+msgid "Widgets"
+msgstr "ウィジェット"
+
+#: public/editor-build/259-wp/texts.php:1026
+msgid "SKU"
+msgstr "SKU"
+
+#: public/editor-build/259-wp/texts.php:1000
+msgid "Reviews"
+msgstr "レビュー"
+
+#: public/editor-build/259-wp/texts.php:633
+msgid "Inside"
+msgstr "内部"
+
+#: admin/settings.php:119 admin/settings.php:120
+#: admin/views/settings/tools.php:7
+msgid "Tools"
+msgstr "ツール"
+
+#: public/editor-build/259-wp/texts.php:192
+msgid "Blur"
+msgstr "ぼかし"
+
+#: public/editor-build/259-wp/texts.php:368
+msgid "Display"
+msgstr "表示"
+
+#: public/editor-build/259-wp/texts.php:453
+msgid "Fade"
+msgstr "フェード"
+
+#: public/editor-build/259-wp/texts.php:487
+msgid "Flag"
+msgstr "国旗"
+
+#: public/editor-build/259-wp/texts.php:604
+msgid "In"
+msgstr "タグ:"
+
+#: public/editor-build/259-wp/texts.php:654
+msgid "Languages"
+msgstr "言語"
+
+#: public/editor-build/259-wp/texts.php:759
+msgid "Move down"
+msgstr "下に移動"
+
+#: public/editor-build/259-wp/texts.php:762
+msgid "Move up"
+msgstr "上に移動"
+
+#: public/editor-build/259-wp/texts.php:1043
+msgid "Scale"
+msgstr "縮尺変更"
+
+#: public/editor-build/259-wp/texts.php:1045
+msgid "Scroll"
+msgstr "スクロール"
+
+#: public/editor-build/259-wp/texts.php:1174
+msgid "Step"
+msgstr "ステップ"
+
+#: public/editor-build/259-wp/texts.php:1275
+msgid "Translation"
+msgstr "翻訳"
+
+#: public/editor-build/259-wp/texts.php:974
+msgid "Repeat"
+msgstr "繰り返し"
+
+#: public/editor-build/259-wp/texts.php:1219
+msgid "Taxonomy"
+msgstr "タクソノミー"
+
+#: public/editor-build/259-wp/texts.php:1132
+msgid "Slide"
+msgstr "スライド"
+
+#: public/editor-build/259-wp/texts.php:1135
+msgid "Slides"
+msgstr "スライド"
+
+#: public/editor-build/259-wp/texts.php:667
+msgid "Light"
+msgstr "ライト"
+
+#: public/editor-build/259-wp/texts.php:287
+msgid "Comments"
+msgstr "コメント"
+
+#: public/editor-build/259-wp/texts.php:1211
+msgid "Tablet"
+msgstr "タブレット"
+
+#: public/editor-build/259-wp/texts.php:1389
+msgid "WordPress"
+msgstr "WordPress"
+
+#: public/editor-build/259-wp/texts.php:1347
+msgid "Value"
+msgstr "値"
+
+#: public/editor-build/259-wp/texts.php:1345
+msgid "Users"
+msgstr "ユーザー"
+
+#: public/editor-build/259-wp/texts.php:1310
+msgid "Underline"
+msgstr "下線"
+
+#: public/editor-build/259-wp/texts.php:1289
+msgid "Twitter"
+msgstr "Twitter"
+
+#: public/editor-build/259-wp/texts.php:1288
+msgid "Tweet"
+msgstr "ツイート"
+
+#: public/editor-build/259-wp/texts.php:1272
+msgid "Total"
+msgstr "合計"
+
+#: public/editor-build/259-wp/texts.php:1268
+msgid "Top"
+msgstr "上"
+
+#: public/editor-build/259-wp/texts.php:1234
+msgid "Theme"
+msgstr "テーマ"
+
+#: public/editor-build/259-wp/texts.php:1222
+msgid "Testimonials"
+msgstr "お客様の声"
+
+#: public/editor-build/259-wp/texts.php:1216
+msgid "Take over"
+msgstr "引き継ぐ"
+
+#: public/editor-build/259-wp/texts.php:1214
+msgid "Tags"
+msgstr "タグ"
+
+#: public/editor-build/259-wp/texts.php:1195
+msgid "Subtotal"
+msgstr "小計"
+
+#: public/editor-build/259-wp/texts.php:1183
+msgid "Styles"
+msgstr "スタイル"
+
+#: public/editor-build/259-wp/texts.php:1131
+msgid "Skip"
+msgstr "スキップ"
+
+#: public/editor-build/259-wp/texts.php:1082
+msgid "Shape"
+msgstr "形状"
+
+#: public/editor-build/259-wp/texts.php:1070
+msgid "Separator"
+msgstr "区切り"
+
+#: public/editor-build/259-wp/texts.php:1069
+msgid "Semi Bold"
+msgstr "中太"
+
+#: public/editor-build/259-wp/texts.php:1053
+msgid "Section"
+msgstr "セクション"
+
+#: public/editor-build/259-wp/texts.php:1042
+msgid "Saving"
+msgstr "保存中"
+
+#: public/editor-build/259-wp/texts.php:1037
+msgid "Save Draft"
+msgstr "下書き保存"
+
+#: public/editor-build/259-wp/texts.php:1016
+msgid "Rotate"
+msgstr "回転"
+
+#: public/editor-build/259-wp/texts.php:982
+msgid "Reset Password"
+msgstr "パスワードをリセット"
+
+#: public/editor-build/259-wp/texts.php:980
+msgid "Reply-To"
+msgstr "返信先"
+
+#: public/editor-build/259-wp/texts.php:969
+msgid "Religion"
+msgstr "宗教"
+
+#: public/editor-build/259-wp/texts.php:963
+msgid "Register"
+msgstr "登録"
+
+#: public/editor-build/259-wp/texts.php:945
+msgid "Radio"
+msgstr "無線"
+
+#: public/editor-build/259-wp/texts.php:941
+msgid "Quantity"
+msgstr "数量"
+
+#: public/editor-build/259-wp/texts.php:900
+msgid "Pricing"
+msgstr "価格"
+
+#: public/editor-build/259-wp/texts.php:881
+msgid "Post Title"
+msgstr "投稿タイトル"
+
+#: public/editor-build/259-wp/texts.php:876
+msgid "Post Content"
+msgstr "投稿のコンテンツ"
+
+#: public/editor-build/259-wp/texts.php:873
+msgid "Portfolio"
+msgstr "ポートフォリオ"
+
+#: public/editor-build/259-wp/texts.php:859
+msgid "Plain"
+msgstr "基本"
+
+#: public/editor-build/259-wp/texts.php:858
+msgid "Placeholder"
+msgstr "プレースホルダー"
+
+#: public/editor-build/259-wp/texts.php:856
+msgid "Phone Number"
+msgstr "電話番号"
+
+#: public/editor-build/259-wp/texts.php:836
+msgid "Page title"
+msgstr "ページタイトル"
+
+#: public/editor-build/259-wp/texts.php:833
+msgid "Page Layout"
+msgstr "ページレイアウト"
+
+#: public/editor-build/259-wp/texts.php:806
+msgid "Offset"
+msgstr "オフセット"
+
+#: public/editor-build/259-wp/texts.php:768
+msgid "N/A"
+msgstr "該当なし"
+
+#: public/editor-build/259-wp/texts.php:766
+msgid "Muted"
+msgstr "ミュート (消音)"
+
+#: public/editor-build/259-wp/texts.php:761
+msgid "Move right"
+msgstr "右に移動"
+
+#: public/editor-build/259-wp/texts.php:760
+msgid "Move left"
+msgstr "左に移動"
+
+#: public/editor-build/259-wp/texts.php:743
+msgid "Minimal"
+msgstr "最小"
+
+#: public/editor-build/259-wp/texts.php:740
+msgid "Min"
+msgstr "最小値"
+
+#: public/editor-build/259-wp/texts.php:734
+msgid "Meta"
+msgstr "メタ情報"
+
+#: public/editor-build/259-wp/texts.php:724
+msgid "Membership"
+msgstr "メンバーシップ"
+
+#: public/editor-build/259-wp/texts.php:718
+msgid "Medium"
+msgstr "ミディアム"
+
+#: public/editor-build/259-wp/texts.php:711
+msgid "Max"
+msgstr "最大値"
+
+#: public/editor-build/259-wp/texts.php:702
+msgid "Manual"
+msgstr "マニュアル"
+
+#: public/editor-build/259-wp/texts.php:696
+msgid "Main"
+msgstr "メイン"
+
+#: public/editor-build/259-wp/texts.php:691
+msgid "Lost Password"
+msgstr "パスワード紛失"
+
+#: public/editor-build/259-wp/texts.php:688
+msgid "Logout"
+msgstr "ログアウト"
+
+#: public/editor-build/259-wp/texts.php:687
+msgid "Login"
+msgstr "ログイン"
+
+#: public/editor-build/259-wp/texts.php:664
+msgid "Left"
+msgstr "左"
+
+#: public/editor-build/259-wp/texts.php:642
+msgid "Item"
+msgstr "項目"
+
+#: public/editor-build/259-wp/texts.php:621
+msgid "Inline"
+msgstr "インライン"
+
+#: public/editor-build/259-wp/texts.php:618
+msgid "Info"
+msgstr "情報"
+
+#: public/editor-build/259-wp/texts.php:584
+msgid "Icons"
+msgstr "アイコン"
+
+#: public/editor-build/259-wp/texts.php:573
+msgid "Hours"
+msgstr "営業時間"
+
+#: public/editor-build/259-wp/texts.php:561
+msgid "Hide"
+msgstr "非表示"
+
+#: public/editor-build/259-wp/texts.php:560
+msgid "Hidden"
+msgstr "非表示"
+
+#: public/editor-build/259-wp/texts.php:515
+msgid "Full name"
+msgstr "名称"
+
+#: public/editor-build/259-wp/texts.php:510
+msgid "From Name"
+msgstr "送信者名"
+
+#: public/editor-build/259-wp/texts.php:509
+msgid "From Email"
+msgstr "送信元メールアドレス"
+
+#: public/editor-build/259-wp/texts.php:505
+msgid "Forms"
+msgstr "フォーム"
+
+#: public/editor-build/259-wp/texts.php:503
+msgid "Form Fields"
+msgstr "フォームのフィールド"
+
+#: public/editor-build/259-wp/texts.php:499
+msgid "Food"
+msgstr "フード"
+
+#: public/editor-build/259-wp/texts.php:484
+msgid "First Name"
+msgstr "名"
+
+#: public/editor-build/259-wp/texts.php:463
+msgid "Features"
+msgstr "機能"
+
+#: public/editor-build/259-wp/texts.php:448
+msgid "Facebook"
+msgstr "Facebook"
+
+#: public/editor-build/259-wp/texts.php:443
+msgid "Extra Light"
+msgstr "超細"
+
+#: public/editor-build/259-wp/texts.php:441
+msgid "Extra Bold"
+msgstr "極太"
+
+#: public/editor-build/259-wp/texts.php:434
+msgid "Excerpt"
+msgstr "抜粋"
+
+#: public/editor-build/259-wp/texts.php:398
+msgid "Education"
+msgstr "教育"
+
+#: public/editor-build/259-wp/texts.php:347
+msgid "Days"
+msgstr "日"
+
+#: public/editor-build/259-wp/texts.php:292
+msgid "Contact"
+msgstr "連絡先セクション"
+
+#: public/editor-build/259-wp/texts.php:288
+msgid "Conditions"
+msgstr "条件"
+
+#: public/editor-build/259-wp/texts.php:1413
+msgid "here"
+msgstr "こちら"
+
+#: public/editor-build/259-wp/texts.php:1344
+msgid "Username"
+msgstr "ユーザー名"
+
+#: public/editor-build/259-wp/texts.php:1311
+msgid "Undo"
+msgstr "元に戻す"
+
+#: public/editor-build/259-wp/texts.php:1287
+msgid "Try Again"
+msgstr "もう一度お試しください"
+
+#: public/editor-build/259-wp/texts.php:960
+msgid "Redo"
+msgstr "やり直す"
+
+#: public/editor-build/259-wp/texts.php:872
+msgid "Port"
+msgstr "ポート"
+
+#: public/editor-build/259-wp/texts.php:846
+msgid "Password"
+msgstr "パスワード"
+
+#: public/editor-build/259-wp/texts.php:825
+msgid "Outset"
+msgstr "Outset"
+
+#: public/editor-build/259-wp/texts.php:729
+msgid "Menu order"
+msgstr "メニューの順序"
+
+#: public/editor-build/259-wp/texts.php:709
+msgid "Mask"
+msgstr "マスク"
+
+#: public/editor-build/259-wp/texts.php:680
+msgid "Links"
+msgstr "リンク"
+
+#: public/editor-build/259-wp/texts.php:646
+msgid "Keyboard Shortcuts"
+msgstr "キーボードショートカット"
+
+#: public/editor-build/259-wp/texts.php:632
+msgid "Inset"
+msgstr "Inset"
+
+#: public/editor-build/259-wp/texts.php:612
+msgid "Incorrect"
+msgstr "悪い"
+
+#: public/editor-build/259-wp/texts.php:533
+msgid "Group"
+msgstr "グループ"
+
+#: public/editor-build/259-wp/texts.php:497
+msgid "Font weight"
+msgstr "フォントの太さ"
+
+#: public/editor-build/259-wp/texts.php:482
+msgid "Filters"
+msgstr "フィルター"
+
+#: public/editor-build/259-wp/texts.php:470
+msgid "File"
+msgstr "ファイル"
+
+#: public/editor-build/259-wp/texts.php:396
+msgid "Edit"
+msgstr "編集"
+
+#: public/editor-build/259-wp/texts.php:378
+msgid "Done"
+msgstr "完了"
+
+#: public/editor-build/259-wp/texts.php:324
+msgid "Create"
+msgstr "生成"
+
+#: public/editor-build/259-wp/texts.php:290
+msgid "Connect"
+msgstr "コネクト"
+
+#: public/editor-build/259-wp/texts.php:1059
+msgid "Select a Menu"
+msgstr "メニューを選択"
+
+#: public/editor-build/259-wp/texts.php:1012
+msgid "Right"
+msgstr "右"
+
+#: public/editor-build/259-wp/texts.php:432
+msgid "Events"
+msgstr "イベント"
+
+#: public/editor-build/259-wp/texts.php:514
+msgid "Full Screen"
+msgstr "全画面表示"
+
+#: public/editor-build/259-wp/texts.php:335
+msgid "Custom Page"
+msgstr "カスタム固定ページ"
+
+#: public/editor-build/259-wp/texts.php:331
+msgid "Current Page"
+msgstr "現在のページ"
+
+#: public/editor-build/259-wp/texts.php:1218
+msgid "Target URL"
+msgstr "ターゲット URL"
+
+#: public/editor-build/259-wp/texts.php:1291
+msgid "Type"
+msgstr "タイプ"
+
+#: public/editor-build/259-wp/texts.php:552
+msgid "Header"
+msgstr "ヘッダー"
+
+#: public/editor-build/259-wp/texts.php:517
+msgid "Gallery"
+msgstr "ギャラリー"
+
+#: public/editor-build/259-wp/texts.php:944
+msgid "Radial"
+msgstr "放射状"
+
+#: public/editor-build/259-wp/texts.php:675
+msgid "Linear"
+msgstr "線形"
+
+#: public/editor-build/259-wp/texts.php:532
+msgid "Gradient"
+msgstr "グラデーション"
+
+#: public/editor-build/259-wp/texts.php:1175
+msgid "Sticky"
+msgstr "先頭固定表示"
+
+#: public/editor-build/259-wp/texts.php:334
+msgid "Custom CSS"
+msgstr "カスタム CSS"
+
+#: public/editor-build/259-wp/texts.php:461
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#: public/editor-build/259-wp/texts.php:1208
+msgid "Table"
+msgstr "テーブル"
+
+#: public/editor-build/259-wp/texts.php:848
+msgid "Paste"
+msgstr "貼り付け"
+
+#: public/editor-build/259-wp/texts.php:304
+msgid "Copy"
+msgstr "コピー"
+
+#: public/editor-build/259-wp/texts.php:838
+msgid "Pagination"
+msgstr "ページ送り"
+
+#: public/editor-build/259-wp/texts.php:1020
+msgid "Rows"
+msgstr "行"
+
+#: import/main.php:48
+msgid "Live Preview"
+msgstr "ライブプレビュー"
+
+#: import/main.php:49
+msgid "Install"
+msgstr "インストール"
+
+#: import/main.php:51
+msgid "Pro"
+msgstr "Pro"
+
+#: public/editor-build/259-wp/texts.php:126
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: import/main.php:52 public/editor-build/259-wp/texts.php:1049
+msgid "Search"
+msgstr "検索"
+
+#: import/main.php:50 public/editor-build/259-wp/texts.php:506
+msgid "Free"
+msgstr "無料"
+
+#: public/editor-build/259-wp/texts.php:266
+msgid "Clear"
+msgstr "クリア"
+
+#: public/editor-build/259-wp/texts.php:265
+msgid "Classic"
+msgstr "クラシック"
+
+#: public/editor-build/259-wp/texts.php:263
+msgid "Children"
+msgstr "子"
+
+#: public/editor-build/259-wp/texts.php:260
+msgid "Checkbox"
+msgstr "チェックボックス"
+
+#: public/editor-build/259-wp/texts.php:226
+msgid "Buttons"
+msgstr "ボタン"
+
+#: public/editor-build/259-wp/texts.php:214
+msgid "Business"
+msgstr "ビジネス"
+
+#: public/editor-build/259-wp/texts.php:196
+msgid "Bottom"
+msgstr "下"
+
+#: public/editor-build/259-wp/texts.php:180
+msgid "Blank"
+msgstr "空白"
+
+#: public/editor-build/259-wp/texts.php:179
+msgid "Black"
+msgstr "黒"
+
+#: public/editor-build/259-wp/texts.php:150
+msgid "Avatar"
+msgstr "アバター"
+
+#: public/editor-build/259-wp/texts.php:148
+msgid "Automotive"
+msgstr "自動車"
+
+#: public/editor-build/259-wp/texts.php:141
+msgid "Audio"
+msgstr "音声"
+
+#: public/editor-build/259-wp/texts.php:140
+msgid "Attributes"
+msgstr "属性"
+
+#: public/editor-build/259-wp/texts.php:137
+msgid "Aside"
+msgstr "アサイド"
+
+#: import/main.php:47 public/editor-build/259-wp/texts.php:107
+msgid "All"
+msgstr "以下のすべて"
+
+#: maintenance-mode.php:117
+msgid "Edit Page"
+msgstr "固定ページを編集"
+
+#: editor.php:597
+msgid "Original"
+msgstr "元のサイズ"
+
+#: content/providers/free-provider.php:115
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s件のコメント"
+
+#: admin/views/settings/maintenance.php:54
+msgid "Select a page"
+msgstr "ページを選択"
+
+#: admin/views/settings/maintenance.php:16
+msgid "Maintenance"
+msgstr "メンテナンス"
+
+#: admin/views/settings/maintenance.php:14
+msgid "Disabled"
+msgstr "無効"
+
+#: admin/views/dashboard-news.php:10
+msgid "New"
+msgstr "新規"
+
+#: admin/templates.php:209
+msgid "Templates"
+msgstr "テンプレート"
+
+#: admin/templates.php:203
+msgctxt "add new on admin bar"
+msgid "Template"
+msgstr "テンプレート"
+
+#: admin/templates.php:202
+msgctxt "admin menu"
+msgid "Templates"
+msgstr "テンプレート"
+
+#: admin/templates.php:201
+msgctxt "post type singular name"
+msgid "Template"
+msgstr "テンプレート"
+
+#: admin/templates.php:200
+msgctxt "post type general name"
+msgid "Templates"
+msgstr "テンプレート"
+
+#: admin/templates.php:119
+msgid "Single"
+msgstr "未婚"
+
+#: admin/settings.php:171
+msgid "General"
+msgstr "一般"
+
+#: admin/rules/api.php:463
+msgid "From"
+msgstr "From"
+
+#: admin/form-entries.php:335
+msgctxt "add new on admin bar"
+msgid "Lead"
+msgstr "リード"
+
+#: admin/form-entries.php:333
+msgctxt "post type singular name"
+msgid "Lead"
+msgstr "リード"
+
+#: admin/feedback.php:132
+msgid "Other"
+msgstr "その他"
+
+#: admin/feedback.php:44
+msgid "I already did"
+msgstr "すでにやった"
+
+#: admin/feedback.php:40
+msgid "Nope, maybe later"
+msgstr "いいえ、多分後で"
+
+#: admin/feedback.php:36
+msgid "Ok, you deserve it"
+msgstr "はい、それに値する"
+
+#: editor/block-screenshot-api.php:61
+msgid "Bad request"
+msgstr "不正な要求"
+
+#: admin/views/dashboard.php:17
+msgid "Help"
+msgstr "ヘルプ"
+
+#: admin/views/dashboard.php:12 public/editor-build/259-wp/texts.php:188
+msgid "Blog"
+msgstr "ブログ"
+
+#: admin/main.php:252 admin/settings.php:159 import/main.php:54
+msgid "Go Pro"
+msgstr "プロにアップグレードする"
+
+#: public/editor-build/259-wp/texts.php:238
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: public/editor-build/259-wp/texts.php:205
+msgid "Breadcrumbs"
+msgstr "パンくずリスト"
+
+#: public/editor-build/259-wp/texts.php:151
+msgid "Back"
+msgstr "戻る"
+
+#: public/editor-build/259-wp/texts.php:71
+msgid "Active"
+msgstr "有効"
+
+#: public/editor-build/259-wp/texts.php:187
+msgid "Blocks"
+msgstr "ブロック"
+
+#: public/editor-build/259-wp/texts.php:239
+msgid "Captions"
+msgstr "キャプション"
+
+#: public/editor-build/259-wp/texts.php:149
+msgid "Autoplay"
+msgstr "自動再生"
+
+#: public/editor-build/259-wp/texts.php:285
+msgid "Comment"
+msgstr "コメント"
+
+#: public/editor-build/259-wp/texts.php:269
+msgid "Close"
+msgstr "閉じる"
+
+#: public/editor-build/259-wp/texts.php:279
+msgid "Color"
+msgstr "色"
+
+#: admin/templates.php:120 public/editor-build/259-wp/texts.php:125
+msgid "Archive"
+msgstr "アーカイブ化"
+
+#: public/editor-build/259-wp/texts.php:1421
+msgid "or"
+msgstr "または"
+
+#: public/editor-build/259-wp/texts.php:1420
+msgid "open an issue"
+msgstr "問題を開く"
+
+#: public/editor-build/259-wp/texts.php:1395
+msgid "You can"
+msgstr "できること"
+
+#: import/main.php:53 public/editor-build/259-wp/texts.php:108
+msgid "All Categories"
+msgstr "全てのカテゴリー"
+
+#: public/editor-build/259-wp/texts.php:1039
+msgid "Saved"
+msgstr "保存しました"
+
+#: public/editor-build/259-wp/texts.php:1036
+msgid "Save"
+msgstr "保存"
+
+#: public/editor-build/259-wp/texts.php:698
+msgid "Make it Global"
+msgstr "グローバルにする"
+
+#: public/editor-build/259-wp/texts.php:182
+msgid "Block"
+msgstr "ブロック"
+
+#: public/editor-build/259-wp/texts.php:475
+msgid "Filter By"
+msgstr "フィルター"
+
+#: public/editor-build/259-wp/texts.php:732
+msgid "Message sent"
+msgstr "送信メッセージ"
+
+#: public/editor-build/259-wp/texts.php:424
+msgid "Error"
+msgstr "エラー"
+
+#: public/editor-build/259-wp/texts.php:842
+msgid "Parent"
+msgstr "親"
+
+#: public/editor-build/259-wp/texts.php:753
+msgid "Modified"
+msgstr "修正されました"
+
+#: public/editor-build/259-wp/texts.php:738
+msgid "Meta Value"
+msgstr "メタバリュー"
+
+#: public/editor-build/259-wp/texts.php:737
+msgid "Meta Key"
+msgstr "メタキー"
+
+#: public/editor-build/259-wp/texts.php:620
+msgid "Inherit"
+msgstr "継承する"
+
+#: public/editor-build/259-wp/texts.php:146
+msgid "Auto-Draft"
+msgstr "自動下書き"
+
+#: public/editor-build/259-wp/texts.php:1277
+msgid "Trash"
+msgstr "ゴミ箱"
+
+#: public/editor-build/259-wp/texts.php:902
+msgid "Private"
+msgstr "非公開"
+
+#: public/editor-build/259-wp/texts.php:852
+msgid "Pending"
+msgstr "保留中"
+
+#: public/editor-build/259-wp/texts.php:387
+msgid "Draft"
+msgstr "下書き"
+
+#: public/editor-build/259-wp/texts.php:516
+msgid "Future"
+msgstr "将来"
+
+#: public/editor-build/259-wp/texts.php:1173
+msgid "Status"
+msgstr "ステータス"
+
+#: public/editor-build/259-wp/texts.php:435
+msgid "Exclude"
+msgstr "除外する"
+
+#: public/editor-build/259-wp/texts.php:607
+msgid "Include"
+msgstr "含める"
+
+#: public/editor-build/259-wp/texts.php:143
+msgid "Author"
+msgstr "投稿者"
+
+#: public/editor-build/259-wp/texts.php:252
+msgid "Category"
+msgstr "カテゴリー"
+
+#: public/editor-build/259-wp/texts.php:875
+msgid "Post"
+msgstr "投稿"
+
+#: public/editor-build/259-wp/texts.php:882
+msgid "Post Type"
+msgstr "投稿タイプ"
+
+#: public/editor-build/259-wp/texts.php:1369
+msgid "Weight"
+msgstr "重量"
+
+#: public/editor-build/259-wp/texts.php:580
+msgid "ID"
+msgstr "ID"
+
+#: public/editor-build/259-wp/texts.php:946
+msgid "Random"
+msgstr "ランダム"
+
+#: public/editor-build/259-wp/texts.php:728
+msgid "Menu Order"
+msgstr "メニューの順序"
+
+#: public/editor-build/259-wp/texts.php:868
+msgid "Popularity"
+msgstr "人気"
+
+#: public/editor-build/259-wp/texts.php:948
+msgid "Rating"
+msgstr "評価"
+
+#: public/editor-build/259-wp/texts.php:1263
+msgid "Title"
+msgstr "タイトル"
+
+#: public/editor-build/259-wp/texts.php:474
+msgid "Filter"
+msgstr "フィルター"
+
+#: public/editor-build/259-wp/texts.php:818
+msgid "Order Tracking"
+msgstr "注文のトラッキング"
+
+#: public/editor-build/259-wp/texts.php:767
+msgid "My Account"
+msgstr "私のアカウント"
+
+#: public/editor-build/259-wp/texts.php:261
+msgid "Checkout"
+msgstr "チェックアウト"
+
+#: public/editor-build/259-wp/texts.php:832
+msgid "Page"
+msgstr "ページ"
+
+#: public/editor-build/259-wp/texts.php:318
+msgid "Count"
+msgstr "カウント"
+
+#: public/editor-build/259-wp/texts.php:356
+msgid "Description"
+msgstr "説明"
+
+#: public/editor-build/259-wp/texts.php:1136
+msgid "Slug"
+msgstr "スラッグ"
+
+#: public/editor-build/259-wp/texts.php:769
+msgid "Name"
+msgstr "お名前"
+
+#: public/editor-build/259-wp/texts.php:817
+msgid "Order By"
+msgstr "並び替え"
+
+#: public/editor-build/259-wp/texts.php:355
+msgid "Desc"
+msgstr "降順"
+
+#: public/editor-build/259-wp/texts.php:136
+msgid "Asc"
+msgstr "昇順"
+
+#: public/editor-build/259-wp/texts.php:249
+msgid "Categories Count"
+msgstr "カテゴリー数"
+
+#: public/editor-build/259-wp/texts.php:284
+msgid "Columns"
+msgstr "列"
+
+#: public/editor-build/259-wp/texts.php:661
+msgid "Layout"
+msgstr "レイアウト"
+
+#: public/editor-build/259-wp/texts.php:929
+msgid "Products Count"
+msgstr "製品数"
+
+#: public/editor-build/259-wp/texts.php:911
+msgid "Product ID or SKU"
+msgstr "製品の ID または SKU"
+
+#: public/editor-build/259-wp/texts.php:910
+msgid "Product ID"
+msgstr "製品の ID"
+
+#: public/editor-build/259-wp/texts.php:942
+msgid "Query"
+msgstr "請願"
+
+#: public/editor-build/259-wp/texts.php:500
+msgid "Footer"
+msgstr "フッター"
+
+#: public/editor-build/259-wp/texts.php:860
+msgid "Play"
+msgstr "再生"
+
+#: public/editor-build/259-wp/texts.php:322
+msgid "Cover"
+msgstr "カバー"
+
+#: public/editor-build/259-wp/texts.php:300
+msgid "Controls"
+msgstr "コントローラ表示"
+
+#: public/editor-build/259-wp/texts.php:950
+msgid "Ratio"
+msgstr "比率"
+
+#: public/editor-build/259-wp/texts.php:1148
+msgid "SoundCloud Link"
+msgstr "SoundCloud のリンク"
+
+#: public/editor-build/259-wp/texts.php:1147
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: public/editor-build/259-wp/texts.php:170
+msgid "Bar"
+msgstr "バー"
+
+#: public/editor-build/259-wp/texts.php:854
+msgid "Percentage"
+msgstr "割合"
+
+#: public/editor-build/259-wp/texts.php:578
+msgid "Hue"
+msgstr "色相"
+
+#: public/editor-build/259-wp/texts.php:1182
+msgid "Style"
+msgstr "スタイル"
+
+#: public/editor-build/259-wp/texts.php:1054
+msgid "Select"
+msgstr "セレクト"
+
+#: public/editor-build/259-wp/texts.php:839
+msgid "Paragraph"
+msgstr "段落"
+
+#: public/editor-build/259-wp/texts.php:800
+msgid "Number"
+msgstr "数"
+
+#: public/editor-build/259-wp/texts.php:401
+msgid "Email"
+msgstr "メール"
+
+#: public/editor-build/259-wp/texts.php:981
+msgid "Required"
+msgstr "必須"
+
+#: public/editor-build/259-wp/texts.php:530
+msgid "Go to"
+msgstr "行く:"
+
+#: public/editor-build/259-wp/texts.php:957
+msgid "Redirect"
+msgstr "リダイレクト"
+
+#: public/editor-build/259-wp/texts.php:731
+msgid "Message not sent"
+msgstr "メッセージが送信されませんでした"
+
+#: public/editor-build/259-wp/texts.php:1196
+msgid "Success"
+msgstr "成功"
+
+#: public/editor-build/259-wp/texts.php:730
+msgid "Message"
+msgstr "メッセージ"
+
+#: public/editor-build/259-wp/texts.php:649
+msgid "Label"
+msgstr "ラベル"
+
+#: public/editor-build/259-wp/texts.php:467
+msgid "Field Type"
+msgstr "フィールドの種類"
+
+#: public/editor-build/259-wp/texts.php:466
+msgid "Field"
+msgstr "フィールド"
+
+#: public/editor-build/259-wp/texts.php:418
+msgid "End"
+msgstr "終わり"
+
+#: public/editor-build/259-wp/texts.php:1171
+msgid "Start"
+msgstr "開始"
+
+#: public/editor-build/259-wp/texts.php:1022
+msgid "Russian"
+msgstr "ロシア語"
+
+#: public/editor-build/259-wp/texts.php:393
+msgid "Dutch"
+msgstr "オランダ語"
+
+#: public/editor-build/259-wp/texts.php:640
+msgid "Italian"
+msgstr "イタリア語"
+
+#: public/editor-build/259-wp/texts.php:507
+msgid "French"
+msgstr "フランス語"
+
+#: public/editor-build/259-wp/texts.php:1155
+msgid "Spanish"
+msgstr "スペイン語"
+
+#: public/editor-build/259-wp/texts.php:419
+msgid "English"
+msgstr "英語"
+
+#: public/editor-build/259-wp/texts.php:524
+msgid "German"
+msgstr "ドイツ語"
+
+#: public/editor-build/259-wp/texts.php:653
+msgid "Language"
+msgstr "言語"
+
+#: public/editor-build/259-wp/texts.php:11
+msgid "+ 12:00 (Auckland)"
+msgstr "+ 12:00 (オークランド)"
+
+#: public/editor-build/259-wp/texts.php:10
+msgid "+ 11:00 (Ponape)"
+msgstr "+ 11:00 (ポナペ)"
+
+#: public/editor-build/259-wp/texts.php:32
+msgid "+ 9:00 (Tokyo, Seoul)"
+msgstr "+ 9:00 (東京、ソウル)"
+
+#: public/editor-build/259-wp/texts.php:29
+msgid "+ 8:00 (Singapore, Beijing)"
+msgstr "+ 8:00 (シンガポール、北京)"
+
+#: public/editor-build/259-wp/texts.php:27
+msgid "+ 7:00 (Bangkok, Jakarta)"
+msgstr "+ 7:00 (ジャカルタ、バンコク)"
+
+#: public/editor-build/259-wp/texts.php:21
+msgid "+ 5:00 (Yekaterinburg)"
+msgstr "+ 5:00 (エカテリンブルク)"
+
+#: public/editor-build/259-wp/texts.php:19
+msgid "+ 4:00 (Dubai, Baku)"
+msgstr "+ 4:00 (ドバイ、バクー)"
+
+#: public/editor-build/259-wp/texts.php:17
+msgid "+ 3:00 (Moscow, Baghdad)"
+msgstr "+ 3:00 (バグダッド、モスクワ)"
+
+#: public/editor-build/259-wp/texts.php:15
+msgid "+ 2:00 (Athens, Istanbul)"
+msgstr "+ 2:00 (アテネ、イスタンブール)"
+
+#: public/editor-build/259-wp/texts.php:13
+msgid "+ 1:00 (Berlin, Paris)"
+msgstr "+ 1:00 (ベルリン、パリ)"
+
+#: public/editor-build/259-wp/texts.php:57
+msgid "00:00 (London, Dublin)"
+msgstr "00:00 (ロンドン、ダブリン)"
+
+#: public/editor-build/259-wp/texts.php:38
+msgid "- 1:00 (Cape Verde)"
+msgstr "- 1:00 (カーボベルデ)"
+
+#: public/editor-build/259-wp/texts.php:39
+msgid "- 2:00 (Noronha)"
+msgstr "- 2:00 (ノローニャ)"
+
+#: public/editor-build/259-wp/texts.php:41
+msgid "- 3:00 (Brasilia, Santiago)"
+msgstr "- 3:00 (サンティアゴ、ブラジリア)"
+
+#: public/editor-build/259-wp/texts.php:44
+msgid "- 4:00 (Halifax, Manaus)"
+msgstr "- 4:00 (ハリファックス、マナウス)"
+
+#: public/editor-build/259-wp/texts.php:47
+msgid "- 5:00 (New York, Miami)"
+msgstr "- 5:00 (ニューヨーク、マイアミ)"
+
+#: public/editor-build/259-wp/texts.php:48
+msgid "- 6:00 (Chicago, Dallas)"
+msgstr "- 6:00 (シカゴ、ダラス)"
+
+#: public/editor-build/259-wp/texts.php:49
+msgid "- 7:00 (Denver, Phoenix)"
+msgstr "- 7:00 (デンバー、フェニックス)"
+
+#: public/editor-build/259-wp/texts.php:50
+msgid "- 8:00 (Los Angeles)"
+msgstr "- 8:00 (ロサンゼルス)"
+
+#: public/editor-build/259-wp/texts.php:51
+msgid "- 9:00 (Anchorage)"
+msgstr "- 9:00 (アンカレッジ)"
+
+#: public/editor-build/259-wp/texts.php:34
+msgid "- 10:00 (Honolulu, Papeete)"
+msgstr "- 10:00 (ホノルル、パペーテ)"
+
+#: public/editor-build/259-wp/texts.php:36
+msgid "- 11:00 (Niue)"
+msgstr "- 11:00 (ニウエ)"
+
+#: public/editor-build/259-wp/texts.php:1255
+msgid "Time Zone"
+msgstr "タイムゾーン"
+
+#: public/editor-build/259-wp/texts.php:745
+msgid "Minutes"
+msgstr "分"
+
+#: public/editor-build/259-wp/texts.php:572
+msgid "Hour"
+msgstr "時"
+
+#: admin/form-entries.php:62 public/editor-build/259-wp/texts.php:345
+msgid "Date"
+msgstr "日付"
+
+#: public/editor-build/259-wp/texts.php:641
+msgid "Italic"
+msgstr "イタリック"
+
+#: public/editor-build/259-wp/texts.php:194
+msgid "Bold"
+msgstr "太字"
+
+#: public/editor-build/259-wp/texts.php:1121
+msgid "Size"
+msgstr "サイズ"
+
+#: public/editor-build/259-wp/texts.php:493
+msgid "Font Family"
+msgstr "フォントファミリー"
+
+#: public/editor-build/259-wp/texts.php:874
+msgid "Position"
+msgstr "位置"
+
+#: public/editor-build/259-wp/texts.php:294
+msgid "Content"
+msgstr "コンテンツ"
+
+#: public/editor-build/259-wp/texts.php:354
+msgid "Delete"
+msgstr "削除"
+
+#: public/editor-build/259-wp/texts.php:195
+msgid "Border"
+msgstr "枠線"
+
+#: public/editor-build/259-wp/texts.php:282
+msgid "Colors"
+msgstr "色"
+
+#: public/editor-build/259-wp/texts.php:690
+msgid "Loop"
+msgstr "繰り返し再生"
+
+#: public/editor-build/259-wp/texts.php:840
+msgid "Parallax"
+msgstr "Parallax"
+
+#: admin/views/settings/maintenance.php:27
+#: public/editor-build/259-wp/texts.php:332
+msgid "Custom"
+msgstr "カスタム"
+
+#: public/editor-build/259-wp/texts.php:558
+msgid "Height"
+msgstr "高さ"
+
+#: public/editor-build/259-wp/texts.php:824
+msgid "Outline"
+msgstr "アウトライン"
+
+#: public/editor-build/259-wp/texts.php:1165
+msgid "Square"
+msgstr "四角"
+
+#: public/editor-build/259-wp/texts.php:773
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+#: public/editor-build/259-wp/texts.php:1134
+msgid "Slider"
+msgstr "スライダー"
+
+#: public/editor-build/259-wp/texts.php:99
+msgid "Advanced"
+msgstr "高度"
+
+#: public/editor-build/259-wp/texts.php:755
+msgid "More"
+msgstr "さらに表示"
+
+#: public/editor-build/259-wp/texts.php:726
+msgid "Menu"
+msgstr "メニュー"
+
+#: public/editor-build/259-wp/texts.php:928
+msgid "Products"
+msgstr "プロダクト"
+
+#: public/editor-build/259-wp/texts.php:837
+msgid "Pages"
+msgstr "固定ページ"
+
+#: public/editor-build/259-wp/texts.php:248
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: public/editor-build/259-wp/texts.php:283
+msgid "Column"
+msgstr "列"
+
+#: public/editor-build/259-wp/texts.php:1019
+msgid "Row"
+msgstr "行"
+
+#: public/editor-build/259-wp/texts.php:932
+msgid "Progress"
+msgstr "Progress"
+
+#: public/editor-build/259-wp/texts.php:1212
+msgid "Tabs"
+msgstr "タブ"
+
+#: public/editor-build/259-wp/texts.php:320
+msgid "Counter"
+msgstr "カウンター"
+
+#: public/editor-build/259-wp/texts.php:502
+msgid "Form"
+msgstr "フォーム"
+
+#: public/editor-build/259-wp/texts.php:595
+msgid "Image"
+msgstr "画像"
+
+#: public/editor-build/259-wp/texts.php:581
+msgid "Icon"
+msgstr "アイコン"
+
+#: public/editor-build/259-wp/texts.php:574
+msgid "Hover"
+msgstr "ホバー"
+
+#: public/editor-build/259-wp/texts.php:784
+msgid "Normal"
+msgstr "普通"
+
+#: public/editor-build/259-wp/texts.php:1154
+msgid "Spacing"
+msgstr "間隔"
+
+#: public/editor-build/259-wp/texts.php:472
+msgid "Fill"
+msgstr "記入"
+
+#: public/editor-build/259-wp/texts.php:305
+msgid "Corner"
+msgstr "コーナー"
+
+#: public/editor-build/259-wp/texts.php:704
+msgid "Margin"
+msgstr "マージン"
+
+#: public/editor-build/259-wp/texts.php:831
+msgid "Padding"
+msgstr "パディング"
+
+#: public/editor-build/259-wp/texts.php:811
+msgid "Open In New Tab"
+msgstr "新しいタブで開く"
+
+#: public/editor-build/259-wp/texts.php:679
+msgid "Link to"
+msgstr "リンク先"
+
+#: public/editor-build/259-wp/texts.php:676
+msgid "Link"
+msgstr "リンク"
+
+#: public/editor-build/259-wp/texts.php:397
+msgid "Editable Text"
+msgstr "編集可能なテキスト"
+
+#: public/editor-build/259-wp/texts.php:547
+msgid "H6"
+msgstr "H6"
+
+#: public/editor-build/259-wp/texts.php:546
+msgid "H5"
+msgstr "H5"
+
+#: public/editor-build/259-wp/texts.php:545
+msgid "H4"
+msgstr "H4"
+
+#: public/editor-build/259-wp/texts.php:544
+msgid "H3"
+msgstr "H3"
+
+#: public/editor-build/259-wp/texts.php:543
+msgid "H2"
+msgstr "H2"
+
+#: public/editor-build/259-wp/texts.php:542
+msgid "H1"
+msgstr "H1"
+
+#: public/editor-build/259-wp/texts.php:829
+msgid "P"
+msgstr "P"
+
+#: public/editor-build/259-wp/texts.php:548
+msgid "HTML Tag"
+msgstr "HTML タグ"
+
+#: public/editor-build/259-wp/texts.php:522
+msgid "Gap Below"
+msgstr "下のギャップ"
+
+#: public/editor-build/259-wp/texts.php:521
+msgid "Gap Above"
+msgstr "上のギャップ"
+
+#: public/editor-build/259-wp/texts.php:681
+msgid "List"
+msgstr "リスト"
+
+#: public/editor-build/259-wp/texts.php:674
+msgid "Line Hgt."
+msgstr "ライン高さ"
+
+#: public/editor-build/259-wp/texts.php:1295
+msgid "Typography"
+msgstr "タイポグラフィ"
+
+#: public/editor-build/259-wp/texts.php:103
+msgid "Align"
+msgstr "整列"
+
+#: public/editor-build/259-wp/texts.php:644
+msgid "JackInTheBox"
+msgstr "ジャックインザボックス"
+
+#: public/editor-build/259-wp/texts.php:490
+msgid "Flip"
+msgstr "弾く"
+
+#: public/editor-build/259-wp/texts.php:645
+msgid "Jello"
+msgstr "ジェロ"
+
+#: public/editor-build/259-wp/texts.php:1386
+msgid "Wobble"
+msgstr "ふらつき"
+
+#: public/editor-build/259-wp/texts.php:1213
+msgid "Tada"
+msgstr "ただ！"
+
+#: public/editor-build/259-wp/texts.php:1200
+msgid "Swing"
+msgstr "スイング"
+
+#: public/editor-build/259-wp/texts.php:1081
+msgid "Shake"
+msgstr "振る"
+
+#: public/editor-build/259-wp/texts.php:937
+msgid "Pulse"
+msgstr "パルス"
+
+#: public/editor-build/259-wp/texts.php:489
+msgid "Flash"
+msgstr "フラッシュ"
+
+#: public/editor-build/259-wp/texts.php:200
+msgid "Bounce"
+msgstr "バウンス"
+
+#: public/editor-build/259-wp/texts.php:353
+msgid "Delay"
+msgstr "ディレイ"
+
+#: public/editor-build/259-wp/texts.php:392
+msgid "Duration"
+msgstr "期間"
+
+#: public/editor-build/259-wp/texts.php:390
+msgid "Duplicate"
+msgstr "複製する"
+
+#: public/editor-build/259-wp/texts.php:827
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+#: public/editor-build/259-wp/texts.php:1410
+msgid "Zoom"
+msgstr "ズーム"
+
+#: public/editor-build/259-wp/texts.php:420
+msgid "Enter address"
+msgstr "住所を入力"
+
+#: public/editor-build/259-wp/texts.php:97
+msgid "Address"
+msgstr "住所"
+
+#: public/editor-build/259-wp/texts.php:1405
+msgid "YouTube or Vimeo"
+msgstr "YouTube または Vimeo"
+
+#: public/editor-build/259-wp/texts.php:1298
+msgid "URL"
+msgstr "リンク"
+
+#: public/editor-build/259-wp/texts.php:118
+msgid "Animated"
+msgstr "アニメ化"
+
+#: public/editor-build/259-wp/texts.php:486
+msgid "Fixed"
+msgstr "一定"
+
+#: public/editor-build/259-wp/texts.php:176
+msgid "Bg Size"
+msgstr "背景サイズ"
+
+#: public/editor-build/259-wp/texts.php:157
+msgid "Background"
+msgstr "背景"
+
+#: public/editor-build/259-wp/texts.php:1411
+msgid "component"
+msgstr "コンポーネント"
+
+#: public/editor-build/259-wp/texts.php:314
+msgid "Could not find"
+msgstr "見つけることができませんでした"
+
+#: public/editor-build/259-wp/texts.php:747
+msgid "Missing Element"
+msgstr "欠けている要素"
+
+#: public/editor-build/259-wp/texts.php:511
+msgid "Full"
+msgstr "フル"
+
+#: public/editor-build/259-wp/texts.php:144
+msgid "Auto"
+msgstr "オート"
+
+#: public/editor-build/259-wp/texts.php:203
+msgid "Boxed"
+msgstr "箱入り"
+
+#: public/editor-build/259-wp/texts.php:1380
+msgid "Width"
+msgstr "幅"
+
+#: public/editor-build/259-wp/texts.php:512
+msgid "Full Height"
+msgstr "フルハイト"
+
+#: public/editor-build/259-wp/texts.php:1018
+msgid "Round"
+msgstr "円形"
+
+#: public/editor-build/259-wp/texts.php:1215
+msgid "Tail"
+msgstr "尾"
+
+#: public/editor-build/259-wp/texts.php:557
+msgid "Heavy"
+msgstr "ヘビー"
+
+#: public/editor-build/259-wp/texts.php:1236
+msgid "Thin"
+msgstr "薄い"
+
+#: public/editor-build/259-wp/texts.php:131
+msgid "Arrows"
+msgstr "矢印"
+
+#: public/editor-build/259-wp/texts.php:361
+msgid "Diamond"
+msgstr "ダイヤモンド"
+
+#: public/editor-build/259-wp/texts.php:264
+msgid "Circle"
+msgstr "サークル"
+
+#: public/editor-build/259-wp/texts.php:783
+msgid "None"
+msgstr "無し"
+
+#: public/editor-build/259-wp/texts.php:380
+msgid "Dots"
+msgstr "ドット"
+
+#: public/editor-build/259-wp/texts.php:1163
+msgid "Speed"
+msgstr "速度"
+
+#: public/editor-build/259-wp/texts.php:701
+msgid "Make it a Slider"
+msgstr "スライダーにする"
+
+#: public/editor-build/259-wp/texts.php:233
+msgid "CSS Class"
+msgstr "CSSクラス"
+
+#: public/editor-build/259-wp/texts.php:414
+msgid "Enable on Mobile"
+msgstr "モバイルで有効にする"
+
+#: public/editor-build/259-wp/texts.php:365
+msgid "Disable on Mobile"
+msgstr "モバイルで無効にする"
+
+#: public/editor-build/259-wp/texts.php:1113
+msgid "Show on Desktop"
+msgstr "デスクトップに表示"
+
+#: public/editor-build/259-wp/texts.php:756
+msgid "More Settings"
+msgstr "その他の設定"
+
+#: public/editor-build/259-wp/texts.php:935
+msgid "Publish"
+msgstr "公開する"
+
+#: public/editor-build/259-wp/texts.php:1319
+msgid "Update"
+msgstr "アップデート"
+
+#: public/editor-build/259-wp/texts.php:750
+msgid "Mobile"
+msgstr "モバイル"
+
+#: public/editor-build/259-wp/texts.php:358
+msgid "Desktop"
+msgstr "デスクトップ"
+
+#: public/editor-build/259-wp/texts.php:752
+msgid "Mobile view"
+msgstr "モバイルビュー"
+
+#: public/editor-build/259-wp/texts.php:775
+msgid "New Style #%s"
+msgstr "新しいスタイル #%s"
+
+#: admin/form-entries.php:336 admin/popups/main.php:106 admin/templates.php:204
+#: public/editor-build/259-wp/texts.php:79
+msgid "Add New"
+msgstr "新しく追加する"
+
+#: public/editor-build/259-wp/texts.php:89
+msgid "Add new option"
+msgstr "新しいオプションを追加"
+
+#: public/editor-build/259-wp/texts.php:1184
+msgid "Styling"
+msgstr "スタイリング"
+
+#: public/editor-build/259-wp/texts.php:388
+msgid "Drag to reorder"
+msgstr "再注文のためにドラッグする"
+
+#: public/editor-build/259-wp/texts.php:972
+msgid "Reorder Blocks"
+msgstr "ブロックの並べ替え"
+
+#: public/editor-build/259-wp/texts.php:1118
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: public/editor-build/259-wp/texts.php:885
+msgid "Posts"
+msgstr "投稿"
+
+#: public/editor-build/259-wp/texts.php:1091
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: admin/templates.php:125 public/editor-build/259-wp/texts.php:903
+msgid "Product"
+msgstr "製品"
+
+#: public/editor-build/259-wp/texts.php:92
+msgid "Add to cart"
+msgstr "カートに追加"
+
+#: public/editor-build/259-wp/texts.php:65
+msgid "Accordion"
+msgstr "アコーディオン"
+
+#: public/editor-build/259-wp/texts.php:319
+msgid "Countdown"
+msgstr "カウントダウン"
+
+#: public/editor-build/259-wp/texts.php:582
+msgid "Icon Box"
+msgstr "アイコンボックス"
+
+#: public/editor-build/259-wp/texts.php:408
+msgid "Embed"
+msgstr "埋め込む"
+
+#: public/editor-build/259-wp/texts.php:703
+msgid "Map"
+msgstr "地図"
+
+#: public/editor-build/259-wp/texts.php:673
+msgid "Line"
+msgstr "ライン"
+
+#: public/editor-build/259-wp/texts.php:1153
+msgid "Spacer"
+msgstr "スペーサー"
+
+#: public/editor-build/259-wp/texts.php:1357
+msgid "Video"
+msgstr "動画"
+
+#: public/editor-build/259-wp/texts.php:216
+msgid "Button"
+msgstr "ボタン"
+
+#: public/editor-build/259-wp/texts.php:1223
+msgid "Text"
+msgstr "テキスト"
+
+#: public/editor-build/259-wp/texts.php:76
+msgid "Add Elements"
+msgstr "要素を追加"
+
+#: public/editor-build/259-wp/texts.php:894
+msgid "Press the button to add blocks"
+msgstr "ボタンを押してブロックを追加します"
+
+#: public/editor-build/259-wp/texts.php:86
+msgid "Add a new block"
+msgstr "新しいブロックを追加"
+
+#: public/editor-build/259-wp/texts.php:1202
+msgid "Switch to desktop to add blocks"
+msgstr "デスクトップに切り替えてブロックを追加する"
+
+#: public/editor-build/259-wp/texts.php:1032
+msgid "SWITCH TO DESKTOP"
+msgstr "デスクトップに切り替える"
+
+#: public/editor-build/259-wp/texts.php:892
+msgid "Press the button above to add blocks"
+msgstr "ブロックを追加するには上のボタンを押してください"
+
+#: public/editor-build/259-wp/texts.php:1030
+msgid "START BUILDING YOUR PAGE"
+msgstr "ページの構築を始めましょう"
+
+#: public/editor-build/259-wp/texts.php:816
+msgid "Order"
+msgstr "並び順"
+
+#: public/editor-build/259-wp/texts.php:1409
+msgid "Z-index"
+msgstr "z-index"
+
+#: public/editor-build/259-wp/texts.php:243
+msgid "Cart"
+msgstr "お買い物カゴ"
+
+#: public/editor-build/259-wp/texts.php:81
+msgid "Add New Column"
+msgstr "新しい列を追加"
+
+#: public/editor-build/259-wp/texts.php:665
+msgid "Letter Sp."
+msgstr "文字間隔"
+
+#: public/editor-build/259-wp/texts.php:851
+msgid "Paste your HTML code here..."
+msgstr "ここにコードを貼り付けてください..."
+
+#: public/editor-build/259-wp/texts.php:286
+msgid "Comment Count"
+msgstr "コメント数"
+
+#: public/editor-build/259-wp/texts.php:895
+msgid "Preview"
+msgstr "プレビュー"
+
+#: admin/membership/membership.php:64 editor/post.php:596
+#: public/editor-build/259-wp/texts.php:348
+msgid "Default"
+msgstr "デフォルト"
+
+#: admin/views/settings/general.php:62 admin/views/settings/maintenance.php:76
+#: admin/views/settings/roles.php:26
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: admin/main.php:479
+msgid "Auto Draft"
+msgstr "自動下書き"
+
+#: admin/main.php:244 admin/settings.php:109 admin/settings.php:110
+#: public/editor-build/259-wp/texts.php:1079
+msgid "Settings"
+msgstr "設定"
+
+#. Author of the plugin
+msgid "Brizy.io"
+msgstr "Brizy.io"
+
+#. Description of the plugin
+msgid "A free drag & drop front-end page builder to help you create WordPress pages lightning fast. It's easy with Brizy."
+msgstr "速く超高速 WordPress ページを作成するのを助けるための無料のドラッグ＆ドロップフロントエンドページビルダー。Brizy を使えば簡単です。"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://brizy.io/"
+msgstr "https://brizy.io/"
+
+#. Plugin Name of the plugin
+msgid "Brizy"
+msgstr "Brizy"
+
+#: public/editor-build/259-wp/texts.php:529
+msgid "Go Back"
+msgstr "戻る"
